@@ -6,8 +6,9 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: repository-slug
+    -   TRAVIS_REPO_SLUG: dead-hosts/iVOID.hosts_git_intr0
     -   GIT_BRANCH: master
+    -   secure: E8qa9gAMsd0SOtBd7HueMljueLy9Zdh0rff47FaO1WHSwrGNHdDZfwnfk42wldCw80BkJYw7qSJCPMY6eOMqa2HK1oAYpNT0HxEF7Eno8woOOM3/UUvgS6N+FvDOpBHeno8zsJh947gH40kzNx6ZD7B3d26JUx8QlzGOBD7ttqfD4rBElw7tsJ9lv9GviXbq055cGyrDSxUZo5n1wA99SWagDjGvcr530n0OtTwPmgBct2dlcTgqk3+joRHYDCDbS4XFM+rKrGXC4DOtrm3mtt57au8Cbsw6eK+aejVKrSWgeKNUrKMG9lzAMwKQLgvk+Q8Db9U+EK8T/l4ZuTB4RhVZroxXk2ehSc3bfTcFlS9shCyXmnAsgmKlVHqAavBF2FI78cackS2EmoV910vLNtmlTISDi5yZAeRv0xfNsEel5wbo8FAynXl6aZQk140Zghnqp42jeOmDh9x0t9l8UOnF4BrILOksUn3YnL7+c12CzPJK+aXlxsMo1iGqgKK+V9PBdqSuB05JnOmFlTPUr+l90pfhqXYOTSfxR28LM6N9h/+/wD20dTm78bhwIi47p28sFDT4DMNbQ9x+6PU3Jq030w6h0G3YYpajs143427eGwUcZj0TuaXxZgZn1oHWGnaJYe4vYD6GYtVA8vXsPWtvtc3qdje5jN63Bv8XmtY=
     matrix:
     - PYTHON_VERSION="3.7.3"
 install:
