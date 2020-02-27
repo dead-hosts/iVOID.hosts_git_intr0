@@ -1,9 +1,9 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
-    "days_until_next_test": 0.0,
-    "name": "[repository-name]",
+    "days_until_next_test": 14,
+    "name": "dead-hosts/iVOID.hosts_git_intr0",
     "own_management": false,
     "ping": [],
-    "raw_link": ""
+    "raw_link": "https://gitlab.com/intr0/iVOID.GitLab.io/raw/master/iVOID.hosts"
 }
