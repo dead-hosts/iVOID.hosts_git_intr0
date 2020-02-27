@@ -1,9 +1,31 @@
-# About [repository-name]
+# About iVOID.hosts_git_intr0
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/iVOID.hosts_git_intr0.svg?branch=master)](https://travis-ci.org/dead-hosts/iVOID.hosts_git_intr0)
 
 ```
-[description]
+Title: iVOID.hosts
+iVOID License: CC-BY-NC-SA
+Maintainer: intr0
+Homepage: https://ivoid.intr0.com/
+Mirror: https://iosprivacy.com/ivoid/
+Source: https://gitlab.com/iVOID/hosts/raw/master/iVOID.hosts
+
+Description: iVOID.hosts focuses on:
+Phishing hosts licensed to us by Ivan Ristić -
+Founder of Hardenize.
+Previously, founder of SSL Labs and ModSecurity.
+Author of Bulletproof SSL and TLS.
+Regular participant at the security conferences
+Black Hat, RSA, & OWASP AppSec.
+
+In addition to the licensed Phishing hosts,
+iVOID also blocks malware including: Cryptojacking, Tracking,
+Advertising. & Mainstream Social Media.
+Why does iVOID classify Advertising & Mainstream Social Media as Malware?
+Due to the tremendous negative impact to society of each.
+Including: Poor Monetary Hygiene, Election Interference,
+The Loss of Self within sites such as Facebook,
+Data Mining, & the Commodification of Human Beings.
 ```
 
 --------------------------------------------------------------------------------
