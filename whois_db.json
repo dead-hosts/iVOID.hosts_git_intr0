@@ -1353,5 +1353,15 @@
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
         "state": "future"
+    },
+    "abetterinternet.com": {
+        "epoch": 1723593600.0,
+        "expiration_date": "14-aug-2024",
+        "state": "future"
+    },
+    "abletomeet.com": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
     }
 }
