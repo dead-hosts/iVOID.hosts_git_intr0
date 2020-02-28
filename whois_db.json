@@ -1363,5 +1363,25 @@
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
         "state": "future"
+    },
+    "abmr.net": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
+    },
+    "abnad.net": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "aboardlevel.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "abond.net": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     }
 }
