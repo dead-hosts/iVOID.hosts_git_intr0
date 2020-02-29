@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/iVOID.hosts_git_intr0/domains.list": {
-        "1582853619": {
-            "aagaou.wm.warmglow.org": "INACTIVE",
-            "aagumezuce.info": "INACTIVE",
-            "aagumezuce.net": "INACTIVE",
-            "aagumezuce.org": "INACTIVE",
-            "aajonosihy.com": "INACTIVE",
-            "aajonosihy.info": "INACTIVE",
-            "aajonosihy.net": "INACTIVE",
-            "aajonosihy.org": "INACTIVE",
-            "aajorapyte.com": "INACTIVE",
-            "aajorapyte.info": "INACTIVE",
-            "aajorapyte.net": "INACTIVE",
-            "aajorapyte.org": "INACTIVE",
-            "aakeliqase.info": "INACTIVE",
-            "aakeliqase.net": "INACTIVE",
-            "aakeliqase.org": "INACTIVE",
-            "aan.amazon-adsystem.com": "INACTIVE",
-            "aatasozusu.com": "INACTIVE",
-            "aatasozusu.info": "INACTIVE",
-            "aatasozusu.net": "INACTIVE",
-            "aatasozusu.org": "INACTIVE",
-            "aaukqiooaseseuke.org": "INACTIVE"
-        },
         "1582859835": {
             "a.ads99.cn": "INACTIVE"
         },
@@ -358,6 +335,29 @@
             "aaa520.izlinix.com": "INACTIVE",
             "aabe3b.se": "INACTIVE",
             "aads.treehugger.com": "INACTIVE"
+        },
+        "1582946097": {
+            "aagaou.wm.warmglow.org": "INACTIVE",
+            "aagumezuce.info": "INACTIVE",
+            "aagumezuce.net": "INACTIVE",
+            "aagumezuce.org": "INACTIVE",
+            "aajonosihy.com": "INACTIVE",
+            "aajonosihy.info": "INACTIVE",
+            "aajonosihy.net": "INACTIVE",
+            "aajonosihy.org": "INACTIVE",
+            "aajorapyte.com": "INACTIVE",
+            "aajorapyte.info": "INACTIVE",
+            "aajorapyte.net": "INACTIVE",
+            "aajorapyte.org": "INACTIVE",
+            "aakeliqase.info": "INACTIVE",
+            "aakeliqase.net": "INACTIVE",
+            "aakeliqase.org": "INACTIVE",
+            "aan.amazon-adsystem.com": "INACTIVE",
+            "aatasozusu.com": "INACTIVE",
+            "aatasozusu.info": "INACTIVE",
+            "aatasozusu.net": "INACTIVE",
+            "aatasozusu.org": "INACTIVE",
+            "aaukqiooaseseuke.org": "INACTIVE"
         }
     }
 }
