@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/iVOID.hosts_git_intr0/domains.list": {
-        "1582862981": {
-            "aax-vx-eu-dub.amazon-adsystem.com": "INACTIVE",
-            "aax-vx-fe-pdx.amazon-adsystem.com": "INACTIVE",
-            "aax-vx-us-iad.amazon-adsystem.com": "INACTIVE",
-            "aax-vx-us-pdx.amazon-adsystem.com": "INACTIVE",
-            "aax.amazon.amazon-adsystem.com": "INACTIVE",
-            "ab-gb.adskeeper.co.uk": "INACTIVE",
-            "ab-gb.mgid.com": "INACTIVE",
-            "ab-nb.adskeeper.co.uk": "INACTIVE",
-            "ab-nb.marketgid.com": "INACTIVE",
-            "ab-nb.mgid.com": "INACTIVE"
-        },
         "1582872127": {
             "ab.goodsblock.dt07.net": "INACTIVE",
             "ab.goodsblock.mgid.com": "INACTIVE",
@@ -355,6 +343,18 @@
             "aatasozusu.net": "INACTIVE",
             "aatasozusu.org": "INACTIVE",
             "aaukqiooaseseuke.org": "INACTIVE"
+        },
+        "1582953579": {
+            "aax-vx-eu-dub.amazon-adsystem.com": "INACTIVE",
+            "aax-vx-fe-pdx.amazon-adsystem.com": "INACTIVE",
+            "aax-vx-us-iad.amazon-adsystem.com": "INACTIVE",
+            "aax-vx-us-pdx.amazon-adsystem.com": "INACTIVE",
+            "aax.amazon.amazon-adsystem.com": "INACTIVE",
+            "ab-gb.adskeeper.co.uk": "INACTIVE",
+            "ab-gb.mgid.com": "INACTIVE",
+            "ab-nb.adskeeper.co.uk": "INACTIVE",
+            "ab-nb.marketgid.com": "INACTIVE",
+            "ab-nb.mgid.com": "INACTIVE"
         }
     }
 }
