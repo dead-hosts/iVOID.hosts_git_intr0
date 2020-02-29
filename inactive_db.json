@@ -1,21 +1,6 @@
 {
     "/home/travis/build/dead-hosts/iVOID.hosts_git_intr0/domains.list": {
-        "1582850369": {
-            "a9.sc.freepornvs.com": "INACTIVE",
-            "a98cjo.wm.warmglow.org": "INACTIVE",
-            "aa-gb.adskeeper.co.uk": "INACTIVE",
-            "aa-gb.marketgid.com": "INACTIVE",
-            "aa-gb.mgid.com": "INACTIVE",
-            "aa-nb.adskeeper.co.uk": "INACTIVE",
-            "aa-nb.mgid.com": "INACTIVE",
-            "aa.goodsblock.mgid.com": "INACTIVE",
-            "aa.newsblock.dt00.net": "INACTIVE",
-            "aa.xqwqbg.com": "INACTIVE",
-            "aaa520.izlinix.com": "INACTIVE"
-        },
         "1582853619": {
-            "aabe3b.se": "INACTIVE",
-            "aads.treehugger.com": "INACTIVE",
             "aagaou.wm.warmglow.org": "INACTIVE",
             "aagumezuce.info": "INACTIVE",
             "aagumezuce.net": "INACTIVE",
@@ -356,6 +341,23 @@
             "a7hcd8.best.pershoretaxis.co.uk": "INACTIVE",
             "a7hqrp.mat.eveshamairporttaxis.co.uk": "INACTIVE",
             "a8a9455e53fbc75bc995.com": "INACTIVE"
+        },
+        "1582942603": {
+            "a9.sc.freepornvs.com": "INACTIVE",
+            "a98cjo.wm.warmglow.org": "INACTIVE",
+            "aa-gb.adskeeper.co.uk": "INACTIVE",
+            "aa-gb.marketgid.com": "INACTIVE",
+            "aa-gb.mgid.com": "INACTIVE",
+            "aa-nb.adskeeper.co.uk": "INACTIVE",
+            "aa-nb.mgid.com": "INACTIVE",
+            "aa.goodsblock.mgid.com": "INACTIVE",
+            "aa.newsblock.dt00.net": "INACTIVE"
+        },
+        "1582942604": {
+            "aa.xqwqbg.com": "INACTIVE",
+            "aaa520.izlinix.com": "INACTIVE",
+            "aabe3b.se": "INACTIVE",
+            "aads.treehugger.com": "INACTIVE"
         }
     }
 }
