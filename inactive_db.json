@@ -12,28 +12,6 @@
         "1583009221": {
             "aboads.adk2x.com": "INACTIVE"
         },
-        "1583021749": {
-            "100.mbn.com.ua": "INACTIVE",
-            "120.mbn.com.ua": "INACTIVE"
-        },
-        "1583021750": {
-            "160.mbn.com.ua": "INACTIVE"
-        },
-        "1583021751": {
-            "a.i-sgcm.com": "INACTIVE",
-            "a.komoona.com": "INACTIVE",
-            "a.la": "INACTIVE",
-            "a.lolwot.com": "INACTIVE",
-            "a.oix.com": "INACTIVE",
-            "a.oix.net": "INACTIVE",
-            "a.phormlabs.com": "INACTIVE",
-            "a.rvttrack.com": "INACTIVE",
-            "a.sharethis.com": "INACTIVE",
-            "a.solarmovie.is": "INACTIVE",
-            "a.submityourflicks.com": "INACTIVE",
-            "a.tfag.de": "INACTIVE",
-            "a.thoughtleadr.com": "INACTIVE"
-        },
         "1583025936": {
             "a.tvlim.com": "INACTIVE",
             "a.unanimis.co.uk": "INACTIVE",
@@ -369,6 +347,25 @@
             "a.jango.com": "INACTIVE",
             "a.jumptap.com": "INACTIVE",
             "a.killergram-girls.com": "INACTIVE"
+        },
+        "1583112316": {
+            "100.mbn.com.ua": "INACTIVE",
+            "120.mbn.com.ua": "INACTIVE",
+            "160.mbn.com.ua": "INACTIVE"
+        },
+        "1583112317": {
+            "a.komoona.com": "INACTIVE",
+            "a.la": "INACTIVE",
+            "a.lolwot.com": "INACTIVE",
+            "a.oix.com": "INACTIVE",
+            "a.oix.net": "INACTIVE",
+            "a.phormlabs.com": "INACTIVE",
+            "a.rvttrack.com": "INACTIVE",
+            "a.sharethis.com": "INACTIVE",
+            "a.solarmovie.is": "INACTIVE",
+            "a.submityourflicks.com": "INACTIVE",
+            "a.tfag.de": "INACTIVE",
+            "a.thoughtleadr.com": "INACTIVE"
         }
     }
 }
