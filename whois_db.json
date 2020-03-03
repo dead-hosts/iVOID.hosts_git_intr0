@@ -302,7 +302,7 @@
     "1nstagram.ru": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "1nstagram.tech": {
         "epoch": 1591142400.0,
@@ -362,7 +362,7 @@
     "2001positions.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "206ads.com": {
         "epoch": 1620345600.0,
