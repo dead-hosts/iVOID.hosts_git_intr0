@@ -230,8 +230,8 @@
         "state": "future"
     },
     "18cum.com": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "191gm.com": {
@@ -542,7 +542,7 @@
     "3262111.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "32red.it": {
         "epoch": 1603756800.0,
