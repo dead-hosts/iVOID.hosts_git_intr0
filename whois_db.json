@@ -2604,6 +2604,16 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "4smi.ru": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "4spoonyexperiment.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "4wnet.com": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
