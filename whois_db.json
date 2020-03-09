@@ -2137,7 +2137,7 @@
     "3jmcwio.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "3lift.com": {
         "epoch": 1609718400.0,
@@ -2587,7 +2587,7 @@
     "4o64flb.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "4oney.com": {
         "epoch": 1593475200.0,
