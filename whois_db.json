@@ -1552,7 +1552,7 @@
     "2manygirlzhere.org": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "2mdn.info": {
         "epoch": 1597968000.0,
@@ -1642,7 +1642,7 @@
     "2xbpub.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "2xclick.ru": {
         "epoch": 1600905600.0,
