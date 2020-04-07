@@ -2094,6 +2094,11 @@
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
+    "360corona.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
     "360i.com": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
