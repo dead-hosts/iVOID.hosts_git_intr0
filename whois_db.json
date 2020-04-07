@@ -770,9 +770,9 @@
         "state": "future"
     },
     "18clicks.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
-        "state": "past"
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
     },
     "18cum.com": {
         "epoch": 1614902400.0,
@@ -2147,6 +2147,21 @@
     "3647.tech": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "365online-deactivation.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "365online-reviewal.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "365online-transaction.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "365sbaffiliates.com": {
