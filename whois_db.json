@@ -2429,6 +2429,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "3mincovid.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
     "3mtr.ru": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
