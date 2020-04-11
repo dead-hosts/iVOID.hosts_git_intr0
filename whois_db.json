@@ -37,7 +37,7 @@
     "01388.net": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "015391bdhx62.xyz": {
         "epoch": 1611446400.0,
@@ -1712,7 +1712,7 @@
     "2el-2el-fie.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "2f5a1f1fab21a56.com": {
         "epoch": 1593043200.0,
