@@ -784,6 +784,11 @@
         "expiration_date": "05-jan-2021",
         "state": "future"
     },
+    "18nation.com": {
+        "epoch": 1594166400.0,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
     "191gm.com": {
         "epoch": 1640131200.0,
         "expiration_date": "22-dec-2021",
@@ -1097,6 +1102,11 @@
     "1sexxx.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "1soft.com": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "1sputnik.ru": {
