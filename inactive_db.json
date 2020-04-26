@@ -1326,8 +1326,43 @@
         "4dsbanner.com": {
             "included_at_epoch": 1586204900.0,
             "included_at_iso": "2020-04-06T20:28:20",
-            "last_retested_at_epoch": 1586204900.0,
-            "last_retested_at_iso": "2020-04-06T20:28:20",
+            "last_retested_at_epoch": 1587921025.798889,
+            "last_retested_at_iso": "2020-04-26T17:10:25.798889",
+            "status": "INACTIVE"
+        },
+        "4ervtcv.com": {
+            "included_at_epoch": 1587921025.855988,
+            "included_at_iso": "2020-04-26T17:10:25.855988",
+            "last_retested_at_epoch": 1587921025.855988,
+            "last_retested_at_iso": "2020-04-26T17:10:25.855988",
+            "status": "INACTIVE"
+        },
+        "4f3c238ed437e1e.com": {
+            "included_at_epoch": 1587921025.867407,
+            "included_at_iso": "2020-04-26T17:10:25.867407",
+            "last_retested_at_epoch": 1587921025.867407,
+            "last_retested_at_iso": "2020-04-26T17:10:25.867407",
+            "status": "INACTIVE"
+        },
+        "4f885953a5e.com": {
+            "included_at_epoch": 1587921025.878773,
+            "included_at_iso": "2020-04-26T17:10:25.878773",
+            "last_retested_at_epoch": 1587921025.878773,
+            "last_retested_at_iso": "2020-04-26T17:10:25.878773",
+            "status": "INACTIVE"
+        },
+        "4qinvite.4q.iperceptions.com": {
+            "included_at_epoch": 1587921025.962806,
+            "included_at_iso": "2020-04-26T17:10:25.962806",
+            "last_retested_at_epoch": 1587921025.962806,
+            "last_retested_at_iso": "2020-04-26T17:10:25.962806",
+            "status": "INACTIVE"
+        },
+        "4sbs7w33ozxwnn.com": {
+            "included_at_epoch": 1587921025.967289,
+            "included_at_iso": "2020-04-26T17:10:25.967289",
+            "last_retested_at_epoch": 1587921025.967289,
+            "last_retested_at_iso": "2020-04-26T17:10:25.967289",
             "status": "INACTIVE"
         }
     }
