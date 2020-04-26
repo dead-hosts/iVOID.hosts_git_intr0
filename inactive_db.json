@@ -1462,6 +1462,13 @@
             "last_retested_at_epoch": 1587929490.555735,
             "last_retested_at_iso": "2020-04-26T19:31:30.555735",
             "status": "INACTIVE"
+        },
+        "66.206.18.186": {
+            "included_at_epoch": 1587935938.030022,
+            "included_at_iso": "2020-04-26T21:18:58.030022",
+            "last_retested_at_epoch": 1587935938.030022,
+            "last_retested_at_iso": "2020-04-26T21:18:58.030022",
+            "status": "INACTIVE"
         }
     }
 }
