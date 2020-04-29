@@ -1225,13 +1225,6 @@
             "last_retested_at_iso": "2020-04-28T19:35:48.194906",
             "status": "INACTIVE"
         },
-        "4.googlenews.xorg.pl": {
-            "included_at_epoch": 1588051689.832431,
-            "included_at_iso": "2020-04-28T05:28:09.832431",
-            "last_retested_at_epoch": 1588051689.832431,
-            "last_retested_at_iso": "2020-04-28T05:28:09.832431",
-            "status": "INACTIVE"
-        },
         "400cao.com": {
             "included_at_epoch": 1586156479.0,
             "included_at_iso": "2020-04-06T07:01:19",
