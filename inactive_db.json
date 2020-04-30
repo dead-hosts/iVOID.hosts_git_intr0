@@ -105,6 +105,13 @@
             "last_retested_at_iso": "2020-04-30T12:37:24.611781",
             "status": "INACTIVE"
         },
+        "104.160.44.85": {
+            "included_at_epoch": 1588257251.779922,
+            "included_at_iso": "2020-04-30T14:34:11.779922",
+            "last_retested_at_epoch": 1588257251.779922,
+            "last_retested_at_iso": "2020-04-30T14:34:11.779922",
+            "status": "INACTIVE"
+        },
         "104.18.42.96": {
             "included_at_epoch": 1587916934.953978,
             "included_at_iso": "2020-04-26T16:02:14.953978",
@@ -1354,15 +1361,15 @@
         "4qinvite.4q.iperceptions.com": {
             "included_at_epoch": 1587921025.962806,
             "included_at_iso": "2020-04-26T17:10:25.962806",
-            "last_retested_at_epoch": 1588102549.295265,
-            "last_retested_at_iso": "2020-04-28T19:35:49.295265",
+            "last_retested_at_epoch": 1588257257.055216,
+            "last_retested_at_iso": "2020-04-30T14:34:17.055216",
             "status": "INACTIVE"
         },
         "4sbs7w33ozxwnn.com": {
             "included_at_epoch": 1587921025.967289,
             "included_at_iso": "2020-04-26T17:10:25.967289",
-            "last_retested_at_epoch": 1588102549.300217,
-            "last_retested_at_iso": "2020-04-28T19:35:49.300217",
+            "last_retested_at_epoch": 1588257257.059771,
+            "last_retested_at_iso": "2020-04-30T14:34:17.059771",
             "status": "INACTIVE"
         },
         "5.182.210.191": {
