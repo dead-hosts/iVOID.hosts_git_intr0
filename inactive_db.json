@@ -10247,6 +10247,27 @@
             "last_retested_at_epoch": 1588401304.416126,
             "last_retested_at_iso": "2020-05-02T06:35:04.416126",
             "status": "INACTIVE"
+        },
+        "covid-lacaf.com": {
+            "included_at_epoch": 1588402139.523702,
+            "included_at_iso": "2020-05-02T06:48:59.523702",
+            "last_retested_at_epoch": 1588402139.523702,
+            "last_retested_at_iso": "2020-05-02T06:48:59.523702",
+            "status": "INACTIVE"
+        },
+        "covid-recov.com": {
+            "included_at_epoch": 1588402142.205982,
+            "included_at_iso": "2020-05-02T06:49:02.205982",
+            "last_retested_at_epoch": 1588402142.205982,
+            "last_retested_at_iso": "2020-05-02T06:49:02.205982",
+            "status": "INACTIVE"
+        },
+        "covid19-guidelines.online": {
+            "included_at_epoch": 1588402156.271629,
+            "included_at_iso": "2020-05-02T06:49:16.271629",
+            "last_retested_at_epoch": 1588402156.271629,
+            "last_retested_at_iso": "2020-05-02T06:49:16.271629",
+            "status": "INACTIVE"
         }
     }
 }
