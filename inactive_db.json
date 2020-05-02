@@ -10086,6 +10086,34 @@
             "last_retested_at_epoch": 1588394524.835192,
             "last_retested_at_iso": "2020-05-02T04:42:04.835192",
             "status": "INACTIVE"
+        },
+        "coronavirusapp.site": {
+            "included_at_epoch": 1588395893.164121,
+            "included_at_iso": "2020-05-02T05:04:53.164121",
+            "last_retested_at_epoch": 1588395893.164121,
+            "last_retested_at_iso": "2020-05-02T05:04:53.164121",
+            "status": "INACTIVE"
+        },
+        "coronavirusaware.xyz": {
+            "included_at_epoch": 1588395898.472831,
+            "included_at_iso": "2020-05-02T05:04:58.472831",
+            "last_retested_at_epoch": 1588395898.472831,
+            "last_retested_at_iso": "2020-05-02T05:04:58.472831",
+            "status": "INACTIVE"
+        },
+        "coronaviruscombat.com": {
+            "included_at_epoch": 1588395934.383768,
+            "included_at_iso": "2020-05-02T05:05:34.383768",
+            "last_retested_at_epoch": 1588395934.383768,
+            "last_retested_at_iso": "2020-05-02T05:05:34.383768",
+            "status": "INACTIVE"
+        },
+        "coronaviruscovid19-informationp.com": {
+            "included_at_epoch": 1588395940.26291,
+            "included_at_iso": "2020-05-02T05:05:40.262910",
+            "last_retested_at_epoch": 1588395940.26291,
+            "last_retested_at_iso": "2020-05-02T05:05:40.262910",
+            "status": "INACTIVE"
         }
     }
 }
