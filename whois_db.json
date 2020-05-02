@@ -78393,5 +78393,2895 @@
         "epoch": 1616716800.0,
         "expiration_date": "26-mar-2021",
         "state": "future"
+    },
+    "covidd-19.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidd.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidd.net": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidd19.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "coviddaily.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "coviddailyupdate.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "coviddanstaville.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddanstaville.net": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddash.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "coviddata.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "coviddate.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "coviddating.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "coviddeathcalculator.com": {
+        "epoch": 1647043200.0,
+        "expiration_date": "12-mar-2022",
+        "state": "future"
+    },
+    "coviddeathlist.com": {
+        "epoch": 1648252800.0,
+        "expiration_date": "26-mar-2022",
+        "state": "future"
+    },
+    "coviddeathmadness.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "coviddeduction.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "coviddefence.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "coviddefender.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "coviddestroyer.com": {
+        "epoch": 1646697600.0,
+        "expiration_date": "08-mar-2022",
+        "state": "future"
+    },
+    "coviddetect.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "coviddetection.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "coviddiaries.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "coviddiary.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "coviddiarybcn.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddigital.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "coviddirect.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "coviddiscussion.com": {
+        "epoch": 1647216000.0,
+        "expiration_date": "14-mar-2022",
+        "state": "future"
+    },
+    "coviddistribution.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddistributor.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddistributors.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddled.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "coviddoesnotcausedeath.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "coviddosage.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddose.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddrivethru.com": {
+        "epoch": 1741737600.0,
+        "expiration_date": "12-mar-2025",
+        "state": "future"
+    },
+    "coviddrugcocktail.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddrugsupply.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "coviddx.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covide19vaccination.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covideats.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidee.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidefense.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidelection.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidelection2020.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidemergencyfunds.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidemergencykit.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidemergencyloan.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidemic.net": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidemonium.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidencuesta.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidenkarterri.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covideo-19.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covideo.ru": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "covideo19.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "covideo20.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covideocourse.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covideodiary.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covideos19.com": {
+        "epoch": 1647216000.0,
+        "expiration_date": "14-mar-2022",
+        "state": "future"
+    },
+    "covidepidemic.com": {
+        "epoch": 1647129600.0,
+        "expiration_date": "13-mar-2022",
+        "state": "future"
+    },
+    "covidequip.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidequipped.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidequipt.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidessentialaf.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidetection.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidetector.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidethics.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covideu.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "covideumap.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "covidevents.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "covidevidence.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidexplore.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidfacemask.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidfaceshield.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "covidfact.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidfaction.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidfacts.biz": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidfacts.net": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidfakenews.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidfamilyplan.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidfear.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covidfefe.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidfest2020.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfestival.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidfighters.com": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "covidfiles.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidfilm.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidfinancialaccounting.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfinancialaid.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfinancialaudit.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfinancialhelp.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfinancialreporting.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfinancialreports.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfinancialsupport.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfit.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidfitness.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidfix.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidfl.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidflix20.xyz": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidforums.com": {
+        "epoch": 1647216000.0,
+        "expiration_date": "14-mar-2022",
+        "state": "future"
+    },
+    "covidfoundation.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidfoundation.net": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidfree.club": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidfree.net": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidfree19.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidfree2019.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidfreebeds.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfreeconstruction.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidfreedom.com": {
+        "epoch": 1647129600.0,
+        "expiration_date": "13-mar-2022",
+        "state": "future"
+    },
+    "covidfreeit.com": {
+        "epoch": 1646870400.0,
+        "expiration_date": "10-mar-2022",
+        "state": "future"
+    },
+    "covidfreeit.net": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidfreeorthodontics.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidfreezone.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidfriendlyconcerts.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidfrontlinehero.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfrontlineheroes.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidfumers.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "covidfumigation.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "covidfund.com": {
+        "epoch": 1646611200.0,
+        "expiration_date": "07-mar-2022",
+        "state": "future"
+    },
+    "covidfunding.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidfunds.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidgame.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidgames.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidgard.com": {
+        "epoch": 1646784000.0,
+        "expiration_date": "09-mar-2022",
+        "state": "future"
+    },
+    "covidgarde.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidgel.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidgeneration.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidgermany.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidgigs.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidgive.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidgiving.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidglobalhackathon.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidglobe.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidgo.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidgoaway.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidgone.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidgotme.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidgrants.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidgraphs.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidgroup.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidgroups.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidgrowth.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidguardian.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "covidguards.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidguide.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidguideapp.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidguilt.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidhack.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidhacks.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidhall.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidhandle.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhandsanitizer.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidhawaii.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidhcw.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidhead.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidhealthcareresourcecenter.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhealthemergency.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhealthkit.com": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "covidhealthservice.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhealthservices.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhealthshield.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidhealthsupply.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhelmet.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidheloan.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidheloc.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhelp.net": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidhelp.network": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidhelpdesk.com": {
+        "epoch": 1647129600.0,
+        "expiration_date": "13-mar-2022",
+        "state": "future"
+    },
+    "covidhelpr.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidherbs.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidhero.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidhf.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhiring.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidhoax.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidhome.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidhomedecon.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "covidhomekit.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidhomeowner.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhomeremedies.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidhomes.com": {
+        "epoch": 1742947200.0,
+        "expiration_date": "26-mar-2025",
+        "state": "future"
+    },
+    "covidhometest.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidhometestkit.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidhookups.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidhope.com": {
+        "epoch": 1646956800.0,
+        "expiration_date": "11-mar-2022",
+        "state": "future"
+    },
+    "covidhopes.com": {
+        "epoch": 1646956800.0,
+        "expiration_date": "11-mar-2022",
+        "state": "future"
+    },
+    "covidhospitallawsuit.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidhost.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidhotel.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidhotline.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidhou.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhousinggroup.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhousingservice.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhousingservices.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhoy.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidhub.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidhugs.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidhumanmilk.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidhumanmilk.net": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidibd.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidid.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidig.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidillinois.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidim.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidimmunitycheck.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidimmunitytest.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidimpact.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidimpact2020.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidinc.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidincome.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidindiainsights.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidindustrial.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidineu.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "covidinfection.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "coviding.com": {
+        "epoch": 1741651200.0,
+        "expiration_date": "11-mar-2025",
+        "state": "future"
+    },
+    "covidinjury.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidinjurylaw.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidinsider.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidinsurance.claims": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidinsurance.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covidintel.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidintern.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidintime.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidinvestor.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidinvestors.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidinworld.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "covidir.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidirecto.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidireland.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidisadrag.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidisolation.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidisolationkit.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidit.com": {
+        "epoch": 1646784000.0,
+        "expiration_date": "09-mar-2022",
+        "state": "future"
+    },
+    "covidity.com": {
+        "epoch": 1646870400.0,
+        "expiration_date": "10-mar-2022",
+        "state": "future"
+    },
+    "covidium.net": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "state": "future"
+    },
+    "covidix.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidjail.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidjanitorial.com": {
+        "epoch": 1647043200.0,
+        "expiration_date": "12-mar-2022",
+        "state": "future"
+    },
+    "covidjobfair.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidjobfinder.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidjobs.com": {
+        "epoch": 1646092800.0,
+        "expiration_date": "01-mar-2022",
+        "state": "future"
+    },
+    "covidjournal.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidjournals.com": {
+        "epoch": 1647216000.0,
+        "expiration_date": "14-mar-2022",
+        "state": "future"
+    },
+    "covidkid.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidkid2020.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidkid24.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidkids.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidkidsclub.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidkillawine.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidkilledthelivemusicstar.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidkillers.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidkillerwine.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidkills.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidkindness.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidkindness.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidking.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidkisses.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidkit19.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidkitmx.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidlabchip.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidlabco.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidlabels.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidlabels.net": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidlabonachip.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidlaboratories.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidlaboratory.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidlabsprevention.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidlabstrip.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidlatest.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidlawdaily.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidlawfirm.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidlaws.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidlawsuit.com": {
+        "epoch": 1646956800.0,
+        "expiration_date": "11-mar-2022",
+        "state": "future"
+    },
+    "covidlawsuits.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidlawyer.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidlawyer.net": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidlawyers.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidlearn.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidleaserelief.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidlegalclaim.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidlegalclaims.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidlegalconsulting.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidlens.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidletter.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidletters.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidlifeinsurance.com": {
+        "epoch": 1647129600.0,
+        "expiration_date": "13-mar-2022",
+        "state": "future"
+    },
+    "covidlinks.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidlitigation.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidllc.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidload.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidloan.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidloans.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidloans.net": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidlocator.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "covidlockdown.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidlosangeles.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidlove.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "covidltc.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidmadness.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmailer.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "covidmaker.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmalpractice.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidman.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidmap.biz": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidmap.net": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidmap.today": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmapper.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidmaps.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covidmarketing.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidmascarillas.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidmask-store.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmask.care": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmask.net": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidmaskon.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covidmasks.net": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidmaskshop.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidmasksupply.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmasksusa.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmass.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidmatch.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covidmatters.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmd.com": {
+        "epoch": 1678147200.0,
+        "expiration_date": "07-mar-2023",
+        "state": "future"
+    },
+    "covidmdnutraceuticals.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmdviruskit.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidme.com": {
+        "epoch": 1646524800.0,
+        "expiration_date": "06-mar-2022",
+        "state": "future"
+    },
+    "covidmedi.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidmedia.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidmedicalexpert.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidmedicalexperts.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidmedicalpracticehelp.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmedicalstore.solutions": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidmedicalsupplier.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmedicines.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidmedsupplies.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidmeltdown.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmemes.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidmemorial.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmemorial.net": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmerch.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmeter.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidmillion.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmoney.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidmortgage.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covidmortgageloan.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidmortgageloans.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidmothersmilk.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidmothersmilk.net": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidmovie.com": {
+        "epoch": 1646092800.0,
+        "expiration_date": "01-mar-2022",
+        "state": "future"
+    },
+    "covidmsp.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidmune.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmutualaidgroup.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidmx.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidmyass.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
+    "covidmyheart.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidn95.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "covidnannies.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidnanny.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidnanny.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidnation.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidnc.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidnearme.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "covidnearyou.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidneb.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidneed.com": {
+        "epoch": 1647129600.0,
+        "expiration_date": "13-mar-2022",
+        "state": "future"
+    },
+    "covidneg.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidnerd.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidnewdeal.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidnewjersey.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidnewsnetwork.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidnewsnow.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "covidnewsroom.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidnewyorkcity.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidnials.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidnine.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidnineteenvirus.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidninetees.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidnolaready.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidnomics.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidnotify.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidnow.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidnumbers.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidnurse.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidnurse.net": {
+        "epoch": 1679702400.0,
+        "expiration_date": "25-mar-2023",
+        "state": "future"
+    },
+    "covidnursecorp.com": {
+        "epoch": 1679702400.0,
+        "expiration_date": "25-mar-2023",
+        "state": "future"
+    },
+    "covidnurses.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidnutraceuticals.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidnuveen.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidnuveen.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidnystate.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidofflabel.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidofflabeldrug.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidofflabeldrugs.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidofflabelmedication.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidofflabelmedicine.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidofflabelprescription.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidofflabelprescriptions.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidofflabeltreatment.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidofflabeluse.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidolar.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidologist.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidology.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidome.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidonline.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidonline.net": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidonlinerelief.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidonlinetest.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidonly.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidopedia.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidoperation.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidops.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidoptimizer.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidorgohome.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidout.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidoutbreak2020.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidoutlet.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidovic.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidovich.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidozone.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpack.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "covidpacka.site": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
+    "covidpackage.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidpacks.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidpalliative.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpandemic.world": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidpandemic2019.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidpandemic2020.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidpandemicmasks.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidpandemics.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "covidpanic.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidparties.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidpatch.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidpatient.com": {
+        "epoch": 1647043200.0,
+        "expiration_date": "12-mar-2022",
+        "state": "future"
+    },
+    "covidpay.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidpaymentplan.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpcsupport.com": {
+        "epoch": 1647129600.0,
+        "expiration_date": "13-mar-2022",
+        "state": "future"
+    },
+    "covidpcsupport.net": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidpdx.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpenn.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidpeople.com": {
+        "epoch": 1647043200.0,
+        "expiration_date": "12-mar-2022",
+        "state": "future"
+    },
+    "covidpep.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
+    "covidpersonalloan.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpharmacysupplies.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpharmacywholesale.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidphonesystem.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidplan.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "covidplanb.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidplanning.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidplaybook.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidplunge.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidplunge2020.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidpoetry.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidpoint.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidpolicy.com": {
+        "epoch": 1646870400.0,
+        "expiration_date": "10-mar-2022",
+        "state": "future"
+    },
+    "covidpolicy.net": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidpolicyadvisor.com": {
+        "epoch": 1646870400.0,
+        "expiration_date": "10-mar-2022",
+        "state": "future"
+    },
+    "covidpolicyadvisor.net": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidporn.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidporn.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidportal.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidportland.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidpos.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidpositive.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidposter.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpot.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpot.net": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidppelawsuit.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidppelawyer.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidpr.com": {
+        "epoch": 1646870400.0,
+        "expiration_date": "10-mar-2022",
+        "state": "future"
+    },
+    "covidpreneur.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpreparation.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "covidprepare.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidprescriber.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidprescriptions.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpress.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covidprev.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidpreventandcure.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidpreventionkit.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidprizes.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidpro.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidprocessing.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidprocurement.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidproduct.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidproductions.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "covidproducts.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidprof.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidproof.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidproofbiz.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidproofing.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidprotect.biz": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidprotect.life": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidprotect.net": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidprotectionproducts.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "covidprotector.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidprotectshop.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidpurse.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidqr.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidquarantine.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "covidquest.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidquestion.com": {
+        "epoch": 1646956800.0,
+        "expiration_date": "11-mar-2022",
+        "state": "future"
+    },
+    "covidquestions.com": {
+        "epoch": 1646956800.0,
+        "expiration_date": "11-mar-2022",
+        "state": "future"
+    },
+    "covidradar.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidrapidcheck.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "covidrating.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidratings.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidre.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidrealfacts.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidrebate.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidreboundhiring.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidreboundjobs.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidreboundstaff.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidreboundstaffing.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidrecord.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.coach": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.computer": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.digital": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.expert": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.guru": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.net": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.network": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.partners": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.services": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.solutions": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.support": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.systems": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.team": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.technology": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.today": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecovery.training": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidrecoveryadvisors.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidrecoveryasap.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidrecoveryconsultants.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidrecoveryhelp.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidrecoveryloans.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidredsupplygear.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidreference.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidrefund.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidrefunds.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidregistry.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidregistry.net": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "covidreliefbill.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidreliefconsulting.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidreliefhousing.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidreliefmoney.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidremote.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidremotework.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidrenaissance.com": {
+        "epoch": 1742860800.0,
+        "expiration_date": "25-mar-2025",
+        "state": "future"
+    },
+    "covidrenaissance.net": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
+    "covidrenter.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidreporter.com": {
+        "epoch": 1646784000.0,
+        "expiration_date": "09-mar-2022",
+        "state": "future"
+    },
+    "covidreports.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidreserve.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "covidresistance.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidresistancemovement.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "covidresources.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidrespirator.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "covidresponder.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidresponder.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidresponse.center": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidresponse.expert": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidresponse.services": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidresponse.solutions": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidresponse.support": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidresponselaw.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidresponseplan.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidresponseplan.training": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidresponsestations.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidresult.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidretentioncredit.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidretentiontaxcredit.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "covidrid.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "covidrisk.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "covidriskcompliance.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidriskinsurance.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "covidrobotic.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidrumors.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "covidsafe.life": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "covidsafe.net": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "covidsafecpr.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "covidsafeguard.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "covidsafeid.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
     }
 }

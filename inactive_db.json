@@ -10296,6 +10296,34 @@
             "last_retested_at_epoch": 1588404595.679823,
             "last_retested_at_iso": "2020-05-02T07:29:55.679823",
             "status": "INACTIVE"
+        },
+        "covidflix19.xyz": {
+            "included_at_epoch": 1588406428.359596,
+            "included_at_iso": "2020-05-02T08:00:28.359596",
+            "last_retested_at_epoch": 1588406428.359596,
+            "last_retested_at_iso": "2020-05-02T08:00:28.359596",
+            "status": "INACTIVE"
+        },
+        "covidi9.ga": {
+            "included_at_epoch": 1588406442.38849,
+            "included_at_iso": "2020-05-02T08:00:42.388490",
+            "last_retested_at_epoch": 1588406442.38849,
+            "last_retested_at_iso": "2020-05-02T08:00:42.388490",
+            "status": "INACTIVE"
+        },
+        "covidi9.gq": {
+            "included_at_epoch": 1588406442.420017,
+            "included_at_iso": "2020-05-02T08:00:42.420017",
+            "last_retested_at_epoch": 1588406442.420017,
+            "last_retested_at_iso": "2020-05-02T08:00:42.420017",
+            "status": "INACTIVE"
+        },
+        "covidrecov.com": {
+            "included_at_epoch": 1588406486.189093,
+            "included_at_iso": "2020-05-02T08:01:26.189093",
+            "last_retested_at_epoch": 1588406486.189093,
+            "last_retested_at_iso": "2020-05-02T08:01:26.189093",
+            "status": "INACTIVE"
         }
     }
 }
