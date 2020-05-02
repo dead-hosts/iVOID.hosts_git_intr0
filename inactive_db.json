@@ -10065,6 +10065,27 @@
             "last_retested_at_epoch": 1588392927.702411,
             "last_retested_at_iso": "2020-05-02T04:15:27.702411",
             "status": "INACTIVE"
+        },
+        "coronavirsunewsnow.com": {
+            "included_at_epoch": 1588394492.003345,
+            "included_at_iso": "2020-05-02T04:41:32.003345",
+            "last_retested_at_epoch": 1588394492.003345,
+            "last_retested_at_iso": "2020-05-02T04:41:32.003345",
+            "status": "INACTIVE"
+        },
+        "coronavirus-prayer.com": {
+            "included_at_epoch": 1588394510.800529,
+            "included_at_iso": "2020-05-02T04:41:50.800529",
+            "last_retested_at_epoch": 1588394510.800529,
+            "last_retested_at_iso": "2020-05-02T04:41:50.800529",
+            "status": "INACTIVE"
+        },
+        "coronavirus.netfunnel.co.kr": {
+            "included_at_epoch": 1588394524.835192,
+            "included_at_iso": "2020-05-02T04:42:04.835192",
+            "last_retested_at_epoch": 1588394524.835192,
+            "last_retested_at_iso": "2020-05-02T04:42:04.835192",
+            "status": "INACTIVE"
         }
     }
 }
