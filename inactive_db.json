@@ -10114,6 +10114,13 @@
             "last_retested_at_epoch": 1588395940.26291,
             "last_retested_at_iso": "2020-05-02T05:05:40.262910",
             "status": "INACTIVE"
+        },
+        "coronaviruse-map.com": {
+            "included_at_epoch": 1588397502.468093,
+            "included_at_iso": "2020-05-02T05:31:42.468093",
+            "last_retested_at_epoch": 1588397502.468093,
+            "last_retested_at_iso": "2020-05-02T05:31:42.468093",
+            "status": "INACTIVE"
         }
     }
 }
