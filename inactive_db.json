@@ -10121,6 +10121,41 @@
             "last_retested_at_epoch": 1588397502.468093,
             "last_retested_at_iso": "2020-05-02T05:31:42.468093",
             "status": "INACTIVE"
+        },
+        "coronavirusnewanow.com": {
+            "included_at_epoch": 1588399643.546915,
+            "included_at_iso": "2020-05-02T06:07:23.546915",
+            "last_retested_at_epoch": 1588399643.546915,
+            "last_retested_at_iso": "2020-05-02T06:07:23.546915",
+            "status": "INACTIVE"
+        },
+        "coronavirusnewsbow.com": {
+            "included_at_epoch": 1588399645.160794,
+            "included_at_iso": "2020-05-02T06:07:25.160794",
+            "last_retested_at_epoch": 1588399645.160794,
+            "last_retested_at_iso": "2020-05-02T06:07:25.160794",
+            "status": "INACTIVE"
+        },
+        "coronavirusnewsow.com": {
+            "included_at_epoch": 1588399646.661541,
+            "included_at_iso": "2020-05-02T06:07:26.661541",
+            "last_retested_at_epoch": 1588399646.661541,
+            "last_retested_at_iso": "2020-05-02T06:07:26.661541",
+            "status": "INACTIVE"
+        },
+        "coronavirusnewwnow.com": {
+            "included_at_epoch": 1588399647.54076,
+            "included_at_iso": "2020-05-02T06:07:27.540760",
+            "last_retested_at_epoch": 1588399647.54076,
+            "last_retested_at_iso": "2020-05-02T06:07:27.540760",
+            "status": "INACTIVE"
+        },
+        "coronavirusstatus.space": {
+            "included_at_epoch": 1588399715.013986,
+            "included_at_iso": "2020-05-02T06:08:35.013986",
+            "last_retested_at_epoch": 1588399715.013986,
+            "last_retested_at_iso": "2020-05-02T06:08:35.013986",
+            "status": "INACTIVE"
         }
     }
 }
