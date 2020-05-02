@@ -99333,5 +99333,645 @@
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
         "state": "future"
+    },
+    "ftqgkcmbkptohh.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "past"
+    },
+    "ftqnttckompj.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "ftssqcsl.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "ftsygfycaybskz.com": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "ftuzhlqzmmp.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
+    "ftv-publicite.fr": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "ftvpqgmbovwzot.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "ftvwoljibdwd.com": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
+    "ftxekufylzqis.com": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
+    "ftxmicgc.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "ftz.io": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "fucheun.com": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "fuckbook.cm": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "fuckbookdating.com": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "fuckbookvietnam.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "fuckcorona.life": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "fuckcorona.today": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "fuckcovid-19.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "fuckcovid19merchandise.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "fuckedbyme.com": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "fuckermedia.com": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "fuckingcorona.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "fuckingwuhancoronavirus.com": {
+        "epoch": 1647302400.0,
+        "expiration_date": "15-mar-2022",
+        "state": "future"
+    },
+    "fuckoffcovid-19.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "fuckoffcovid19.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "fuckthat.xyz": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "fuckthatcorona.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "fuckthecorona.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "fuckthecoronavirus.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "fuckucorona.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "fuckupcoronavirus.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "fuckupcovid19.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "fuckyoucash.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
+    "fuckyoucovid.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "fuckyoucovid19.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "fucorona.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "fucoronavirusshirt.com": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "state": "future"
+    },
+    "fucovid.com": {
+        "epoch": 1647043200.0,
+        "expiration_date": "12-mar-2022",
+        "state": "future"
+    },
+    "fucovid.world": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "fucovid19.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "fuel451.com": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "fuelbuck.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "fueldeck.com": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "fuelx.com": {
+        "epoch": 1729296000.0,
+        "expiration_date": "19-oct-2024",
+        "state": "future"
+    },
+    "fufoatch.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "fugetech.com": {
+        "epoch": 1600560000.0,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
+    "fugqzoijct.com": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "fuhqcovid19.com": {
+        "epoch": 1648252800.0,
+        "expiration_date": "26-mar-2022",
+        "state": "future"
+    },
+    "fuialqqq.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "fukbyehdjdf.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "fukcorona.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "fukcovid.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "fukcovid19.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "fukkzdxfyrchhc.com": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
+    "fukucovid.com": {
+        "epoch": 1647043200.0,
+        "expiration_date": "12-mar-2022",
+        "state": "future"
+    },
+    "fullcoronaprotection.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "fullspeeddownload.com": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "fulltraffic.net": {
+        "epoch": 1741478400.0,
+        "expiration_date": "09-mar-2025",
+        "state": "future"
+    },
+    "fun-hits.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "funcionapage.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "functionalclam.com": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "fundacionayudacoronavirus.xyz": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "fundascoronavirus.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "funkcorona.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "funkcorona.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "funklicks.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "funletters.net": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "funmatrix.net": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "funneld.com": {
+        "epoch": 1651622400.0,
+        "expiration_date": "04-may-2022",
+        "state": "future"
+    },
+    "funpageexchange.com": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "funstage.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "funtikapa.info": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "fuojuw.com": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "state": "future"
+    },
+    "fupgvldb.com": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "furmnas.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
+    "furocmay.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
+    "furtherescottom.info": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "fuse-data.com": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "fusestats.com": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "fusionads.net": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "fusionquest.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "fusttds.xyz": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
+    "fuszkweba.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "futeboltv.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "futsoksu.com": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "future-fie-assets.co.uk": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
+    "future-hawk-content.co.uk": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "future-price.co.uk": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "futurecorona.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "futureresiduals.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
+    "futureus.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
+    "futuristicfairies.com": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "futuristicfifth.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "fuvkcoronavirus.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "fuxhdhdjlyrwhq.com": {
+        "epoch": 1594166400.0,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
+    "fuxoasim.link": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "fuymatqqiyz.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
+    "fuyuap.xyz": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
+    "fuziontech.net": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
+    "fuzzyflavor.com": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "fvbaffiliate.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "fvbeyduylvgy.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
+    "fvck-corona.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "fvckcoronavirus.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "fvckcovid19.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "fvdwltww.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "fveegvyfe.com": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "fvenxjtzuaxu.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "fvflgigyryacgp.com": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "fvhyqudibhqgpn.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "fvkdatbzswo.bid": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "fvpluqipfjcsf.com": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "fvsniyfeyjvg.com": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "fvugxwoy.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "fvwfkfzhha.com": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "fvwlzsm3tt921krvoq6.pro": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "fvwvhvsvqgyhs.com": {
+        "epoch": 1597104000.0,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "fvzompquocgdsu.com": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "past"
+    },
+    "fvzrxepvqibn.com": {
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "fvzusqdf.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "fwbntw.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
+    "fwmrm.net": {
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "state": "future"
+    },
+    "fwuxrjzrkcjkop.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "fwvdptvy.com": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "fwwdmnkjg.com": {
+        "epoch": 1582761600.0,
+        "expiration_date": "27-feb-2020",
+        "state": "past"
+    },
+    "fwwvuefyr.com": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "fwwzqxveuk.com": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "fwyofqdypydo.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
+        "state": "future"
     }
 }
