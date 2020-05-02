@@ -9974,6 +9974,41 @@
             "last_retested_at_epoch": 1588390552.204588,
             "last_retested_at_iso": "2020-05-02T03:35:52.204588",
             "status": "INACTIVE"
+        },
+        "coronaorsemiproof.bid": {
+            "included_at_epoch": 1588391841.009741,
+            "included_at_iso": "2020-05-02T03:57:21.009741",
+            "last_retested_at_epoch": 1588391841.009741,
+            "last_retested_at_iso": "2020-05-02T03:57:21.009741",
+            "status": "INACTIVE"
+        },
+        "coronaproducecompare11.info": {
+            "included_at_epoch": 1588391850.381832,
+            "included_at_iso": "2020-05-02T03:57:30.381832",
+            "last_retested_at_epoch": 1588391850.381832,
+            "last_retested_at_iso": "2020-05-02T03:57:30.381832",
+            "status": "INACTIVE"
+        },
+        "coronarycareunit.biz": {
+            "included_at_epoch": 1588391860.590864,
+            "included_at_iso": "2020-05-02T03:57:40.590864",
+            "last_retested_at_epoch": 1588391860.590864,
+            "last_retested_at_iso": "2020-05-02T03:57:40.590864",
+            "status": "INACTIVE"
+        },
+        "coronarycareunit.us": {
+            "included_at_epoch": 1588391860.618521,
+            "included_at_iso": "2020-05-02T03:57:40.618521",
+            "last_retested_at_epoch": 1588391860.618521,
+            "last_retested_at_iso": "2020-05-02T03:57:40.618521",
+            "status": "INACTIVE"
+        },
+        "coronasafetymask.tk": {
+            "included_at_epoch": 1588391861.569724,
+            "included_at_iso": "2020-05-02T03:57:41.569724",
+            "last_retested_at_epoch": 1588391861.569724,
+            "last_retested_at_iso": "2020-05-02T03:57:41.569724",
+            "status": "INACTIVE"
         }
     }
 }
