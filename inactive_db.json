@@ -9729,6 +9729,69 @@
             "last_retested_at_epoch": 1588385928.221938,
             "last_retested_at_iso": "2020-05-02T02:18:48.221938",
             "status": "INACTIVE"
+        },
+        "corona-extra.pw": {
+            "included_at_epoch": 1588387475.542239,
+            "included_at_iso": "2020-05-02T02:44:35.542239",
+            "last_retested_at_epoch": 1588387475.542239,
+            "last_retested_at_iso": "2020-05-02T02:44:35.542239",
+            "status": "INACTIVE"
+        },
+        "corona-festival.com": {
+            "included_at_epoch": 1588387475.99227,
+            "included_at_iso": "2020-05-02T02:44:35.992270",
+            "last_retested_at_epoch": 1588387475.99227,
+            "last_retested_at_iso": "2020-05-02T02:44:35.992270",
+            "status": "INACTIVE"
+        },
+        "corona-fo4garena.xyz": {
+            "included_at_epoch": 1588387476.44093,
+            "included_at_iso": "2020-05-02T02:44:36.440930",
+            "last_retested_at_epoch": 1588387476.44093,
+            "last_retested_at_iso": "2020-05-02T02:44:36.440930",
+            "status": "INACTIVE"
+        },
+        "corona-kriese.com": {
+            "included_at_epoch": 1588387480.76289,
+            "included_at_iso": "2020-05-02T02:44:40.762890",
+            "last_retested_at_epoch": 1588387480.76289,
+            "last_retested_at_iso": "2020-05-02T02:44:40.762890",
+            "status": "INACTIVE"
+        },
+        "corona-lessons.ru": {
+            "included_at_epoch": 1588387481.112901,
+            "included_at_iso": "2020-05-02T02:44:41.112901",
+            "last_retested_at_epoch": 1588387481.112901,
+            "last_retested_at_iso": "2020-05-02T02:44:41.112901",
+            "status": "INACTIVE"
+        },
+        "corona-skins.fun": {
+            "included_at_epoch": 1588387485.964552,
+            "included_at_iso": "2020-05-02T02:44:45.964552",
+            "last_retested_at_epoch": 1588387485.964552,
+            "last_retested_at_iso": "2020-05-02T02:44:45.964552",
+            "status": "INACTIVE"
+        },
+        "corona-store.in": {
+            "included_at_epoch": 1588387487.032558,
+            "included_at_iso": "2020-05-02T02:44:47.032558",
+            "last_retested_at_epoch": 1588387487.032558,
+            "last_retested_at_iso": "2020-05-02T02:44:47.032558",
+            "status": "INACTIVE"
+        },
+        "corona3.xyz": {
+            "included_at_epoch": 1588387501.581389,
+            "included_at_iso": "2020-05-02T02:45:01.581389",
+            "last_retested_at_epoch": 1588387501.581389,
+            "last_retested_at_iso": "2020-05-02T02:45:01.581389",
+            "status": "INACTIVE"
+        },
+        "corona4.xyz": {
+            "included_at_epoch": 1588387501.680472,
+            "included_at_iso": "2020-05-02T02:45:01.680472",
+            "last_retested_at_epoch": 1588387501.680472,
+            "last_retested_at_iso": "2020-05-02T02:45:01.680472",
+            "status": "INACTIVE"
         }
     }
 }
