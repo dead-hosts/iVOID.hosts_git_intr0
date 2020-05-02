@@ -10289,6 +10289,13 @@
             "last_retested_at_epoch": 1588403516.004766,
             "last_retested_at_iso": "2020-05-02T07:11:56.004766",
             "status": "INACTIVE"
+        },
+        "covid19prepardness.com": {
+            "included_at_epoch": 1588404595.679823,
+            "included_at_iso": "2020-05-02T07:29:55.679823",
+            "last_retested_at_epoch": 1588404595.679823,
+            "last_retested_at_iso": "2020-05-02T07:29:55.679823",
+            "status": "INACTIVE"
         }
     }
 }
