@@ -10268,6 +10268,27 @@
             "last_retested_at_epoch": 1588402156.271629,
             "last_retested_at_iso": "2020-05-02T06:49:16.271629",
             "status": "INACTIVE"
+        },
+        "covid19crisis.net": {
+            "included_at_epoch": 1588403461.37554,
+            "included_at_iso": "2020-05-02T07:11:01.375540",
+            "last_retested_at_epoch": 1588403461.37554,
+            "last_retested_at_iso": "2020-05-02T07:11:01.375540",
+            "status": "INACTIVE"
+        },
+        "covid19labtest.com": {
+            "included_at_epoch": 1588403506.71224,
+            "included_at_iso": "2020-05-02T07:11:46.712240",
+            "last_retested_at_epoch": 1588403506.71224,
+            "last_retested_at_iso": "2020-05-02T07:11:46.712240",
+            "status": "INACTIVE"
+        },
+        "covid19mc.com": {
+            "included_at_epoch": 1588403516.004766,
+            "included_at_iso": "2020-05-02T07:11:56.004766",
+            "last_retested_at_epoch": 1588403516.004766,
+            "last_retested_at_iso": "2020-05-02T07:11:56.004766",
+            "status": "INACTIVE"
         }
     }
 }
