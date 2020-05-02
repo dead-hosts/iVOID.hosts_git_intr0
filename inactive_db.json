@@ -10156,6 +10156,62 @@
             "last_retested_at_epoch": 1588399715.013986,
             "last_retested_at_iso": "2020-05-02T06:08:35.013986",
             "status": "INACTIVE"
+        },
+        "coronavirusupdate.tk": {
+            "included_at_epoch": 1588400536.646101,
+            "included_at_iso": "2020-05-02T06:22:16.646101",
+            "last_retested_at_epoch": 1588400536.646101,
+            "last_retested_at_iso": "2020-05-02T06:22:16.646101",
+            "status": "INACTIVE"
+        },
+        "coronavirusvaccineavailable.com": {
+            "included_at_epoch": 1588400541.606511,
+            "included_at_iso": "2020-05-02T06:22:21.606511",
+            "last_retested_at_epoch": 1588400541.606511,
+            "last_retested_at_iso": "2020-05-02T06:22:21.606511",
+            "status": "INACTIVE"
+        },
+        "corp6.site": {
+            "included_at_epoch": 1588400574.44251,
+            "included_at_iso": "2020-05-02T06:22:54.442510",
+            "last_retested_at_epoch": 1588400574.44251,
+            "last_retested_at_iso": "2020-05-02T06:22:54.442510",
+            "status": "INACTIVE"
+        },
+        "corp7.site": {
+            "included_at_epoch": 1588400574.41217,
+            "included_at_iso": "2020-05-02T06:22:54.412170",
+            "last_retested_at_epoch": 1588400574.41217,
+            "last_retested_at_iso": "2020-05-02T06:22:54.412170",
+            "status": "INACTIVE"
+        },
+        "corp8.site": {
+            "included_at_epoch": 1588400574.486396,
+            "included_at_iso": "2020-05-02T06:22:54.486396",
+            "last_retested_at_epoch": 1588400574.486396,
+            "last_retested_at_iso": "2020-05-02T06:22:54.486396",
+            "status": "INACTIVE"
+        },
+        "coshfgpgab.com": {
+            "included_at_epoch": 1588400574.74637,
+            "included_at_iso": "2020-05-02T06:22:54.746370",
+            "last_retested_at_epoch": 1588400574.74637,
+            "last_retested_at_iso": "2020-05-02T06:22:54.746370",
+            "status": "INACTIVE"
+        },
+        "cottawa.info": {
+            "included_at_epoch": 1588400575.611358,
+            "included_at_iso": "2020-05-02T06:22:55.611358",
+            "last_retested_at_epoch": 1588400575.611358,
+            "last_retested_at_iso": "2020-05-02T06:22:55.611358",
+            "status": "INACTIVE"
+        },
+        "count-cnt.ru": {
+            "included_at_epoch": 1588400576.107058,
+            "included_at_iso": "2020-05-02T06:22:56.107058",
+            "last_retested_at_epoch": 1588400576.107058,
+            "last_retested_at_iso": "2020-05-02T06:22:56.107058",
+            "status": "INACTIVE"
         }
     }
 }
