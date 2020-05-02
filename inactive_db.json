@@ -9792,6 +9792,62 @@
             "last_retested_at_epoch": 1588387501.680472,
             "last_retested_at_iso": "2020-05-02T02:45:01.680472",
             "status": "INACTIVE"
+        },
+        "coronabay.net": {
+            "included_at_epoch": 1588389031.035759,
+            "included_at_iso": "2020-05-02T03:10:31.035759",
+            "last_retested_at_epoch": 1588389031.035759,
+            "last_retested_at_iso": "2020-05-02T03:10:31.035759",
+            "status": "INACTIVE"
+        },
+        "coronacirusnews.com": {
+            "included_at_epoch": 1588389046.98969,
+            "included_at_iso": "2020-05-02T03:10:46.989690",
+            "last_retested_at_epoch": 1588389046.98969,
+            "last_retested_at_iso": "2020-05-02T03:10:46.989690",
+            "status": "INACTIVE"
+        },
+        "coronaclean.icu": {
+            "included_at_epoch": 1588389048.203753,
+            "included_at_iso": "2020-05-02T03:10:48.203753",
+            "last_retested_at_epoch": 1588389048.203753,
+            "last_retested_at_iso": "2020-05-02T03:10:48.203753",
+            "status": "INACTIVE"
+        },
+        "coronacola.cricket": {
+            "included_at_epoch": 1588389053.815579,
+            "included_at_iso": "2020-05-02T03:10:53.815579",
+            "last_retested_at_epoch": 1588389053.815579,
+            "last_retested_at_iso": "2020-05-02T03:10:53.815579",
+            "status": "INACTIVE"
+        },
+        "coronacommerce.host": {
+            "included_at_epoch": 1588389054.762284,
+            "included_at_iso": "2020-05-02T03:10:54.762284",
+            "last_retested_at_epoch": 1588389054.762284,
+            "last_retested_at_iso": "2020-05-02T03:10:54.762284",
+            "status": "INACTIVE"
+        },
+        "coronacoronaleavemealona.com": {
+            "included_at_epoch": 1588389058.606422,
+            "included_at_iso": "2020-05-02T03:10:58.606422",
+            "last_retested_at_epoch": 1588389058.606422,
+            "last_retested_at_iso": "2020-05-02T03:10:58.606422",
+            "status": "INACTIVE"
+        },
+        "coronacoronaleavemealone.com": {
+            "included_at_epoch": 1588389058.77667,
+            "included_at_iso": "2020-05-02T03:10:58.776670",
+            "last_retested_at_epoch": 1588389058.77667,
+            "last_retested_at_iso": "2020-05-02T03:10:58.776670",
+            "status": "INACTIVE"
+        },
+        "coronadisabilitylawyers.com": {
+            "included_at_epoch": 1588389072.497865,
+            "included_at_iso": "2020-05-02T03:11:12.497865",
+            "last_retested_at_epoch": 1588389072.497865,
+            "last_retested_at_iso": "2020-05-02T03:11:12.497865",
+            "status": "INACTIVE"
         }
     }
 }
