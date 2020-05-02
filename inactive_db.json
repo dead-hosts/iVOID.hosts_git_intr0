@@ -10212,6 +10212,41 @@
             "last_retested_at_epoch": 1588400576.107058,
             "last_retested_at_iso": "2020-05-02T06:22:56.107058",
             "status": "INACTIVE"
+        },
+        "counter.rian.ru": {
+            "included_at_epoch": 1588401288.820482,
+            "included_at_iso": "2020-05-02T06:34:48.820482",
+            "last_retested_at_epoch": 1588401288.820482,
+            "last_retested_at_iso": "2020-05-02T06:34:48.820482",
+            "status": "INACTIVE"
+        },
+        "countercity.de": {
+            "included_at_epoch": 1588401289.502533,
+            "included_at_iso": "2020-05-02T06:34:49.502533",
+            "last_retested_at_epoch": 1588401289.502533,
+            "last_retested_at_iso": "2020-05-02T06:34:49.502533",
+            "status": "INACTIVE"
+        },
+        "countrywideaustralicovid19.com": {
+            "included_at_epoch": 1588401291.564429,
+            "included_at_iso": "2020-05-02T06:34:51.564429",
+            "last_retested_at_epoch": 1588401291.564429,
+            "last_retested_at_iso": "2020-05-02T06:34:51.564429",
+            "status": "INACTIVE"
+        },
+        "covid-19.bdtime.news": {
+            "included_at_epoch": 1588401301.762443,
+            "included_at_iso": "2020-05-02T06:35:01.762443",
+            "last_retested_at_epoch": 1588401301.762443,
+            "last_retested_at_iso": "2020-05-02T06:35:01.762443",
+            "status": "INACTIVE"
+        },
+        "covid-19antibodycheck.com": {
+            "included_at_epoch": 1588401304.416126,
+            "included_at_iso": "2020-05-02T06:35:04.416126",
+            "last_retested_at_epoch": 1588401304.416126,
+            "last_retested_at_iso": "2020-05-02T06:35:04.416126",
+            "status": "INACTIVE"
         }
     }
 }
