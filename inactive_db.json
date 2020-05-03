@@ -45639,6 +45639,55 @@
             "last_retested_at_epoch": 1588541479.924061,
             "last_retested_at_iso": "2020-05-03T21:31:19.924061",
             "status": "INACTIVE"
+        },
+        "metertna.ru": {
+            "included_at_epoch": 1588542205.154069,
+            "included_at_iso": "2020-05-03T21:43:25.154069",
+            "last_retested_at_epoch": 1588542205.154069,
+            "last_retested_at_iso": "2020-05-03T21:43:25.154069",
+            "status": "INACTIVE"
+        },
+        "metrics.adflake.com": {
+            "included_at_epoch": 1588542206.240253,
+            "included_at_iso": "2020-05-03T21:43:26.240253",
+            "last_retested_at_epoch": 1588542206.240253,
+            "last_retested_at_iso": "2020-05-03T21:43:26.240253",
+            "status": "INACTIVE"
+        },
+        "metrics.tbliab.net": {
+            "included_at_epoch": 1588542207.613605,
+            "included_at_iso": "2020-05-03T21:43:27.613605",
+            "last_retested_at_epoch": 1588542207.613605,
+            "last_retested_at_iso": "2020-05-03T21:43:27.613605",
+            "status": "INACTIVE"
+        },
+        "mexicovida.de": {
+            "included_at_epoch": 1588542210.436079,
+            "included_at_iso": "2020-05-03T21:43:30.436079",
+            "last_retested_at_epoch": 1588542210.436079,
+            "last_retested_at_iso": "2020-05-03T21:43:30.436079",
+            "status": "INACTIVE"
+        },
+        "meya41w7.com": {
+            "included_at_epoch": 1588542210.328544,
+            "included_at_iso": "2020-05-03T21:43:30.328544",
+            "last_retested_at_epoch": 1588542210.328544,
+            "last_retested_at_iso": "2020-05-03T21:43:30.328544",
+            "status": "INACTIVE"
+        },
+        "mfaceb00k.bimaaryamedan.com": {
+            "included_at_epoch": 1588542211.686779,
+            "included_at_iso": "2020-05-03T21:43:31.686779",
+            "last_retested_at_epoch": 1588542211.686779,
+            "last_retested_at_iso": "2020-05-03T21:43:31.686779",
+            "status": "INACTIVE"
+        },
+        "mfaceb0ok-com.cf": {
+            "included_at_epoch": 1588542211.795834,
+            "included_at_iso": "2020-05-03T21:43:31.795834",
+            "last_retested_at_epoch": 1588542211.795834,
+            "last_retested_at_iso": "2020-05-03T21:43:31.795834",
+            "status": "INACTIVE"
         }
     }
 }
