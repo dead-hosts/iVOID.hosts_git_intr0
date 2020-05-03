@@ -123543,5 +123543,35 @@
         "epoch": 1617926400.0,
         "expiration_date": "09-apr-2021",
         "state": "future"
+    },
+    "lnstagramcopyrighthelpagency.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "lnstagramcopyrighthelpcenter.com": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "lnstagramcopyrighthelps.com": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "lnstagramcopyrighthelps.org": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "lnstagramcopyrightinfringement.com": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
+    "lnstagramcopyrightmedia.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     }
 }
