@@ -37624,6 +37624,83 @@
             "last_retested_at_epoch": 1588498391.032561,
             "last_retested_at_iso": "2020-05-03T09:33:11.032561",
             "status": "INACTIVE"
+        },
+        "lojuxbnt.com": {
+            "included_at_epoch": 1588499106.840252,
+            "included_at_iso": "2020-05-03T09:45:06.840252",
+            "last_retested_at_epoch": 1588499106.840252,
+            "last_retested_at_iso": "2020-05-03T09:45:06.840252",
+            "status": "INACTIVE"
+        },
+        "lokipodi.com": {
+            "included_at_epoch": 1588499107.294156,
+            "included_at_iso": "2020-05-03T09:45:07.294156",
+            "last_retested_at_epoch": 1588499107.294156,
+            "last_retested_at_iso": "2020-05-03T09:45:07.294156",
+            "status": "INACTIVE"
+        },
+        "lokspeedarma.com": {
+            "included_at_epoch": 1588499107.198629,
+            "included_at_iso": "2020-05-03T09:45:07.198629",
+            "last_retested_at_epoch": 1588499107.198629,
+            "last_retested_at_iso": "2020-05-03T09:45:07.198629",
+            "status": "INACTIVE"
+        },
+        "lol.bash.org.ru": {
+            "included_at_epoch": 1588499107.637962,
+            "included_at_iso": "2020-05-03T09:45:07.637962",
+            "last_retested_at_epoch": 1588499107.637962,
+            "last_retested_at_iso": "2020-05-03T09:45:07.637962",
+            "status": "INACTIVE"
+        },
+        "loldata.top": {
+            "included_at_epoch": 1588499107.733558,
+            "included_at_iso": "2020-05-03T09:45:07.733558",
+            "last_retested_at_epoch": 1588499107.733558,
+            "last_retested_at_iso": "2020-05-03T09:45:07.733558",
+            "status": "INACTIVE"
+        },
+        "lolel.best": {
+            "included_at_epoch": 1588499107.827464,
+            "included_at_iso": "2020-05-03T09:45:07.827464",
+            "last_retested_at_epoch": 1588499107.827464,
+            "last_retested_at_iso": "2020-05-03T09:45:07.827464",
+            "status": "INACTIVE"
+        },
+        "lonedol.info": {
+            "included_at_epoch": 1588499109.451731,
+            "included_at_iso": "2020-05-03T09:45:09.451731",
+            "last_retested_at_epoch": 1588499109.451731,
+            "last_retested_at_iso": "2020-05-03T09:45:09.451731",
+            "status": "INACTIVE"
+        },
+        "look-reklama.ru": {
+            "included_at_epoch": 1588499110.583084,
+            "included_at_iso": "2020-05-03T09:45:10.583084",
+            "last_retested_at_epoch": 1588499110.583084,
+            "last_retested_at_iso": "2020-05-03T09:45:10.583084",
+            "status": "INACTIVE"
+        },
+        "loronap.info": {
+            "included_at_epoch": 1588499114.599793,
+            "included_at_iso": "2020-05-03T09:45:14.599793",
+            "last_retested_at_epoch": 1588499114.599793,
+            "last_retested_at_iso": "2020-05-03T09:45:14.599793",
+            "status": "INACTIVE"
+        },
+        "loseads.eu": {
+            "included_at_epoch": 1588499115.216557,
+            "included_at_iso": "2020-05-03T09:45:15.216557",
+            "last_retested_at_epoch": 1588499115.216557,
+            "last_retested_at_iso": "2020-05-03T09:45:15.216557",
+            "status": "INACTIVE"
+        },
+        "lovvznyhujf.com": {
+            "included_at_epoch": 1588499127.529467,
+            "included_at_iso": "2020-05-03T09:45:27.529467",
+            "last_retested_at_epoch": 1588499127.529467,
+            "last_retested_at_iso": "2020-05-03T09:45:27.529467",
+            "status": "INACTIVE"
         }
     }
 }
