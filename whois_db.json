@@ -124168,5 +124168,85 @@
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
         "state": "future"
+    },
+    "lnstagramsupports.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "lnstagramsupportscenter.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "lnstagramsupportsemail.com": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "lnstagramsupportservices.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
+    "lnstagramsupportteam.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "lnstagramsuspended.com": {
+        "epoch": 1584403200.0,
+        "expiration_date": "17-mar-2020",
+        "state": "past"
+    },
+    "lnstagramsuspended.net": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "past"
+    },
+    "lnstagramsuspended.org": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
+    "lnstagramsuspendedaccount.cf": {
+        "epoch": 1877731200.0,
+        "expiration_date": "03-jul-2029",
+        "state": "future"
+    },
+    "lnstagramteam-verifyhelp.com": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "lnstagramteam.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "lnstagramteam.support": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "lnstagramteamofficial.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "lnstagramteamsupport.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "lnstagramthecopyright.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "lnstagramthesupport.com": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
     }
 }
