@@ -31191,6 +31191,174 @@
             "last_retested_at_epoch": 1588473689.620338,
             "last_retested_at_iso": "2020-05-03T02:41:29.620338",
             "status": "INACTIVE"
+        },
+        "lnstagram-verifiedbadgescenter.cf": {
+            "included_at_epoch": 1588474406.694802,
+            "included_at_iso": "2020-05-03T02:53:26.694802",
+            "last_retested_at_epoch": 1588474406.694802,
+            "last_retested_at_iso": "2020-05-03T02:53:26.694802",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifieds.com": {
+            "included_at_epoch": 1588474406.799788,
+            "included_at_iso": "2020-05-03T02:53:26.799788",
+            "last_retested_at_epoch": 1588474406.799788,
+            "last_retested_at_iso": "2020-05-03T02:53:26.799788",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifiedsupport.cf": {
+            "included_at_epoch": 1588474406.878505,
+            "included_at_iso": "2020-05-03T02:53:26.878505",
+            "last_retested_at_epoch": 1588474406.878505,
+            "last_retested_at_iso": "2020-05-03T02:53:26.878505",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifikasi.com": {
+            "included_at_epoch": 1588474407.180952,
+            "included_at_iso": "2020-05-03T02:53:27.180952",
+            "last_retested_at_epoch": 1588474407.180952,
+            "last_retested_at_iso": "2020-05-03T02:53:27.180952",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verify-badges.ml": {
+            "included_at_epoch": 1588474408.123097,
+            "included_at_iso": "2020-05-03T02:53:28.123097",
+            "last_retested_at_epoch": 1588474408.123097,
+            "last_retested_at_iso": "2020-05-03T02:53:28.123097",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verify-confirm-help.com": {
+            "included_at_epoch": 1588474408.043761,
+            "included_at_iso": "2020-05-03T02:53:28.043761",
+            "last_retested_at_epoch": 1588474408.043761,
+            "last_retested_at_iso": "2020-05-03T02:53:28.043761",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verify-support.com": {
+            "included_at_epoch": 1588474408.201416,
+            "included_at_iso": "2020-05-03T02:53:28.201416",
+            "last_retested_at_epoch": 1588474408.201416,
+            "last_retested_at_iso": "2020-05-03T02:53:28.201416",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verify.cf": {
+            "included_at_epoch": 1588474408.429706,
+            "included_at_iso": "2020-05-03T02:53:28.429706",
+            "last_retested_at_epoch": 1588474408.429706,
+            "last_retested_at_iso": "2020-05-03T02:53:28.429706",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verify.com": {
+            "included_at_epoch": 1588474408.351281,
+            "included_at_iso": "2020-05-03T02:53:28.351281",
+            "last_retested_at_epoch": 1588474408.351281,
+            "last_retested_at_iso": "2020-05-03T02:53:28.351281",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verify.ga": {
+            "included_at_epoch": 1588474408.532536,
+            "included_at_iso": "2020-05-03T02:53:28.532536",
+            "last_retested_at_epoch": 1588474408.532536,
+            "last_retested_at_iso": "2020-05-03T02:53:28.532536",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verify.gq": {
+            "included_at_epoch": 1588474408.63558,
+            "included_at_iso": "2020-05-03T02:53:28.635580",
+            "last_retested_at_epoch": 1588474408.63558,
+            "last_retested_at_iso": "2020-05-03T02:53:28.635580",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verify.team": {
+            "included_at_epoch": 1588474408.714999,
+            "included_at_iso": "2020-05-03T02:53:28.714999",
+            "last_retested_at_epoch": 1588474408.714999,
+            "last_retested_at_iso": "2020-05-03T02:53:28.714999",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifybadge.cf": {
+            "included_at_epoch": 1588474409.077013,
+            "included_at_iso": "2020-05-03T02:53:29.077013",
+            "last_retested_at_epoch": 1588474409.077013,
+            "last_retested_at_iso": "2020-05-03T02:53:29.077013",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifybadgelx.ml": {
+            "included_at_epoch": 1588474409.38115,
+            "included_at_iso": "2020-05-03T02:53:29.381150",
+            "last_retested_at_epoch": 1588474409.38115,
+            "last_retested_at_iso": "2020-05-03T02:53:29.381150",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifybadges.cf": {
+            "included_at_epoch": 1588474409.539456,
+            "included_at_iso": "2020-05-03T02:53:29.539456",
+            "last_retested_at_epoch": 1588474409.539456,
+            "last_retested_at_iso": "2020-05-03T02:53:29.539456",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifybadges.ml": {
+            "included_at_epoch": 1588474409.460448,
+            "included_at_iso": "2020-05-03T02:53:29.460448",
+            "last_retested_at_epoch": 1588474409.460448,
+            "last_retested_at_iso": "2020-05-03T02:53:29.460448",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifybadgs.ml": {
+            "included_at_epoch": 1588474409.745843,
+            "included_at_iso": "2020-05-03T02:53:29.745843",
+            "last_retested_at_epoch": 1588474409.745843,
+            "last_retested_at_iso": "2020-05-03T02:53:29.745843",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifycenter.ml": {
+            "included_at_epoch": 1588474409.666154,
+            "included_at_iso": "2020-05-03T02:53:29.666154",
+            "last_retested_at_epoch": 1588474409.666154,
+            "last_retested_at_iso": "2020-05-03T02:53:29.666154",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifyhelp.cf": {
+            "included_at_epoch": 1588474410.144224,
+            "included_at_iso": "2020-05-03T02:53:30.144224",
+            "last_retested_at_epoch": 1588474410.144224,
+            "last_retested_at_iso": "2020-05-03T02:53:30.144224",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifysupport.com": {
+            "included_at_epoch": 1588474410.065166,
+            "included_at_iso": "2020-05-03T02:53:30.065166",
+            "last_retested_at_epoch": 1588474410.065166,
+            "last_retested_at_iso": "2020-05-03T02:53:30.065166",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifysupports.ml": {
+            "included_at_epoch": 1588474410.303788,
+            "included_at_iso": "2020-05-03T02:53:30.303788",
+            "last_retested_at_epoch": 1588474410.303788,
+            "last_retested_at_iso": "2020-05-03T02:53:30.303788",
+            "status": "INACTIVE"
+        },
+        "lnstagram-verifyteam.ml": {
+            "included_at_epoch": 1588474410.223829,
+            "included_at_iso": "2020-05-03T02:53:30.223829",
+            "last_retested_at_epoch": 1588474410.223829,
+            "last_retested_at_iso": "2020-05-03T02:53:30.223829",
+            "status": "INACTIVE"
+        },
+        "lnstagram-violatio-servces.ga": {
+            "included_at_epoch": 1588474410.383111,
+            "included_at_iso": "2020-05-03T02:53:30.383111",
+            "last_retested_at_epoch": 1588474410.383111,
+            "last_retested_at_iso": "2020-05-03T02:53:30.383111",
+            "status": "INACTIVE"
+        },
+        "lnstagram-violation-account-center.cf": {
+            "included_at_epoch": 1588474410.462191,
+            "included_at_iso": "2020-05-03T02:53:30.462191",
+            "last_retested_at_epoch": 1588474410.462191,
+            "last_retested_at_iso": "2020-05-03T02:53:30.462191",
+            "status": "INACTIVE"
         }
     }
 }
