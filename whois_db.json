@@ -122448,5 +122448,35 @@
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
         "state": "past"
+    },
+    "lnstagram-copyright-center.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "lnstagram-copyright-help.com": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "lnstagram-copyright-helpcenter.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "lnstagram-copyright-helps.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "lnstagram-copyright-support.com": {
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "state": "future"
+    },
+    "lnstagram-copyright-whatsapp.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     }
 }
