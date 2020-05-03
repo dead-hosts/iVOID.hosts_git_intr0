@@ -45548,6 +45548,27 @@
             "last_retested_at_epoch": 1588539284.810963,
             "last_retested_at_iso": "2020-05-03T20:54:44.810963",
             "status": "INACTIVE"
+        },
+        "mediapixelnet.com": {
+            "included_at_epoch": 1588540013.053746,
+            "included_at_iso": "2020-05-03T21:06:53.053746",
+            "last_retested_at_epoch": 1588540013.053746,
+            "last_retested_at_iso": "2020-05-03T21:06:53.053746",
+            "status": "INACTIVE"
+        },
+        "mediarich.cc": {
+            "included_at_epoch": 1588540014.133784,
+            "included_at_iso": "2020-05-03T21:06:54.133784",
+            "last_retested_at_epoch": 1588540014.133784,
+            "last_retested_at_iso": "2020-05-03T21:06:54.133784",
+            "status": "INACTIVE"
+        },
+        "mediayoutube.com": {
+            "included_at_epoch": 1588540019.838601,
+            "included_at_iso": "2020-05-03T21:06:59.838601",
+            "last_retested_at_epoch": 1588540019.838601,
+            "last_retested_at_iso": "2020-05-03T21:06:59.838601",
+            "status": "INACTIVE"
         }
     }
 }

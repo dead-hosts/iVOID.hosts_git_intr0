@@ -128473,5 +128473,280 @@
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
         "state": "future"
+    },
+    "mediagridwork.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "mediainform.net": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "mediaiqdigital.com": {
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "medialand.ru": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "medialb.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
+    "medialets.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "medialogger.ru": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "medialytics.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "mediamansix.com": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "mediamath.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "mediametrics.ru": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "mediamind.com": {
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "state": "future"
+    },
+    "medianaft.com": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "medianaft.ru": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "medianetworks.ru": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "mediaoaktree.com": {
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "mediaonpro.com": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "mediapeartree.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "mediaplan.ru": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "mediaplazza.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
+    "mediaplex.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "mediaraily.com": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "mediarich.us": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
+    "mediarithmics.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
+    "mediarotate.com": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "mediaseeding.com": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "mediashakers.com": {
+        "epoch": 1699315200.0,
+        "expiration_date": "07-nov-2023",
+        "state": "future"
+    },
+    "mediasprucetree.com": {
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "mediastinct.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
+    "mediatarget.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
+        "state": "past"
+    },
+    "mediatext.com": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "mediative.ca": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "mediative.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "mediatoday.ru": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "mediatraffic.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "mediatraffic.com.ua": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "mediatraks.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "mediaunder.us": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "mediav.com": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "mediavenus.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "mediaver.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "mediavine.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "mediavoice.com": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "mediawayss.com": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "mediaz.asia": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
+    "mediazcorp.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "medibaad.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "medical-aid.net": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "medical-coronamask.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "medical-coronamask.net": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "medicament-covid19.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "medicamentcovid19.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "medicamentoscovid19.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "medicationcorona.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "medicine-corona.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
     }
 }
