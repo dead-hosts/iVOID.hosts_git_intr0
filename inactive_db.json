@@ -29084,6 +29084,153 @@
             "last_retested_at_epoch": 1588466238.661424,
             "last_retested_at_iso": "2020-05-03T00:37:18.661424",
             "status": "INACTIVE"
+        },
+        "lnstagram-copyright.cf": {
+            "included_at_epoch": 1588466972.779884,
+            "included_at_iso": "2020-05-03T00:49:32.779884",
+            "last_retested_at_epoch": 1588466972.779884,
+            "last_retested_at_iso": "2020-05-03T00:49:32.779884",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyright.gq": {
+            "included_at_epoch": 1588466972.856677,
+            "included_at_iso": "2020-05-03T00:49:32.856677",
+            "last_retested_at_epoch": 1588466972.856677,
+            "last_retested_at_iso": "2020-05-03T00:49:32.856677",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyright.help-copyrightlnstagram.com": {
+            "included_at_epoch": 1588466972.931473,
+            "included_at_iso": "2020-05-03T00:49:32.931473",
+            "last_retested_at_epoch": 1588466972.931473,
+            "last_retested_at_iso": "2020-05-03T00:49:32.931473",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyright.net": {
+            "included_at_epoch": 1588466973.234387,
+            "included_at_iso": "2020-05-03T00:49:33.234387",
+            "last_retested_at_epoch": 1588466973.234387,
+            "last_retested_at_iso": "2020-05-03T00:49:33.234387",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyright.support": {
+            "included_at_epoch": 1588466973.783425,
+            "included_at_iso": "2020-05-03T00:49:33.783425",
+            "last_retested_at_epoch": 1588466973.783425,
+            "last_retested_at_iso": "2020-05-03T00:49:33.783425",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyright.tk": {
+            "included_at_epoch": 1588466973.859346,
+            "included_at_iso": "2020-05-03T00:49:33.859346",
+            "last_retested_at_epoch": 1588466973.859346,
+            "last_retested_at_iso": "2020-05-03T00:49:33.859346",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcenter.cf": {
+            "included_at_epoch": 1588466974.161249,
+            "included_at_iso": "2020-05-03T00:49:34.161249",
+            "last_retested_at_epoch": 1588466974.161249,
+            "last_retested_at_iso": "2020-05-03T00:49:34.161249",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcenter.cf.thenexttechnology.com": {
+            "included_at_epoch": 1588466974.46503,
+            "included_at_iso": "2020-05-03T00:49:34.465030",
+            "last_retested_at_epoch": 1588466974.46503,
+            "last_retested_at_iso": "2020-05-03T00:49:34.465030",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcenter.gq": {
+            "included_at_epoch": 1588466974.577744,
+            "included_at_iso": "2020-05-03T00:49:34.577744",
+            "last_retested_at_epoch": 1588466974.577744,
+            "last_retested_at_iso": "2020-05-03T00:49:34.577744",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcenter.tk": {
+            "included_at_epoch": 1588466974.679085,
+            "included_at_iso": "2020-05-03T00:49:34.679085",
+            "last_retested_at_epoch": 1588466974.679085,
+            "last_retested_at_iso": "2020-05-03T00:49:34.679085",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcenters.cf": {
+            "included_at_epoch": 1588466974.755784,
+            "included_at_iso": "2020-05-03T00:49:34.755784",
+            "last_retested_at_epoch": 1588466974.755784,
+            "last_retested_at_iso": "2020-05-03T00:49:34.755784",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcenters.ga": {
+            "included_at_epoch": 1588466974.831908,
+            "included_at_iso": "2020-05-03T00:49:34.831908",
+            "last_retested_at_epoch": 1588466974.831908,
+            "last_retested_at_iso": "2020-05-03T00:49:34.831908",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcenters.gq": {
+            "included_at_epoch": 1588466974.908118,
+            "included_at_iso": "2020-05-03T00:49:34.908118",
+            "last_retested_at_epoch": 1588466974.908118,
+            "last_retested_at_iso": "2020-05-03T00:49:34.908118",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcenters.tk": {
+            "included_at_epoch": 1588466975.085062,
+            "included_at_iso": "2020-05-03T00:49:35.085062",
+            "last_retested_at_epoch": 1588466975.085062,
+            "last_retested_at_iso": "2020-05-03T00:49:35.085062",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcentral.cf": {
+            "included_at_epoch": 1588466975.008491,
+            "included_at_iso": "2020-05-03T00:49:35.008491",
+            "last_retested_at_epoch": 1588466975.008491,
+            "last_retested_at_iso": "2020-05-03T00:49:35.008491",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightcentre.cf": {
+            "included_at_epoch": 1588466975.390325,
+            "included_at_iso": "2020-05-03T00:49:35.390325",
+            "last_retested_at_epoch": 1588466975.390325,
+            "last_retested_at_iso": "2020-05-03T00:49:35.390325",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightform.ga": {
+            "included_at_epoch": 1588466975.541584,
+            "included_at_iso": "2020-05-03T00:49:35.541584",
+            "last_retested_at_epoch": 1588466975.541584,
+            "last_retested_at_iso": "2020-05-03T00:49:35.541584",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightform.ml": {
+            "included_at_epoch": 1588466975.465712,
+            "included_at_iso": "2020-05-03T00:49:35.465712",
+            "last_retested_at_epoch": 1588466975.465712,
+            "last_retested_at_iso": "2020-05-03T00:49:35.465712",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightinfrigement.ml": {
+            "included_at_epoch": 1588466975.868757,
+            "included_at_iso": "2020-05-03T00:49:35.868757",
+            "last_retested_at_epoch": 1588466975.868757,
+            "last_retested_at_iso": "2020-05-03T00:49:35.868757",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightnotice.gq": {
+            "included_at_epoch": 1588466976.278372,
+            "included_at_iso": "2020-05-03T00:49:36.278372",
+            "last_retested_at_epoch": 1588466976.278372,
+            "last_retested_at_iso": "2020-05-03T00:49:36.278372",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightpage.com": {
+            "included_at_epoch": 1588466976.187351,
+            "included_at_iso": "2020-05-03T00:49:36.187351",
+            "last_retested_at_epoch": 1588466976.187351,
+            "last_retested_at_iso": "2020-05-03T00:49:36.187351",
+            "status": "INACTIVE"
         }
     }
 }
