@@ -36518,7 +36518,13 @@
             "mail.lnstagram--confirmation.ml",
             "mail.lnstagram-ads-center.ml",
             "mail.lnstagram-ads.ml",
-            "mail.lnstagram-bluebadges-team.ml"
+            "mail.lnstagram-bluebadges-team.ml",
+            "mail.lnstagram-confirm.cf",
+            "mail.lnstagram-confirm.tk",
+            "mail.lnstagram-contact.ml",
+            "mail.lnstagram-copyrght.ml",
+            "mail.lnstagram-copyright-center.flonto.com",
+            "mail.lnstagram-copyright-help-center.ga"
         ],
         "INACTIVE": [
             "36.89.106.69",
@@ -42201,7 +42207,25 @@
             "mail.lnstagram-business.gq",
             "mail.lnstagram-business.tk",
             "mail.lnstagram-businnes-help.cf",
-            "mail.lnstagram-businesspartner.ml"
+            "mail.lnstagram-businesspartner.ml",
+            "mail.lnstagram-center.com",
+            "mail.lnstagram-centers.com",
+            "mail.lnstagram-changepassword.cf",
+            "mail.lnstagram-centric.com",
+            "mail.lnstagram-checkpoint-verify.gq",
+            "mail.lnstagram-checkpoint-verify.ga",
+            "mail.lnstagram-communities.ml",
+            "mail.lnstagram-communities.cf",
+            "mail.lnstagram-confirm.com",
+            "mail.lnstagram-confirmation.com",
+            "mail.lnstagram-confirmation.gq",
+            "mail.lnstagram-confirmation.tk",
+            "mail.lnstagram-confirmationaccountt.com",
+            "mail.lnstagram-copyrghts.tk",
+            "mail.lnstagram-copyright-2fac.tk",
+            "mail.lnstagram-copyright-centers.cf",
+            "mail.lnstagram-copyright-help.com",
+            "mail.lnstagram-copyright-help.cf"
         ],
         "INVALID": [
             "ads.*.unity3d.com",
