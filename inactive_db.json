@@ -34838,6 +34838,69 @@
             "last_retested_at_epoch": 1588487492.496015,
             "last_retested_at_iso": "2020-05-03T06:31:32.496015",
             "status": "INACTIVE"
+        },
+        "lnstagramhelpsbadge.cf": {
+            "included_at_epoch": 1588488213.855015,
+            "included_at_iso": "2020-05-03T06:43:33.855015",
+            "last_retested_at_epoch": 1588488213.855015,
+            "last_retested_at_iso": "2020-05-03T06:43:33.855015",
+            "status": "INACTIVE"
+        },
+        "lnstagramhelpscenters.cf": {
+            "included_at_epoch": 1588488214.307611,
+            "included_at_iso": "2020-05-03T06:43:34.307611",
+            "last_retested_at_epoch": 1588488214.307611,
+            "last_retested_at_iso": "2020-05-03T06:43:34.307611",
+            "status": "INACTIVE"
+        },
+        "lnstagramhelpscenters.ga": {
+            "included_at_epoch": 1588488214.217465,
+            "included_at_iso": "2020-05-03T06:43:34.217465",
+            "last_retested_at_epoch": 1588488214.217465,
+            "last_retested_at_iso": "2020-05-03T06:43:34.217465",
+            "status": "INACTIVE"
+        },
+        "lnstagramhelpscenters.ml": {
+            "included_at_epoch": 1588488214.421331,
+            "included_at_iso": "2020-05-03T06:43:34.421331",
+            "last_retested_at_epoch": 1588488214.421331,
+            "last_retested_at_iso": "2020-05-03T06:43:34.421331",
+            "status": "INACTIVE"
+        },
+        "lnstagramhelpsecuritycenter.com": {
+            "included_at_epoch": 1588488214.56162,
+            "included_at_iso": "2020-05-03T06:43:34.561620",
+            "last_retested_at_epoch": 1588488214.56162,
+            "last_retested_at_iso": "2020-05-03T06:43:34.561620",
+            "status": "INACTIVE"
+        },
+        "lnstagramhelpsecuritys-violations.cf": {
+            "included_at_epoch": 1588488214.767431,
+            "included_at_iso": "2020-05-03T06:43:34.767431",
+            "last_retested_at_epoch": 1588488214.767431,
+            "last_retested_at_iso": "2020-05-03T06:43:34.767431",
+            "status": "INACTIVE"
+        },
+        "lnstagramhelpservic.info": {
+            "included_at_epoch": 1588488214.677621,
+            "included_at_iso": "2020-05-03T06:43:34.677621",
+            "last_retested_at_epoch": 1588488214.677621,
+            "last_retested_at_iso": "2020-05-03T06:43:34.677621",
+            "status": "INACTIVE"
+        },
+        "lnstagramhelpservice.cf": {
+            "included_at_epoch": 1588488215.107907,
+            "included_at_iso": "2020-05-03T06:43:35.107907",
+            "last_retested_at_epoch": 1588488215.107907,
+            "last_retested_at_iso": "2020-05-03T06:43:35.107907",
+            "status": "INACTIVE"
+        },
+        "lnstagramhelpservice.gq": {
+            "included_at_epoch": 1588488215.221862,
+            "included_at_iso": "2020-05-03T06:43:35.221862",
+            "last_retested_at_epoch": 1588488215.221862,
+            "last_retested_at_iso": "2020-05-03T06:43:35.221862",
+            "status": "INACTIVE"
         }
     }
 }
