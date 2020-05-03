@@ -37463,6 +37463,34 @@
             "last_retested_at_epoch": 1588496942.472043,
             "last_retested_at_iso": "2020-05-03T09:09:02.472043",
             "status": "INACTIVE"
+        },
+        "log1n-app1eid-ver1fydetails.sdevergre.com": {
+            "included_at_epoch": 1588497661.693226,
+            "included_at_iso": "2020-05-03T09:21:01.693226",
+            "last_retested_at_epoch": 1588497661.693226,
+            "last_retested_at_iso": "2020-05-03T09:21:01.693226",
+            "status": "INACTIVE"
+        },
+        "logcollector.viewster.com": {
+            "included_at_epoch": 1588497662.754415,
+            "included_at_iso": "2020-05-03T09:21:02.754415",
+            "last_retested_at_epoch": 1588497662.754415,
+            "last_retested_at_iso": "2020-05-03T09:21:02.754415",
+            "status": "INACTIVE"
+        },
+        "logethy.com": {
+            "included_at_epoch": 1588497663.546973,
+            "included_at_iso": "2020-05-03T09:21:03.546973",
+            "last_retested_at_epoch": 1588497663.546973,
+            "last_retested_at_iso": "2020-05-03T09:21:03.546973",
+            "status": "INACTIVE"
+        },
+        "logger.pw": {
+            "included_at_epoch": 1588497664.061681,
+            "included_at_iso": "2020-05-03T09:21:04.061681",
+            "last_retested_at_epoch": 1588497664.061681,
+            "last_retested_at_iso": "2020-05-03T09:21:04.061681",
+            "status": "INACTIVE"
         }
     }
 }
