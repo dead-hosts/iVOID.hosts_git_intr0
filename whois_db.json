@@ -128748,5 +128748,25 @@
         "epoch": 1615680000.0,
         "expiration_date": "14-mar-2021",
         "state": "future"
+    },
+    "medicinecorona.com": {
+        "epoch": 1647129600.0,
+        "expiration_date": "13-mar-2022",
+        "state": "future"
+    },
+    "medicineforcovid19.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "medicinetizer.ru": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "medicodelcoronavirus.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
     }
 }
