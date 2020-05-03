@@ -123648,5 +123648,40 @@
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
         "state": "future"
+    },
+    "lnstagramform.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "lnstagramformservice.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "lnstagramfromfacebook.com": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
+    "lnstagramglobalcenter.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "lnstagramhelp-business.com": {
+        "epoch": 1644451200.0,
+        "expiration_date": "10-feb-2022",
+        "state": "future"
+    },
+    "lnstagramhelp-confirm.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "lnstagramhelp-copyright.com": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
     }
 }
