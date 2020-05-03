@@ -123523,5 +123523,25 @@
         "epoch": 1875139200.0,
         "expiration_date": "03-jun-2029",
         "state": "future"
+    },
+    "lnstagramcopyrighted.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "lnstagramcopyrightform.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "lnstagramcopyrighthelp.club": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "lnstagramcopyrighthelp.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
     }
 }
