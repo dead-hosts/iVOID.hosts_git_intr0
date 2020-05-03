@@ -37491,6 +37491,139 @@
             "last_retested_at_epoch": 1588497664.061681,
             "last_retested_at_iso": "2020-05-03T09:21:04.061681",
             "status": "INACTIVE"
+        },
+        "logger.su": {
+            "included_at_epoch": 1588498386.734979,
+            "included_at_iso": "2020-05-03T09:33:06.734979",
+            "last_retested_at_epoch": 1588498386.734979,
+            "last_retested_at_iso": "2020-05-03T09:33:06.734979",
+            "status": "INACTIVE"
+        },
+        "logger.viki.io": {
+            "included_at_epoch": 1588498386.855088,
+            "included_at_iso": "2020-05-03T09:33:06.855088",
+            "last_retested_at_epoch": 1588498386.855088,
+            "last_retested_at_iso": "2020-05-03T09:33:06.855088",
+            "status": "INACTIVE"
+        },
+        "login-faceb00k.cf": {
+            "included_at_epoch": 1588498387.218126,
+            "included_at_iso": "2020-05-03T09:33:07.218126",
+            "last_retested_at_epoch": 1588498387.218126,
+            "last_retested_at_iso": "2020-05-03T09:33:07.218126",
+            "status": "INACTIVE"
+        },
+        "login-faceb00k.garenaindo.tk": {
+            "included_at_epoch": 1588498387.40379,
+            "included_at_iso": "2020-05-03T09:33:07.403790",
+            "last_retested_at_epoch": 1588498387.40379,
+            "last_retested_at_iso": "2020-05-03T09:33:07.403790",
+            "status": "INACTIVE"
+        },
+        "login-lnstagram.com": {
+            "included_at_epoch": 1588498387.311353,
+            "included_at_iso": "2020-05-03T09:33:07.311353",
+            "last_retested_at_epoch": 1588498387.311353,
+            "last_retested_at_iso": "2020-05-03T09:33:07.311353",
+            "status": "INACTIVE"
+        },
+        "login-lnstagram.gq": {
+            "included_at_epoch": 1588498387.734834,
+            "included_at_iso": "2020-05-03T09:33:07.734834",
+            "last_retested_at_epoch": 1588498387.734834,
+            "last_retested_at_iso": "2020-05-03T09:33:07.734834",
+            "status": "INACTIVE"
+        },
+        "login-paypa1accoun.mixh.jp": {
+            "included_at_epoch": 1588498387.850498,
+            "included_at_iso": "2020-05-03T09:33:07.850498",
+            "last_retested_at_epoch": 1588498387.850498,
+            "last_retested_at_iso": "2020-05-03T09:33:07.850498",
+            "status": "INACTIVE"
+        },
+        "login.app1e2017.08times.mai12017.com": {
+            "included_at_epoch": 1588498388.191048,
+            "included_at_iso": "2020-05-03T09:33:08.191048",
+            "last_retested_at_epoch": 1588498388.191048,
+            "last_retested_at_iso": "2020-05-03T09:33:08.191048",
+            "status": "INACTIVE"
+        },
+        "login.ar-lnstagram.com": {
+            "included_at_epoch": 1588498388.283529,
+            "included_at_iso": "2020-05-03T09:33:08.283529",
+            "last_retested_at_epoch": 1588498388.283529,
+            "last_retested_at_iso": "2020-05-03T09:33:08.283529",
+            "status": "INACTIVE"
+        },
+        "login.facebo0k.com.access.gratuit.fblafr.kowoy.com": {
+            "included_at_epoch": 1588498388.423258,
+            "included_at_iso": "2020-05-03T09:33:08.423258",
+            "last_retested_at_epoch": 1588498388.423258,
+            "last_retested_at_iso": "2020-05-03T09:33:08.423258",
+            "status": "INACTIVE"
+        },
+        "login.lnstagramaccountidentify.xyz": {
+            "included_at_epoch": 1588498388.516545,
+            "included_at_iso": "2020-05-03T09:33:08.516545",
+            "last_retested_at_epoch": 1588498388.516545,
+            "last_retested_at_iso": "2020-05-03T09:33:08.516545",
+            "status": "INACTIVE"
+        },
+        "login.lnstagramverifyidentify.tk": {
+            "included_at_epoch": 1588498388.658522,
+            "included_at_iso": "2020-05-03T09:33:08.658522",
+            "last_retested_at_epoch": 1588498388.658522,
+            "last_retested_at_iso": "2020-05-03T09:33:08.658522",
+            "status": "INACTIVE"
+        },
+        "login.xn--appl-y4d.retrive-verify.com": {
+            "included_at_epoch": 1588498388.752268,
+            "included_at_iso": "2020-05-03T09:33:08.752268",
+            "last_retested_at_epoch": 1588498388.752268,
+            "last_retested_at_iso": "2020-05-03T09:33:08.752268",
+            "status": "INACTIVE"
+        },
+        "login.xn--pl-b9b8dy5a.com.susujandasusumuda.com": {
+            "included_at_epoch": 1588498388.869075,
+            "included_at_iso": "2020-05-03T09:33:08.869075",
+            "last_retested_at_epoch": 1588498388.869075,
+            "last_retested_at_iso": "2020-05-03T09:33:08.869075",
+            "status": "INACTIVE"
+        },
+        "loginfaceb00k.from-ma.com": {
+            "included_at_epoch": 1588498388.962636,
+            "included_at_iso": "2020-05-03T09:33:08.962636",
+            "last_retested_at_epoch": 1588498388.962636,
+            "last_retested_at_iso": "2020-05-03T09:33:08.962636",
+            "status": "INACTIVE"
+        },
+        "loginfaceb00k.sponsornineapps.ml": {
+            "included_at_epoch": 1588498389.286986,
+            "included_at_iso": "2020-05-03T09:33:09.286986",
+            "last_retested_at_epoch": 1588498389.286986,
+            "last_retested_at_iso": "2020-05-03T09:33:09.286986",
+            "status": "INACTIVE"
+        },
+        "logkzudhrg.com": {
+            "included_at_epoch": 1588498389.380308,
+            "included_at_iso": "2020-05-03T09:33:09.380308",
+            "last_retested_at_epoch": 1588498389.380308,
+            "last_retested_at_iso": "2020-05-03T09:33:09.380308",
+            "status": "INACTIVE"
+        },
+        "logoole.yahoo.co.jp": {
+            "included_at_epoch": 1588498390.214421,
+            "included_at_iso": "2020-05-03T09:33:10.214421",
+            "last_retested_at_epoch": 1588498390.214421,
+            "last_retested_at_iso": "2020-05-03T09:33:10.214421",
+            "status": "INACTIVE"
+        },
+        "logs.locarta.co": {
+            "included_at_epoch": 1588498391.032561,
+            "included_at_iso": "2020-05-03T09:33:11.032561",
+            "last_retested_at_epoch": 1588498391.032561,
+            "last_retested_at_iso": "2020-05-03T09:33:11.032561",
+            "status": "INACTIVE"
         }
     }
 }
