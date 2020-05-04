@@ -49125,6 +49125,97 @@
             "last_retested_at_epoch": 1588588923.980499,
             "last_retested_at_iso": "2020-05-04T10:42:03.980499",
             "status": "INACTIVE"
+        },
+        "oougyykaeipzg.bid": {
+            "included_at_epoch": 1588589649.539985,
+            "included_at_iso": "2020-05-04T10:54:09.539985",
+            "last_retested_at_epoch": 1588589649.539985,
+            "last_retested_at_iso": "2020-05-04T10:54:09.539985",
+            "status": "INACTIVE"
+        },
+        "ooutqfslr.com": {
+            "included_at_epoch": 1588589649.922137,
+            "included_at_iso": "2020-05-04T10:54:09.922137",
+            "last_retested_at_epoch": 1588589649.922137,
+            "last_retested_at_iso": "2020-05-04T10:54:09.922137",
+            "status": "INACTIVE"
+        },
+        "oowivxijrgbrzc.bid": {
+            "included_at_epoch": 1588589650.037569,
+            "included_at_iso": "2020-05-04T10:54:10.037569",
+            "last_retested_at_epoch": 1588589650.037569,
+            "last_retested_at_iso": "2020-05-04T10:54:10.037569",
+            "status": "INACTIVE"
+        },
+        "opaalopaa.com": {
+            "included_at_epoch": 1588589650.665371,
+            "included_at_iso": "2020-05-04T10:54:10.665371",
+            "last_retested_at_epoch": 1588589650.665371,
+            "last_retested_at_iso": "2020-05-04T10:54:10.665371",
+            "status": "INACTIVE"
+        },
+        "opawiftgis.com": {
+            "included_at_epoch": 1588589651.025596,
+            "included_at_iso": "2020-05-04T10:54:11.025596",
+            "last_retested_at_epoch": 1588589651.025596,
+            "last_retested_at_iso": "2020-05-04T10:54:11.025596",
+            "status": "INACTIVE"
+        },
+        "opbneuozwyuvpk.com": {
+            "included_at_epoch": 1588589651.64333,
+            "included_at_iso": "2020-05-04T10:54:11.643330",
+            "last_retested_at_epoch": 1588589651.64333,
+            "last_retested_at_iso": "2020-05-04T10:54:11.643330",
+            "status": "INACTIVE"
+        },
+        "opdfugwvncf.bid": {
+            "included_at_epoch": 1588589652.264658,
+            "included_at_iso": "2020-05-04T10:54:12.264658",
+            "last_retested_at_epoch": 1588589652.264658,
+            "last_retested_at_iso": "2020-05-04T10:54:12.264658",
+            "status": "INACTIVE"
+        },
+        "opdmxlsdzd.bid": {
+            "included_at_epoch": 1588589652.381207,
+            "included_at_iso": "2020-05-04T10:54:12.381207",
+            "last_retested_at_epoch": 1588589652.381207,
+            "last_retested_at_iso": "2020-05-04T10:54:12.381207",
+            "status": "INACTIVE"
+        },
+        "open-downloads.net": {
+            "included_at_epoch": 1588589652.49767,
+            "included_at_iso": "2020-05-04T10:54:12.497670",
+            "last_retested_at_epoch": 1588589652.49767,
+            "last_retested_at_iso": "2020-05-04T10:54:12.497670",
+            "status": "INACTIVE"
+        },
+        "openads.ab-daily.by": {
+            "included_at_epoch": 1588589652.83104,
+            "included_at_iso": "2020-05-04T10:54:12.831040",
+            "last_retested_at_epoch": 1588589652.83104,
+            "last_retested_at_iso": "2020-05-04T10:54:12.831040",
+            "status": "INACTIVE"
+        },
+        "opencdb84507.com": {
+            "included_at_epoch": 1588589653.813555,
+            "included_at_iso": "2020-05-04T10:54:13.813555",
+            "last_retested_at_epoch": 1588589653.813555,
+            "last_retested_at_iso": "2020-05-04T10:54:13.813555",
+            "status": "INACTIVE"
+        },
+        "opencdb84508.com": {
+            "included_at_epoch": 1588589654.050892,
+            "included_at_iso": "2020-05-04T10:54:14.050892",
+            "last_retested_at_epoch": 1588589654.050892,
+            "last_retested_at_iso": "2020-05-04T10:54:14.050892",
+            "status": "INACTIVE"
+        },
+        "opencdb84509.com": {
+            "included_at_epoch": 1588589653.932271,
+            "included_at_iso": "2020-05-04T10:54:13.932271",
+            "last_retested_at_epoch": 1588589653.932271,
+            "last_retested_at_iso": "2020-05-04T10:54:13.932271",
+            "status": "INACTIVE"
         }
     }
 }
