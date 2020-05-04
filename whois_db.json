@@ -143148,5 +143148,65 @@
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
         "state": "future"
+    },
+    "pandemicemergencyresponseplan.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "pandemicengineer.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "pandemicengineers.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "pandemicequipment.com": {
+        "epoch": 1648252800.0,
+        "expiration_date": "26-mar-2022",
+        "state": "future"
+    },
+    "pandemicethics.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "pandemicethics.net": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "pandemicfaq.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "pandemicfence.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "pandemicflukits.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "pandemicfoodlist.com": {
+        "epoch": 1646524800.0,
+        "expiration_date": "06-mar-2022",
+        "state": "future"
+    },
+    "pandemicforecast.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "pandemicforesight.com": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
     }
 }
