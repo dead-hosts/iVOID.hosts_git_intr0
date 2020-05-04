@@ -46773,6 +46773,97 @@
             "last_retested_at_epoch": 1588572512.498473,
             "last_retested_at_iso": "2020-05-04T06:08:32.498473",
             "status": "INACTIVE"
+        },
+        "newcustomads.com": {
+            "included_at_epoch": 1588573233.391094,
+            "included_at_iso": "2020-05-04T06:20:33.391094",
+            "last_retested_at_epoch": 1588573233.391094,
+            "last_retested_at_iso": "2020-05-04T06:20:33.391094",
+            "status": "INACTIVE"
+        },
+        "newisnews.info": {
+            "included_at_epoch": 1588573235.23452,
+            "included_at_iso": "2020-05-04T06:20:35.234520",
+            "last_retested_at_epoch": 1588573235.23452,
+            "last_retested_at_iso": "2020-05-04T06:20:35.234520",
+            "status": "INACTIVE"
+        },
+        "newlog1n-app1e1d.gotdns.ch": {
+            "included_at_epoch": 1588573236.703067,
+            "included_at_iso": "2020-05-04T06:20:36.703067",
+            "last_retested_at_epoch": 1588573236.703067,
+            "last_retested_at_iso": "2020-05-04T06:20:36.703067",
+            "status": "INACTIVE"
+        },
+        "newlogin-app1e1d.serveirc.com": {
+            "included_at_epoch": 1588573236.588519,
+            "included_at_iso": "2020-05-04T06:20:36.588519",
+            "last_retested_at_epoch": 1588573236.588519,
+            "last_retested_at_iso": "2020-05-04T06:20:36.588519",
+            "status": "INACTIVE"
+        },
+        "newlostrek.ru": {
+            "included_at_epoch": 1588573236.840923,
+            "included_at_iso": "2020-05-04T06:20:36.840923",
+            "last_retested_at_epoch": 1588573236.840923,
+            "last_retested_at_iso": "2020-05-04T06:20:36.840923",
+            "status": "INACTIVE"
+        },
+        "news-paypa1.com": {
+            "included_at_epoch": 1588573241.468891,
+            "included_at_iso": "2020-05-04T06:20:41.468891",
+            "last_retested_at_epoch": 1588573241.468891,
+            "last_retested_at_iso": "2020-05-04T06:20:41.468891",
+            "status": "INACTIVE"
+        },
+        "news-super.com": {
+            "included_at_epoch": 1588573241.357757,
+            "included_at_iso": "2020-05-04T06:20:41.357757",
+            "last_retested_at_epoch": 1588573241.357757,
+            "last_retested_at_iso": "2020-05-04T06:20:41.357757",
+            "status": "INACTIVE"
+        },
+        "news.rk345dno.ru": {
+            "included_at_epoch": 1588573241.822,
+            "included_at_iso": "2020-05-04T06:20:41.822000",
+            "last_retested_at_epoch": 1588573241.822,
+            "last_retested_at_iso": "2020-05-04T06:20:41.822000",
+            "status": "INACTIVE"
+        },
+        "news.twltter.co.za": {
+            "included_at_epoch": 1588573242.04566,
+            "included_at_iso": "2020-05-04T06:20:42.045660",
+            "last_retested_at_epoch": 1588573242.04566,
+            "last_retested_at_iso": "2020-05-04T06:20:42.045660",
+            "status": "INACTIVE"
+        },
+        "news2you.ru": {
+            "included_at_epoch": 1588573241.934053,
+            "included_at_iso": "2020-05-04T06:20:41.934053",
+            "last_retested_at_epoch": 1588573241.934053,
+            "last_retested_at_iso": "2020-05-04T06:20:41.934053",
+            "status": "INACTIVE"
+        },
+        "newscoronavirus.xyz": {
+            "included_at_epoch": 1588573243.622995,
+            "included_at_iso": "2020-05-04T06:20:43.622995",
+            "last_retested_at_epoch": 1588573243.622995,
+            "last_retested_at_iso": "2020-05-04T06:20:43.622995",
+            "status": "INACTIVE"
+        },
+        "newsonlynews.com": {
+            "included_at_epoch": 1588573245.748523,
+            "included_at_iso": "2020-05-04T06:20:45.748523",
+            "last_retested_at_epoch": 1588573245.748523,
+            "last_retested_at_iso": "2020-05-04T06:20:45.748523",
+            "status": "INACTIVE"
+        },
+        "newtizz.net": {
+            "included_at_epoch": 1588573248.815253,
+            "included_at_iso": "2020-05-04T06:20:48.815253",
+            "last_retested_at_epoch": 1588573248.815253,
+            "last_retested_at_iso": "2020-05-04T06:20:48.815253",
+            "status": "INACTIVE"
         }
     }
 }
