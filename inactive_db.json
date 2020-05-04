@@ -1232,13 +1232,6 @@
             "last_retested_at_iso": "2020-05-01T13:58:04.004921",
             "status": "INACTIVE"
         },
-        "42632zfylf.com": {
-            "included_at_epoch": 1586160287.0,
-            "included_at_iso": "2020-04-06T08:04:47",
-            "last_retested_at_epoch": 1588341484.012768,
-            "last_retested_at_iso": "2020-05-01T13:58:04.012768",
-            "status": "INACTIVE"
-        },
         "45.118.136.92": {
             "included_at_epoch": 1587918955.729414,
             "included_at_iso": "2020-04-26T16:35:55.729414",
