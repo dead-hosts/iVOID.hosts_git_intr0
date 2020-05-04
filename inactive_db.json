@@ -49083,6 +49083,48 @@
             "last_retested_at_epoch": 1588588196.500339,
             "last_retested_at_iso": "2020-05-04T10:29:56.500339",
             "status": "INACTIVE"
+        },
+        "ooqgpbkpmq.bid": {
+            "included_at_epoch": 1588588922.349984,
+            "included_at_iso": "2020-05-04T10:42:02.349984",
+            "last_retested_at_epoch": 1588588922.349984,
+            "last_retested_at_iso": "2020-05-04T10:42:02.349984",
+            "status": "INACTIVE"
+        },
+        "ooqjqnurblp.com": {
+            "included_at_epoch": 1588588922.468972,
+            "included_at_iso": "2020-05-04T10:42:02.468972",
+            "last_retested_at_epoch": 1588588922.468972,
+            "last_retested_at_iso": "2020-05-04T10:42:02.468972",
+            "status": "INACTIVE"
+        },
+        "oosdjdhqayjm.com": {
+            "included_at_epoch": 1588588923.632429,
+            "included_at_iso": "2020-05-04T10:42:03.632429",
+            "last_retested_at_epoch": 1588588923.632429,
+            "last_retested_at_iso": "2020-05-04T10:42:03.632429",
+            "status": "INACTIVE"
+        },
+        "ootloakr.com": {
+            "included_at_epoch": 1588588923.748406,
+            "included_at_iso": "2020-05-04T10:42:03.748406",
+            "last_retested_at_epoch": 1588588923.748406,
+            "last_retested_at_iso": "2020-05-04T10:42:03.748406",
+            "status": "INACTIVE"
+        },
+        "ootqfqjhzfrtn.com": {
+            "included_at_epoch": 1588588923.864532,
+            "included_at_iso": "2020-05-04T10:42:03.864532",
+            "last_retested_at_epoch": 1588588923.864532,
+            "last_retested_at_iso": "2020-05-04T10:42:03.864532",
+            "status": "INACTIVE"
+        },
+        "oouggjayokzx.com": {
+            "included_at_epoch": 1588588923.980499,
+            "included_at_iso": "2020-05-04T10:42:03.980499",
+            "last_retested_at_epoch": 1588588923.980499,
+            "last_retested_at_iso": "2020-05-04T10:42:03.980499",
+            "status": "INACTIVE"
         }
     }
 }
