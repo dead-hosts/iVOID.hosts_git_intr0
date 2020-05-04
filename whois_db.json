@@ -147428,5 +147428,60 @@
         "epoch": 1777248000.0,
         "expiration_date": "27-apr-2026",
         "state": "future"
+    },
+    "popadon.com": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "popads.com": {
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "state": "future"
+    },
+    "popads.media": {
+        "epoch": 1656115200.0,
+        "expiration_date": "25-jun-2022",
+        "state": "future"
+    },
+    "popads.net": {
+        "epoch": 1873584000.0,
+        "expiration_date": "16-may-2029",
+        "state": "future"
+    },
+    "popadscdn.net": {
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "state": "future"
+    },
+    "popander.com": {
+        "epoch": 1641513600.0,
+        "expiration_date": "07-jan-2022",
+        "state": "future"
+    },
+    "popcain.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "popcash.net": {
+        "epoch": 1660348800.0,
+        "expiration_date": "13-aug-2022",
+        "state": "future"
+    },
+    "popcent.net": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
+    },
+    "popclck.net": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
+    "popclck.org": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
     }
 }
