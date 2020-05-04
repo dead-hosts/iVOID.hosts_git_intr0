@@ -47011,6 +47011,62 @@
             "last_retested_at_epoch": 1588573991.406497,
             "last_retested_at_iso": "2020-05-04T06:33:11.406497",
             "status": "INACTIVE"
+        },
+        "nimiqchain.info": {
+            "included_at_epoch": 1588574712.629835,
+            "included_at_iso": "2020-05-04T06:45:12.629835",
+            "last_retested_at_epoch": 1588574712.629835,
+            "last_retested_at_iso": "2020-05-04T06:45:12.629835",
+            "status": "INACTIVE"
+        },
+        "nirqmbrzplvtjr.com": {
+            "included_at_epoch": 1588574715.297464,
+            "included_at_iso": "2020-05-04T06:45:15.297464",
+            "last_retested_at_epoch": 1588574715.297464,
+            "last_retested_at_iso": "2020-05-04T06:45:15.297464",
+            "status": "INACTIVE"
+        },
+        "nitigoly.com": {
+            "included_at_epoch": 1588574716.170581,
+            "included_at_iso": "2020-05-04T06:45:16.170581",
+            "last_retested_at_epoch": 1588574716.170581,
+            "last_retested_at_iso": "2020-05-04T06:45:16.170581",
+            "status": "INACTIVE"
+        },
+        "nitsano.ru": {
+            "included_at_epoch": 1588574716.771206,
+            "included_at_iso": "2020-05-04T06:45:16.771206",
+            "last_retested_at_epoch": 1588574716.771206,
+            "last_retested_at_iso": "2020-05-04T06:45:16.771206",
+            "status": "INACTIVE"
+        },
+        "njeozjhyjb.com": {
+            "included_at_epoch": 1588574719.409694,
+            "included_at_iso": "2020-05-04T06:45:19.409694",
+            "last_retested_at_epoch": 1588574719.409694,
+            "last_retested_at_iso": "2020-05-04T06:45:19.409694",
+            "status": "INACTIVE"
+        },
+        "njgogjkwlzroh.com": {
+            "included_at_epoch": 1588574719.522156,
+            "included_at_iso": "2020-05-04T06:45:19.522156",
+            "last_retested_at_epoch": 1588574719.522156,
+            "last_retested_at_iso": "2020-05-04T06:45:19.522156",
+            "status": "INACTIVE"
+        },
+        "njxjjvyim.com": {
+            "included_at_epoch": 1588574720.771594,
+            "included_at_iso": "2020-05-04T06:45:20.771594",
+            "last_retested_at_epoch": 1588574720.771594,
+            "last_retested_at_iso": "2020-05-04T06:45:20.771594",
+            "status": "INACTIVE"
+        },
+        "nkfqzyqmkp.com": {
+            "included_at_epoch": 1588574720.899252,
+            "included_at_iso": "2020-05-04T06:45:20.899252",
+            "last_retested_at_epoch": 1588574720.899252,
+            "last_retested_at_iso": "2020-05-04T06:45:20.899252",
+            "status": "INACTIVE"
         }
     }
 }
