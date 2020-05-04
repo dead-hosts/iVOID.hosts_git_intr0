@@ -52639,6 +52639,34 @@
             "last_retested_at_epoch": 1588633038.705519,
             "last_retested_at_iso": "2020-05-04T22:57:18.705519",
             "status": "INACTIVE"
+        },
+        "popsuperbbrands.com": {
+            "included_at_epoch": 1588633772.116278,
+            "included_at_iso": "2020-05-04T23:09:32.116278",
+            "last_retested_at_epoch": 1588633772.116278,
+            "last_retested_at_iso": "2020-05-04T23:09:32.116278",
+            "status": "INACTIVE"
+        },
+        "popunderjs.club": {
+            "included_at_epoch": 1588633774.619053,
+            "included_at_iso": "2020-05-04T23:09:34.619053",
+            "last_retested_at_epoch": 1588633774.619053,
+            "last_retested_at_iso": "2020-05-04T23:09:34.619053",
+            "status": "INACTIVE"
+        },
+        "popzkvfimbox.com": {
+            "included_at_epoch": 1588633779.867832,
+            "included_at_iso": "2020-05-04T23:09:39.867832",
+            "last_retested_at_epoch": 1588633779.867832,
+            "last_retested_at_iso": "2020-05-04T23:09:39.867832",
+            "status": "INACTIVE"
+        },
+        "poqqvnychl.com": {
+            "included_at_epoch": 1588633779.992682,
+            "included_at_iso": "2020-05-04T23:09:39.992682",
+            "last_retested_at_epoch": 1588633779.992682,
+            "last_retested_at_iso": "2020-05-04T23:09:39.992682",
+            "status": "INACTIVE"
         }
     }
 }
