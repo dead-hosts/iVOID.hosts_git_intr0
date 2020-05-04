@@ -46402,6 +46402,76 @@
             "last_retested_at_epoch": 1588568288.391426,
             "last_retested_at_iso": "2020-05-04T04:58:08.391426",
             "status": "INACTIVE"
+        },
+        "mydashboardapp1e.servehttp.com": {
+            "included_at_epoch": 1588569328.32086,
+            "included_at_iso": "2020-05-04T05:15:28.320860",
+            "last_retested_at_epoch": 1588569328.32086,
+            "last_retested_at_iso": "2020-05-04T05:15:28.320860",
+            "status": "INACTIVE"
+        },
+        "myfaceb00kpages.ml": {
+            "included_at_epoch": 1588569329.670291,
+            "included_at_iso": "2020-05-04T05:15:29.670291",
+            "last_retested_at_epoch": 1588569329.670291,
+            "last_retested_at_iso": "2020-05-04T05:15:29.670291",
+            "status": "INACTIVE"
+        },
+        "myjj.pyzkk.com": {
+            "included_at_epoch": 1588569331.816391,
+            "included_at_iso": "2020-05-04T05:15:31.816391",
+            "last_retested_at_epoch": 1588569331.816391,
+            "last_retested_at_iso": "2020-05-04T05:15:31.816391",
+            "status": "INACTIVE"
+        },
+        "mykaren.ru": {
+            "included_at_epoch": 1588569331.924105,
+            "included_at_iso": "2020-05-04T05:15:31.924105",
+            "last_retested_at_epoch": 1588569331.924105,
+            "last_retested_at_iso": "2020-05-04T05:15:31.924105",
+            "status": "INACTIVE"
+        },
+        "mynikolaev.vn.ua": {
+            "included_at_epoch": 1588569334.527473,
+            "included_at_iso": "2020-05-04T05:15:34.527473",
+            "last_retested_at_epoch": 1588569334.527473,
+            "last_retested_at_iso": "2020-05-04T05:15:34.527473",
+            "status": "INACTIVE"
+        },
+        "mypaypa1.com": {
+            "included_at_epoch": 1588569337.643511,
+            "included_at_iso": "2020-05-04T05:15:37.643511",
+            "last_retested_at_epoch": 1588569337.643511,
+            "last_retested_at_iso": "2020-05-04T05:15:37.643511",
+            "status": "INACTIVE"
+        },
+        "mypictures-onlinegood.info": {
+            "included_at_epoch": 1588569337.751882,
+            "included_at_iso": "2020-05-04T05:15:37.751882",
+            "last_retested_at_epoch": 1588569337.751882,
+            "last_retested_at_iso": "2020-05-04T05:15:37.751882",
+            "status": "INACTIVE"
+        },
+        "myqvhpjyd.com": {
+            "included_at_epoch": 1588569339.860805,
+            "included_at_iso": "2020-05-04T05:15:39.860805",
+            "last_retested_at_epoch": 1588569339.860805,
+            "last_retested_at_iso": "2020-05-04T05:15:39.860805",
+            "status": "INACTIVE"
+        },
+        "mystreamadpush.link": {
+            "included_at_epoch": 1588569345.401661,
+            "included_at_iso": "2020-05-04T05:15:45.401661",
+            "last_retested_at_epoch": 1588569345.401661,
+            "last_retested_at_iso": "2020-05-04T05:15:45.401661",
+            "status": "INACTIVE"
+        },
+        "mytizer.ru": {
+            "included_at_epoch": 1588569346.216443,
+            "included_at_iso": "2020-05-04T05:15:46.216443",
+            "last_retested_at_epoch": 1588569346.216443,
+            "last_retested_at_iso": "2020-05-04T05:15:46.216443",
+            "status": "INACTIVE"
         }
     }
 }
