@@ -50231,6 +50231,13 @@
             "last_retested_at_epoch": 1588605369.979998,
             "last_retested_at_iso": "2020-05-04T15:16:09.979998",
             "status": "INACTIVE"
+        },
+        "paratingexcret.info": {
+            "included_at_epoch": 1588606095.265875,
+            "included_at_iso": "2020-05-04T15:28:15.265875",
+            "last_retested_at_epoch": 1588606095.265875,
+            "last_retested_at_iso": "2020-05-04T15:28:15.265875",
+            "status": "INACTIVE"
         }
     }
 }

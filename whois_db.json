@@ -144393,5 +144393,25 @@
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
         "state": "future"
+    },
+    "parandeya.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "parcelcreature.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "pardina.ru": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "parding.info": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
     }
 }
