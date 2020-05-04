@@ -142133,5 +142133,55 @@
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
         "state": "future"
+    },
+    "p78lld1s.top": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "pa-oa.com": {
+        "epoch": 1647561600.0,
+        "expiration_date": "18-mar-2022",
+        "state": "future"
+    },
+    "paads.dk": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
+        "state": "past"
+    },
+    "paakkisuvs.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "pacific-yield.com": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
+    },
+    "packanticontagiocoronavirus.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "packcoronavirus.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "packsonikolas.info": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "paclitor.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
+    "pacorona.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
     }
 }
