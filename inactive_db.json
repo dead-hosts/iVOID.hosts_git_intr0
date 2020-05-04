@@ -47228,6 +47228,20 @@
             "last_retested_at_epoch": 1588577244.059174,
             "last_retested_at_iso": "2020-05-04T07:27:24.059174",
             "status": "INACTIVE"
+        },
+        "notif-paypa1.com": {
+            "included_at_epoch": 1588577973.385249,
+            "included_at_iso": "2020-05-04T07:39:33.385249",
+            "last_retested_at_epoch": 1588577973.385249,
+            "last_retested_at_iso": "2020-05-04T07:39:33.385249",
+            "status": "INACTIVE"
+        },
+        "notmsg.smvm.xyz": {
+            "included_at_epoch": 1588577976.43079,
+            "included_at_iso": "2020-05-04T07:39:36.430790",
+            "last_retested_at_epoch": 1588577976.43079,
+            "last_retested_at_iso": "2020-05-04T07:39:36.430790",
+            "status": "INACTIVE"
         }
     }
 }
