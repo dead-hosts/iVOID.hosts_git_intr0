@@ -50133,6 +50133,41 @@
             "last_retested_at_epoch": 1588594316.526682,
             "last_retested_at_iso": "2020-05-04T12:11:56.526682",
             "status": "INACTIVE"
+        },
+        "paddsup.com": {
+            "included_at_epoch": 1588595045.300973,
+            "included_at_iso": "2020-05-04T12:24:05.300973",
+            "last_retested_at_epoch": 1588595045.300973,
+            "last_retested_at_iso": "2020-05-04T12:24:05.300973",
+            "status": "INACTIVE"
+        },
+        "paecbeeavmopbl.com": {
+            "included_at_epoch": 1588595049.486643,
+            "included_at_iso": "2020-05-04T12:24:09.486643",
+            "last_retested_at_epoch": 1588595049.486643,
+            "last_retested_at_iso": "2020-05-04T12:24:09.486643",
+            "status": "INACTIVE"
+        },
+        "pafovocg.bid": {
+            "included_at_epoch": 1588595049.912874,
+            "included_at_iso": "2020-05-04T12:24:09.912874",
+            "last_retested_at_epoch": 1588595049.912874,
+            "last_retested_at_iso": "2020-05-04T12:24:09.912874",
+            "status": "INACTIVE"
+        },
+        "pagaynrbee.com": {
+            "included_at_epoch": 1588595050.295051,
+            "included_at_iso": "2020-05-04T12:24:10.295051",
+            "last_retested_at_epoch": 1588595050.295051,
+            "last_retested_at_iso": "2020-05-04T12:24:10.295051",
+            "status": "INACTIVE"
+        },
+        "paholita.com": {
+            "included_at_epoch": 1588595054.847528,
+            "included_at_iso": "2020-05-04T12:24:14.847528",
+            "last_retested_at_epoch": 1588595054.847528,
+            "last_retested_at_iso": "2020-05-04T12:24:14.847528",
+            "status": "INACTIVE"
         }
     }
 }
