@@ -53108,6 +53108,90 @@
             "last_retested_at_epoch": 1588641902.683423,
             "last_retested_at_iso": "2020-05-05T01:25:02.683423",
             "status": "INACTIVE"
+        },
+        "programresolver.net": {
+            "included_at_epoch": 1588645183.222939,
+            "included_at_iso": "2020-05-05T02:19:43.222939",
+            "last_retested_at_epoch": 1588645183.222939,
+            "last_retested_at_iso": "2020-05-05T02:19:43.222939",
+            "status": "INACTIVE"
+        },
+        "promobagus.com": {
+            "included_at_epoch": 1588645188.82032,
+            "included_at_iso": "2020-05-05T02:19:48.820320",
+            "last_retested_at_epoch": 1588645188.82032,
+            "last_retested_at_iso": "2020-05-05T02:19:48.820320",
+            "status": "INACTIVE"
+        },
+        "promobit.pw": {
+            "included_at_epoch": 1588645189.48259,
+            "included_at_iso": "2020-05-05T02:19:49.482590",
+            "last_retested_at_epoch": 1588645189.48259,
+            "last_retested_at_iso": "2020-05-05T02:19:49.482590",
+            "status": "INACTIVE"
+        },
+        "promobuster.net": {
+            "included_at_epoch": 1588645189.609336,
+            "included_at_iso": "2020-05-05T02:19:49.609336",
+            "last_retested_at_epoch": 1588645189.609336,
+            "last_retested_at_iso": "2020-05-05T02:19:49.609336",
+            "status": "INACTIVE"
+        },
+        "promocenter.biz": {
+            "included_at_epoch": 1588645189.733135,
+            "included_at_iso": "2020-05-05T02:19:49.733135",
+            "last_retested_at_epoch": 1588645189.733135,
+            "last_retested_at_iso": "2020-05-05T02:19:49.733135",
+            "status": "INACTIVE"
+        },
+        "promoloader.com": {
+            "included_at_epoch": 1588645190.679495,
+            "included_at_iso": "2020-05-05T02:19:50.679495",
+            "last_retested_at_epoch": 1588645190.679495,
+            "last_retested_at_iso": "2020-05-05T02:19:50.679495",
+            "status": "INACTIVE"
+        },
+        "promovips.ru": {
+            "included_at_epoch": 1588645192.431321,
+            "included_at_iso": "2020-05-05T02:19:52.431321",
+            "last_retested_at_epoch": 1588645192.431321,
+            "last_retested_at_iso": "2020-05-05T02:19:52.431321",
+            "status": "INACTIVE"
+        },
+        "propelllerads.com": {
+            "included_at_epoch": 1588645196.333884,
+            "included_at_iso": "2020-05-05T02:19:56.333884",
+            "last_retested_at_epoch": 1588645196.333884,
+            "last_retested_at_iso": "2020-05-05T02:19:56.333884",
+            "status": "INACTIVE"
+        },
+        "prosmazke.ru": {
+            "included_at_epoch": 1588645198.433267,
+            "included_at_iso": "2020-05-05T02:19:58.433267",
+            "last_retested_at_epoch": 1588645198.433267,
+            "last_retested_at_iso": "2020-05-05T02:19:58.433267",
+            "status": "INACTIVE"
+        },
+        "prostopartnerka.ru": {
+            "included_at_epoch": 1588645199.675823,
+            "included_at_iso": "2020-05-05T02:19:59.675823",
+            "last_retested_at_epoch": 1588645199.675823,
+            "last_retested_at_iso": "2020-05-05T02:19:59.675823",
+            "status": "INACTIVE"
+        },
+        "protct-suport-app1eid-app1e.com": {
+            "included_at_epoch": 1588645199.799067,
+            "included_at_iso": "2020-05-05T02:19:59.799067",
+            "last_retested_at_epoch": 1588645199.799067,
+            "last_retested_at_iso": "2020-05-05T02:19:59.799067",
+            "status": "INACTIVE"
+        },
+        "protction-suport-app1eid-app1e.com": {
+            "included_at_epoch": 1588645199.921999,
+            "included_at_iso": "2020-05-05T02:19:59.921999",
+            "last_retested_at_epoch": 1588645199.921999,
+            "last_retested_at_iso": "2020-05-05T02:19:59.921999",
+            "status": "INACTIVE"
         }
     }
 }
