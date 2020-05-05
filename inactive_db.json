@@ -56776,6 +56776,13 @@
             "last_retested_at_epoch": 1588675934.242941,
             "last_retested_at_iso": "2020-05-05T10:52:14.242941",
             "status": "INACTIVE"
+        },
+        "re.lnstagram-copyrightsupport.ga": {
+            "included_at_epoch": 1588676658.370523,
+            "included_at_iso": "2020-05-05T11:04:18.370523",
+            "last_retested_at_epoch": 1588676658.370523,
+            "last_retested_at_iso": "2020-05-05T11:04:18.370523",
+            "status": "INACTIVE"
         }
     }
 }
