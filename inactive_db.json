@@ -56573,6 +56573,13 @@
             "last_retested_at_epoch": 1588672997.664192,
             "last_retested_at_iso": "2020-05-05T10:03:17.664192",
             "status": "INACTIVE"
+        },
+        "r.qip.ru": {
+            "included_at_epoch": 1588673721.934351,
+            "included_at_iso": "2020-05-05T10:15:21.934351",
+            "last_retested_at_epoch": 1588673721.934351,
+            "last_retested_at_iso": "2020-05-05T10:15:21.934351",
+            "status": "INACTIVE"
         }
     }
 }
