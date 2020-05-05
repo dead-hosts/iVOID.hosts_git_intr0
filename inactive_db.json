@@ -57511,6 +57511,97 @@
             "last_retested_at_epoch": 1588691763.113197,
             "last_retested_at_iso": "2020-05-05T15:16:03.113197",
             "status": "INACTIVE"
+        },
+        "rolkakuksa.com": {
+            "included_at_epoch": 1588695552.119096,
+            "included_at_iso": "2020-05-05T16:19:12.119096",
+            "last_retested_at_epoch": 1588695552.119096,
+            "last_retested_at_iso": "2020-05-05T16:19:12.119096",
+            "status": "INACTIVE"
+        },
+        "romeoforum.com": {
+            "included_at_epoch": 1588695553.913547,
+            "included_at_iso": "2020-05-05T16:19:13.913547",
+            "last_retested_at_epoch": 1588695553.913547,
+            "last_retested_at_iso": "2020-05-05T16:19:13.913547",
+            "status": "INACTIVE"
+        },
+        "rookads.com": {
+            "included_at_epoch": 1588695556.812329,
+            "included_at_iso": "2020-05-05T16:19:16.812329",
+            "last_retested_at_epoch": 1588695556.812329,
+            "last_retested_at_iso": "2020-05-05T16:19:16.812329",
+            "status": "INACTIVE"
+        },
+        "ropkrhilt.com": {
+            "included_at_epoch": 1588695558.047017,
+            "included_at_iso": "2020-05-05T16:19:18.047017",
+            "last_retested_at_epoch": 1588695558.047017,
+            "last_retested_at_iso": "2020-05-05T16:19:18.047017",
+            "status": "INACTIVE"
+        },
+        "rotabetaffiliates.com": {
+            "included_at_epoch": 1588695561.125616,
+            "included_at_iso": "2020-05-05T16:19:21.125616",
+            "last_retested_at_epoch": 1588695561.125616,
+            "last_retested_at_iso": "2020-05-05T16:19:21.125616",
+            "status": "INACTIVE"
+        },
+        "rotibald.com": {
+            "included_at_epoch": 1588695562.159445,
+            "included_at_iso": "2020-05-05T16:19:22.159445",
+            "last_retested_at_epoch": 1588695562.159445,
+            "last_retested_at_iso": "2020-05-05T16:19:22.159445",
+            "status": "INACTIVE"
+        },
+        "roundfortred.ru": {
+            "included_at_epoch": 1588695563.686241,
+            "included_at_iso": "2020-05-05T16:19:23.686241",
+            "last_retested_at_epoch": 1588695563.686241,
+            "last_retested_at_iso": "2020-05-05T16:19:23.686241",
+            "status": "INACTIVE"
+        },
+        "rouvpebtazdlq.com": {
+            "included_at_epoch": 1588695565.28453,
+            "included_at_iso": "2020-05-05T16:19:25.284530",
+            "last_retested_at_epoch": 1588695565.28453,
+            "last_retested_at_iso": "2020-05-05T16:19:25.284530",
+            "status": "INACTIVE"
+        },
+        "rpcncuzsmpni.com": {
+            "included_at_epoch": 1588695569.129441,
+            "included_at_iso": "2020-05-05T16:19:29.129441",
+            "last_retested_at_epoch": 1588695569.129441,
+            "last_retested_at_iso": "2020-05-05T16:19:29.129441",
+            "status": "INACTIVE"
+        },
+        "rpzcwgrpbkltp.com": {
+            "included_at_epoch": 1588695571.037043,
+            "included_at_iso": "2020-05-05T16:19:31.037043",
+            "last_retested_at_epoch": 1588695571.037043,
+            "last_retested_at_iso": "2020-05-05T16:19:31.037043",
+            "status": "INACTIVE"
+        },
+        "rqaobxvj.com": {
+            "included_at_epoch": 1588695571.484818,
+            "included_at_iso": "2020-05-05T16:19:31.484818",
+            "last_retested_at_epoch": 1588695571.484818,
+            "last_retested_at_iso": "2020-05-05T16:19:31.484818",
+            "status": "INACTIVE"
+        },
+        "rqigvkwoqafpjz.com": {
+            "included_at_epoch": 1588695571.620207,
+            "included_at_iso": "2020-05-05T16:19:31.620207",
+            "last_retested_at_epoch": 1588695571.620207,
+            "last_retested_at_iso": "2020-05-05T16:19:31.620207",
+            "status": "INACTIVE"
+        },
+        "rqndohbkuer.com": {
+            "included_at_epoch": 1588695572.043078,
+            "included_at_iso": "2020-05-05T16:19:32.043078",
+            "last_retested_at_epoch": 1588695572.043078,
+            "last_retested_at_iso": "2020-05-05T16:19:32.043078",
+            "status": "INACTIVE"
         }
     }
 }
