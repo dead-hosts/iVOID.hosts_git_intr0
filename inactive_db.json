@@ -56804,6 +56804,69 @@
             "last_retested_at_epoch": 1588677405.591494,
             "last_retested_at_iso": "2020-05-05T11:16:45.591494",
             "status": "INACTIVE"
+        },
+        "rec.x-lift.jp": {
+            "included_at_epoch": 1588678135.649372,
+            "included_at_iso": "2020-05-05T11:28:55.649372",
+            "last_retested_at_epoch": 1588678135.649372,
+            "last_retested_at_iso": "2020-05-05T11:28:55.649372",
+            "status": "INACTIVE"
+        },
+        "recallen.info": {
+            "included_at_epoch": 1588678135.785413,
+            "included_at_iso": "2020-05-05T11:28:55.785413",
+            "last_retested_at_epoch": 1588678135.785413,
+            "last_retested_at_iso": "2020-05-05T11:28:55.785413",
+            "status": "INACTIVE"
+        },
+        "rece1vedn0tice-m0re-app1es3rv1c3upd4t3.d-e-rr-es.com": {
+            "included_at_epoch": 1588678136.312016,
+            "included_at_iso": "2020-05-05T11:28:56.312016",
+            "last_retested_at_epoch": 1588678136.312016,
+            "last_retested_at_iso": "2020-05-05T11:28:56.312016",
+            "status": "INACTIVE"
+        },
+        "recent-update-authentication-subpaypa1.com": {
+            "included_at_epoch": 1588678136.181046,
+            "included_at_iso": "2020-05-05T11:28:56.181046",
+            "last_retested_at_epoch": 1588678136.181046,
+            "last_retested_at_iso": "2020-05-05T11:28:56.181046",
+            "status": "INACTIVE"
+        },
+        "reconfirm-market-facebo0k.com": {
+            "included_at_epoch": 1588678140.010324,
+            "included_at_iso": "2020-05-05T11:29:00.010324",
+            "last_retested_at_epoch": 1588678140.010324,
+            "last_retested_at_iso": "2020-05-05T11:29:00.010324",
+            "status": "INACTIVE"
+        },
+        "recoverrryasitalycovid-19.xyz": {
+            "included_at_epoch": 1588678141.013114,
+            "included_at_iso": "2020-05-05T11:29:01.013114",
+            "last_retested_at_epoch": 1588678141.013114,
+            "last_retested_at_iso": "2020-05-05T11:29:01.013114",
+            "status": "INACTIVE"
+        },
+        "recovidapp.com": {
+            "included_at_epoch": 1588678142.223601,
+            "included_at_iso": "2020-05-05T11:29:02.223601",
+            "last_retested_at_epoch": 1588678142.223601,
+            "last_retested_at_iso": "2020-05-05T11:29:02.223601",
+            "status": "INACTIVE"
+        },
+        "recvery-protection-apleid-app1e.com": {
+            "included_at_epoch": 1588678144.067342,
+            "included_at_iso": "2020-05-05T11:29:04.067342",
+            "last_retested_at_epoch": 1588678144.067342,
+            "last_retested_at_iso": "2020-05-05T11:29:04.067342",
+            "status": "INACTIVE"
+        },
+        "redir2.super-ofertas-smart-tv.xyz": {
+            "included_at_epoch": 1588678149.990795,
+            "included_at_iso": "2020-05-05T11:29:09.990795",
+            "last_retested_at_epoch": 1588678149.990795,
+            "last_retested_at_iso": "2020-05-05T11:29:09.990795",
+            "status": "INACTIVE"
         }
     }
 }
