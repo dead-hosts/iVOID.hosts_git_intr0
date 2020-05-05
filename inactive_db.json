@@ -57805,6 +57805,48 @@
             "last_retested_at_epoch": 1588697375.747688,
             "last_retested_at_iso": "2020-05-05T16:49:35.747688",
             "status": "INACTIVE"
+        },
+        "runwtxeisppmt.com": {
+            "included_at_epoch": 1588712354.250638,
+            "included_at_iso": "2020-05-05T20:59:14.250638",
+            "last_retested_at_epoch": 1588712354.250638,
+            "last_retested_at_iso": "2020-05-05T20:59:14.250638",
+            "status": "INACTIVE"
+        },
+        "ruodzaboyf.com": {
+            "included_at_epoch": 1588712354.4189,
+            "included_at_iso": "2020-05-05T20:59:14.418900",
+            "last_retested_at_epoch": 1588712354.4189,
+            "last_retested_at_iso": "2020-05-05T20:59:14.418900",
+            "status": "INACTIVE"
+        },
+        "ruschopi.ru": {
+            "included_at_epoch": 1588712354.832259,
+            "included_at_iso": "2020-05-05T20:59:14.832259",
+            "last_retested_at_epoch": 1588712354.832259,
+            "last_retested_at_iso": "2020-05-05T20:59:14.832259",
+            "status": "INACTIVE"
+        },
+        "rustds.click": {
+            "included_at_epoch": 1588712356.100348,
+            "included_at_iso": "2020-05-05T20:59:16.100348",
+            "last_retested_at_epoch": 1588712356.100348,
+            "last_retested_at_iso": "2020-05-05T20:59:16.100348",
+            "status": "INACTIVE"
+        },
+        "rutorads.com": {
+            "included_at_epoch": 1588712357.073224,
+            "included_at_iso": "2020-05-05T20:59:17.073224",
+            "last_retested_at_epoch": 1588712357.073224,
+            "last_retested_at_iso": "2020-05-05T20:59:17.073224",
+            "status": "INACTIVE"
+        },
+        "ruunews.info": {
+            "included_at_epoch": 1588712358.594759,
+            "included_at_iso": "2020-05-05T20:59:18.594759",
+            "last_retested_at_epoch": 1588712358.594759,
+            "last_retested_at_iso": "2020-05-05T20:59:18.594759",
+            "status": "INACTIVE"
         }
     }
 }
