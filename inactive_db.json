@@ -56783,6 +56783,27 @@
             "last_retested_at_epoch": 1588676658.370523,
             "last_retested_at_iso": "2020-05-05T11:04:18.370523",
             "status": "INACTIVE"
+        },
+        "realitance.com": {
+            "included_at_epoch": 1588677401.428574,
+            "included_at_iso": "2020-05-05T11:16:41.428574",
+            "last_retested_at_epoch": 1588677401.428574,
+            "last_retested_at_iso": "2020-05-05T11:16:41.428574",
+            "status": "INACTIVE"
+        },
+        "realnwspfbumn.com": {
+            "included_at_epoch": 1588677403.481275,
+            "included_at_iso": "2020-05-05T11:16:43.481275",
+            "last_retested_at_epoch": 1588677403.481275,
+            "last_retested_at_iso": "2020-05-05T11:16:43.481275",
+            "status": "INACTIVE"
+        },
+        "realtimeplease.com": {
+            "included_at_epoch": 1588677405.591494,
+            "included_at_iso": "2020-05-05T11:16:45.591494",
+            "last_retested_at_epoch": 1588677405.591494,
+            "last_retested_at_iso": "2020-05-05T11:16:45.591494",
+            "status": "INACTIVE"
         }
     }
 }
