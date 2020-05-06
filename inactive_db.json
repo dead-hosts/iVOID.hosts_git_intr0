@@ -60465,6 +60465,20 @@
             "last_retested_at_epoch": 1588785230.126692,
             "last_retested_at_iso": "2020-05-06T17:13:50.126692",
             "status": "INACTIVE"
+        },
+        "stablemoney.ru": {
+            "included_at_epoch": 1588785959.72865,
+            "included_at_iso": "2020-05-06T17:25:59.728650",
+            "last_retested_at_epoch": 1588785959.72865,
+            "last_retested_at_iso": "2020-05-06T17:25:59.728650",
+            "status": "INACTIVE"
+        },
+        "stagens.com": {
+            "included_at_epoch": 1588785961.433482,
+            "included_at_iso": "2020-05-06T17:26:01.433482",
+            "last_retested_at_epoch": 1588785961.433482,
+            "last_retested_at_iso": "2020-05-06T17:26:01.433482",
+            "status": "INACTIVE"
         }
     }
 }
