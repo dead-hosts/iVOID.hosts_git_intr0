@@ -60283,6 +60283,20 @@
             "last_retested_at_epoch": 1588771523.464112,
             "last_retested_at_iso": "2020-05-06T13:25:23.464112",
             "status": "INACTIVE"
+        },
+        "sp.centralfloridafuture.com": {
+            "included_at_epoch": 1588772249.130594,
+            "included_at_iso": "2020-05-06T13:37:29.130594",
+            "last_retested_at_epoch": 1588772249.130594,
+            "last_retested_at_iso": "2020-05-06T13:37:29.130594",
+            "status": "INACTIVE"
+        },
+        "sparebnk1-innloging-pamobile.com": {
+            "included_at_epoch": 1588772256.468361,
+            "included_at_iso": "2020-05-06T13:37:36.468361",
+            "last_retested_at_epoch": 1588772256.468361,
+            "last_retested_at_iso": "2020-05-06T13:37:36.468361",
+            "status": "INACTIVE"
         }
     }
 }
