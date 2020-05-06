@@ -60269,6 +60269,20 @@
             "last_retested_at_epoch": 1588770555.484618,
             "last_retested_at_iso": "2020-05-06T13:09:15.484618",
             "status": "INACTIVE"
+        },
+        "sosbyncpkyw.com": {
+            "included_at_epoch": 1588771521.322945,
+            "included_at_iso": "2020-05-06T13:25:21.322945",
+            "last_retested_at_epoch": 1588771521.322945,
+            "last_retested_at_iso": "2020-05-06T13:25:21.322945",
+            "status": "INACTIVE"
+        },
+        "source.esportsheaven.com": {
+            "included_at_epoch": 1588771523.464112,
+            "included_at_iso": "2020-05-06T13:25:23.464112",
+            "last_retested_at_epoch": 1588771523.464112,
+            "last_retested_at_iso": "2020-05-06T13:25:23.464112",
+            "status": "INACTIVE"
         }
     }
 }
