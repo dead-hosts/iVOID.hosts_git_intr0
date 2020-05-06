@@ -59170,6 +59170,76 @@
             "last_retested_at_epoch": 1588737945.607322,
             "last_retested_at_iso": "2020-05-06T04:05:45.607322",
             "status": "INACTIVE"
+        },
+        "sensors.snaptubeapp.com": {
+            "included_at_epoch": 1588738932.341971,
+            "included_at_iso": "2020-05-06T04:22:12.341971",
+            "last_retested_at_epoch": 1588738932.341971,
+            "last_retested_at_iso": "2020-05-06T04:22:12.341971",
+            "status": "INACTIVE"
+        },
+        "sentry.fastboot.mobi": {
+            "included_at_epoch": 1588738933.116332,
+            "included_at_iso": "2020-05-06T04:22:13.116332",
+            "last_retested_at_epoch": 1588738933.116332,
+            "last_retested_at_iso": "2020-05-06T04:22:13.116332",
+            "status": "INACTIVE"
+        },
+        "sepyqhipq.com": {
+            "included_at_epoch": 1588738938.446212,
+            "included_at_iso": "2020-05-06T04:22:18.446212",
+            "last_retested_at_epoch": 1588738938.446212,
+            "last_retested_at_iso": "2020-05-06T04:22:18.446212",
+            "status": "INACTIVE"
+        },
+        "servantolog.ru": {
+            "included_at_epoch": 1588738944.997077,
+            "included_at_iso": "2020-05-06T04:22:24.997077",
+            "last_retested_at_epoch": 1588738944.997077,
+            "last_retested_at_iso": "2020-05-06T04:22:24.997077",
+            "status": "INACTIVE"
+        },
+        "servce-authlogin-paypa1l.com.services-access-supports.gq": {
+            "included_at_epoch": 1588738944.857013,
+            "included_at_iso": "2020-05-06T04:22:24.857013",
+            "last_retested_at_epoch": 1588738944.857013,
+            "last_retested_at_iso": "2020-05-06T04:22:24.857013",
+            "status": "INACTIVE"
+        },
+        "server.freegamesall.com": {
+            "included_at_epoch": 1588738948.519787,
+            "included_at_iso": "2020-05-06T04:22:28.519787",
+            "last_retested_at_epoch": 1588738948.519787,
+            "last_retested_at_iso": "2020-05-06T04:22:28.519787",
+            "status": "INACTIVE"
+        },
+        "server.jsecoin.com": {
+            "included_at_epoch": 1588738948.757855,
+            "included_at_iso": "2020-05-06T04:22:28.757855",
+            "last_retested_at_epoch": 1588738948.757855,
+            "last_retested_at_iso": "2020-05-06T04:22:28.757855",
+            "status": "INACTIVE"
+        },
+        "server.roolim.ru": {
+            "included_at_epoch": 1588738948.929893,
+            "included_at_iso": "2020-05-06T04:22:28.929893",
+            "last_retested_at_epoch": 1588738948.929893,
+            "last_retested_at_iso": "2020-05-06T04:22:28.929893",
+            "status": "INACTIVE"
+        },
+        "server1.lnstagramthecopyright.com": {
+            "included_at_epoch": 1588738949.10353,
+            "included_at_iso": "2020-05-06T04:22:29.103530",
+            "last_retested_at_epoch": 1588738949.10353,
+            "last_retested_at_iso": "2020-05-06T04:22:29.103530",
+            "status": "INACTIVE"
+        },
+        "serverbest.xyz": {
+            "included_at_epoch": 1588738949.245683,
+            "included_at_iso": "2020-05-06T04:22:29.245683",
+            "last_retested_at_epoch": 1588738949.245683,
+            "last_retested_at_iso": "2020-05-06T04:22:29.245683",
+            "status": "INACTIVE"
         }
     }
 }
