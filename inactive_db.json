@@ -58071,6 +58071,41 @@
             "last_retested_at_epoch": 1588727121.071336,
             "last_retested_at_iso": "2020-05-06T01:05:21.071336",
             "status": "INACTIVE"
+        },
+        "sam.setimedia.com": {
+            "included_at_epoch": 1588728422.601579,
+            "included_at_iso": "2020-05-06T01:27:02.601579",
+            "last_retested_at_epoch": 1588728422.601579,
+            "last_retested_at_iso": "2020-05-06T01:27:02.601579",
+            "status": "INACTIVE"
+        },
+        "samjohnson.l-lnstagram.ga": {
+            "included_at_epoch": 1588728424.696194,
+            "included_at_iso": "2020-05-06T01:27:04.696194",
+            "last_retested_at_epoch": 1588728424.696194,
+            "last_retested_at_iso": "2020-05-06T01:27:04.696194",
+            "status": "INACTIVE"
+        },
+        "sandensi.ru": {
+            "included_at_epoch": 1588728427.438051,
+            "included_at_iso": "2020-05-06T01:27:07.438051",
+            "last_retested_at_epoch": 1588728427.438051,
+            "last_retested_at_iso": "2020-05-06T01:27:07.438051",
+            "status": "INACTIVE"
+        },
+        "sapere.seed4.me": {
+            "included_at_epoch": 1588728432.381592,
+            "included_at_iso": "2020-05-06T01:27:12.381592",
+            "last_retested_at_epoch": 1588728432.381592,
+            "last_retested_at_iso": "2020-05-06T01:27:12.381592",
+            "status": "INACTIVE"
+        },
+        "sapmedia.ru": {
+            "included_at_epoch": 1588728433.063662,
+            "included_at_iso": "2020-05-06T01:27:13.063662",
+            "last_retested_at_epoch": 1588728433.063662,
+            "last_retested_at_iso": "2020-05-06T01:27:13.063662",
+            "status": "INACTIVE"
         }
     }
 }
