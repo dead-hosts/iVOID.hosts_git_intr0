@@ -57966,6 +57966,48 @@
             "last_retested_at_epoch": 1588724751.107279,
             "last_retested_at_iso": "2020-05-06T00:25:51.107279",
             "status": "INACTIVE"
+        },
+        "s.zsxpx.com": {
+            "included_at_epoch": 1588725521.050858,
+            "included_at_iso": "2020-05-06T00:38:41.050858",
+            "last_retested_at_epoch": 1588725521.050858,
+            "last_retested_at_iso": "2020-05-06T00:38:41.050858",
+            "status": "INACTIVE"
+        },
+        "s1.adguard.com": {
+            "included_at_epoch": 1588725521.478338,
+            "included_at_iso": "2020-05-06T00:38:41.478338",
+            "last_retested_at_epoch": 1588725521.478338,
+            "last_retested_at_iso": "2020-05-06T00:38:41.478338",
+            "status": "INACTIVE"
+        },
+        "s1gn-acc0untshelpcntersapp1eldcsrvice5687.dipaksacrot.com": {
+            "included_at_epoch": 1588725522.154807,
+            "included_at_iso": "2020-05-06T00:38:42.154807",
+            "last_retested_at_epoch": 1588725522.154807,
+            "last_retested_at_iso": "2020-05-06T00:38:42.154807",
+            "status": "INACTIVE"
+        },
+        "s1gn-acc0untshelpcntersapp1eldcsrvice6413.dipaksacrot.com": {
+            "included_at_epoch": 1588725522.29373,
+            "included_at_iso": "2020-05-06T00:38:42.293730",
+            "last_retested_at_epoch": 1588725522.29373,
+            "last_retested_at_iso": "2020-05-06T00:38:42.293730",
+            "status": "INACTIVE"
+        },
+        "s1gnacc0unts-app1eldhelpcnters.memekanggur.biz": {
+            "included_at_epoch": 1588725522.570088,
+            "included_at_iso": "2020-05-06T00:38:42.570088",
+            "last_retested_at_epoch": 1588725522.570088,
+            "last_retested_at_iso": "2020-05-06T00:38:42.570088",
+            "status": "INACTIVE"
+        },
+        "s1gnacc0untshelpcntersapp1eldcsrvice4684.dipaksacrot.com": {
+            "included_at_epoch": 1588725522.431593,
+            "included_at_iso": "2020-05-06T00:38:42.431593",
+            "last_retested_at_epoch": 1588725522.431593,
+            "last_retested_at_iso": "2020-05-06T00:38:42.431593",
+            "status": "INACTIVE"
         }
     }
 }
