@@ -60542,6 +60542,83 @@
             "last_retested_at_epoch": 1588787409.817229,
             "last_retested_at_iso": "2020-05-06T17:50:09.817229",
             "status": "INACTIVE"
+        },
+        "static.cfgr3.com": {
+            "included_at_epoch": 1588788134.987435,
+            "included_at_iso": "2020-05-06T18:02:14.987435",
+            "last_retested_at_epoch": 1588788134.987435,
+            "last_retested_at_iso": "2020-05-06T18:02:14.987435",
+            "status": "INACTIVE"
+        },
+        "static.drop.self.lnstagram.uk": {
+            "included_at_epoch": 1588788135.506775,
+            "included_at_iso": "2020-05-06T18:02:15.506775",
+            "last_retested_at_epoch": 1588788135.506775,
+            "last_retested_at_iso": "2020-05-06T18:02:15.506775",
+            "status": "INACTIVE"
+        },
+        "static.faceb00k.com.alerts-security.cf": {
+            "included_at_epoch": 1588788135.833335,
+            "included_at_iso": "2020-05-06T18:02:15.833335",
+            "last_retested_at_epoch": 1588788135.833335,
+            "last_retested_at_iso": "2020-05-06T18:02:15.833335",
+            "status": "INACTIVE"
+        },
+        "static.faceb00kauth.com.authd.ml": {
+            "included_at_epoch": 1588788136.066686,
+            "included_at_iso": "2020-05-06T18:02:16.066686",
+            "last_retested_at_epoch": 1588788136.066686,
+            "last_retested_at_iso": "2020-05-06T18:02:16.066686",
+            "status": "INACTIVE"
+        },
+        "static.faceb00kk.ml": {
+            "included_at_epoch": 1588788136.205274,
+            "included_at_iso": "2020-05-06T18:02:16.205274",
+            "last_retested_at_epoch": 1588788136.205274,
+            "last_retested_at_iso": "2020-05-06T18:02:16.205274",
+            "status": "INACTIVE"
+        },
+        "static.facebo0k.eu13.ovh": {
+            "included_at_epoch": 1588788136.499463,
+            "included_at_iso": "2020-05-06T18:02:16.499463",
+            "last_retested_at_epoch": 1588788136.499463,
+            "last_retested_at_iso": "2020-05-06T18:02:16.499463",
+            "status": "INACTIVE"
+        },
+        "static.facebo0k.evilginx2.chapaliz.com": {
+            "included_at_epoch": 1588788136.359547,
+            "included_at_iso": "2020-05-06T18:02:16.359547",
+            "last_retested_at_epoch": 1588788136.359547,
+            "last_retested_at_iso": "2020-05-06T18:02:16.359547",
+            "status": "INACTIVE"
+        },
+        "static.lnstagram.link": {
+            "included_at_epoch": 1588788137.357375,
+            "included_at_iso": "2020-05-06T18:02:17.357375",
+            "last_retested_at_epoch": 1588788137.357375,
+            "last_retested_at_iso": "2020-05-06T18:02:17.357375",
+            "status": "INACTIVE"
+        },
+        "static.v.faceb00kk.ml": {
+            "included_at_epoch": 1588788138.841294,
+            "included_at_iso": "2020-05-06T18:02:18.841294",
+            "last_retested_at_epoch": 1588788138.841294,
+            "last_retested_at_iso": "2020-05-06T18:02:18.841294",
+            "status": "INACTIVE"
+        },
+        "static.www.faceb00kk.ml": {
+            "included_at_epoch": 1588788139.076544,
+            "included_at_iso": "2020-05-06T18:02:19.076544",
+            "last_retested_at_epoch": 1588788139.076544,
+            "last_retested_at_iso": "2020-05-06T18:02:19.076544",
+            "status": "INACTIVE"
+        },
+        "static.xn--fcebook-login-authentication-com-dpz.cyberacademy.pro": {
+            "included_at_epoch": 1588788139.219769,
+            "included_at_iso": "2020-05-06T18:02:19.219769",
+            "last_retested_at_epoch": 1588788139.219769,
+            "last_retested_at_iso": "2020-05-06T18:02:19.219769",
+            "status": "INACTIVE"
         }
     }
 }
