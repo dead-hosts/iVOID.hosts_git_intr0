@@ -157983,5 +157983,15 @@
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
         "state": "future"
+    },
+    "s-manager.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "s-onetag.com": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     }
 }
