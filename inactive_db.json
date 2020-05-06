@@ -60409,6 +60409,48 @@
             "last_retested_at_epoch": 1588775689.86712,
             "last_retested_at_iso": "2020-05-06T14:34:49.867120",
             "status": "INACTIVE"
+        },
+        "ssc.appl.kp.org": {
+            "included_at_epoch": 1588776411.385199,
+            "included_at_iso": "2020-05-06T14:46:51.385199",
+            "last_retested_at_epoch": 1588776411.385199,
+            "last_retested_at_iso": "2020-05-06T14:46:51.385199",
+            "status": "INACTIVE"
+        },
+        "ssdsylfzav.com": {
+            "included_at_epoch": 1588776412.765501,
+            "included_at_iso": "2020-05-06T14:46:52.765501",
+            "last_retested_at_epoch": 1588776412.765501,
+            "last_retested_at_iso": "2020-05-06T14:46:52.765501",
+            "status": "INACTIVE"
+        },
+        "sseccurity-faceb0ok.com": {
+            "included_at_epoch": 1588776412.908581,
+            "included_at_iso": "2020-05-06T14:46:52.908581",
+            "last_retested_at_epoch": 1588776412.908581,
+            "last_retested_at_iso": "2020-05-06T14:46:52.908581",
+            "status": "INACTIVE"
+        },
+        "ssl4go.ga": {
+            "included_at_epoch": 1588776416.459213,
+            "included_at_iso": "2020-05-06T14:46:56.459213",
+            "last_retested_at_epoch": 1588776416.459213,
+            "last_retested_at_iso": "2020-05-06T14:46:56.459213",
+            "status": "INACTIVE"
+        },
+        "ssl4us.gq": {
+            "included_at_epoch": 1588776416.316414,
+            "included_at_iso": "2020-05-06T14:46:56.316414",
+            "last_retested_at_epoch": 1588776416.316414,
+            "last_retested_at_iso": "2020-05-06T14:46:56.316414",
+            "status": "INACTIVE"
+        },
+        "sslboost.com": {
+            "included_at_epoch": 1588776416.601742,
+            "included_at_iso": "2020-05-06T14:46:56.601742",
+            "last_retested_at_epoch": 1588776416.601742,
+            "last_retested_at_iso": "2020-05-06T14:46:56.601742",
+            "status": "INACTIVE"
         }
     }
 }
