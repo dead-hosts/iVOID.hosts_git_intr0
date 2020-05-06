@@ -60339,6 +60339,34 @@
             "last_retested_at_epoch": 1588773494.798158,
             "last_retested_at_iso": "2020-05-06T13:58:14.798158",
             "status": "INACTIVE"
+        },
+        "sprtgtbckapp1e.com": {
+            "included_at_epoch": 1588774223.96709,
+            "included_at_iso": "2020-05-06T14:10:23.967090",
+            "last_retested_at_epoch": 1588774223.96709,
+            "last_retested_at_iso": "2020-05-06T14:10:23.967090",
+            "status": "INACTIVE"
+        },
+        "spunto.ru": {
+            "included_at_epoch": 1588774225.008043,
+            "included_at_iso": "2020-05-06T14:10:25.008043",
+            "last_retested_at_epoch": 1588774225.008043,
+            "last_retested_at_iso": "2020-05-06T14:10:25.008043",
+            "status": "INACTIVE"
+        },
+        "spwssohsyqgq.com": {
+            "included_at_epoch": 1588774226.31889,
+            "included_at_iso": "2020-05-06T14:10:26.318890",
+            "last_retested_at_epoch": 1588774226.31889,
+            "last_retested_at_iso": "2020-05-06T14:10:26.318890",
+            "status": "INACTIVE"
+        },
+        "sqnkkpba.com": {
+            "included_at_epoch": 1588774230.649593,
+            "included_at_iso": "2020-05-06T14:10:30.649593",
+            "last_retested_at_epoch": 1588774230.649593,
+            "last_retested_at_iso": "2020-05-06T14:10:30.649593",
+            "status": "INACTIVE"
         }
     }
 }
