@@ -60479,6 +60479,62 @@
             "last_retested_at_epoch": 1588785961.433482,
             "last_retested_at_iso": "2020-05-06T17:26:01.433482",
             "status": "INACTIVE"
+        },
+        "staging.app1ec2.stewing.xyz": {
+            "included_at_epoch": 1588786680.672263,
+            "included_at_iso": "2020-05-06T17:38:00.672263",
+            "last_retested_at_epoch": 1588786680.672263,
+            "last_retested_at_iso": "2020-05-06T17:38:00.672263",
+            "status": "INACTIVE"
+        },
+        "staging.fakebook.cucybersecurityclub.com": {
+            "included_at_epoch": 1588786680.818579,
+            "included_at_iso": "2020-05-06T17:38:00.818579",
+            "last_retested_at_epoch": 1588786680.818579,
+            "last_retested_at_iso": "2020-05-06T17:38:00.818579",
+            "status": "INACTIVE"
+        },
+        "stampshire.info": {
+            "included_at_epoch": 1588786682.439752,
+            "included_at_iso": "2020-05-06T17:38:02.439752",
+            "last_retested_at_epoch": 1588786682.439752,
+            "last_retested_at_iso": "2020-05-06T17:38:02.439752",
+            "status": "INACTIVE"
+        },
+        "stars-qa.appl.kp.org": {
+            "included_at_epoch": 1588786685.593078,
+            "included_at_iso": "2020-05-06T17:38:05.593078",
+            "last_retested_at_epoch": 1588786685.593078,
+            "last_retested_at_iso": "2020-05-06T17:38:05.593078",
+            "status": "INACTIVE"
+        },
+        "startstat.ru": {
+            "included_at_epoch": 1588786688.301426,
+            "included_at_iso": "2020-05-06T17:38:08.301426",
+            "last_retested_at_epoch": 1588786688.301426,
+            "last_retested_at_iso": "2020-05-06T17:38:08.301426",
+            "status": "INACTIVE"
+        },
+        "stat.55bbs.com": {
+            "included_at_epoch": 1588786690.594499,
+            "included_at_iso": "2020-05-06T17:38:10.594499",
+            "last_retested_at_epoch": 1588786690.594499,
+            "last_retested_at_iso": "2020-05-06T17:38:10.594499",
+            "status": "INACTIVE"
+        },
+        "stat.dsp.batmobi.net": {
+            "included_at_epoch": 1588786691.169114,
+            "included_at_iso": "2020-05-06T17:38:11.169114",
+            "last_retested_at_epoch": 1588786691.169114,
+            "last_retested_at_iso": "2020-05-06T17:38:11.169114",
+            "status": "INACTIVE"
+        },
+        "stat.moonwalk.co": {
+            "included_at_epoch": 1588786692.20856,
+            "included_at_iso": "2020-05-06T17:38:12.208560",
+            "last_retested_at_epoch": 1588786692.20856,
+            "last_retested_at_iso": "2020-05-06T17:38:12.208560",
+            "status": "INACTIVE"
         }
     }
 }
