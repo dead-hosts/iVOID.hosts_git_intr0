@@ -60710,6 +60710,48 @@
             "last_retested_at_epoch": 1588803242.565776,
             "last_retested_at_iso": "2020-05-06T22:14:02.565776",
             "status": "INACTIVE"
+        },
+        "strucewe.info": {
+            "included_at_epoch": 1588803973.212231,
+            "included_at_iso": "2020-05-06T22:26:13.212231",
+            "last_retested_at_epoch": 1588803973.212231,
+            "last_retested_at_iso": "2020-05-06T22:26:13.212231",
+            "status": "INACTIVE"
+        },
+        "stsodds.sts.pl": {
+            "included_at_epoch": 1588803973.824251,
+            "included_at_iso": "2020-05-06T22:26:13.824251",
+            "last_retested_at_epoch": 1588803973.824251,
+            "last_retested_at_iso": "2020-05-06T22:26:13.824251",
+            "status": "INACTIVE"
+        },
+        "stvayyokjvxnl.com": {
+            "included_at_epoch": 1588803977.444417,
+            "included_at_iso": "2020-05-06T22:26:17.444417",
+            "last_retested_at_epoch": 1588803977.444417,
+            "last_retested_at_iso": "2020-05-06T22:26:17.444417",
+            "status": "INACTIVE"
+        },
+        "sub-app1e-s3rv1ce6541.selamanyabyakan.com": {
+            "included_at_epoch": 1588803978.084698,
+            "included_at_iso": "2020-05-06T22:26:18.084698",
+            "last_retested_at_epoch": 1588803978.084698,
+            "last_retested_at_iso": "2020-05-06T22:26:18.084698",
+            "status": "INACTIVE"
+        },
+        "subtraxion.com": {
+            "included_at_epoch": 1588803981.462382,
+            "included_at_iso": "2020-05-06T22:26:21.462382",
+            "last_retested_at_epoch": 1588803981.462382,
+            "last_retested_at_iso": "2020-05-06T22:26:21.462382",
+            "status": "INACTIVE"
+        },
+        "sucior.ru": {
+            "included_at_epoch": 1588803982.834899,
+            "included_at_iso": "2020-05-06T22:26:22.834899",
+            "last_retested_at_epoch": 1588803982.834899,
+            "last_retested_at_iso": "2020-05-06T22:26:22.834899",
+            "status": "INACTIVE"
         }
     }
 }
