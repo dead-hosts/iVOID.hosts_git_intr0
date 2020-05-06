@@ -60640,6 +60640,13 @@
             "last_retested_at_epoch": 1588788864.819051,
             "last_retested_at_iso": "2020-05-06T18:14:24.819051",
             "status": "INACTIVE"
+        },
+        "statscreen.info": {
+            "included_at_epoch": 1588801755.921646,
+            "included_at_iso": "2020-05-06T21:49:15.921646",
+            "last_retested_at_epoch": 1588801755.921646,
+            "last_retested_at_iso": "2020-05-06T21:49:15.921646",
+            "status": "INACTIVE"
         }
     }
 }
