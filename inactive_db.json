@@ -58295,6 +58295,41 @@
             "last_retested_at_epoch": 1588731603.514755,
             "last_retested_at_iso": "2020-05-06T02:20:03.514755",
             "status": "INACTIVE"
+        },
+        "sdziy.us": {
+            "included_at_epoch": 1588733823.862063,
+            "included_at_iso": "2020-05-06T02:57:03.862063",
+            "last_retested_at_epoch": 1588733823.862063,
+            "last_retested_at_iso": "2020-05-06T02:57:03.862063",
+            "status": "INACTIVE"
+        },
+        "se2qwz60l2oxznm.xyz": {
+            "included_at_epoch": 1588733825.01099,
+            "included_at_iso": "2020-05-06T02:57:05.010990",
+            "last_retested_at_epoch": 1588733825.01099,
+            "last_retested_at_iso": "2020-05-06T02:57:05.010990",
+            "status": "INACTIVE"
+        },
+        "seafox26.com": {
+            "included_at_epoch": 1588733825.574414,
+            "included_at_iso": "2020-05-06T02:57:05.574414",
+            "last_retested_at_epoch": 1588733825.574414,
+            "last_retested_at_iso": "2020-05-06T02:57:05.574414",
+            "status": "INACTIVE"
+        },
+        "sealine-pfuoxcbgd.netdna-ssl.com": {
+            "included_at_epoch": 1588733826.015055,
+            "included_at_iso": "2020-05-06T02:57:06.015055",
+            "last_retested_at_epoch": 1588733826.015055,
+            "last_retested_at_iso": "2020-05-06T02:57:06.015055",
+            "status": "INACTIVE"
+        },
+        "search.batmobi.net": {
+            "included_at_epoch": 1588733826.823911,
+            "included_at_iso": "2020-05-06T02:57:06.823911",
+            "last_retested_at_epoch": 1588733826.823911,
+            "last_retested_at_iso": "2020-05-06T02:57:06.823911",
+            "status": "INACTIVE"
         }
     }
 }
