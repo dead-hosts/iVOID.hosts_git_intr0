@@ -59639,6 +59639,55 @@
             "last_retested_at_epoch": 1588757900.540732,
             "last_retested_at_iso": "2020-05-06T09:38:20.540732",
             "status": "INACTIVE"
+        },
+        "shgvuhvf.com": {
+            "included_at_epoch": 1588759038.470339,
+            "included_at_iso": "2020-05-06T09:57:18.470339",
+            "last_retested_at_epoch": 1588759038.470339,
+            "last_retested_at_iso": "2020-05-06T09:57:18.470339",
+            "status": "INACTIVE"
+        },
+        "shiek1ph.com": {
+            "included_at_epoch": 1588759039.217827,
+            "included_at_iso": "2020-05-06T09:57:19.217827",
+            "last_retested_at_epoch": 1588759039.217827,
+            "last_retested_at_iso": "2020-05-06T09:57:19.217827",
+            "status": "INACTIVE"
+        },
+        "shjuivapg.bid": {
+            "included_at_epoch": 1588759043.740658,
+            "included_at_iso": "2020-05-06T09:57:23.740658",
+            "last_retested_at_epoch": 1588759043.740658,
+            "last_retested_at_iso": "2020-05-06T09:57:23.740658",
+            "status": "INACTIVE"
+        },
+        "shkfrsif.com": {
+            "included_at_epoch": 1588759043.880218,
+            "included_at_iso": "2020-05-06T09:57:23.880218",
+            "last_retested_at_epoch": 1588759043.880218,
+            "last_retested_at_iso": "2020-05-06T09:57:23.880218",
+            "status": "INACTIVE"
+        },
+        "shmpdqwucl.com": {
+            "included_at_epoch": 1588759044.921182,
+            "included_at_iso": "2020-05-06T09:57:24.921182",
+            "last_retested_at_epoch": 1588759044.921182,
+            "last_retested_at_iso": "2020-05-06T09:57:24.921182",
+            "status": "INACTIVE"
+        },
+        "shohabiymgjxdb.com": {
+            "included_at_epoch": 1588759047.381484,
+            "included_at_iso": "2020-05-06T09:57:27.381484",
+            "last_retested_at_epoch": 1588759047.381484,
+            "last_retested_at_iso": "2020-05-06T09:57:27.381484",
+            "status": "INACTIVE"
+        },
+        "shorlakmedia.com": {
+            "included_at_epoch": 1588759054.648035,
+            "included_at_iso": "2020-05-06T09:57:34.648035",
+            "last_retested_at_epoch": 1588759054.648035,
+            "last_retested_at_iso": "2020-05-06T09:57:34.648035",
+            "status": "INACTIVE"
         }
     }
 }
