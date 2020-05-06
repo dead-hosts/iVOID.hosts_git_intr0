@@ -60668,6 +60668,48 @@
             "last_retested_at_epoch": 1588802495.925658,
             "last_retested_at_iso": "2020-05-06T22:01:35.925658",
             "status": "INACTIVE"
+        },
+        "stopadblock.info": {
+            "included_at_epoch": 1588803222.247567,
+            "included_at_iso": "2020-05-06T22:13:42.247567",
+            "last_retested_at_epoch": 1588803222.247567,
+            "last_retested_at_iso": "2020-05-06T22:13:42.247567",
+            "status": "INACTIVE"
+        },
+        "store.app1eid-suppport.help-account-login.ga": {
+            "included_at_epoch": 1588803235.970148,
+            "included_at_iso": "2020-05-06T22:13:55.970148",
+            "last_retested_at_epoch": 1588803235.970148,
+            "last_retested_at_iso": "2020-05-06T22:13:55.970148",
+            "status": "INACTIVE"
+        },
+        "store1-app1eid-restore.secure0b.co": {
+            "included_at_epoch": 1588803236.144239,
+            "included_at_iso": "2020-05-06T22:13:56.144239",
+            "last_retested_at_epoch": 1588803236.144239,
+            "last_retested_at_iso": "2020-05-06T22:13:56.144239",
+            "status": "INACTIVE"
+        },
+        "stovoudu.com": {
+            "included_at_epoch": 1588803240.414715,
+            "included_at_iso": "2020-05-06T22:14:00.414715",
+            "last_retested_at_epoch": 1588803240.414715,
+            "last_retested_at_iso": "2020-05-06T22:14:00.414715",
+            "status": "INACTIVE"
+        },
+        "straightschool.com": {
+            "included_at_epoch": 1588803241.181709,
+            "included_at_iso": "2020-05-06T22:14:01.181709",
+            "last_retested_at_epoch": 1588803241.181709,
+            "last_retested_at_iso": "2020-05-06T22:14:01.181709",
+            "status": "INACTIVE"
+        },
+        "stream.vidzi.tv": {
+            "included_at_epoch": 1588803242.565776,
+            "included_at_iso": "2020-05-06T22:14:02.565776",
+            "last_retested_at_epoch": 1588803242.565776,
+            "last_retested_at_iso": "2020-05-06T22:14:02.565776",
+            "status": "INACTIVE"
         }
     }
 }
