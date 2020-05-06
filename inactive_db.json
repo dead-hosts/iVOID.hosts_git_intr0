@@ -60647,6 +60647,27 @@
             "last_retested_at_epoch": 1588801755.921646,
             "last_retested_at_iso": "2020-05-06T21:49:15.921646",
             "status": "INACTIVE"
+        },
+        "steamsecretary.com": {
+            "included_at_epoch": 1588802490.950161,
+            "included_at_iso": "2020-05-06T22:01:30.950161",
+            "last_retested_at_epoch": 1588802490.950161,
+            "last_retested_at_iso": "2020-05-06T22:01:30.950161",
+            "status": "INACTIVE"
+        },
+        "sterisjs.info": {
+            "included_at_epoch": 1588802494.815266,
+            "included_at_iso": "2020-05-06T22:01:34.815266",
+            "last_retested_at_epoch": 1588802494.815266,
+            "last_retested_at_iso": "2020-05-06T22:01:34.815266",
+            "status": "INACTIVE"
+        },
+        "sthtrtvkkt.com": {
+            "included_at_epoch": 1588802495.925658,
+            "included_at_iso": "2020-05-06T22:01:35.925658",
+            "last_retested_at_epoch": 1588802495.925658,
+            "last_retested_at_iso": "2020-05-06T22:01:35.925658",
+            "status": "INACTIVE"
         }
     }
 }
