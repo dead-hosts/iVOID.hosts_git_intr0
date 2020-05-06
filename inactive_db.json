@@ -58253,6 +58253,48 @@
             "last_retested_at_epoch": 1588730616.563656,
             "last_retested_at_iso": "2020-05-06T02:03:36.563656",
             "status": "INACTIVE"
+        },
+        "sddddjsjf.net": {
+            "included_at_epoch": 1588731599.250813,
+            "included_at_iso": "2020-05-06T02:19:59.250813",
+            "last_retested_at_epoch": 1588731599.250813,
+            "last_retested_at_iso": "2020-05-06T02:19:59.250813",
+            "status": "INACTIVE"
+        },
+        "sdeadbqsjam.com": {
+            "included_at_epoch": 1588731599.390933,
+            "included_at_iso": "2020-05-06T02:19:59.390933",
+            "last_retested_at_epoch": 1588731599.390933,
+            "last_retested_at_iso": "2020-05-06T02:19:59.390933",
+            "status": "INACTIVE"
+        },
+        "sdk-ads.bidmotion.com": {
+            "included_at_epoch": 1588731600.481885,
+            "included_at_iso": "2020-05-06T02:20:00.481885",
+            "last_retested_at_epoch": 1588731600.481885,
+            "last_retested_at_iso": "2020-05-06T02:20:00.481885",
+            "status": "INACTIVE"
+        },
+        "sdk-data.nv.prod.bidmotion.com": {
+            "included_at_epoch": 1588731601.072936,
+            "included_at_iso": "2020-05-06T02:20:01.072936",
+            "last_retested_at_epoch": 1588731601.072936,
+            "last_retested_at_iso": "2020-05-06T02:20:01.072936",
+            "status": "INACTIVE"
+        },
+        "sdk.adbuddiz.com": {
+            "included_at_epoch": 1588731601.668744,
+            "included_at_iso": "2020-05-06T02:20:01.668744",
+            "last_retested_at_epoch": 1588731601.668744,
+            "last_retested_at_iso": "2020-05-06T02:20:01.668744",
+            "status": "INACTIVE"
+        },
+        "sdk.kamcord.com": {
+            "included_at_epoch": 1588731603.514755,
+            "included_at_iso": "2020-05-06T02:20:03.514755",
+            "last_retested_at_epoch": 1588731603.514755,
+            "last_retested_at_iso": "2020-05-06T02:20:03.514755",
+            "status": "INACTIVE"
         }
     }
 }
