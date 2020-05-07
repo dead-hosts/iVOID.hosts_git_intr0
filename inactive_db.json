@@ -65211,6 +65211,83 @@
             "last_retested_at_epoch": 1588852555.863104,
             "last_retested_at_iso": "2020-05-07T11:55:55.863104",
             "status": "INACTIVE"
+        },
+        "videoleks.com": {
+            "included_at_epoch": 1588853282.384694,
+            "included_at_iso": "2020-05-07T12:08:02.384694",
+            "last_retested_at_epoch": 1588853282.384694,
+            "last_retested_at_iso": "2020-05-07T12:08:02.384694",
+            "status": "INACTIVE"
+        },
+        "videoprtl.com": {
+            "included_at_epoch": 1588853284.479104,
+            "included_at_iso": "2020-05-07T12:08:04.479104",
+            "last_retested_at_epoch": 1588853284.479104,
+            "last_retested_at_iso": "2020-05-07T12:08:04.479104",
+            "status": "INACTIVE"
+        },
+        "videos-faceb00k.com": {
+            "included_at_epoch": 1588853285.600606,
+            "included_at_iso": "2020-05-07T12:08:05.600606",
+            "last_retested_at_epoch": 1588853285.600606,
+            "last_retested_at_iso": "2020-05-07T12:08:05.600606",
+            "status": "INACTIVE"
+        },
+        "videovikt.com": {
+            "included_at_epoch": 1588853287.862901,
+            "included_at_iso": "2020-05-07T12:08:07.862901",
+            "last_retested_at_epoch": 1588853287.862901,
+            "last_retested_at_iso": "2020-05-07T12:08:07.862901",
+            "status": "INACTIVE"
+        },
+        "videovint.com": {
+            "included_at_epoch": 1588853288.015539,
+            "included_at_iso": "2020-05-07T12:08:08.015539",
+            "last_retested_at_epoch": 1588853288.015539,
+            "last_retested_at_iso": "2020-05-07T12:08:08.015539",
+            "status": "INACTIVE"
+        },
+        "videsjs.com": {
+            "included_at_epoch": 1588853288.168292,
+            "included_at_iso": "2020-05-07T12:08:08.168292",
+            "last_retested_at_epoch": 1588853288.168292,
+            "last_retested_at_iso": "2020-05-07T12:08:08.168292",
+            "status": "INACTIVE"
+        },
+        "vidgain.com": {
+            "included_at_epoch": 1588853288.633912,
+            "included_at_iso": "2020-05-07T12:08:08.633912",
+            "last_retested_at_epoch": 1588853288.633912,
+            "last_retested_at_iso": "2020-05-07T12:08:08.633912",
+            "status": "INACTIVE"
+        },
+        "vification-registration-app1eid-locked.jp": {
+            "included_at_epoch": 1588853299.115621,
+            "included_at_iso": "2020-05-07T12:08:19.115621",
+            "last_retested_at_epoch": 1588853299.115621,
+            "last_retested_at_iso": "2020-05-07T12:08:19.115621",
+            "status": "INACTIVE"
+        },
+        "viille2.com": {
+            "included_at_epoch": 1588853300.880292,
+            "included_at_iso": "2020-05-07T12:08:20.880292",
+            "last_retested_at_epoch": 1588853300.880292,
+            "last_retested_at_iso": "2020-05-07T12:08:20.880292",
+            "status": "INACTIVE"
+        },
+        "vijune.com": {
+            "included_at_epoch": 1588853301.685804,
+            "included_at_iso": "2020-05-07T12:08:21.685804",
+            "last_retested_at_epoch": 1588853301.685804,
+            "last_retested_at_iso": "2020-05-07T12:08:21.685804",
+            "status": "INACTIVE"
+        },
+        "vinov24.com": {
+            "included_at_epoch": 1588853305.092417,
+            "included_at_iso": "2020-05-07T12:08:25.092417",
+            "last_retested_at_epoch": 1588853305.092417,
+            "last_retested_at_iso": "2020-05-07T12:08:25.092417",
+            "status": "INACTIVE"
         }
     }
 }
