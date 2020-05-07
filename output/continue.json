@@ -54347,7 +54347,8 @@
             "webdisk.lnstagram--confirmation.ml",
             "webdisk.lnstagram-ads-center.ml",
             "webdisk.lnstagram-ads.ml",
-            "webdisk.lnstagram-bluebadges-team.ml"
+            "webdisk.lnstagram-bluebadges-team.ml",
+            "webdisk.lnstagram-confirm.cf"
         ],
         "INACTIVE": [
             "36.89.106.69",
@@ -63928,7 +63929,20 @@
             "webdisk.lnstagram-business.gq",
             "webdisk.lnstagram-business.ga",
             "webdisk.lnstagram-businesspartner.ml",
-            "webdisk.lnstagram-business.tk"
+            "webdisk.lnstagram-business.tk",
+            "webdisk.lnstagram-center.com",
+            "webdisk.lnstagram-centers.com",
+            "webdisk.lnstagram-changepassword.cf",
+            "webdisk.lnstagram-centric.com",
+            "webdisk.lnstagram-checkpoint-verify.ga",
+            "webdisk.lnstagram-checkpoint-verify.gq",
+            "webdisk.lnstagram-communities.ml",
+            "webdisk.lnstagram-communities.cf",
+            "webdisk.lnstagram-confirm.com",
+            "webdisk.lnstagram-confirmation.com",
+            "webdisk.lnstagram-confirmation.gq",
+            "webdisk.lnstagram-confirmationaccountt.com",
+            "webdisk.lnstagram-confirmation.tk"
         ],
         "INVALID": [
             "ads.*.unity3d.com",
