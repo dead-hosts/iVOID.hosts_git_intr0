@@ -65799,6 +65799,97 @@
             "last_retested_at_epoch": 1588860828.541348,
             "last_retested_at_iso": "2020-05-07T14:13:48.541348",
             "status": "INACTIVE"
+        },
+        "w1jesu6.package12.com": {
+            "included_at_epoch": 1588861889.513992,
+            "included_at_iso": "2020-05-07T14:31:29.513992",
+            "last_retested_at_epoch": 1588861889.513992,
+            "last_retested_at_iso": "2020-05-07T14:31:29.513992",
+            "status": "INACTIVE"
+        },
+        "wabetsprod.appl.kp.org": {
+            "included_at_epoch": 1588861894.788394,
+            "included_at_iso": "2020-05-07T14:31:34.788394",
+            "last_retested_at_epoch": 1588861894.788394,
+            "last_retested_at_iso": "2020-05-07T14:31:34.788394",
+            "status": "INACTIVE"
+        },
+        "wacoronavirushelp.com": {
+            "included_at_epoch": 1588861896.244536,
+            "included_at_iso": "2020-05-07T14:31:36.244536",
+            "last_retested_at_epoch": 1588861896.244536,
+            "last_retested_at_iso": "2020-05-07T14:31:36.244536",
+            "status": "INACTIVE"
+        },
+        "wacovid19help.com": {
+            "included_at_epoch": 1588861896.39702,
+            "included_at_iso": "2020-05-07T14:31:36.397020",
+            "last_retested_at_epoch": 1588861896.39702,
+            "last_retested_at_iso": "2020-05-07T14:31:36.397020",
+            "status": "INACTIVE"
+        },
+        "wanrtqneiissrb.com": {
+            "included_at_epoch": 1588861906.219702,
+            "included_at_iso": "2020-05-07T14:31:46.219702",
+            "last_retested_at_epoch": 1588861906.219702,
+            "last_retested_at_iso": "2020-05-07T14:31:46.219702",
+            "status": "INACTIVE"
+        },
+        "wapbanner.net": {
+            "included_at_epoch": 1588861907.68711,
+            "included_at_iso": "2020-05-07T14:31:47.687110",
+            "last_retested_at_epoch": 1588861907.68711,
+            "last_retested_at_iso": "2020-05-07T14:31:47.687110",
+            "status": "INACTIVE"
+        },
+        "wapp1elogin.myvnc.com": {
+            "included_at_epoch": 1588861909.8217,
+            "included_at_iso": "2020-05-07T14:31:49.821700",
+            "last_retested_at_epoch": 1588861909.8217,
+            "last_retested_at_iso": "2020-05-07T14:31:49.821700",
+            "status": "INACTIVE"
+        },
+        "warezlayer.to": {
+            "included_at_epoch": 1588861912.208656,
+            "included_at_iso": "2020-05-07T14:31:52.208656",
+            "last_retested_at_epoch": 1588861912.208656,
+            "last_retested_at_iso": "2020-05-07T14:31:52.208656",
+            "status": "INACTIVE"
+        },
+        "watch-news24.twltter.cc": {
+            "included_at_epoch": 1588861918.652674,
+            "included_at_iso": "2020-05-07T14:31:58.652674",
+            "last_retested_at_epoch": 1588861918.652674,
+            "last_retested_at_iso": "2020-05-07T14:31:58.652674",
+            "status": "INACTIVE"
+        },
+        "watchfree.flv.in": {
+            "included_at_epoch": 1588861920.094109,
+            "included_at_iso": "2020-05-07T14:32:00.094109",
+            "last_retested_at_epoch": 1588861920.094109,
+            "last_retested_at_iso": "2020-05-07T14:32:00.094109",
+            "status": "INACTIVE"
+        },
+        "waveview.info": {
+            "included_at_epoch": 1588861924.569524,
+            "included_at_iso": "2020-05-07T14:32:04.569524",
+            "last_retested_at_epoch": 1588861924.569524,
+            "last_retested_at_iso": "2020-05-07T14:32:04.569524",
+            "status": "INACTIVE"
+        },
+        "wawlfosfkdy.com": {
+            "included_at_epoch": 1588861924.723493,
+            "included_at_iso": "2020-05-07T14:32:04.723493",
+            "last_retested_at_epoch": 1588861924.723493,
+            "last_retested_at_iso": "2020-05-07T14:32:04.723493",
+            "status": "INACTIVE"
+        },
+        "wawyxzfkab.com": {
+            "included_at_epoch": 1588861924.878426,
+            "included_at_iso": "2020-05-07T14:32:04.878426",
+            "last_retested_at_epoch": 1588861924.878426,
+            "last_retested_at_iso": "2020-05-07T14:32:04.878426",
+            "status": "INACTIVE"
         }
     }
 }
