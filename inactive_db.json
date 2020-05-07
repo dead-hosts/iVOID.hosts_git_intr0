@@ -70076,6 +70076,181 @@
             "last_retested_at_epoch": 1588890601.92508,
             "last_retested_at_iso": "2020-05-07T22:30:01.925080",
             "status": "INACTIVE"
+        },
+        "webdisk.servicesforlnstagram.tk": {
+            "included_at_epoch": 1588891321.902876,
+            "included_at_iso": "2020-05-07T22:42:01.902876",
+            "last_retested_at_epoch": 1588891321.902876,
+            "last_retested_at_iso": "2020-05-07T22:42:01.902876",
+            "status": "INACTIVE"
+        },
+        "webdisk.sign1nacc0unt5-helpcnterapp1eld.tk": {
+            "included_at_epoch": 1588891321.734845,
+            "included_at_iso": "2020-05-07T22:42:01.734845",
+            "last_retested_at_epoch": 1588891321.734845,
+            "last_retested_at_iso": "2020-05-07T22:42:01.734845",
+            "status": "INACTIVE"
+        },
+        "webdisk.signin-lnstagram.com": {
+            "included_at_epoch": 1588891322.100512,
+            "included_at_iso": "2020-05-07T22:42:02.100512",
+            "last_retested_at_epoch": 1588891322.100512,
+            "last_retested_at_iso": "2020-05-07T22:42:02.100512",
+            "status": "INACTIVE"
+        },
+        "webdisk.suplnstagram.tk": {
+            "included_at_epoch": 1588891322.317113,
+            "included_at_iso": "2020-05-07T22:42:02.317113",
+            "last_retested_at_epoch": 1588891322.317113,
+            "last_retested_at_iso": "2020-05-07T22:42:02.317113",
+            "status": "INACTIVE"
+        },
+        "webdisk.support-app1eld-customerservice751623.com": {
+            "included_at_epoch": 1588891322.481468,
+            "included_at_iso": "2020-05-07T22:42:02.481468",
+            "last_retested_at_epoch": 1588891322.481468,
+            "last_retested_at_iso": "2020-05-07T22:42:02.481468",
+            "status": "INACTIVE"
+        },
+        "webdisk.support-app1eld-customerservice837152.com": {
+            "included_at_epoch": 1588891322.645876,
+            "included_at_iso": "2020-05-07T22:42:02.645876",
+            "last_retested_at_epoch": 1588891322.645876,
+            "last_retested_at_iso": "2020-05-07T22:42:02.645876",
+            "status": "INACTIVE"
+        },
+        "webdisk.support-lnstagram.cf": {
+            "included_at_epoch": 1588891322.843398,
+            "included_at_iso": "2020-05-07T22:42:02.843398",
+            "last_retested_at_epoch": 1588891322.843398,
+            "last_retested_at_iso": "2020-05-07T22:42:02.843398",
+            "status": "INACTIVE"
+        },
+        "webdisk.support-paypa1.mixh.jp": {
+            "included_at_epoch": 1588891323.042068,
+            "included_at_iso": "2020-05-07T22:42:03.042068",
+            "last_retested_at_epoch": 1588891323.042068,
+            "last_retested_at_iso": "2020-05-07T22:42:03.042068",
+            "status": "INACTIVE"
+        },
+        "webdisk.support.identificationrequirements.app1e.authentyverifl.com": {
+            "included_at_epoch": 1588891323.204841,
+            "included_at_iso": "2020-05-07T22:42:03.204841",
+            "last_retested_at_epoch": 1588891323.204841,
+            "last_retested_at_iso": "2020-05-07T22:42:03.204841",
+            "status": "INACTIVE"
+        },
+        "webdisk.supportforlnstagram.com": {
+            "included_at_epoch": 1588891323.367349,
+            "included_at_iso": "2020-05-07T22:42:03.367349",
+            "last_retested_at_epoch": 1588891323.367349,
+            "last_retested_at_iso": "2020-05-07T22:42:03.367349",
+            "status": "INACTIVE"
+        },
+        "webdisk.supportforlnstagram.net": {
+            "included_at_epoch": 1588891323.530027,
+            "included_at_iso": "2020-05-07T22:42:03.530027",
+            "last_retested_at_epoch": 1588891323.530027,
+            "last_retested_at_iso": "2020-05-07T22:42:03.530027",
+            "status": "INACTIVE"
+        },
+        "webdisk.supportforlnstagram.tk": {
+            "included_at_epoch": 1588891323.694413,
+            "included_at_iso": "2020-05-07T22:42:03.694413",
+            "last_retested_at_epoch": 1588891323.694413,
+            "last_retested_at_iso": "2020-05-07T22:42:03.694413",
+            "status": "INACTIVE"
+        },
+        "webdisk.supportforlnstagram.xyz": {
+            "included_at_epoch": 1588891323.856076,
+            "included_at_iso": "2020-05-07T22:42:03.856076",
+            "last_retested_at_epoch": 1588891323.856076,
+            "last_retested_at_iso": "2020-05-07T22:42:03.856076",
+            "status": "INACTIVE"
+        },
+        "webdisk.supportforlnstagrams.tk": {
+            "included_at_epoch": 1588891324.017799,
+            "included_at_iso": "2020-05-07T22:42:04.017799",
+            "last_retested_at_epoch": 1588891324.017799,
+            "last_retested_at_iso": "2020-05-07T22:42:04.017799",
+            "status": "INACTIVE"
+        },
+        "webdisk.supportlnstagram.cf": {
+            "included_at_epoch": 1588891324.215173,
+            "included_at_iso": "2020-05-07T22:42:04.215173",
+            "last_retested_at_epoch": 1588891324.215173,
+            "last_retested_at_iso": "2020-05-07T22:42:04.215173",
+            "status": "INACTIVE"
+        },
+        "webdisk.supportsforlnstagram.tk": {
+            "included_at_epoch": 1588891324.428737,
+            "included_at_iso": "2020-05-07T22:42:04.428737",
+            "last_retested_at_epoch": 1588891324.428737,
+            "last_retested_at_iso": "2020-05-07T22:42:04.428737",
+            "status": "INACTIVE"
+        },
+        "webdisk.suqqort-lnstagram.ml": {
+            "included_at_epoch": 1588891324.753896,
+            "included_at_iso": "2020-05-07T22:42:04.753896",
+            "last_retested_at_epoch": 1588891324.753896,
+            "last_retested_at_iso": "2020-05-07T22:42:04.753896",
+            "status": "INACTIVE"
+        },
+        "webdisk.thelnstagram.com": {
+            "included_at_epoch": 1588891324.592156,
+            "included_at_iso": "2020-05-07T22:42:04.592156",
+            "last_retested_at_epoch": 1588891324.592156,
+            "last_retested_at_iso": "2020-05-07T22:42:04.592156",
+            "status": "INACTIVE"
+        },
+        "webdisk.twltter.cc": {
+            "included_at_epoch": 1588891324.951086,
+            "included_at_iso": "2020-05-07T22:42:04.951086",
+            "last_retested_at_epoch": 1588891324.951086,
+            "last_retested_at_iso": "2020-05-07T22:42:04.951086",
+            "status": "INACTIVE"
+        },
+        "webdisk.verification-app1e-limte.com": {
+            "included_at_epoch": 1588891325.151539,
+            "included_at_iso": "2020-05-07T22:42:05.151539",
+            "last_retested_at_epoch": 1588891325.151539,
+            "last_retested_at_iso": "2020-05-07T22:42:05.151539",
+            "status": "INACTIVE"
+        },
+        "webdisk.verified-badges-lnstagram.ml": {
+            "included_at_epoch": 1588891325.422807,
+            "included_at_iso": "2020-05-07T22:42:05.422807",
+            "last_retested_at_epoch": 1588891325.422807,
+            "last_retested_at_iso": "2020-05-07T22:42:05.422807",
+            "status": "INACTIVE"
+        },
+        "webdisk.verifiedbadges-lnstagram.cf": {
+            "included_at_epoch": 1588891325.748339,
+            "included_at_iso": "2020-05-07T22:42:05.748339",
+            "last_retested_at_epoch": 1588891325.748339,
+            "last_retested_at_iso": "2020-05-07T22:42:05.748339",
+            "status": "INACTIVE"
+        },
+        "webdisk.verifiedlnstagram.tk": {
+            "included_at_epoch": 1588891325.586476,
+            "included_at_iso": "2020-05-07T22:42:05.586476",
+            "last_retested_at_epoch": 1588891325.586476,
+            "last_retested_at_iso": "2020-05-07T22:42:05.586476",
+            "status": "INACTIVE"
+        },
+        "webdisk.verifyaccountlnstagram.ml": {
+            "included_at_epoch": 1588891326.07229,
+            "included_at_iso": "2020-05-07T22:42:06.072290",
+            "last_retested_at_epoch": 1588891326.07229,
+            "last_retested_at_iso": "2020-05-07T22:42:06.072290",
+            "status": "INACTIVE"
+        },
+        "webdisk.video-faceb00k.servebbs.org": {
+            "included_at_epoch": 1588891325.910032,
+            "included_at_iso": "2020-05-07T22:42:05.910032",
+            "last_retested_at_epoch": 1588891325.910032,
+            "last_retested_at_iso": "2020-05-07T22:42:05.910032",
+            "status": "INACTIVE"
         }
     }
 }
