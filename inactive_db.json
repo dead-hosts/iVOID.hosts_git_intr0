@@ -61809,6 +61809,104 @@
             "last_retested_at_epoch": 1588811253.720712,
             "last_retested_at_iso": "2020-05-07T00:27:33.720712",
             "status": "INACTIVE"
+        },
+        "tap.idg.de": {
+            "included_at_epoch": 1588811969.845064,
+            "included_at_iso": "2020-05-07T00:39:29.845064",
+            "last_retested_at_epoch": 1588811969.845064,
+            "last_retested_at_iso": "2020-05-07T00:39:29.845064",
+            "status": "INACTIVE"
+        },
+        "tapcreatives.net": {
+            "included_at_epoch": 1588811971.018662,
+            "included_at_iso": "2020-05-07T00:39:31.018662",
+            "last_retested_at_epoch": 1588811971.018662,
+            "last_retested_at_iso": "2020-05-07T00:39:31.018662",
+            "status": "INACTIVE"
+        },
+        "taqesyqne.com": {
+            "included_at_epoch": 1588811976.712372,
+            "included_at_iso": "2020-05-07T00:39:36.712372",
+            "last_retested_at_epoch": 1588811976.712372,
+            "last_retested_at_iso": "2020-05-07T00:39:36.712372",
+            "status": "INACTIVE"
+        },
+        "tarxjwdkx.com": {
+            "included_at_epoch": 1588811982.260452,
+            "included_at_iso": "2020-05-07T00:39:42.260452",
+            "last_retested_at_epoch": 1588811982.260452,
+            "last_retested_at_iso": "2020-05-07T00:39:42.260452",
+            "status": "INACTIVE"
+        },
+        "tasvjsmnegj.com": {
+            "included_at_epoch": 1588811983.580729,
+            "included_at_iso": "2020-05-07T00:39:43.580729",
+            "last_retested_at_epoch": 1588811983.580729,
+            "last_retested_at_iso": "2020-05-07T00:39:43.580729",
+            "status": "INACTIVE"
+        },
+        "tblaqgify.com": {
+            "included_at_epoch": 1588811987.741358,
+            "included_at_iso": "2020-05-07T00:39:47.741358",
+            "last_retested_at_epoch": 1588811987.741358,
+            "last_retested_at_iso": "2020-05-07T00:39:47.741358",
+            "status": "INACTIVE"
+        },
+        "tbmwhcyfapzjre.com": {
+            "included_at_epoch": 1588811987.896856,
+            "included_at_iso": "2020-05-07T00:39:47.896856",
+            "last_retested_at_epoch": 1588811987.896856,
+            "last_retested_at_iso": "2020-05-07T00:39:47.896856",
+            "status": "INACTIVE"
+        },
+        "tbnnsmwfjzttct.com": {
+            "included_at_epoch": 1588811988.333087,
+            "included_at_iso": "2020-05-07T00:39:48.333087",
+            "last_retested_at_epoch": 1588811988.333087,
+            "last_retested_at_iso": "2020-05-07T00:39:48.333087",
+            "status": "INACTIVE"
+        },
+        "tbrzzxyvkz.com": {
+            "included_at_epoch": 1588811988.778007,
+            "included_at_iso": "2020-05-07T00:39:48.778007",
+            "last_retested_at_epoch": 1588811988.778007,
+            "last_retested_at_iso": "2020-05-07T00:39:48.778007",
+            "status": "INACTIVE"
+        },
+        "tcoxndk.hfgjdcbrv.xyz": {
+            "included_at_epoch": 1588811993.925919,
+            "included_at_iso": "2020-05-07T00:39:53.925919",
+            "last_retested_at_epoch": 1588811993.925919,
+            "last_retested_at_iso": "2020-05-07T00:39:53.925919",
+            "status": "INACTIVE"
+        },
+        "tcwcsaddht.com": {
+            "included_at_epoch": 1588811994.961687,
+            "included_at_iso": "2020-05-07T00:39:54.961687",
+            "last_retested_at_epoch": 1588811994.961687,
+            "last_retested_at_iso": "2020-05-07T00:39:54.961687",
+            "status": "INACTIVE"
+        },
+        "tdjoaosibes.com": {
+            "included_at_epoch": 1588812000.044152,
+            "included_at_iso": "2020-05-07T00:40:00.044152",
+            "last_retested_at_epoch": 1588812000.044152,
+            "last_retested_at_iso": "2020-05-07T00:40:00.044152",
+            "status": "INACTIVE"
+        },
+        "tds77.su": {
+            "included_at_epoch": 1588812001.145193,
+            "included_at_iso": "2020-05-07T00:40:01.145193",
+            "last_retested_at_epoch": 1588812001.145193,
+            "last_retested_at_iso": "2020-05-07T00:40:01.145193",
+            "status": "INACTIVE"
+        },
+        "tdsrmbl.net": {
+            "included_at_epoch": 1588812002.200461,
+            "included_at_iso": "2020-05-07T00:40:02.200461",
+            "last_retested_at_epoch": 1588812002.200461,
+            "last_retested_at_iso": "2020-05-07T00:40:02.200461",
+            "status": "INACTIVE"
         }
     }
 }
