@@ -62075,6 +62075,13 @@
             "last_retested_at_epoch": 1588813496.123319,
             "last_retested_at_iso": "2020-05-07T01:04:56.123319",
             "status": "INACTIVE"
+        },
+        "testiada.ru": {
+            "included_at_epoch": 1588814228.818571,
+            "included_at_iso": "2020-05-07T01:17:08.818571",
+            "last_retested_at_epoch": 1588814228.818571,
+            "last_retested_at_iso": "2020-05-07T01:17:08.818571",
+            "status": "INACTIVE"
         }
     }
 }
