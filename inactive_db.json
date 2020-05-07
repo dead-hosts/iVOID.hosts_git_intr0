@@ -62348,6 +62348,90 @@
             "last_retested_at_epoch": 1588825487.356449,
             "last_retested_at_iso": "2020-05-07T04:24:47.356449",
             "status": "INACTIVE"
+        },
+        "tizer.ssl-services.com": {
+            "included_at_epoch": 1588826208.875874,
+            "included_at_iso": "2020-05-07T04:36:48.875874",
+            "last_retested_at_epoch": 1588826208.875874,
+            "last_retested_at_iso": "2020-05-07T04:36:48.875874",
+            "status": "INACTIVE"
+        },
+        "tizer6.net": {
+            "included_at_epoch": 1588826209.38899,
+            "included_at_iso": "2020-05-07T04:36:49.388990",
+            "last_retested_at_epoch": 1588826209.38899,
+            "last_retested_at_iso": "2020-05-07T04:36:49.388990",
+            "status": "INACTIVE"
+        },
+        "tizerlink.com": {
+            "included_at_epoch": 1588826211.661057,
+            "included_at_iso": "2020-05-07T04:36:51.661057",
+            "last_retested_at_epoch": 1588826211.661057,
+            "last_retested_at_iso": "2020-05-07T04:36:51.661057",
+            "status": "INACTIVE"
+        },
+        "tizerset.net": {
+            "included_at_epoch": 1588826213.622857,
+            "included_at_iso": "2020-05-07T04:36:53.622857",
+            "last_retested_at_epoch": 1588826213.622857,
+            "last_retested_at_iso": "2020-05-07T04:36:53.622857",
+            "status": "INACTIVE"
+        },
+        "tizzitextile.com": {
+            "included_at_epoch": 1588826215.348861,
+            "included_at_iso": "2020-05-07T04:36:55.348861",
+            "last_retested_at_epoch": 1588826215.348861,
+            "last_retested_at_iso": "2020-05-07T04:36:55.348861",
+            "status": "INACTIVE"
+        },
+        "tjdasfdssd.com": {
+            "included_at_epoch": 1588826216.141932,
+            "included_at_iso": "2020-05-07T04:36:56.141932",
+            "last_retested_at_epoch": 1588826216.141932,
+            "last_retested_at_iso": "2020-05-07T04:36:56.141932",
+            "status": "INACTIVE"
+        },
+        "tjyoznaozivi.com": {
+            "included_at_epoch": 1588826218.396844,
+            "included_at_iso": "2020-05-07T04:36:58.396844",
+            "last_retested_at_epoch": 1588826218.396844,
+            "last_retested_at_iso": "2020-05-07T04:36:58.396844",
+            "status": "INACTIVE"
+        },
+        "tkewsaesxhf.com": {
+            "included_at_epoch": 1588826219.256165,
+            "included_at_iso": "2020-05-07T04:36:59.256165",
+            "last_retested_at_epoch": 1588826219.256165,
+            "last_retested_at_iso": "2020-05-07T04:36:59.256165",
+            "status": "INACTIVE"
+        },
+        "tkhoazslm.com": {
+            "included_at_epoch": 1588826219.436894,
+            "included_at_iso": "2020-05-07T04:36:59.436894",
+            "last_retested_at_epoch": 1588826219.436894,
+            "last_retested_at_iso": "2020-05-07T04:36:59.436894",
+            "status": "INACTIVE"
+        },
+        "tkkfmqbisu.com": {
+            "included_at_epoch": 1588826219.89603,
+            "included_at_iso": "2020-05-07T04:36:59.896030",
+            "last_retested_at_epoch": 1588826219.89603,
+            "last_retested_at_iso": "2020-05-07T04:36:59.896030",
+            "status": "INACTIVE"
+        },
+        "tlg.mookie1.com": {
+            "included_at_epoch": 1588826223.641873,
+            "included_at_iso": "2020-05-07T04:37:03.641873",
+            "last_retested_at_epoch": 1588826223.641873,
+            "last_retested_at_iso": "2020-05-07T04:37:03.641873",
+            "status": "INACTIVE"
+        },
+        "tm.twltter.gq": {
+            "included_at_epoch": 1588826227.199289,
+            "included_at_iso": "2020-05-07T04:37:07.199289",
+            "last_retested_at_epoch": 1588826227.199289,
+            "last_retested_at_iso": "2020-05-07T04:37:07.199289",
+            "status": "INACTIVE"
         }
     }
 }
