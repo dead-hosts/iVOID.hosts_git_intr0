@@ -63538,6 +63538,55 @@
             "last_retested_at_epoch": 1588840136.873706,
             "last_retested_at_iso": "2020-05-07T08:28:56.873706",
             "status": "INACTIVE"
+        },
+        "txtads.de": {
+            "included_at_epoch": 1588840865.154366,
+            "included_at_iso": "2020-05-07T08:41:05.154366",
+            "last_retested_at_epoch": 1588840865.154366,
+            "last_retested_at_iso": "2020-05-07T08:41:05.154366",
+            "status": "INACTIVE"
+        },
+        "tyccaweownne.com": {
+            "included_at_epoch": 1588840867.890836,
+            "included_at_iso": "2020-05-07T08:41:07.890836",
+            "last_retested_at_epoch": 1588840867.890836,
+            "last_retested_at_iso": "2020-05-07T08:41:07.890836",
+            "status": "INACTIVE"
+        },
+        "tylzbdkjsjig.com": {
+            "included_at_epoch": 1588840868.3929,
+            "included_at_iso": "2020-05-07T08:41:08.392900",
+            "last_retested_at_epoch": 1588840868.3929,
+            "last_retested_at_iso": "2020-05-07T08:41:08.392900",
+            "status": "INACTIVE"
+        },
+        "tzfywuot.com": {
+            "included_at_epoch": 1588840873.335392,
+            "included_at_iso": "2020-05-07T08:41:13.335392",
+            "last_retested_at_epoch": 1588840873.335392,
+            "last_retested_at_iso": "2020-05-07T08:41:13.335392",
+            "status": "INACTIVE"
+        },
+        "tzyvolvenvyim.com": {
+            "included_at_epoch": 1588840874.122215,
+            "included_at_iso": "2020-05-07T08:41:14.122215",
+            "last_retested_at_epoch": 1588840874.122215,
+            "last_retested_at_iso": "2020-05-07T08:41:14.122215",
+            "status": "INACTIVE"
+        },
+        "u.xogu.cn": {
+            "included_at_epoch": 1588840874.985161,
+            "included_at_iso": "2020-05-07T08:41:14.985161",
+            "last_retested_at_epoch": 1588840874.985161,
+            "last_retested_at_iso": "2020-05-07T08:41:14.985161",
+            "status": "INACTIVE"
+        },
+        "u034024.778669.com": {
+            "included_at_epoch": 1588840875.454232,
+            "included_at_iso": "2020-05-07T08:41:15.454232",
+            "last_retested_at_epoch": 1588840875.454232,
+            "last_retested_at_iso": "2020-05-07T08:41:15.454232",
+            "status": "INACTIVE"
         }
     }
 }
