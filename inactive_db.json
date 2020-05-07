@@ -62082,6 +62082,69 @@
             "last_retested_at_epoch": 1588814228.818571,
             "last_retested_at_iso": "2020-05-07T01:17:08.818571",
             "status": "INACTIVE"
+        },
+        "testnet.jsecoin.com": {
+            "included_at_epoch": 1588814949.454895,
+            "included_at_iso": "2020-05-07T01:29:09.454895",
+            "last_retested_at_epoch": 1588814949.454895,
+            "last_retested_at_iso": "2020-05-07T01:29:09.454895",
+            "status": "INACTIVE"
+        },
+        "texasboston.com": {
+            "included_at_epoch": 1588814953.233368,
+            "included_at_iso": "2020-05-07T01:29:13.233368",
+            "last_retested_at_epoch": 1588814953.233368,
+            "last_retested_at_iso": "2020-05-07T01:29:13.233368",
+            "status": "INACTIVE"
+        },
+        "textreason.com": {
+            "included_at_epoch": 1588814958.594731,
+            "included_at_iso": "2020-05-07T01:29:18.594731",
+            "last_retested_at_epoch": 1588814958.594731,
+            "last_retested_at_iso": "2020-05-07T01:29:18.594731",
+            "status": "INACTIVE"
+        },
+        "tfijbdegozfh.com": {
+            "included_at_epoch": 1588814960.74252,
+            "included_at_iso": "2020-05-07T01:29:20.742520",
+            "last_retested_at_epoch": 1588814960.74252,
+            "last_retested_at_iso": "2020-05-07T01:29:20.742520",
+            "status": "INACTIVE"
+        },
+        "tfxorvbelxfbmk.com": {
+            "included_at_epoch": 1588814962.201951,
+            "included_at_iso": "2020-05-07T01:29:22.201951",
+            "last_retested_at_epoch": 1588814962.201951,
+            "last_retested_at_iso": "2020-05-07T01:29:22.201951",
+            "status": "INACTIVE"
+        },
+        "tfyxcbougqvmk.com": {
+            "included_at_epoch": 1588814962.349123,
+            "included_at_iso": "2020-05-07T01:29:22.349123",
+            "last_retested_at_epoch": 1588814962.349123,
+            "last_retested_at_iso": "2020-05-07T01:29:22.349123",
+            "status": "INACTIVE"
+        },
+        "tgkcxtvryb.com": {
+            "included_at_epoch": 1588814964.760015,
+            "included_at_iso": "2020-05-07T01:29:24.760015",
+            "last_retested_at_epoch": 1588814964.760015,
+            "last_retested_at_iso": "2020-05-07T01:29:24.760015",
+            "status": "INACTIVE"
+        },
+        "tgsmtdata4.pro": {
+            "included_at_epoch": 1588814965.264551,
+            "included_at_iso": "2020-05-07T01:29:25.264551",
+            "last_retested_at_epoch": 1588814965.264551,
+            "last_retested_at_iso": "2020-05-07T01:29:25.264551",
+            "status": "INACTIVE"
+        },
+        "tgujinopirjgnn.com": {
+            "included_at_epoch": 1588814966.098728,
+            "included_at_iso": "2020-05-07T01:29:26.098728",
+            "last_retested_at_epoch": 1588814966.098728,
+            "last_retested_at_iso": "2020-05-07T01:29:26.098728",
+            "status": "INACTIVE"
         }
     }
 }
