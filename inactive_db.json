@@ -62824,6 +62824,104 @@
             "last_retested_at_epoch": 1588830723.436356,
             "last_retested_at_iso": "2020-05-07T05:52:03.436356",
             "status": "INACTIVE"
+        },
+        "tracker.twenga.pl": {
+            "included_at_epoch": 1588831446.442836,
+            "included_at_iso": "2020-05-07T06:04:06.442836",
+            "last_retested_at_epoch": 1588831446.442836,
+            "last_retested_at_iso": "2020-05-07T06:04:06.442836",
+            "status": "INACTIVE"
+        },
+        "tracker.washtimes.com": {
+            "included_at_epoch": 1588831446.632791,
+            "included_at_iso": "2020-05-07T06:04:06.632791",
+            "last_retested_at_epoch": 1588831446.632791,
+            "last_retested_at_iso": "2020-05-07T06:04:06.632791",
+            "status": "INACTIVE"
+        },
+        "trackfreundlich.de": {
+            "included_at_epoch": 1588831448.525485,
+            "included_at_iso": "2020-05-07T06:04:08.525485",
+            "last_retested_at_epoch": 1588831448.525485,
+            "last_retested_at_iso": "2020-05-07T06:04:08.525485",
+            "status": "INACTIVE"
+        },
+        "tracking-rce.veeseo.com": {
+            "included_at_epoch": 1588831449.100961,
+            "included_at_iso": "2020-05-07T06:04:09.100961",
+            "last_retested_at_epoch": 1588831449.100961,
+            "last_retested_at_iso": "2020-05-07T06:04:09.100961",
+            "status": "INACTIVE"
+        },
+        "tracking.acekoala.com": {
+            "included_at_epoch": 1588831449.424302,
+            "included_at_iso": "2020-05-07T06:04:09.424302",
+            "last_retested_at_epoch": 1588831449.424302,
+            "last_retested_at_iso": "2020-05-07T06:04:09.424302",
+            "status": "INACTIVE"
+        },
+        "tracking.admobsphere.com": {
+            "included_at_epoch": 1588831449.883822,
+            "included_at_iso": "2020-05-07T06:04:09.883822",
+            "last_retested_at_epoch": 1588831449.883822,
+            "last_retested_at_iso": "2020-05-07T06:04:09.883822",
+            "status": "INACTIVE"
+        },
+        "tracking.carprices.com": {
+            "included_at_epoch": 1588831450.620822,
+            "included_at_iso": "2020-05-07T06:04:10.620822",
+            "last_retested_at_epoch": 1588831450.620822,
+            "last_retested_at_iso": "2020-05-07T06:04:10.620822",
+            "status": "INACTIVE"
+        },
+        "tracking.conversion-lab.it": {
+            "included_at_epoch": 1588831450.905627,
+            "included_at_iso": "2020-05-07T06:04:10.905627",
+            "last_retested_at_epoch": 1588831450.905627,
+            "last_retested_at_iso": "2020-05-07T06:04:10.905627",
+            "status": "INACTIVE"
+        },
+        "tracking.deluxe-marketing.com": {
+            "included_at_epoch": 1588831451.089454,
+            "included_at_iso": "2020-05-07T06:04:11.089454",
+            "last_retested_at_epoch": 1588831451.089454,
+            "last_retested_at_iso": "2020-05-07T06:04:11.089454",
+            "status": "INACTIVE"
+        },
+        "tracking.deskadsserver.com": {
+            "included_at_epoch": 1588831451.275123,
+            "included_at_iso": "2020-05-07T06:04:11.275123",
+            "last_retested_at_epoch": 1588831451.275123,
+            "last_retested_at_iso": "2020-05-07T06:04:11.275123",
+            "status": "INACTIVE"
+        },
+        "tracking.gj-mobile-services.de": {
+            "included_at_epoch": 1588831451.882957,
+            "included_at_iso": "2020-05-07T06:04:11.882957",
+            "last_retested_at_epoch": 1588831451.882957,
+            "last_retested_at_iso": "2020-05-07T06:04:11.882957",
+            "status": "INACTIVE"
+        },
+        "tracking.i-vengo.com": {
+            "included_at_epoch": 1588831452.275087,
+            "included_at_iso": "2020-05-07T06:04:12.275087",
+            "last_retested_at_epoch": 1588831452.275087,
+            "last_retested_at_iso": "2020-05-07T06:04:12.275087",
+            "status": "INACTIVE"
+        },
+        "tracking.koego.com": {
+            "included_at_epoch": 1588831452.629302,
+            "included_at_iso": "2020-05-07T06:04:12.629302",
+            "last_retested_at_epoch": 1588831452.629302,
+            "last_retested_at_iso": "2020-05-07T06:04:12.629302",
+            "status": "INACTIVE"
+        },
+        "tracking.kurier.at": {
+            "included_at_epoch": 1588831452.812366,
+            "included_at_iso": "2020-05-07T06:04:12.812366",
+            "last_retested_at_epoch": 1588831452.812366,
+            "last_retested_at_iso": "2020-05-07T06:04:12.812366",
+            "status": "INACTIVE"
         }
     }
 }
