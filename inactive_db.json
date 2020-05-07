@@ -61753,6 +61753,62 @@
             "last_retested_at_epoch": 1588810509.519314,
             "last_retested_at_iso": "2020-05-07T00:15:09.519314",
             "status": "INACTIVE"
+        },
+        "tabzz.xyz": {
+            "included_at_epoch": 1588811229.751255,
+            "included_at_iso": "2020-05-07T00:27:09.751255",
+            "last_retested_at_epoch": 1588811229.751255,
+            "last_retested_at_iso": "2020-05-07T00:27:09.751255",
+            "status": "INACTIVE"
+        },
+        "tadaeizih.com": {
+            "included_at_epoch": 1588811231.762778,
+            "included_at_iso": "2020-05-07T00:27:11.762778",
+            "last_retested_at_epoch": 1588811231.762778,
+            "last_retested_at_iso": "2020-05-07T00:27:11.762778",
+            "status": "INACTIVE"
+        },
+        "tagram.mail-lnstagrams.com": {
+            "included_at_epoch": 1588811237.855245,
+            "included_at_iso": "2020-05-07T00:27:17.855245",
+            "last_retested_at_epoch": 1588811237.855245,
+            "last_retested_at_iso": "2020-05-07T00:27:17.855245",
+            "status": "INACTIVE"
+        },
+        "tailorcave.com": {
+            "included_at_epoch": 1588811241.380963,
+            "included_at_iso": "2020-05-07T00:27:21.380963",
+            "last_retested_at_epoch": 1588811241.380963,
+            "last_retested_at_iso": "2020-05-07T00:27:21.380963",
+            "status": "INACTIVE"
+        },
+        "takipci.checkpoint-lnstagram.com": {
+            "included_at_epoch": 1588811246.441953,
+            "included_at_iso": "2020-05-07T00:27:26.441953",
+            "last_retested_at_epoch": 1588811246.441953,
+            "last_retested_at_iso": "2020-05-07T00:27:26.441953",
+            "status": "INACTIVE"
+        },
+        "takipci.help-lnstagram.com": {
+            "included_at_epoch": 1588811246.585635,
+            "included_at_iso": "2020-05-07T00:27:26.585635",
+            "last_retested_at_epoch": 1588811246.585635,
+            "last_retested_at_iso": "2020-05-07T00:27:26.585635",
+            "status": "INACTIVE"
+        },
+        "tamrczjeedauh.com": {
+            "included_at_epoch": 1588811251.309091,
+            "included_at_iso": "2020-05-07T00:27:31.309091",
+            "last_retested_at_epoch": 1588811251.309091,
+            "last_retested_at_iso": "2020-05-07T00:27:31.309091",
+            "status": "INACTIVE"
+        },
+        "tantheretrec.ru": {
+            "included_at_epoch": 1588811253.720712,
+            "included_at_iso": "2020-05-07T00:27:33.720712",
+            "last_retested_at_epoch": 1588811253.720712,
+            "last_retested_at_iso": "2020-05-07T00:27:33.720712",
+            "status": "INACTIVE"
         }
     }
 }
