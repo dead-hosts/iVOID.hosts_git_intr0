@@ -61907,6 +61907,83 @@
             "last_retested_at_epoch": 1588812002.200461,
             "last_retested_at_iso": "2020-05-07T00:40:02.200461",
             "status": "INACTIVE"
+        },
+        "team-lnstagram.ml": {
+            "included_at_epoch": 1588812742.680819,
+            "included_at_iso": "2020-05-07T00:52:22.680819",
+            "last_retested_at_epoch": 1588812742.680819,
+            "last_retested_at_iso": "2020-05-07T00:52:22.680819",
+            "status": "INACTIVE"
+        },
+        "teams-lnstagram.com": {
+            "included_at_epoch": 1588812743.842104,
+            "included_at_iso": "2020-05-07T00:52:23.842104",
+            "last_retested_at_epoch": 1588812743.842104,
+            "last_retested_at_iso": "2020-05-07T00:52:23.842104",
+            "status": "INACTIVE"
+        },
+        "teaser-mobile.com": {
+            "included_at_epoch": 1588812744.639022,
+            "included_at_iso": "2020-05-07T00:52:24.639022",
+            "last_retested_at_epoch": 1588812744.639022,
+            "last_retested_at_iso": "2020-05-07T00:52:24.639022",
+            "status": "INACTIVE"
+        },
+        "teasermoney.ru": {
+            "included_at_epoch": 1588812747.842546,
+            "included_at_iso": "2020-05-07T00:52:27.842546",
+            "last_retested_at_epoch": 1588812747.842546,
+            "last_retested_at_iso": "2020-05-07T00:52:27.842546",
+            "status": "INACTIVE"
+        },
+        "teaserplay.ru": {
+            "included_at_epoch": 1588812748.297963,
+            "included_at_iso": "2020-05-07T00:52:28.297963",
+            "last_retested_at_epoch": 1588812748.297963,
+            "last_retested_at_iso": "2020-05-07T00:52:28.297963",
+            "status": "INACTIVE"
+        },
+        "teaserpro.ru": {
+            "included_at_epoch": 1588812748.592364,
+            "included_at_iso": "2020-05-07T00:52:28.592364",
+            "last_retested_at_epoch": 1588812748.592364,
+            "last_retested_at_iso": "2020-05-07T00:52:28.592364",
+            "status": "INACTIVE"
+        },
+        "teaserrotator.com": {
+            "included_at_epoch": 1588812748.444681,
+            "included_at_iso": "2020-05-07T00:52:28.444681",
+            "last_retested_at_epoch": 1588812748.444681,
+            "last_retested_at_iso": "2020-05-07T00:52:28.444681",
+            "status": "INACTIVE"
+        },
+        "teasersystem.com": {
+            "included_at_epoch": 1588812749.346421,
+            "included_at_iso": "2020-05-07T00:52:29.346421",
+            "last_retested_at_epoch": 1588812749.346421,
+            "last_retested_at_iso": "2020-05-07T00:52:29.346421",
+            "status": "INACTIVE"
+        },
+        "teasertraf.net": {
+            "included_at_epoch": 1588812749.822004,
+            "included_at_iso": "2020-05-07T00:52:29.822004",
+            "last_retested_at_epoch": 1588812749.822004,
+            "last_retested_at_iso": "2020-05-07T00:52:29.822004",
+            "status": "INACTIVE"
+        },
+        "teaserwin.ru": {
+            "included_at_epoch": 1588812750.28058,
+            "included_at_iso": "2020-05-07T00:52:30.280580",
+            "last_retested_at_epoch": 1588812750.28058,
+            "last_retested_at_iso": "2020-05-07T00:52:30.280580",
+            "status": "INACTIVE"
+        },
+        "techcloudtrk.com": {
+            "included_at_epoch": 1588812752.874876,
+            "included_at_iso": "2020-05-07T00:52:32.874876",
+            "last_retested_at_epoch": 1588812752.874876,
+            "last_retested_at_iso": "2020-05-07T00:52:32.874876",
+            "status": "INACTIVE"
         }
     }
 }
