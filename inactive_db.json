@@ -65358,6 +65358,27 @@
             "last_retested_at_epoch": 1588854324.31469,
             "last_retested_at_iso": "2020-05-07T12:25:24.314690",
             "status": "INACTIVE"
+        },
+        "vis19.com": {
+            "included_at_epoch": 1588855056.419169,
+            "included_at_iso": "2020-05-07T12:37:36.419169",
+            "last_retested_at_epoch": 1588855056.419169,
+            "last_retested_at_iso": "2020-05-07T12:37:36.419169",
+            "status": "INACTIVE"
+        },
+        "visitlog.net": {
+            "included_at_epoch": 1588855060.078176,
+            "included_at_iso": "2020-05-07T12:37:40.078176",
+            "last_retested_at_epoch": 1588855060.078176,
+            "last_retested_at_iso": "2020-05-07T12:37:40.078176",
+            "status": "INACTIVE"
+        },
+        "visiweb.top": {
+            "included_at_epoch": 1588855065.484039,
+            "included_at_iso": "2020-05-07T12:37:45.484039",
+            "last_retested_at_epoch": 1588855065.484039,
+            "last_retested_at_iso": "2020-05-07T12:37:45.484039",
+            "status": "INACTIVE"
         }
     }
 }
