@@ -61984,6 +61984,97 @@
             "last_retested_at_epoch": 1588812752.874876,
             "last_retested_at_iso": "2020-05-07T00:52:32.874876",
             "status": "INACTIVE"
+        },
+        "teefpagayhb.com": {
+            "included_at_epoch": 1588813468.614201,
+            "included_at_iso": "2020-05-07T01:04:28.614201",
+            "last_retested_at_epoch": 1588813468.614201,
+            "last_retested_at_iso": "2020-05-07T01:04:28.614201",
+            "status": "INACTIVE"
+        },
+        "tehkvecryl.com": {
+            "included_at_epoch": 1588813471.573394,
+            "included_at_iso": "2020-05-07T01:04:31.573394",
+            "last_retested_at_epoch": 1588813471.573394,
+            "last_retested_at_iso": "2020-05-07T01:04:31.573394",
+            "status": "INACTIVE"
+        },
+        "tektbzadrceqje.com": {
+            "included_at_epoch": 1588813472.671896,
+            "included_at_iso": "2020-05-07T01:04:32.671896",
+            "last_retested_at_epoch": 1588813472.671896,
+            "last_retested_at_iso": "2020-05-07T01:04:32.671896",
+            "status": "INACTIVE"
+        },
+        "tepazmynhvo.com": {
+            "included_at_epoch": 1588813485.715473,
+            "included_at_iso": "2020-05-07T01:04:45.715473",
+            "last_retested_at_epoch": 1588813485.715473,
+            "last_retested_at_iso": "2020-05-07T01:04:45.715473",
+            "status": "INACTIVE"
+        },
+        "teqceeivmpvv.com": {
+            "included_at_epoch": 1588813486.150548,
+            "included_at_iso": "2020-05-07T01:04:46.150548",
+            "last_retested_at_epoch": 1588813486.150548,
+            "last_retested_at_iso": "2020-05-07T01:04:46.150548",
+            "status": "INACTIVE"
+        },
+        "term-lnstagram.ml": {
+            "included_at_epoch": 1588813488.404267,
+            "included_at_iso": "2020-05-07T01:04:48.404267",
+            "last_retested_at_epoch": 1588813488.404267,
+            "last_retested_at_iso": "2020-05-07T01:04:48.404267",
+            "status": "INACTIVE"
+        },
+        "termsapprove-lnstagram.com": {
+            "included_at_epoch": 1588813489.795932,
+            "included_at_iso": "2020-05-07T01:04:49.795932",
+            "last_retested_at_epoch": 1588813489.795932,
+            "last_retested_at_iso": "2020-05-07T01:04:49.795932",
+            "status": "INACTIVE"
+        },
+        "teromil.com": {
+            "included_at_epoch": 1588813490.246962,
+            "included_at_iso": "2020-05-07T01:04:50.246962",
+            "last_retested_at_epoch": 1588813490.246962,
+            "last_retested_at_iso": "2020-05-07T01:04:50.246962",
+            "status": "INACTIVE"
+        },
+        "tertmateruse.ru": {
+            "included_at_epoch": 1588813492.508076,
+            "included_at_iso": "2020-05-07T01:04:52.508076",
+            "last_retested_at_epoch": 1588813492.508076,
+            "last_retested_at_iso": "2020-05-07T01:04:52.508076",
+            "status": "INACTIVE"
+        },
+        "test.lnstagram-web.tk": {
+            "included_at_epoch": 1588813495.836469,
+            "included_at_iso": "2020-05-07T01:04:55.836469",
+            "last_retested_at_epoch": 1588813495.836469,
+            "last_retested_at_iso": "2020-05-07T01:04:55.836469",
+            "status": "INACTIVE"
+        },
+        "test.lnstagram.net.ru": {
+            "included_at_epoch": 1588813495.980419,
+            "included_at_iso": "2020-05-07T01:04:55.980419",
+            "last_retested_at_epoch": 1588813495.980419,
+            "last_retested_at_iso": "2020-05-07T01:04:55.980419",
+            "status": "INACTIVE"
+        },
+        "test.lnstagramthecopyright.com": {
+            "included_at_epoch": 1588813496.2663,
+            "included_at_iso": "2020-05-07T01:04:56.266300",
+            "last_retested_at_epoch": 1588813496.2663,
+            "last_retested_at_iso": "2020-05-07T01:04:56.266300",
+            "status": "INACTIVE"
+        },
+        "test.p.12cpm.com": {
+            "included_at_epoch": 1588813496.123319,
+            "included_at_iso": "2020-05-07T01:04:56.123319",
+            "last_retested_at_epoch": 1588813496.123319,
+            "last_retested_at_iso": "2020-05-07T01:04:56.123319",
+            "status": "INACTIVE"
         }
     }
 }
