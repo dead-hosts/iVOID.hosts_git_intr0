@@ -63027,6 +63027,139 @@
             "last_retested_at_epoch": 1588832241.532928,
             "last_retested_at_iso": "2020-05-07T06:17:21.532928",
             "status": "INACTIVE"
+        },
+        "trafficz.net": {
+            "included_at_epoch": 1588832977.113208,
+            "included_at_iso": "2020-05-07T06:29:37.113208",
+            "last_retested_at_epoch": 1588832977.113208,
+            "last_retested_at_iso": "2020-05-07T06:29:37.113208",
+            "status": "INACTIVE"
+        },
+        "traffpay.ru": {
+            "included_at_epoch": 1588832979.386421,
+            "included_at_iso": "2020-05-07T06:29:39.386421",
+            "last_retested_at_epoch": 1588832979.386421,
+            "last_retested_at_iso": "2020-05-07T06:29:39.386421",
+            "status": "INACTIVE"
+        },
+        "trafiz.net": {
+            "included_at_epoch": 1588832981.707096,
+            "included_at_iso": "2020-05-07T06:29:41.707096",
+            "last_retested_at_epoch": 1588832981.707096,
+            "last_retested_at_iso": "2020-05-07T06:29:41.707096",
+            "status": "INACTIVE"
+        },
+        "trafscan.com": {
+            "included_at_epoch": 1588832983.987942,
+            "included_at_iso": "2020-05-07T06:29:43.987942",
+            "last_retested_at_epoch": 1588832983.987942,
+            "last_retested_at_iso": "2020-05-07T06:29:43.987942",
+            "status": "INACTIVE"
+        },
+        "trafvip.in": {
+            "included_at_epoch": 1588832984.756004,
+            "included_at_iso": "2020-05-07T06:29:44.756004",
+            "last_retested_at_epoch": 1588832984.756004,
+            "last_retested_at_iso": "2020-05-07T06:29:44.756004",
+            "status": "INACTIVE"
+        },
+        "tralifa.info": {
+            "included_at_epoch": 1588832987.392127,
+            "included_at_iso": "2020-05-07T06:29:47.392127",
+            "last_retested_at_epoch": 1588832987.392127,
+            "last_retested_at_iso": "2020-05-07T06:29:47.392127",
+            "status": "INACTIVE"
+        },
+        "tranite.info": {
+            "included_at_epoch": 1588832987.852727,
+            "included_at_iso": "2020-05-07T06:29:47.852727",
+            "last_retested_at_epoch": 1588832987.852727,
+            "last_retested_at_iso": "2020-05-07T06:29:47.852727",
+            "status": "INACTIVE"
+        },
+        "tranzitstar.ru": {
+            "included_at_epoch": 1588832989.613101,
+            "included_at_iso": "2020-05-07T06:29:49.613101",
+            "last_retested_at_epoch": 1588832989.613101,
+            "last_retested_at_iso": "2020-05-07T06:29:49.613101",
+            "status": "INACTIVE"
+        },
+        "trasholita.com": {
+            "included_at_epoch": 1588832989.760038,
+            "included_at_iso": "2020-05-07T06:29:49.760038",
+            "last_retested_at_epoch": 1588832989.760038,
+            "last_retested_at_iso": "2020-05-07T06:29:49.760038",
+            "status": "INACTIVE"
+        },
+        "travel2pic.xyz": {
+            "included_at_epoch": 1588832991.155931,
+            "included_at_iso": "2020-05-07T06:29:51.155931",
+            "last_retested_at_epoch": 1588832991.155931,
+            "last_retested_at_iso": "2020-05-07T06:29:51.155931",
+            "status": "INACTIVE"
+        },
+        "travelstool.com": {
+            "included_at_epoch": 1588832993.827737,
+            "included_at_iso": "2020-05-07T06:29:53.827737",
+            "last_retested_at_epoch": 1588832993.827737,
+            "last_retested_at_iso": "2020-05-07T06:29:53.827737",
+            "status": "INACTIVE"
+        },
+        "trbucgmbren.com": {
+            "included_at_epoch": 1588832995.190041,
+            "included_at_iso": "2020-05-07T06:29:55.190041",
+            "last_retested_at_epoch": 1588832995.190041,
+            "last_retested_at_iso": "2020-05-07T06:29:55.190041",
+            "status": "INACTIVE"
+        },
+        "tredman.com": {
+            "included_at_epoch": 1588833001.824473,
+            "included_at_iso": "2020-05-07T06:30:01.824473",
+            "last_retested_at_epoch": 1588833001.824473,
+            "last_retested_at_iso": "2020-05-07T06:30:01.824473",
+            "status": "INACTIVE"
+        },
+        "trekluck.ru": {
+            "included_at_epoch": 1588833002.914408,
+            "included_at_iso": "2020-05-07T06:30:02.914408",
+            "last_retested_at_epoch": 1588833002.914408,
+            "last_retested_at_iso": "2020-05-07T06:30:02.914408",
+            "status": "INACTIVE"
+        },
+        "trevoltas.pro": {
+            "included_at_epoch": 1588833006.736481,
+            "included_at_iso": "2020-05-07T06:30:06.736481",
+            "last_retested_at_epoch": 1588833006.736481,
+            "last_retested_at_iso": "2020-05-07T06:30:06.736481",
+            "status": "INACTIVE"
+        },
+        "trgdwwhaa.com": {
+            "included_at_epoch": 1588833008.439233,
+            "included_at_iso": "2020-05-07T06:30:08.439233",
+            "last_retested_at_epoch": 1588833008.439233,
+            "last_retested_at_iso": "2020-05-07T06:30:08.439233",
+            "status": "INACTIVE"
+        },
+        "tricsdqejmu.com": {
+            "included_at_epoch": 1588833011.896491,
+            "included_at_iso": "2020-05-07T06:30:11.896491",
+            "last_retested_at_epoch": 1588833011.896491,
+            "last_retested_at_iso": "2020-05-07T06:30:11.896491",
+            "status": "INACTIVE"
+        },
+        "trikroacha.com": {
+            "included_at_epoch": 1588833013.708109,
+            "included_at_iso": "2020-05-07T06:30:13.708109",
+            "last_retested_at_epoch": 1588833013.708109,
+            "last_retested_at_iso": "2020-05-07T06:30:13.708109",
+            "status": "INACTIVE"
+        },
+        "trk.10ru.pt": {
+            "included_at_epoch": 1588833016.544345,
+            "included_at_iso": "2020-05-07T06:30:16.544345",
+            "last_retested_at_epoch": 1588833016.544345,
+            "last_retested_at_iso": "2020-05-07T06:30:16.544345",
+            "status": "INACTIVE"
         }
     }
 }
