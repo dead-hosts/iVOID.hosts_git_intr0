@@ -64091,6 +64091,139 @@
             "last_retested_at_epoch": 1588844412.003185,
             "last_retested_at_iso": "2020-05-07T09:40:12.003185",
             "status": "INACTIVE"
+        },
+        "uplvcx.xyz": {
+            "included_at_epoch": 1588845134.325065,
+            "included_at_iso": "2020-05-07T09:52:14.325065",
+            "last_retested_at_epoch": 1588845134.325065,
+            "last_retested_at_iso": "2020-05-07T09:52:14.325065",
+            "status": "INACTIVE"
+        },
+        "upnorma.com": {
+            "included_at_epoch": 1588845134.511211,
+            "included_at_iso": "2020-05-07T09:52:14.511211",
+            "last_retested_at_epoch": 1588845134.511211,
+            "last_retested_at_iso": "2020-05-07T09:52:14.511211",
+            "status": "INACTIVE"
+        },
+        "uqbxjdeeq.com": {
+            "included_at_epoch": 1588845143.424913,
+            "included_at_iso": "2020-05-07T09:52:23.424913",
+            "last_retested_at_epoch": 1588845143.424913,
+            "last_retested_at_iso": "2020-05-07T09:52:23.424913",
+            "status": "INACTIVE"
+        },
+        "uqemcyylvcdrgs.com": {
+            "included_at_epoch": 1588845144.20131,
+            "included_at_iso": "2020-05-07T09:52:24.201310",
+            "last_retested_at_epoch": 1588845144.20131,
+            "last_retested_at_iso": "2020-05-07T09:52:24.201310",
+            "status": "INACTIVE"
+        },
+        "uqihbnpqtwwzdv.com": {
+            "included_at_epoch": 1588845145.60243,
+            "included_at_iso": "2020-05-07T09:52:25.602430",
+            "last_retested_at_epoch": 1588845145.60243,
+            "last_retested_at_iso": "2020-05-07T09:52:25.602430",
+            "status": "INACTIVE"
+        },
+        "uqmkkfaoqnnmlx.com": {
+            "included_at_epoch": 1588845145.75104,
+            "included_at_iso": "2020-05-07T09:52:25.751040",
+            "last_retested_at_epoch": 1588845145.75104,
+            "last_retested_at_iso": "2020-05-07T09:52:25.751040",
+            "status": "INACTIVE"
+        },
+        "uqouplgwlmeqt.com": {
+            "included_at_epoch": 1588845145.898812,
+            "included_at_iso": "2020-05-07T09:52:25.898812",
+            "last_retested_at_epoch": 1588845145.898812,
+            "last_retested_at_iso": "2020-05-07T09:52:25.898812",
+            "status": "INACTIVE"
+        },
+        "uralap.com": {
+            "included_at_epoch": 1588845146.98106,
+            "included_at_iso": "2020-05-07T09:52:26.981060",
+            "last_retested_at_epoch": 1588845146.98106,
+            "last_retested_at_iso": "2020-05-07T09:52:26.981060",
+            "status": "INACTIVE"
+        },
+        "urfdvrrg.com": {
+            "included_at_epoch": 1588845149.067819,
+            "included_at_iso": "2020-05-07T09:52:29.067819",
+            "last_retested_at_epoch": 1588845149.067819,
+            "last_retested_at_iso": "2020-05-07T09:52:29.067819",
+            "status": "INACTIVE"
+        },
+        "urgayhoe.xyz": {
+            "included_at_epoch": 1588845149.217652,
+            "included_at_iso": "2020-05-07T09:52:29.217652",
+            "last_retested_at_epoch": 1588845149.217652,
+            "last_retested_at_iso": "2020-05-07T09:52:29.217652",
+            "status": "INACTIVE"
+        },
+        "urwb.ru": {
+            "included_at_epoch": 1588845154.890252,
+            "included_at_iso": "2020-05-07T09:52:34.890252",
+            "last_retested_at_epoch": 1588845154.890252,
+            "last_retested_at_iso": "2020-05-07T09:52:34.890252",
+            "status": "INACTIVE"
+        },
+        "uryle.ru": {
+            "included_at_epoch": 1588845155.347664,
+            "included_at_iso": "2020-05-07T09:52:35.347664",
+            "last_retested_at_epoch": 1588845155.347664,
+            "last_retested_at_iso": "2020-05-07T09:52:35.347664",
+            "status": "INACTIVE"
+        },
+        "uryvzhvgpulaog.com": {
+            "included_at_epoch": 1588845155.530312,
+            "included_at_iso": "2020-05-07T09:52:35.530312",
+            "last_retested_at_epoch": 1588845155.530312,
+            "last_retested_at_iso": "2020-05-07T09:52:35.530312",
+            "status": "INACTIVE"
+        },
+        "us-ma.sam4m.com": {
+            "included_at_epoch": 1588845156.415299,
+            "included_at_iso": "2020-05-07T09:52:36.415299",
+            "last_retested_at_epoch": 1588845156.415299,
+            "last_retested_at_iso": "2020-05-07T09:52:36.415299",
+            "status": "INACTIVE"
+        },
+        "us.b3018.pw": {
+            "included_at_epoch": 1588845156.941876,
+            "included_at_iso": "2020-05-07T09:52:36.941876",
+            "last_retested_at_epoch": 1588845156.941876,
+            "last_retested_at_iso": "2020-05-07T09:52:36.941876",
+            "status": "INACTIVE"
+        },
+        "usa-media.net": {
+            "included_at_epoch": 1588845159.558774,
+            "included_at_iso": "2020-05-07T09:52:39.558774",
+            "last_retested_at_epoch": 1588845159.558774,
+            "last_retested_at_iso": "2020-05-07T09:52:39.558774",
+            "status": "INACTIVE"
+        },
+        "uscoronavirus.net": {
+            "included_at_epoch": 1588845169.637465,
+            "included_at_iso": "2020-05-07T09:52:49.637465",
+            "last_retested_at_epoch": 1588845169.637465,
+            "last_retested_at_iso": "2020-05-07T09:52:49.637465",
+            "status": "INACTIVE"
+        },
+        "usd7o88wemlutx5.xyz": {
+            "included_at_epoch": 1588845174.915782,
+            "included_at_iso": "2020-05-07T09:52:54.915782",
+            "last_retested_at_epoch": 1588845174.915782,
+            "last_retested_at_iso": "2020-05-07T09:52:54.915782",
+            "status": "INACTIVE"
+        },
+        "usdlgonjnzpu.com": {
+            "included_at_epoch": 1588845174.766261,
+            "included_at_iso": "2020-05-07T09:52:54.766261",
+            "last_retested_at_epoch": 1588845174.766261,
+            "last_retested_at_iso": "2020-05-07T09:52:54.766261",
+            "status": "INACTIVE"
         }
     }
 }
