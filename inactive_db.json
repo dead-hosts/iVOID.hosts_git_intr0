@@ -67318,6 +67318,20 @@
             "last_retested_at_epoch": 1588872113.70316,
             "last_retested_at_iso": "2020-05-07T17:21:53.703160",
             "status": "INACTIVE"
+        },
+        "webdisk.lnstagram-copyrights.info": {
+            "included_at_epoch": 1588872840.835249,
+            "included_at_iso": "2020-05-07T17:34:00.835249",
+            "last_retested_at_epoch": 1588872840.835249,
+            "last_retested_at_iso": "2020-05-07T17:34:00.835249",
+            "status": "INACTIVE"
+        },
+        "webdisk.lnstagram-copyrights.ml": {
+            "included_at_epoch": 1588872841.007407,
+            "included_at_iso": "2020-05-07T17:34:01.007407",
+            "last_retested_at_epoch": 1588872841.007407,
+            "last_retested_at_iso": "2020-05-07T17:34:01.007407",
+            "status": "INACTIVE"
         }
     }
 }
