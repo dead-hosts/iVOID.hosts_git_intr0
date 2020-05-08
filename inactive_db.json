@@ -79586,8 +79586,8 @@
         "ypsmko.com": {
             "included_at_epoch": 1588942943.974464,
             "included_at_iso": "2020-05-08T13:02:23.974464",
-            "last_retested_at_epoch": 1588942943.974464,
-            "last_retested_at_iso": "2020-05-08T13:02:23.974464",
+            "last_retested_at_epoch": 1588943686.45647,
+            "last_retested_at_iso": "2020-05-08T13:14:46.456470",
             "status": "INACTIVE"
         },
         "yptwqjdgikmcqc.com": {
@@ -79651,6 +79651,90 @@
             "included_at_iso": "2020-05-08T13:02:34.939466",
             "last_retested_at_epoch": 1588942954.939466,
             "last_retested_at_iso": "2020-05-08T13:02:34.939466",
+            "status": "INACTIVE"
+        },
+        "yttvnnvklf.com": {
+            "included_at_epoch": 1588943687.014246,
+            "included_at_iso": "2020-05-08T13:14:47.014246",
+            "last_retested_at_epoch": 1588943687.014246,
+            "last_retested_at_iso": "2020-05-08T13:14:47.014246",
+            "status": "INACTIVE"
+        },
+        "yu21uy.com": {
+            "included_at_epoch": 1588943687.893026,
+            "included_at_iso": "2020-05-08T13:14:47.893026",
+            "last_retested_at_epoch": 1588943687.893026,
+            "last_retested_at_iso": "2020-05-08T13:14:47.893026",
+            "status": "INACTIVE"
+        },
+        "yuanaayutyd.com": {
+            "included_at_epoch": 1588943688.421939,
+            "included_at_iso": "2020-05-08T13:14:48.421939",
+            "last_retested_at_epoch": 1588943688.421939,
+            "last_retested_at_iso": "2020-05-08T13:14:48.421939",
+            "status": "INACTIVE"
+        },
+        "yuazwfzvdzfc.com": {
+            "included_at_epoch": 1588943688.607389,
+            "included_at_iso": "2020-05-08T13:14:48.607389",
+            "last_retested_at_epoch": 1588943688.607389,
+            "last_retested_at_iso": "2020-05-08T13:14:48.607389",
+            "status": "INACTIVE"
+        },
+        "yuituityula.com": {
+            "included_at_epoch": 1588943691.287255,
+            "included_at_iso": "2020-05-08T13:14:51.287255",
+            "last_retested_at_epoch": 1588943691.287255,
+            "last_retested_at_iso": "2020-05-08T13:14:51.287255",
+            "status": "INACTIVE"
+        },
+        "yupfiles.club": {
+            "included_at_epoch": 1588943693.973524,
+            "included_at_iso": "2020-05-08T13:14:53.973524",
+            "last_retested_at_epoch": 1588943693.973524,
+            "last_retested_at_iso": "2020-05-08T13:14:53.973524",
+            "status": "INACTIVE"
+        },
+        "yvbrgzeu.com": {
+            "included_at_epoch": 1588943697.282789,
+            "included_at_iso": "2020-05-08T13:14:57.282789",
+            "last_retested_at_epoch": 1588943697.282789,
+            "last_retested_at_iso": "2020-05-08T13:14:57.282789",
+            "status": "INACTIVE"
+        },
+        "yvlhxqxw.com": {
+            "included_at_epoch": 1588943699.594242,
+            "included_at_iso": "2020-05-08T13:14:59.594242",
+            "last_retested_at_epoch": 1588943699.594242,
+            "last_retested_at_iso": "2020-05-08T13:14:59.594242",
+            "status": "INACTIVE"
+        },
+        "yvlmcehqt.com": {
+            "included_at_epoch": 1588943699.778167,
+            "included_at_iso": "2020-05-08T13:14:59.778167",
+            "last_retested_at_epoch": 1588943699.778167,
+            "last_retested_at_iso": "2020-05-08T13:14:59.778167",
+            "status": "INACTIVE"
+        },
+        "yw9f088h61.com": {
+            "included_at_epoch": 1588943704.112509,
+            "included_at_iso": "2020-05-08T13:15:04.112509",
+            "last_retested_at_epoch": 1588943704.112509,
+            "last_retested_at_iso": "2020-05-08T13:15:04.112509",
+            "status": "INACTIVE"
+        },
+        "ywegbjiv.com": {
+            "included_at_epoch": 1588943704.976501,
+            "included_at_iso": "2020-05-08T13:15:04.976501",
+            "last_retested_at_epoch": 1588943704.976501,
+            "last_retested_at_iso": "2020-05-08T13:15:04.976501",
+            "status": "INACTIVE"
+        },
+        "ywxnjrkkrnyzc.com": {
+            "included_at_epoch": 1588943708.290744,
+            "included_at_iso": "2020-05-08T13:15:08.290744",
+            "last_retested_at_epoch": 1588943708.290744,
+            "last_retested_at_iso": "2020-05-08T13:15:08.290744",
             "status": "INACTIVE"
         }
     }
