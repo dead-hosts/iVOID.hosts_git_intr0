@@ -581,13 +581,6 @@
             "last_retested_at_iso": "2020-05-02T13:28:33.938071",
             "status": "INACTIVE"
         },
-        "18nation.": {
-            "included_at_epoch": 1586582433.0,
-            "included_at_iso": "2020-04-11T05:20:33",
-            "last_retested_at_epoch": 1588955290.108793,
-            "last_retested_at_iso": "2020-05-08T16:28:10.108793",
-            "status": "INVALID"
-        },
         "190282.xyz": {
             "included_at_epoch": 1587916935.94119,
             "included_at_iso": "2020-04-26T16:02:15.941190",
@@ -79586,8 +79579,8 @@
         "ypsmko.com": {
             "included_at_epoch": 1588942943.974464,
             "included_at_iso": "2020-05-08T13:02:23.974464",
-            "last_retested_at_epoch": 1589001161.434485,
-            "last_retested_at_iso": "2020-05-09T05:12:41.434485",
+            "last_retested_at_epoch": 1589002158.482546,
+            "last_retested_at_iso": "2020-05-09T05:29:18.482546",
             "status": "INACTIVE"
         },
         "yptwqjdgikmcqc.com": {
