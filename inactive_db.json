@@ -1099,13 +1099,6 @@
             "last_retested_at_iso": "2020-05-02T13:28:37.533069",
             "status": "INACTIVE"
         },
-        "31.131.20.159": {
-            "included_at_epoch": 1586590102.0,
-            "included_at_iso": "2020-04-11T07:28:22",
-            "last_retested_at_epoch": 1588426117.628879,
-            "last_retested_at_iso": "2020-05-02T13:28:37.628879",
-            "status": "INACTIVE"
-        },
         "31.170.160.61": {
             "included_at_epoch": 1586624916.0,
             "included_at_iso": "2020-04-11T17:08:36",
@@ -79579,8 +79572,8 @@
         "ypsmko.com": {
             "included_at_epoch": 1588942943.974464,
             "included_at_iso": "2020-05-08T13:02:23.974464",
-            "last_retested_at_epoch": 1589009277.249839,
-            "last_retested_at_iso": "2020-05-09T07:27:57.249839",
+            "last_retested_at_epoch": 1589010126.504511,
+            "last_retested_at_iso": "2020-05-09T07:42:06.504511",
             "status": "INACTIVE"
         },
         "yptwqjdgikmcqc.com": {
