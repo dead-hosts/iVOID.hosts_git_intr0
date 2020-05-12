@@ -14,11 +14,32 @@
             "last_retested_at_iso": "2020-05-02T13:28:30.091091",
             "status": "INACTIVE"
         },
+        "02i8g.applesafecausit.com": {
+            "included_at_epoch": 1589321105.822799,
+            "included_at_iso": "2020-05-12T22:05:05.822799",
+            "last_retested_at_epoch": 1589321105.822799,
+            "last_retested_at_iso": "2020-05-12T22:05:05.822799",
+            "status": "INACTIVE"
+        },
+        "032co.uk.c3ul.ru": {
+            "included_at_epoch": 1589321106.206654,
+            "included_at_iso": "2020-05-12T22:05:06.206654",
+            "last_retested_at_epoch": 1589321106.206654,
+            "last_retested_at_iso": "2020-05-12T22:05:06.206654",
+            "status": "INACTIVE"
+        },
         "0374adc8c6a6a56.com": {
             "included_at_epoch": 1587916934.497159,
             "included_at_iso": "2020-04-26T16:02:14.497159",
             "last_retested_at_epoch": 1588426110.138912,
             "last_retested_at_iso": "2020-05-02T13:28:30.138912",
+            "status": "INACTIVE"
+        },
+        "039b1ee.netsolhost.com": {
+            "included_at_epoch": 1589321106.017328,
+            "included_at_iso": "2020-05-12T22:05:06.017328",
+            "last_retested_at_epoch": 1589321106.017328,
+            "last_retested_at_iso": "2020-05-12T22:05:06.017328",
             "status": "INACTIVE"
         },
         "0638.info": {
