@@ -2296,11 +2296,39 @@
             "last_retested_at_iso": "2020-05-02T13:28:35.372208",
             "status": "INACTIVE"
         },
+        "1clbc-set1acc.com": {
+            "included_at_epoch": 1589326592.866334,
+            "included_at_iso": "2020-05-12T23:36:32.866334",
+            "last_retested_at_epoch": 1589326592.866334,
+            "last_retested_at_iso": "2020-05-12T23:36:32.866334",
+            "status": "INACTIVE"
+        },
         "1d-app1e.uk": {
             "included_at_epoch": 1587916936.26039,
             "included_at_iso": "2020-04-26T16:02:16.260390",
             "last_retested_at_epoch": 1588426115.420014,
             "last_retested_at_iso": "2020-05-02T13:28:35.420014",
+            "status": "INACTIVE"
+        },
+        "1f1oqtoj.azurewebsites.net": {
+            "included_at_epoch": 1589326593.39811,
+            "included_at_iso": "2020-05-12T23:36:33.398110",
+            "last_retested_at_epoch": 1589326593.39811,
+            "last_retested_at_iso": "2020-05-12T23:36:33.398110",
+            "status": "INACTIVE"
+        },
+        "1imited-paypa1.com-myapps-investigation.info": {
+            "included_at_epoch": 1589326593.947705,
+            "included_at_iso": "2020-05-12T23:36:33.947705",
+            "last_retested_at_epoch": 1589326593.947705,
+            "last_retested_at_iso": "2020-05-12T23:36:33.947705",
+            "status": "INACTIVE"
+        },
+        "1kedipipimi7.duckdns.org": {
+            "included_at_epoch": 1589326594.174161,
+            "included_at_iso": "2020-05-12T23:36:34.174161",
+            "last_retested_at_epoch": 1589326594.174161,
+            "last_retested_at_iso": "2020-05-12T23:36:34.174161",
             "status": "INACTIVE"
         },
         "1nstagram-shop.hoverboards365.com": {
@@ -2394,6 +2422,27 @@
             "last_retested_at_iso": "2020-05-02T13:28:35.994259",
             "status": "INACTIVE"
         },
+        "1oneand1one.jetestjerecomande.net": {
+            "included_at_epoch": 1589326595.11139,
+            "included_at_iso": "2020-05-12T23:36:35.111390",
+            "last_retested_at_epoch": 1589326595.11139,
+            "last_retested_at_iso": "2020-05-12T23:36:35.111390",
+            "status": "INACTIVE"
+        },
+        "1podcast.best": {
+            "included_at_epoch": 1589326595.299748,
+            "included_at_iso": "2020-05-12T23:36:35.299748",
+            "last_retested_at_epoch": 1589326595.299748,
+            "last_retested_at_iso": "2020-05-12T23:36:35.299748",
+            "status": "INACTIVE"
+        },
+        "1podcast.xyz": {
+            "included_at_epoch": 1589326595.48707,
+            "included_at_iso": "2020-05-12T23:36:35.487070",
+            "last_retested_at_epoch": 1589326595.48707,
+            "last_retested_at_iso": "2020-05-12T23:36:35.487070",
+            "status": "INACTIVE"
+        },
         "1q2w3.life": {
             "included_at_epoch": 1587916936.58624,
             "included_at_iso": "2020-04-26T16:02:16.586240",
@@ -2415,6 +2464,20 @@
             "last_retested_at_iso": "2020-05-02T13:28:36.235714",
             "status": "INACTIVE"
         },
+        "2.135.239.123": {
+            "included_at_epoch": 1589326596.029182,
+            "included_at_iso": "2020-05-12T23:36:36.029182",
+            "last_retested_at_epoch": 1589326596.029182,
+            "last_retested_at_iso": "2020-05-12T23:36:36.029182",
+            "status": "INACTIVE"
+        },
+        "201.163.15.214": {
+            "included_at_epoch": 1589326596.951307,
+            "included_at_iso": "2020-05-12T23:36:36.951307",
+            "last_retested_at_epoch": 1589326596.951307,
+            "last_retested_at_iso": "2020-05-12T23:36:36.951307",
+            "status": "INACTIVE"
+        },
         "201.236.135.104": {
             "included_at_epoch": 1587916936.853974,
             "included_at_iso": "2020-04-26T16:02:16.853974",
@@ -2422,11 +2485,32 @@
             "last_retested_at_iso": "2020-05-02T13:28:36.332673",
             "status": "INACTIVE"
         },
+        "202.212.70.70": {
+            "included_at_epoch": 1589326597.745058,
+            "included_at_iso": "2020-05-12T23:36:37.745058",
+            "last_retested_at_epoch": 1589326597.745058,
+            "last_retested_at_iso": "2020-05-12T23:36:37.745058",
+            "status": "INACTIVE"
+        },
         "202.29.215.114": {
             "included_at_epoch": 1587916936.88755,
             "included_at_iso": "2020-04-26T16:02:16.887550",
             "last_retested_at_epoch": 1588426116.283851,
             "last_retested_at_iso": "2020-05-02T13:28:36.283851",
+            "status": "INACTIVE"
+        },
+        "202.29.220.182": {
+            "included_at_epoch": 1589326597.556622,
+            "included_at_iso": "2020-05-12T23:36:37.556622",
+            "last_retested_at_epoch": 1589326597.556622,
+            "last_retested_at_iso": "2020-05-12T23:36:37.556622",
+            "status": "INACTIVE"
+        },
+        "202.29.233.166": {
+            "included_at_epoch": 1589326597.972671,
+            "included_at_iso": "2020-05-12T23:36:37.972671",
+            "last_retested_at_epoch": 1589326597.972671,
+            "last_retested_at_iso": "2020-05-12T23:36:37.972671",
             "status": "INACTIVE"
         },
         "202.62.39.111": {
