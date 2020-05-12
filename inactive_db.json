@@ -42,6 +42,27 @@
             "last_retested_at_iso": "2020-05-12T22:05:06.017328",
             "status": "INACTIVE"
         },
+        "03a6b7a.netsolhost.com": {
+            "included_at_epoch": 1589321830.607326,
+            "included_at_iso": "2020-05-12T22:17:10.607326",
+            "last_retested_at_epoch": 1589321830.607326,
+            "last_retested_at_iso": "2020-05-12T22:17:10.607326",
+            "status": "INACTIVE"
+        },
+        "03a6f57.netsolhost.com": {
+            "included_at_epoch": 1589321830.41174,
+            "included_at_iso": "2020-05-12T22:17:10.411740",
+            "last_retested_at_epoch": 1589321830.41174,
+            "last_retested_at_iso": "2020-05-12T22:17:10.411740",
+            "status": "INACTIVE"
+        },
+        "03bbec4.netsolhost.com": {
+            "included_at_epoch": 1589321830.859302,
+            "included_at_iso": "2020-05-12T22:17:10.859302",
+            "last_retested_at_epoch": 1589321830.859302,
+            "last_retested_at_iso": "2020-05-12T22:17:10.859302",
+            "status": "INACTIVE"
+        },
         "0638.info": {
             "included_at_epoch": 1587916934.561938,
             "included_at_iso": "2020-04-26T16:02:14.561938",
@@ -70,11 +91,25 @@
             "last_retested_at_iso": "2020-05-02T13:28:30.377966",
             "status": "INACTIVE"
         },
+        "0if1nl6.org": {
+            "included_at_epoch": 1589321832.932744,
+            "included_at_iso": "2020-05-12T22:17:12.932744",
+            "last_retested_at_epoch": 1589321832.932744,
+            "last_retested_at_iso": "2020-05-12T22:17:12.932744",
+            "status": "INACTIVE"
+        },
         "0jkro0unul.execute-api.us-west-2.amazonaws.com": {
             "included_at_epoch": 1587186987.0,
             "included_at_iso": "2020-04-18T05:16:27",
             "last_retested_at_epoch": 1588426110.330464,
             "last_retested_at_iso": "2020-05-02T13:28:30.330464",
+            "status": "INACTIVE"
+        },
+        "0npxkvszg.privatescurom.net": {
+            "included_at_epoch": 1589321833.158759,
+            "included_at_iso": "2020-05-12T22:17:13.158759",
+            "last_retested_at_epoch": 1589321833.158759,
+            "last_retested_at_iso": "2020-05-12T22:17:13.158759",
             "status": "INACTIVE"
         },
         "0nso0tq1sa4.ml": {
