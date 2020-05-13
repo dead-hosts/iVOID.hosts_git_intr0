@@ -15183,6 +15183,13 @@
             "last_retested_at_iso": "2020-05-13T12:00:27.435292",
             "status": "INACTIVE"
         },
+        "aszasdas.net": {
+            "included_at_epoch": 1589403651.531743,
+            "included_at_iso": "2020-05-13T21:00:51.531743",
+            "last_retested_at_epoch": 1589403651.531743,
+            "last_retested_at_iso": "2020-05-13T21:00:51.531743",
+            "status": "INACTIVE"
+        },
         "atamjanebyl.biz": {
             "included_at_epoch": 1588370477.866097,
             "included_at_iso": "2020-05-01T22:01:17.866097",
@@ -15204,6 +15211,13 @@
             "last_retested_at_iso": "2020-05-01T22:01:18.070126",
             "status": "INACTIVE"
         },
+        "atendimento.mercadobitcoin.com-br.trade": {
+            "included_at_epoch": 1589403651.903276,
+            "included_at_iso": "2020-05-13T21:00:51.903276",
+            "last_retested_at_epoch": 1589403651.903276,
+            "last_retested_at_iso": "2020-05-13T21:00:51.903276",
+            "status": "INACTIVE"
+        },
         "athomecorona.com": {
             "included_at_epoch": 1588370478.503113,
             "included_at_iso": "2020-05-01T22:01:18.503113",
@@ -15218,11 +15232,67 @@
             "last_retested_at_iso": "2020-05-01T22:01:19.371452",
             "status": "INACTIVE"
         },
+        "atsu.instructure.nrev.me": {
+            "included_at_epoch": 1589403654.962823,
+            "included_at_iso": "2020-05-13T21:00:54.962823",
+            "last_retested_at_epoch": 1589403654.962823,
+            "last_retested_at_iso": "2020-05-13T21:00:54.962823",
+            "status": "INACTIVE"
+        },
         "attention-ordinateur-6de8afracas-ordinateur-corona37f0d-2234f.com": {
             "included_at_epoch": 1588370479.489128,
             "included_at_iso": "2020-05-01T22:01:19.489128",
             "last_retested_at_epoch": 1588370479.489128,
             "last_retested_at_iso": "2020-05-01T22:01:19.489128",
+            "status": "INACTIVE"
+        },
+        "atualizacao.dados.itau.com.br.mercadop.com": {
+            "included_at_epoch": 1589403659.183674,
+            "included_at_iso": "2020-05-13T21:00:59.183674",
+            "last_retested_at_epoch": 1589403659.183674,
+            "last_retested_at_iso": "2020-05-13T21:00:59.183674",
+            "status": "INACTIVE"
+        },
+        "atualizacaoobrigatoria24horas.duckdns.org": {
+            "included_at_epoch": 1589403660.159654,
+            "included_at_iso": "2020-05-13T21:01:00.159654",
+            "last_retested_at_epoch": 1589403660.159654,
+            "last_retested_at_iso": "2020-05-13T21:01:00.159654",
+            "status": "INACTIVE"
+        },
+        "atuoki.shoesmogul.com": {
+            "included_at_epoch": 1589403660.702076,
+            "included_at_iso": "2020-05-13T21:01:00.702076",
+            "last_retested_at_epoch": 1589403660.702076,
+            "last_retested_at_iso": "2020-05-13T21:01:00.702076",
+            "status": "INACTIVE"
+        },
+        "au-jjc.com": {
+            "included_at_epoch": 1589403661.601694,
+            "included_at_iso": "2020-05-13T21:01:01.601694",
+            "last_retested_at_epoch": 1589403661.601694,
+            "last_retested_at_iso": "2020-05-13T21:01:01.601694",
+            "status": "INACTIVE"
+        },
+        "au-jje.com": {
+            "included_at_epoch": 1589403662.15399,
+            "included_at_iso": "2020-05-13T21:01:02.153990",
+            "last_retested_at_epoch": 1589403662.15399,
+            "last_retested_at_iso": "2020-05-13T21:01:02.153990",
+            "status": "INACTIVE"
+        },
+        "au-jjg.com": {
+            "included_at_epoch": 1589403662.354142,
+            "included_at_iso": "2020-05-13T21:01:02.354142",
+            "last_retested_at_epoch": 1589403662.354142,
+            "last_retested_at_iso": "2020-05-13T21:01:02.354142",
+            "status": "INACTIVE"
+        },
+        "au-jjh.com": {
+            "included_at_epoch": 1589403662.557614,
+            "included_at_iso": "2020-05-13T21:01:02.557614",
+            "last_retested_at_epoch": 1589403662.557614,
+            "last_retested_at_iso": "2020-05-13T21:01:02.557614",
             "status": "INACTIVE"
         },
         "auaop.com": {
@@ -15246,6 +15316,20 @@
             "last_retested_at_iso": "2020-05-01T22:01:21.380166",
             "status": "INACTIVE"
         },
+        "aumdo6u.sulaimanc.net": {
+            "included_at_epoch": 1589403664.270389,
+            "included_at_iso": "2020-05-13T21:01:04.270389",
+            "last_retested_at_epoch": 1589403664.270389,
+            "last_retested_at_iso": "2020-05-13T21:01:04.270389",
+            "status": "INACTIVE"
+        },
+        "auone.jp-connectoportal-dashboard.wenusemeee.com": {
+            "included_at_epoch": 1589403665.250029,
+            "included_at_iso": "2020-05-13T21:01:05.250029",
+            "last_retested_at_epoch": 1589403665.250029,
+            "last_retested_at_iso": "2020-05-13T21:01:05.250029",
+            "status": "INACTIVE"
+        },
         "australicovid19.com": {
             "included_at_epoch": 1588370481.832923,
             "included_at_iso": "2020-05-01T22:01:21.832923",
@@ -15260,6 +15344,27 @@
             "last_retested_at_iso": "2020-05-01T22:01:21.883132",
             "status": "INACTIVE"
         },
+        "auth-secur30-chasmainid00005048471003407.cf": {
+            "included_at_epoch": 1589403666.573866,
+            "included_at_iso": "2020-05-13T21:01:06.573866",
+            "last_retested_at_epoch": 1589403666.573866,
+            "last_retested_at_iso": "2020-05-13T21:01:06.573866",
+            "status": "INACTIVE"
+        },
+        "auth-secur30-chasmainid0000563847100.cf": {
+            "included_at_epoch": 1589403666.816861,
+            "included_at_iso": "2020-05-13T21:01:06.816861",
+            "last_retested_at_epoch": 1589403666.816861,
+            "last_retested_at_iso": "2020-05-13T21:01:06.816861",
+            "status": "INACTIVE"
+        },
+        "auth-secur30-chasmainid000391005.cf": {
+            "included_at_epoch": 1589403667.019256,
+            "included_at_iso": "2020-05-13T21:01:07.019256",
+            "last_retested_at_epoch": 1589403667.019256,
+            "last_retested_at_iso": "2020-05-13T21:01:07.019256",
+            "status": "INACTIVE"
+        },
         "auth-secure-dashbordapp1e-1nc.com": {
             "included_at_epoch": 1588370481.966483,
             "included_at_iso": "2020-05-01T22:01:21.966483",
@@ -15272,6 +15377,13 @@
             "included_at_iso": "2020-05-01T22:01:22.016588",
             "last_retested_at_epoch": 1588370482.016588,
             "last_retested_at_iso": "2020-05-01T22:01:22.016588",
+            "status": "INACTIVE"
+        },
+        "auth.pageid-support.appleid.apple.com.farleysbsikuit.com": {
+            "included_at_epoch": 1589403667.263505,
+            "included_at_iso": "2020-05-13T21:01:07.263505",
+            "last_retested_at_epoch": 1589403667.263505,
+            "last_retested_at_iso": "2020-05-13T21:01:07.263505",
             "status": "INACTIVE"
         },
         "authapp1e-account-activity.2simmovil.com": {
