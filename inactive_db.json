@@ -13916,6 +13916,97 @@
             "last_retested_at_iso": "2020-05-01T21:07:04.564239",
             "status": "INACTIVE"
         },
+        "apple-app.serveirc.com": {
+            "included_at_epoch": 1589363484.469519,
+            "included_at_iso": "2020-05-13T09:51:24.469519",
+            "last_retested_at_epoch": 1589363484.469519,
+            "last_retested_at_iso": "2020-05-13T09:51:24.469519",
+            "status": "INACTIVE"
+        },
+        "apple-br.lbusca.com": {
+            "included_at_epoch": 1589363485.112745,
+            "included_at_iso": "2020-05-13T09:51:25.112745",
+            "last_retested_at_epoch": 1589363485.112745,
+            "last_retested_at_iso": "2020-05-13T09:51:25.112745",
+            "status": "INACTIVE"
+        },
+        "apple-idevices.info": {
+            "included_at_epoch": 1589363485.317108,
+            "included_at_iso": "2020-05-13T09:51:25.317108",
+            "last_retested_at_epoch": 1589363485.317108,
+            "last_retested_at_iso": "2020-05-13T09:51:25.317108",
+            "status": "INACTIVE"
+        },
+        "apple-localization.info": {
+            "included_at_epoch": 1589363485.564057,
+            "included_at_iso": "2020-05-13T09:51:25.564057",
+            "last_retested_at_epoch": 1589363485.564057,
+            "last_retested_at_iso": "2020-05-13T09:51:25.564057",
+            "status": "INACTIVE"
+        },
+        "apple-myfind.com": {
+            "included_at_epoch": 1589363486.134801,
+            "included_at_iso": "2020-05-13T09:51:26.134801",
+            "last_retested_at_epoch": 1589363486.134801,
+            "last_retested_at_iso": "2020-05-13T09:51:26.134801",
+            "status": "INACTIVE"
+        },
+        "apple-purchasereply.packliks.com": {
+            "included_at_epoch": 1589363486.734816,
+            "included_at_iso": "2020-05-13T09:51:26.734816",
+            "last_retested_at_epoch": 1589363486.734816,
+            "last_retested_at_iso": "2020-05-13T09:51:26.734816",
+            "status": "INACTIVE"
+        },
+        "apple-support.lforgot-br.in": {
+            "included_at_epoch": 1589363487.026952,
+            "included_at_iso": "2020-05-13T09:51:27.026952",
+            "last_retested_at_epoch": 1589363487.026952,
+            "last_retested_at_iso": "2020-05-13T09:51:27.026952",
+            "status": "INACTIVE"
+        },
+        "apple-support.lnfo-busca.in": {
+            "included_at_epoch": 1589363487.233571,
+            "included_at_iso": "2020-05-13T09:51:27.233571",
+            "last_retested_at_epoch": 1589363487.233571,
+            "last_retested_at_iso": "2020-05-13T09:51:27.233571",
+            "status": "INACTIVE"
+        },
+        "apple-verification.servecounterstrike.com": {
+            "included_at_epoch": 1589363487.85991,
+            "included_at_iso": "2020-05-13T09:51:27.859910",
+            "last_retested_at_epoch": 1589363487.85991,
+            "last_retested_at_iso": "2020-05-13T09:51:27.859910",
+            "status": "INACTIVE"
+        },
+        "apple-verifying.com": {
+            "included_at_epoch": 1589363488.154598,
+            "included_at_iso": "2020-05-13T09:51:28.154598",
+            "last_retested_at_epoch": 1589363488.154598,
+            "last_retested_at_iso": "2020-05-13T09:51:28.154598",
+            "status": "INACTIVE"
+        },
+        "apple.5f7i9.cn": {
+            "included_at_epoch": 1589363488.402558,
+            "included_at_iso": "2020-05-13T09:51:28.402558",
+            "last_retested_at_epoch": 1589363488.402558,
+            "last_retested_at_iso": "2020-05-13T09:51:28.402558",
+            "status": "INACTIVE"
+        },
+        "apple.ca-appleid.adsl.cablecommunity.ca": {
+            "included_at_epoch": 1589363488.652316,
+            "included_at_iso": "2020-05-13T09:51:28.652316",
+            "last_retested_at_epoch": 1589363488.652316,
+            "last_retested_at_iso": "2020-05-13T09:51:28.652316",
+            "status": "INACTIVE"
+        },
+        "apple.com-cert.info": {
+            "included_at_epoch": 1589363488.858582,
+            "included_at_iso": "2020-05-13T09:51:28.858582",
+            "last_retested_at_epoch": 1589363488.858582,
+            "last_retested_at_iso": "2020-05-13T09:51:28.858582",
+            "status": "INACTIVE"
+        },
         "apple.com-findlocation.id": {
             "included_at_epoch": 1588367224.627113,
             "included_at_iso": "2020-05-01T21:07:04.627113",
@@ -13935,6 +14026,27 @@
             "included_at_iso": "2020-05-01T21:07:04.643177",
             "last_retested_at_epoch": 1588367224.643177,
             "last_retested_at_iso": "2020-05-01T21:07:04.643177",
+            "status": "INACTIVE"
+        },
+        "apple.com-support103218.awscenter.my.id": {
+            "included_at_epoch": 1589363489.149949,
+            "included_at_iso": "2020-05-13T09:51:29.149949",
+            "last_retested_at_epoch": 1589363489.149949,
+            "last_retested_at_iso": "2020-05-13T09:51:29.149949",
+            "status": "INACTIVE"
+        },
+        "apple.com.access-myaccountbill.com": {
+            "included_at_epoch": 1589363489.368443,
+            "included_at_iso": "2020-05-13T09:51:29.368443",
+            "last_retested_at_epoch": 1589363489.368443,
+            "last_retested_at_iso": "2020-05-13T09:51:29.368443",
+            "status": "INACTIVE"
+        },
+        "apple.com.br-help.us": {
+            "included_at_epoch": 1589363489.662247,
+            "included_at_iso": "2020-05-13T09:51:29.662247",
+            "last_retested_at_epoch": 1589363489.662247,
+            "last_retested_at_iso": "2020-05-13T09:51:29.662247",
             "status": "INACTIVE"
         },
         "appli.down-up.fr": {
