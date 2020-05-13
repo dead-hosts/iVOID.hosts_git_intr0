@@ -16583,6 +16583,20 @@
             "last_retested_at_iso": "2020-05-13T22:01:20.395825",
             "status": "INACTIVE"
         },
+        "banking01.bankofamerica.secured02.us": {
+            "included_at_epoch": 1589408019.360024,
+            "included_at_iso": "2020-05-13T22:13:39.360024",
+            "last_retested_at_epoch": 1589408019.360024,
+            "last_retested_at_iso": "2020-05-13T22:13:39.360024",
+            "status": "INACTIVE"
+        },
+        "bankline.itau.casa": {
+            "included_at_epoch": 1589408019.121867,
+            "included_at_iso": "2020-05-13T22:13:39.121867",
+            "last_retested_at_epoch": 1589408019.121867,
+            "last_retested_at_iso": "2020-05-13T22:13:39.121867",
+            "status": "INACTIVE"
+        },
         "banner.gasuki.com": {
             "included_at_epoch": 1588373209.461836,
             "included_at_iso": "2020-05-01T22:46:49.461836",
