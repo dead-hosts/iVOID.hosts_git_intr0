@@ -8939,6 +8939,20 @@
             "last_retested_at_iso": "2020-05-13T05:29:42.175215",
             "status": "INACTIVE"
         },
+        "accounts.xn--gogle-jye.cf": {
+            "included_at_epoch": 1589348501.698238,
+            "included_at_iso": "2020-05-13T05:41:41.698238",
+            "last_retested_at_epoch": 1589348501.698238,
+            "last_retested_at_iso": "2020-05-13T05:41:41.698238",
+            "status": "INACTIVE"
+        },
+        "accountserver.activeinformation.top": {
+            "included_at_epoch": 1589348502.245056,
+            "included_at_iso": "2020-05-13T05:41:42.245056",
+            "last_retested_at_epoch": 1589348502.245056,
+            "last_retested_at_iso": "2020-05-13T05:41:42.245056",
+            "status": "INACTIVE"
+        },
         "accountverifylnstagram.ga": {
             "included_at_epoch": 1588349139.054704,
             "included_at_iso": "2020-05-01T16:05:39.054704",
@@ -8946,11 +8960,67 @@
             "last_retested_at_iso": "2020-05-01T16:05:39.054704",
             "status": "INACTIVE"
         },
+        "accout-explorer-access-site-ssl-caching.sdf78rgspace.com": {
+            "included_at_epoch": 1589348502.884886,
+            "included_at_iso": "2020-05-13T05:41:42.884886",
+            "last_retested_at_epoch": 1589348502.884886,
+            "last_retested_at_iso": "2020-05-13T05:41:42.884886",
+            "status": "INACTIVE"
+        },
+        "accout-explorer-access-site-ssl-caching.sdf78rgworks.com": {
+            "included_at_epoch": 1589348503.0844,
+            "included_at_iso": "2020-05-13T05:41:43.084400",
+            "last_retested_at_epoch": 1589348503.0844,
+            "last_retested_at_iso": "2020-05-13T05:41:43.084400",
+            "status": "INACTIVE"
+        },
+        "accout-protects-access-clicking-ssl-caching.vbnorqp-line.com": {
+            "included_at_epoch": 1589348503.291271,
+            "included_at_iso": "2020-05-13T05:41:43.291271",
+            "last_retested_at_epoch": 1589348503.291271,
+            "last_retested_at_iso": "2020-05-13T05:41:43.291271",
+            "status": "INACTIVE"
+        },
+        "accwebs-mouv-desjardins.online": {
+            "included_at_epoch": 1589348505.18776,
+            "included_at_iso": "2020-05-13T05:41:45.187760",
+            "last_retested_at_epoch": 1589348505.18776,
+            "last_retested_at_iso": "2020-05-13T05:41:45.187760",
+            "status": "INACTIVE"
+        },
+        "accwebs-movedesjardins.online": {
+            "included_at_epoch": 1589348504.987711,
+            "included_at_iso": "2020-05-13T05:41:44.987711",
+            "last_retested_at_epoch": 1589348504.987711,
+            "last_retested_at_iso": "2020-05-13T05:41:44.987711",
+            "status": "INACTIVE"
+        },
         "acduswfvyjylzq.com": {
             "included_at_epoch": 1588349139.087305,
             "included_at_iso": "2020-05-01T16:05:39.087305",
             "last_retested_at_epoch": 1588349139.087305,
             "last_retested_at_iso": "2020-05-01T16:05:39.087305",
+            "status": "INACTIVE"
+        },
+        "acessaaitau.com": {
+            "included_at_epoch": 1589348505.771539,
+            "included_at_iso": "2020-05-13T05:41:45.771539",
+            "last_retested_at_epoch": 1589348505.771539,
+            "last_retested_at_iso": "2020-05-13T05:41:45.771539",
+            "status": "INACTIVE"
+        },
+        "acesso-app-cliente.ga": {
+            "included_at_epoch": 1589348506.369048,
+            "included_at_iso": "2020-05-13T05:41:46.369048",
+            "last_retested_at_epoch": 1589348506.369048,
+            "last_retested_at_iso": "2020-05-13T05:41:46.369048",
+            "status": "INACTIVE"
+        },
+        "acesso.ltaucelular.com": {
+            "included_at_epoch": 1589348506.569493,
+            "included_at_iso": "2020-05-13T05:41:46.569493",
+            "last_retested_at_epoch": 1589348506.569493,
+            "last_retested_at_iso": "2020-05-13T05:41:46.569493",
             "status": "INACTIVE"
         },
         "achsijkc.com": {
