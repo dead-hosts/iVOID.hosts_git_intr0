@@ -8505,6 +8505,20 @@
             "last_retested_at_iso": "2020-05-13T05:05:32.171665",
             "status": "INACTIVE"
         },
+        "account-gumtree.top": {
+            "included_at_epoch": 1589347051.77676,
+            "included_at_iso": "2020-05-13T05:17:31.776760",
+            "last_retested_at_epoch": 1589347051.77676,
+            "last_retested_at_iso": "2020-05-13T05:17:31.776760",
+            "status": "INACTIVE"
+        },
+        "account-id.apple-support.connect-get.verify-sessionid.new-gen.siapaygmausamayusicung.xyz": {
+            "included_at_epoch": 1589347051.568679,
+            "included_at_iso": "2020-05-13T05:17:31.568679",
+            "last_retested_at_epoch": 1589347051.568679,
+            "last_retested_at_iso": "2020-05-13T05:17:31.568679",
+            "status": "INACTIVE"
+        },
         "account-lnstagram-security-confirm.com": {
             "included_at_epoch": 1588349138.852265,
             "included_at_iso": "2020-05-01T16:05:38.852265",
@@ -8582,6 +8596,13 @@
             "last_retested_at_iso": "2020-05-01T16:05:38.912996",
             "status": "INACTIVE"
         },
+        "account-new.ddns.net": {
+            "included_at_epoch": 1589347052.118199,
+            "included_at_iso": "2020-05-13T05:17:32.118199",
+            "last_retested_at_epoch": 1589347052.118199,
+            "last_retested_at_iso": "2020-05-13T05:17:32.118199",
+            "status": "INACTIVE"
+        },
         "account-paypa1supportid-verification-com.cf": {
             "included_at_epoch": 1588349138.91961,
             "included_at_iso": "2020-05-01T16:05:38.919610",
@@ -8645,11 +8666,144 @@
             "last_retested_at_iso": "2020-05-01T16:05:38.972743",
             "status": "INACTIVE"
         },
+        "account-security-information.cafebilal.com": {
+            "included_at_epoch": 1589347052.768188,
+            "included_at_iso": "2020-05-13T05:17:32.768188",
+            "last_retested_at_epoch": 1589347052.768188,
+            "last_retested_at_iso": "2020-05-13T05:17:32.768188",
+            "status": "INACTIVE"
+        },
+        "account-security.barconvincesomeone.com": {
+            "included_at_epoch": 1589347053.160211,
+            "included_at_iso": "2020-05-13T05:17:33.160211",
+            "last_retested_at_epoch": 1589347053.160211,
+            "last_retested_at_iso": "2020-05-13T05:17:33.160211",
+            "status": "INACTIVE"
+        },
+        "account-snapchat.cn.com": {
+            "included_at_epoch": 1589347052.964251,
+            "included_at_iso": "2020-05-13T05:17:32.964251",
+            "last_retested_at_epoch": 1589347052.964251,
+            "last_retested_at_iso": "2020-05-13T05:17:32.964251",
+            "status": "INACTIVE"
+        },
         "account-update-paypa1.commandair.sg": {
             "included_at_epoch": 1588349138.979005,
             "included_at_iso": "2020-05-01T16:05:38.979005",
             "last_retested_at_epoch": 1588349138.979005,
             "last_retested_at_iso": "2020-05-01T16:05:38.979005",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.0456a0xa80caua0095456aod4dasdcp10ad.club": {
+            "included_at_epoch": 1589347053.356021,
+            "included_at_iso": "2020-05-13T05:17:33.356021",
+            "last_retested_at_epoch": 1589347053.356021,
+            "last_retested_at_iso": "2020-05-13T05:17:33.356021",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.6g0pg7aj6hgm92m51b2vmn7s.com": {
+            "included_at_epoch": 1589347053.913282,
+            "included_at_iso": "2020-05-13T05:17:33.913282",
+            "last_retested_at_epoch": 1589347053.913282,
+            "last_retested_at_iso": "2020-05-13T05:17:33.913282",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.854f1f82bcda40220952409c7f.com": {
+            "included_at_epoch": 1589347054.10781,
+            "included_at_iso": "2020-05-13T05:17:34.107810",
+            "last_retested_at_epoch": 1589347054.10781,
+            "last_retested_at_iso": "2020-05-13T05:17:34.107810",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.amazon-customerservices.xyz": {
+            "included_at_epoch": 1589347054.303022,
+            "included_at_iso": "2020-05-13T05:17:34.303022",
+            "last_retested_at_epoch": 1589347054.303022,
+            "last_retested_at_iso": "2020-05-13T05:17:34.303022",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.d33a184087b70f4d37e05aeed3345058f06de9bb.buzz": {
+            "included_at_epoch": 1589347054.6186,
+            "included_at_iso": "2020-05-13T05:17:34.618600",
+            "last_retested_at_epoch": 1589347054.6186,
+            "last_retested_at_iso": "2020-05-13T05:17:34.618600",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.detailshopid2631.xyz": {
+            "included_at_epoch": 1589347055.062956,
+            "included_at_iso": "2020-05-13T05:17:35.062956",
+            "last_retested_at_epoch": 1589347055.062956,
+            "last_retested_at_iso": "2020-05-13T05:17:35.062956",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.detailshopid2632.monster": {
+            "included_at_epoch": 1589347054.854319,
+            "included_at_iso": "2020-05-13T05:17:34.854319",
+            "last_retested_at_epoch": 1589347054.854319,
+            "last_retested_at_iso": "2020-05-13T05:17:34.854319",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.f1s3g45rj2t6y5i1kyllitedtr1bk.monster": {
+            "included_at_epoch": 1589347055.258614,
+            "included_at_iso": "2020-05-13T05:17:35.258614",
+            "last_retested_at_epoch": 1589347055.258614,
+            "last_retested_at_iso": "2020-05-13T05:17:35.258614",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.fcfe9341ad6332e10f94e94ca940de6924833.net": {
+            "included_at_epoch": 1589347055.689031,
+            "included_at_iso": "2020-05-13T05:17:35.689031",
+            "last_retested_at_epoch": 1589347055.689031,
+            "last_retested_at_iso": "2020-05-13T05:17:35.689031",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.gfjhj2134g1d4ng2vfd2nghzz2s5bn.monster": {
+            "included_at_epoch": 1589347055.494059,
+            "included_at_iso": "2020-05-13T05:17:35.494059",
+            "last_retested_at_epoch": 1589347055.494059,
+            "last_retested_at_iso": "2020-05-13T05:17:35.494059",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.nhfb2vsf.buzz": {
+            "included_at_epoch": 1589347055.883713,
+            "included_at_iso": "2020-05-13T05:17:35.883713",
+            "last_retested_at_epoch": 1589347055.883713,
+            "last_retested_at_iso": "2020-05-13T05:17:35.883713",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.nhfb2vsf.monster": {
+            "included_at_epoch": 1589347056.078376,
+            "included_at_iso": "2020-05-13T05:17:36.078376",
+            "last_retested_at_epoch": 1589347056.078376,
+            "last_retested_at_iso": "2020-05-13T05:17:36.078376",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.xnaha87xa94cadf564xz.info": {
+            "included_at_epoch": 1589347056.272852,
+            "included_at_iso": "2020-05-13T05:17:36.272852",
+            "last_retested_at_epoch": 1589347056.272852,
+            "last_retested_at_iso": "2020-05-13T05:17:36.272852",
+            "status": "INACTIVE"
+        },
+        "account-update.amazon.co.jp.xsvgr2rh.buzz": {
+            "included_at_epoch": 1589347056.507586,
+            "included_at_iso": "2020-05-13T05:17:36.507586",
+            "last_retested_at_epoch": 1589347056.507586,
+            "last_retested_at_iso": "2020-05-13T05:17:36.507586",
+            "status": "INACTIVE"
+        },
+        "account-update.rakuten.co.jp.rakyu124tuimwmuwnen.net": {
+            "included_at_epoch": 1589347056.743459,
+            "included_at_iso": "2020-05-13T05:17:36.743459",
+            "last_retested_at_epoch": 1589347056.743459,
+            "last_retested_at_iso": "2020-05-13T05:17:36.743459",
+            "status": "INACTIVE"
+        },
+        "account-update.rakuten.co.jp.y8bg2s90d8s30ke8s7r8t9m34g1.com": {
+            "included_at_epoch": 1589347056.95191,
+            "included_at_iso": "2020-05-13T05:17:36.951910",
+            "last_retested_at_epoch": 1589347056.95191,
+            "last_retested_at_iso": "2020-05-13T05:17:36.951910",
             "status": "INACTIVE"
         },
         "account-verifys-disab1e-app1eid-1ocked.com": {
@@ -8659,11 +8813,25 @@
             "last_retested_at_iso": "2020-05-01T16:05:38.985292",
             "status": "INACTIVE"
         },
+        "account.id.manage-support.vgxysq.com": {
+            "included_at_epoch": 1589347058.390248,
+            "included_at_iso": "2020-05-13T05:17:38.390248",
+            "last_retested_at_epoch": 1589347058.390248,
+            "last_retested_at_iso": "2020-05-13T05:17:38.390248",
+            "status": "INACTIVE"
+        },
         "account.lnstagram-security.com": {
             "included_at_epoch": 1588349138.998044,
             "included_at_iso": "2020-05-01T16:05:38.998044",
             "last_retested_at_epoch": 1588349138.998044,
             "last_retested_at_iso": "2020-05-01T16:05:38.998044",
+            "status": "INACTIVE"
+        },
+        "account.lnstagramverifybadgeidentify.site": {
+            "included_at_epoch": 1589347058.601566,
+            "included_at_iso": "2020-05-13T05:17:38.601566",
+            "last_retested_at_epoch": 1589347058.601566,
+            "last_retested_at_iso": "2020-05-13T05:17:38.601566",
             "status": "INACTIVE"
         },
         "account.paypa1.review": {
@@ -8678,6 +8846,20 @@
             "included_at_iso": "2020-05-01T16:05:39.017133",
             "last_retested_at_epoch": 1588349139.017133,
             "last_retested_at_iso": "2020-05-01T16:05:39.017133",
+            "status": "INACTIVE"
+        },
+        "account.vrt3s.com": {
+            "included_at_epoch": 1589347059.077771,
+            "included_at_iso": "2020-05-13T05:17:39.077771",
+            "last_retested_at_epoch": 1589347059.077771,
+            "last_retested_at_iso": "2020-05-13T05:17:39.077771",
+            "status": "INACTIVE"
+        },
+        "account.youtube-creators.xyz": {
+            "included_at_epoch": 1589347058.88205,
+            "included_at_iso": "2020-05-13T05:17:38.882050",
+            "last_retested_at_epoch": 1589347058.88205,
+            "last_retested_at_iso": "2020-05-13T05:17:38.882050",
             "status": "INACTIVE"
         },
         "accountlnstagram.xyz": {
