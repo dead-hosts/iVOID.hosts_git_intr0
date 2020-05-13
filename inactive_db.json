@@ -17038,6 +17038,13 @@
             "last_retested_at_iso": "2020-05-01T23:22:58.402229",
             "status": "INACTIVE"
         },
+        "bedtimesnacks.xyz": {
+            "included_at_epoch": 1589410967.578677,
+            "included_at_iso": "2020-05-13T23:02:47.578677",
+            "last_retested_at_epoch": 1589410967.578677,
+            "last_retested_at_iso": "2020-05-13T23:02:47.578677",
+            "status": "INACTIVE"
+        },
         "beglorena.com": {
             "included_at_epoch": 1588375379.169603,
             "included_at_iso": "2020-05-01T23:22:59.169603",
@@ -17073,11 +17080,81 @@
             "last_retested_at_iso": "2020-05-01T23:22:59.814764",
             "status": "INACTIVE"
         },
+        "bellinghambar.tk": {
+            "included_at_epoch": 1589410970.008033,
+            "included_at_iso": "2020-05-13T23:02:50.008033",
+            "last_retested_at_epoch": 1589410970.008033,
+            "last_retested_at_iso": "2020-05-13T23:02:50.008033",
+            "status": "INACTIVE"
+        },
+        "bellmobile-provider.com": {
+            "included_at_epoch": 1589410969.79147,
+            "included_at_iso": "2020-05-13T23:02:49.791470",
+            "last_retested_at_epoch": 1589410969.79147,
+            "last_retested_at_iso": "2020-05-13T23:02:49.791470",
+            "status": "INACTIVE"
+        },
+        "bellmobilecarrier.com": {
+            "included_at_epoch": 1589410970.209822,
+            "included_at_iso": "2020-05-13T23:02:50.209822",
+            "last_retested_at_epoch": 1589410970.209822,
+            "last_retested_at_iso": "2020-05-13T23:02:50.209822",
+            "status": "INACTIVE"
+        },
+        "bellmobilewireless.info": {
+            "included_at_epoch": 1589410970.413013,
+            "included_at_iso": "2020-05-13T23:02:50.413013",
+            "last_retested_at_epoch": 1589410970.413013,
+            "last_retested_at_iso": "2020-05-13T23:02:50.413013",
+            "status": "INACTIVE"
+        },
+        "beneficios-itau.ml": {
+            "included_at_epoch": 1589410971.049733,
+            "included_at_iso": "2020-05-13T23:02:51.049733",
+            "last_retested_at_epoch": 1589410971.049733,
+            "last_retested_at_iso": "2020-05-13T23:02:51.049733",
+            "status": "INACTIVE"
+        },
+        "benkofamerica.xyz": {
+            "included_at_epoch": 1589410971.694722,
+            "included_at_iso": "2020-05-13T23:02:51.694722",
+            "last_retested_at_epoch": 1589410971.694722,
+            "last_retested_at_iso": "2020-05-13T23:02:51.694722",
+            "status": "INACTIVE"
+        },
+        "beqarcarton.com": {
+            "included_at_epoch": 1589410971.898836,
+            "included_at_iso": "2020-05-13T23:02:51.898836",
+            "last_retested_at_epoch": 1589410971.898836,
+            "last_retested_at_iso": "2020-05-13T23:02:51.898836",
+            "status": "INACTIVE"
+        },
+        "berbagivideoxxx-wa.v-25.com": {
+            "included_at_epoch": 1589410972.275287,
+            "included_at_iso": "2020-05-13T23:02:52.275287",
+            "last_retested_at_epoch": 1589410972.275287,
+            "last_retested_at_iso": "2020-05-13T23:02:52.275287",
+            "status": "INACTIVE"
+        },
         "berentain.ru": {
             "included_at_epoch": 1588375380.611256,
             "included_at_iso": "2020-05-01T23:23:00.611256",
             "last_retested_at_epoch": 1588375380.611256,
             "last_retested_at_iso": "2020-05-01T23:23:00.611256",
+            "status": "INACTIVE"
+        },
+        "bergabung.realxevent.com": {
+            "included_at_epoch": 1589410972.693168,
+            "included_at_iso": "2020-05-13T23:02:52.693168",
+            "last_retested_at_epoch": 1589410972.693168,
+            "last_retested_at_iso": "2020-05-13T23:02:52.693168",
+            "status": "INACTIVE"
+        },
+        "berkah.verify-unlocked.com": {
+            "included_at_epoch": 1589410972.487919,
+            "included_at_iso": "2020-05-13T23:02:52.487919",
+            "last_retested_at_epoch": 1589410972.487919,
+            "last_retested_at_iso": "2020-05-13T23:02:52.487919",
             "status": "INACTIVE"
         },
         "berryfico.com": {
