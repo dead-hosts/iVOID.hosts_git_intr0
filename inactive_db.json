@@ -10262,6 +10262,13 @@
             "last_retested_at_iso": "2020-05-13T06:37:18.857887",
             "status": "INACTIVE"
         },
+        "akjugm.shoesmogul.com": {
+            "included_at_epoch": 1589352567.315874,
+            "included_at_iso": "2020-05-13T06:49:27.315874",
+            "last_retested_at_epoch": 1589352567.315874,
+            "last_retested_at_iso": "2020-05-13T06:49:27.315874",
+            "status": "INACTIVE"
+        },
         "akmihtdbbz.com": {
             "included_at_epoch": 1588362177.369487,
             "included_at_iso": "2020-05-01T19:42:57.369487",
@@ -10274,6 +10281,34 @@
             "included_at_iso": "2020-05-01T19:42:57.403328",
             "last_retested_at_epoch": 1588362177.403328,
             "last_retested_at_iso": "2020-05-01T19:42:57.403328",
+            "status": "INACTIVE"
+        },
+        "akrys95y.beget.tech": {
+            "included_at_epoch": 1589352567.564485,
+            "included_at_iso": "2020-05-13T06:49:27.564485",
+            "last_retested_at_epoch": 1589352567.564485,
+            "last_retested_at_iso": "2020-05-13T06:49:27.564485",
+            "status": "INACTIVE"
+        },
+        "aktuell-ihronlineservicesk.xyz": {
+            "included_at_epoch": 1589352568.830491,
+            "included_at_iso": "2020-05-13T06:49:28.830491",
+            "last_retested_at_epoch": 1589352568.830491,
+            "last_retested_at_iso": "2020-05-13T06:49:28.830491",
+            "status": "INACTIVE"
+        },
+        "aktuell-new-regelungsk.xyz": {
+            "included_at_epoch": 1589352569.028808,
+            "included_at_iso": "2020-05-13T06:49:29.028808",
+            "last_retested_at_epoch": 1589352569.028808,
+            "last_retested_at_iso": "2020-05-13T06:49:29.028808",
+            "status": "INACTIVE"
+        },
+        "aktuell-onlineservicesk-konto.xyz": {
+            "included_at_epoch": 1589352569.268194,
+            "included_at_iso": "2020-05-13T06:49:29.268194",
+            "last_retested_at_epoch": 1589352569.268194,
+            "last_retested_at_iso": "2020-05-13T06:49:29.268194",
             "status": "INACTIVE"
         },
         "akzvxmjnubq.com": {
