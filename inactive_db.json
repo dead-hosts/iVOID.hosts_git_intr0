@@ -17311,6 +17311,13 @@
             "last_retested_at_iso": "2020-05-01T23:23:05.080985",
             "status": "INACTIVE"
         },
+        "bfxyyo.com": {
+            "included_at_epoch": 1589412917.857307,
+            "included_at_iso": "2020-05-13T23:35:17.857307",
+            "last_retested_at_epoch": 1589412917.857307,
+            "last_retested_at_iso": "2020-05-13T23:35:17.857307",
+            "status": "INACTIVE"
+        },
         "bgchxhhzdee.com": {
             "included_at_epoch": 1588375385.422894,
             "included_at_iso": "2020-05-01T23:23:05.422894",
@@ -17332,11 +17339,60 @@
             "last_retested_at_iso": "2020-05-01T23:23:05.480617",
             "status": "INACTIVE"
         },
+        "bghrw.xyz": {
+            "included_at_epoch": 1589412918.111308,
+            "included_at_iso": "2020-05-13T23:35:18.111308",
+            "last_retested_at_epoch": 1589412918.111308,
+            "last_retested_at_iso": "2020-05-13T23:35:18.111308",
+            "status": "INACTIVE"
+        },
+        "bgrsw.xyz": {
+            "included_at_epoch": 1589412918.70691,
+            "included_at_iso": "2020-05-13T23:35:18.706910",
+            "last_retested_at_epoch": 1589412918.70691,
+            "last_retested_at_iso": "2020-05-13T23:35:18.706910",
+            "status": "INACTIVE"
+        },
+        "bgrwx.xyz": {
+            "included_at_epoch": 1589412918.928266,
+            "included_at_iso": "2020-05-13T23:35:18.928266",
+            "last_retested_at_epoch": 1589412918.928266,
+            "last_retested_at_iso": "2020-05-13T23:35:18.928266",
+            "status": "INACTIVE"
+        },
+        "bgswx.xyz": {
+            "included_at_epoch": 1589412919.519087,
+            "included_at_iso": "2020-05-13T23:35:19.519087",
+            "last_retested_at_epoch": 1589412919.519087,
+            "last_retested_at_iso": "2020-05-13T23:35:19.519087",
+            "status": "INACTIVE"
+        },
+        "bgtyw.xyz": {
+            "included_at_epoch": 1589412919.727516,
+            "included_at_iso": "2020-05-13T23:35:19.727516",
+            "last_retested_at_epoch": 1589412919.727516,
+            "last_retested_at_iso": "2020-05-13T23:35:19.727516",
+            "status": "INACTIVE"
+        },
         "bgzyppwk.com": {
             "included_at_epoch": 1588375386.039667,
             "included_at_iso": "2020-05-01T23:23:06.039667",
             "last_retested_at_epoch": 1588375386.039667,
             "last_retested_at_iso": "2020-05-01T23:23:06.039667",
+            "status": "INACTIVE"
+        },
+        "bhanu.zapto.org": {
+            "included_at_epoch": 1589412920.225572,
+            "included_at_iso": "2020-05-13T23:35:20.225572",
+            "last_retested_at_epoch": 1589412920.225572,
+            "last_retested_at_iso": "2020-05-13T23:35:20.225572",
+            "status": "INACTIVE"
+        },
+        "bhanufuckingkajal.zapto.org": {
+            "included_at_epoch": 1589412920.017908,
+            "included_at_iso": "2020-05-13T23:35:20.017908",
+            "last_retested_at_epoch": 1589412920.017908,
+            "last_retested_at_iso": "2020-05-13T23:35:20.017908",
             "status": "INACTIVE"
         },
         "bhfuoayzqqv.com": {
@@ -17351,6 +17407,20 @@
             "included_at_iso": "2020-05-01T23:23:06.322329",
             "last_retested_at_epoch": 1588375386.322329,
             "last_retested_at_iso": "2020-05-01T23:23:06.322329",
+            "status": "INACTIVE"
+        },
+        "bhttrz.com": {
+            "included_at_epoch": 1589412920.518282,
+            "included_at_iso": "2020-05-13T23:35:20.518282",
+            "last_retested_at_epoch": 1589412920.518282,
+            "last_retested_at_iso": "2020-05-13T23:35:20.518282",
+            "status": "INACTIVE"
+        },
+        "bibrath.eu": {
+            "included_at_epoch": 1589412920.821636,
+            "included_at_iso": "2020-05-13T23:35:20.821636",
+            "last_retested_at_epoch": 1589412920.821636,
+            "last_retested_at_iso": "2020-05-13T23:35:20.821636",
             "status": "INACTIVE"
         },
         "bidoraln.com": {
