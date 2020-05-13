@@ -14966,6 +14966,13 @@
             "last_retested_at_iso": "2020-05-13T11:37:43.007295",
             "status": "INACTIVE"
         },
+        "arvision.com.co": {
+            "included_at_epoch": 1589371217.955681,
+            "included_at_iso": "2020-05-13T12:00:17.955681",
+            "last_retested_at_epoch": 1589371217.955681,
+            "last_retested_at_iso": "2020-05-13T12:00:17.955681",
+            "status": "INACTIVE"
+        },
         "arwlvjqzxxnftz.com": {
             "included_at_epoch": 1588370474.372131,
             "included_at_iso": "2020-05-01T22:01:14.372131",
@@ -14994,6 +15001,13 @@
             "last_retested_at_iso": "2020-05-01T22:01:14.851596",
             "status": "INACTIVE"
         },
+        "asceticismm.com": {
+            "included_at_epoch": 1589371218.642821,
+            "included_at_iso": "2020-05-13T12:00:18.642821",
+            "last_retested_at_epoch": 1589371218.642821,
+            "last_retested_at_iso": "2020-05-13T12:00:18.642821",
+            "status": "INACTIVE"
+        },
         "asdad.xyz": {
             "included_at_epoch": 1588370474.981395,
             "included_at_iso": "2020-05-01T22:01:14.981395",
@@ -15006,6 +15020,41 @@
             "included_at_iso": "2020-05-01T22:01:15.036861",
             "last_retested_at_epoch": 1588370475.036861,
             "last_retested_at_iso": "2020-05-01T22:01:15.036861",
+            "status": "INACTIVE"
+        },
+        "asdwb.xyz": {
+            "included_at_epoch": 1589371219.85956,
+            "included_at_iso": "2020-05-13T12:00:19.859560",
+            "last_retested_at_epoch": 1589371219.85956,
+            "last_retested_at_iso": "2020-05-13T12:00:19.859560",
+            "status": "INACTIVE"
+        },
+        "asdwf.xyz": {
+            "included_at_epoch": 1589371219.655982,
+            "included_at_iso": "2020-05-13T12:00:19.655982",
+            "last_retested_at_epoch": 1589371219.655982,
+            "last_retested_at_iso": "2020-05-13T12:00:19.655982",
+            "status": "INACTIVE"
+        },
+        "asegx.xyz": {
+            "included_at_epoch": 1589371220.10329,
+            "included_at_iso": "2020-05-13T12:00:20.103290",
+            "last_retested_at_epoch": 1589371220.10329,
+            "last_retested_at_iso": "2020-05-13T12:00:20.103290",
+            "status": "INACTIVE"
+        },
+        "ashleysmith92.hopto.org": {
+            "included_at_epoch": 1589371220.34828,
+            "included_at_iso": "2020-05-13T12:00:20.348280",
+            "last_retested_at_epoch": 1589371220.34828,
+            "last_retested_at_iso": "2020-05-13T12:00:20.348280",
+            "status": "INACTIVE"
+        },
+        "ashoesheestono.eu": {
+            "included_at_epoch": 1589371220.929074,
+            "included_at_iso": "2020-05-13T12:00:20.929074",
+            "last_retested_at_epoch": 1589371220.929074,
+            "last_retested_at_iso": "2020-05-13T12:00:20.929074",
             "status": "INACTIVE"
         },
         "asidecasev.com": {
@@ -15022,6 +15071,13 @@
             "last_retested_at_iso": "2020-05-01T22:01:16.205438",
             "status": "INACTIVE"
         },
+        "asmessagging1.com": {
+            "included_at_epoch": 1589371223.10951,
+            "included_at_iso": "2020-05-13T12:00:23.109510",
+            "last_retested_at_epoch": 1589371223.10951,
+            "last_retested_at_iso": "2020-05-13T12:00:23.109510",
+            "status": "INACTIVE"
+        },
         "asp22.http.or.kr": {
             "included_at_epoch": 1588370476.392637,
             "included_at_iso": "2020-05-01T22:01:16.392637",
@@ -15036,11 +15092,32 @@
             "last_retested_at_iso": "2020-05-01T22:01:16.682310",
             "status": "INACTIVE"
         },
+        "asqhe.xyz": {
+            "included_at_epoch": 1589371223.312578,
+            "included_at_iso": "2020-05-13T12:00:23.312578",
+            "last_retested_at_epoch": 1589371223.312578,
+            "last_retested_at_iso": "2020-05-13T12:00:23.312578",
+            "status": "INACTIVE"
+        },
         "asqinbabazade.lnstagram-violationhelps.com": {
             "included_at_epoch": 1588370476.699245,
             "included_at_iso": "2020-05-01T22:01:16.699245",
             "last_retested_at_epoch": 1588370476.699245,
             "last_retested_at_iso": "2020-05-01T22:01:16.699245",
+            "status": "INACTIVE"
+        },
+        "asqmessagng.com": {
+            "included_at_epoch": 1589371223.71891,
+            "included_at_iso": "2020-05-13T12:00:23.718910",
+            "last_retested_at_epoch": 1589371223.71891,
+            "last_retested_at_iso": "2020-05-13T12:00:23.718910",
+            "status": "INACTIVE"
+        },
+        "asqusupport.net": {
+            "included_at_epoch": 1589371223.515883,
+            "included_at_iso": "2020-05-13T12:00:23.515883",
+            "last_retested_at_epoch": 1589371223.515883,
+            "last_retested_at_iso": "2020-05-13T12:00:23.515883",
             "status": "INACTIVE"
         },
         "asrety.com": {
@@ -15062,6 +15139,48 @@
             "included_at_iso": "2020-05-01T22:01:16.816342",
             "last_retested_at_epoch": 1588370476.816342,
             "last_retested_at_iso": "2020-05-01T22:01:16.816342",
+            "status": "INACTIVE"
+        },
+        "assaiatacadaista.net": {
+            "included_at_epoch": 1589371223.92181,
+            "included_at_iso": "2020-05-13T12:00:23.921810",
+            "last_retested_at_epoch": 1589371223.92181,
+            "last_retested_at_iso": "2020-05-13T12:00:23.921810",
+            "status": "INACTIVE"
+        },
+        "assxs.xyz": {
+            "included_at_epoch": 1589371226.115445,
+            "included_at_iso": "2020-05-13T12:00:26.115445",
+            "last_retested_at_epoch": 1589371226.115445,
+            "last_retested_at_iso": "2020-05-13T12:00:26.115445",
+            "status": "INACTIVE"
+        },
+        "astraliss.xyz": {
+            "included_at_epoch": 1589371226.524726,
+            "included_at_iso": "2020-05-13T12:00:26.524726",
+            "last_retested_at_epoch": 1589371226.524726,
+            "last_retested_at_iso": "2020-05-13T12:00:26.524726",
+            "status": "INACTIVE"
+        },
+        "asus45m7.beget.tech": {
+            "included_at_epoch": 1589371226.770164,
+            "included_at_iso": "2020-05-13T12:00:26.770164",
+            "last_retested_at_epoch": 1589371226.770164,
+            "last_retested_at_iso": "2020-05-13T12:00:26.770164",
+            "status": "INACTIVE"
+        },
+        "aswdb.xyz": {
+            "included_at_epoch": 1589371227.638407,
+            "included_at_iso": "2020-05-13T12:00:27.638407",
+            "last_retested_at_epoch": 1589371227.638407,
+            "last_retested_at_iso": "2020-05-13T12:00:27.638407",
+            "status": "INACTIVE"
+        },
+        "aswer.xyz": {
+            "included_at_epoch": 1589371227.435292,
+            "included_at_iso": "2020-05-13T12:00:27.435292",
+            "last_retested_at_epoch": 1589371227.435292,
+            "last_retested_at_iso": "2020-05-13T12:00:27.435292",
             "status": "INACTIVE"
         },
         "atamjanebyl.biz": {
