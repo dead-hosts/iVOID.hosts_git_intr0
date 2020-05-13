@@ -16506,6 +16506,27 @@
             "last_retested_at_iso": "2020-05-01T22:46:48.817755",
             "status": "INACTIVE"
         },
+        "banco-online30horasatendimentoaocliente.clienteapp.info": {
+            "included_at_epoch": 1589407277.716885,
+            "included_at_iso": "2020-05-13T22:01:17.716885",
+            "last_retested_at_epoch": 1589407277.716885,
+            "last_retested_at_iso": "2020-05-13T22:01:17.716885",
+            "status": "INACTIVE"
+        },
+        "banco-original-br.mywire.org": {
+            "included_at_epoch": 1589407277.504447,
+            "included_at_iso": "2020-05-13T22:01:17.504447",
+            "last_retested_at_epoch": 1589407277.504447,
+            "last_retested_at_iso": "2020-05-13T22:01:17.504447",
+            "status": "INACTIVE"
+        },
+        "bancosantander.verificacion.warisanoptima.com": {
+            "included_at_epoch": 1589407278.324303,
+            "included_at_iso": "2020-05-13T22:01:18.324303",
+            "last_retested_at_epoch": 1589407278.324303,
+            "last_retested_at_iso": "2020-05-13T22:01:18.324303",
+            "status": "INACTIVE"
+        },
         "banerator.silvercdn.com": {
             "included_at_epoch": 1588373209.092309,
             "included_at_iso": "2020-05-01T22:46:49.092309",
@@ -16518,6 +16539,48 @@
             "included_at_iso": "2020-05-01T22:46:49.217976",
             "last_retested_at_epoch": 1588373209.217976,
             "last_retested_at_iso": "2020-05-01T22:46:49.217976",
+            "status": "INACTIVE"
+        },
+        "bankieren.rabobank.nl.rabo-mobiel.top": {
+            "included_at_epoch": 1589407279.326356,
+            "included_at_iso": "2020-05-13T22:01:19.326356",
+            "last_retested_at_epoch": 1589407279.326356,
+            "last_retested_at_iso": "2020-05-13T22:01:19.326356",
+            "status": "INACTIVE"
+        },
+        "bankieren.rabobank.nl.rabo-online.top": {
+            "included_at_epoch": 1589407279.740762,
+            "included_at_iso": "2020-05-13T22:01:19.740762",
+            "last_retested_at_epoch": 1589407279.740762,
+            "last_retested_at_iso": "2020-05-13T22:01:19.740762",
+            "status": "INACTIVE"
+        },
+        "bankieren.rabobank.nl.toestelbeheer.top": {
+            "included_at_epoch": 1589407279.536036,
+            "included_at_iso": "2020-05-13T22:01:19.536036",
+            "last_retested_at_epoch": 1589407279.536036,
+            "last_retested_at_iso": "2020-05-13T22:01:19.536036",
+            "status": "INACTIVE"
+        },
+        "bankieren.rabobank.nl.vernieuw-registratie.top": {
+            "included_at_epoch": 1589407280.149137,
+            "included_at_iso": "2020-05-13T22:01:20.149137",
+            "last_retested_at_epoch": 1589407280.149137,
+            "last_retested_at_iso": "2020-05-13T22:01:20.149137",
+            "status": "INACTIVE"
+        },
+        "bankieren.rabobank.nl.zone4209.xyz": {
+            "included_at_epoch": 1589407279.944617,
+            "included_at_iso": "2020-05-13T22:01:19.944617",
+            "last_retested_at_epoch": 1589407279.944617,
+            "last_retested_at_iso": "2020-05-13T22:01:19.944617",
+            "status": "INACTIVE"
+        },
+        "banking.chase.ssa.clientdocs.us": {
+            "included_at_epoch": 1589407280.395825,
+            "included_at_iso": "2020-05-13T22:01:20.395825",
+            "last_retested_at_epoch": 1589407280.395825,
+            "last_retested_at_iso": "2020-05-13T22:01:20.395825",
             "status": "INACTIVE"
         },
         "banner.gasuki.com": {
