@@ -14175,6 +14175,125 @@
             "last_retested_at_iso": "2020-05-13T10:03:38.993831",
             "status": "INACTIVE"
         },
+        "apple.gps-iphone-inc-id.us": {
+            "included_at_epoch": 1589364950.989711,
+            "included_at_iso": "2020-05-13T10:15:50.989711",
+            "last_retested_at_epoch": 1589364950.989711,
+            "last_retested_at_iso": "2020-05-13T10:15:50.989711",
+            "status": "INACTIVE"
+        },
+        "apple.iphone-id-inc.us": {
+            "included_at_epoch": 1589364950.777839,
+            "included_at_iso": "2020-05-13T10:15:50.777839",
+            "last_retested_at_epoch": 1589364950.777839,
+            "last_retested_at_iso": "2020-05-13T10:15:50.777839",
+            "status": "INACTIVE"
+        },
+        "apple.sign-in-gps-iphone.us": {
+            "included_at_epoch": 1589364951.21052,
+            "included_at_iso": "2020-05-13T10:15:51.210520",
+            "last_retested_at_epoch": 1589364951.21052,
+            "last_retested_at_iso": "2020-05-13T10:15:51.210520",
+            "status": "INACTIVE"
+        },
+        "apple.sup.dinamicmedia3d.ro": {
+            "included_at_epoch": 1589364951.421949,
+            "included_at_iso": "2020-05-13T10:15:51.421949",
+            "last_retested_at_epoch": 1589364951.421949,
+            "last_retested_at_iso": "2020-05-13T10:15:51.421949",
+            "status": "INACTIVE"
+        },
+        "apple.support-lnfo.in": {
+            "included_at_epoch": 1589364951.848898,
+            "included_at_iso": "2020-05-13T10:15:51.848898",
+            "last_retested_at_epoch": 1589364951.848898,
+            "last_retested_at_iso": "2020-05-13T10:15:51.848898",
+            "status": "INACTIVE"
+        },
+        "apple.uk-findmy.com": {
+            "included_at_epoch": 1589364951.637026,
+            "included_at_iso": "2020-05-13T10:15:51.637026",
+            "last_retested_at_epoch": 1589364951.637026,
+            "last_retested_at_iso": "2020-05-13T10:15:51.637026",
+            "status": "INACTIVE"
+        },
+        "applecustomer-store.packingrak.com": {
+            "included_at_epoch": 1589364953.138876,
+            "included_at_iso": "2020-05-13T10:15:53.138876",
+            "last_retested_at_epoch": 1589364953.138876,
+            "last_retested_at_iso": "2020-05-13T10:15:53.138876",
+            "status": "INACTIVE"
+        },
+        "applecustomerservice.alwkdjawd-98.com": {
+            "included_at_epoch": 1589364953.341883,
+            "included_at_iso": "2020-05-13T10:15:53.341883",
+            "last_retested_at_epoch": 1589364953.341883,
+            "last_retested_at_iso": "2020-05-13T10:15:53.341883",
+            "status": "INACTIVE"
+        },
+        "appleid-apple.com.fsgoet.com": {
+            "included_at_epoch": 1589364953.951843,
+            "included_at_iso": "2020-05-13T10:15:53.951843",
+            "last_retested_at_epoch": 1589364953.951843,
+            "last_retested_at_iso": "2020-05-13T10:15:53.951843",
+            "status": "INACTIVE"
+        },
+        "appleid-canada.apple-mobile.os-mobile.info": {
+            "included_at_epoch": 1589364954.196967,
+            "included_at_iso": "2020-05-13T10:15:54.196967",
+            "last_retested_at_epoch": 1589364954.196967,
+            "last_retested_at_iso": "2020-05-13T10:15:54.196967",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.ca.227f0fe6ef11c1a.osx-ios-device.ca": {
+            "included_at_epoch": 1589364954.606375,
+            "included_at_iso": "2020-05-13T10:15:54.606375",
+            "last_retested_at_epoch": 1589364954.606375,
+            "last_retested_at_iso": "2020-05-13T10:15:54.606375",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.co.jp.device.settings.ios-phone.net": {
+            "included_at_epoch": 1589364954.402624,
+            "included_at_iso": "2020-05-13T10:15:54.402624",
+            "last_retested_at_epoch": 1589364954.402624,
+            "last_retested_at_iso": "2020-05-13T10:15:54.402624",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.com-locked.support": {
+            "included_at_epoch": 1589364954.812238,
+            "included_at_iso": "2020-05-13T10:15:54.812238",
+            "last_retested_at_epoch": 1589364954.812238,
+            "last_retested_at_iso": "2020-05-13T10:15:54.812238",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.com-lockedverifyaccess.akugaktau.org": {
+            "included_at_epoch": 1589364955.274715,
+            "included_at_iso": "2020-05-13T10:15:55.274715",
+            "last_retested_at_epoch": 1589364955.274715,
+            "last_retested_at_iso": "2020-05-13T10:15:55.274715",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.com-loginverify.leonawellington.com": {
+            "included_at_epoch": 1589364955.056542,
+            "included_at_iso": "2020-05-13T10:15:55.056542",
+            "last_retested_at_epoch": 1589364955.056542,
+            "last_retested_at_iso": "2020-05-13T10:15:55.056542",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.com-paymenthistoryreceived.sekejapkelar.com": {
+            "included_at_epoch": 1589364955.481491,
+            "included_at_iso": "2020-05-13T10:15:55.481491",
+            "last_retested_at_epoch": 1589364955.481491,
+            "last_retested_at_iso": "2020-05-13T10:15:55.481491",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.com.agsef.org": {
+            "included_at_epoch": 1589364955.940406,
+            "included_at_iso": "2020-05-13T10:15:55.940406",
+            "last_retested_at_epoch": 1589364955.940406,
+            "last_retested_at_iso": "2020-05-13T10:15:55.940406",
+            "status": "INACTIVE"
+        },
         "appli.down-up.fr": {
             "included_at_epoch": 1588367224.756496,
             "included_at_iso": "2020-05-01T21:07:04.756496",
