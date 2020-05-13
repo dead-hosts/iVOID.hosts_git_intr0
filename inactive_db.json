@@ -14049,6 +14049,132 @@
             "last_retested_at_iso": "2020-05-13T09:51:29.662247",
             "status": "INACTIVE"
         },
+        "apple.com.cloud-app.services": {
+            "included_at_epoch": 1589364215.154378,
+            "included_at_iso": "2020-05-13T10:03:35.154378",
+            "last_retested_at_epoch": 1589364215.154378,
+            "last_retested_at_iso": "2020-05-13T10:03:35.154378",
+            "status": "INACTIVE"
+        },
+        "apple.com.findmy-iphone.info": {
+            "included_at_epoch": 1589364215.408168,
+            "included_at_iso": "2020-05-13T10:03:35.408168",
+            "last_retested_at_epoch": 1589364215.408168,
+            "last_retested_at_iso": "2020-05-13T10:03:35.408168",
+            "status": "INACTIVE"
+        },
+        "apple.com.hxsra.cn": {
+            "included_at_epoch": 1589364215.631709,
+            "included_at_iso": "2020-05-13T10:03:35.631709",
+            "last_retested_at_epoch": 1589364215.631709,
+            "last_retested_at_iso": "2020-05-13T10:03:35.631709",
+            "status": "INACTIVE"
+        },
+        "apple.com.info-profile.services": {
+            "included_at_epoch": 1589364216.123486,
+            "included_at_iso": "2020-05-13T10:03:36.123486",
+            "last_retested_at_epoch": 1589364216.123486,
+            "last_retested_at_iso": "2020-05-13T10:03:36.123486",
+            "status": "INACTIVE"
+        },
+        "apple.com.infomalaccoulokedisb.info": {
+            "included_at_epoch": 1589364215.920365,
+            "included_at_iso": "2020-05-13T10:03:35.920365",
+            "last_retested_at_epoch": 1589364215.920365,
+            "last_retested_at_iso": "2020-05-13T10:03:35.920365",
+            "status": "INACTIVE"
+        },
+        "apple.com.infomalaccounlokedisb.info": {
+            "included_at_epoch": 1589364216.531424,
+            "included_at_iso": "2020-05-13T10:03:36.531424",
+            "last_retested_at_epoch": 1589364216.531424,
+            "last_retested_at_iso": "2020-05-13T10:03:36.531424",
+            "status": "INACTIVE"
+        },
+        "apple.com.infomalaccounlokedise.info": {
+            "included_at_epoch": 1589364216.326433,
+            "included_at_iso": "2020-05-13T10:03:36.326433",
+            "last_retested_at_epoch": 1589364216.326433,
+            "last_retested_at_iso": "2020-05-13T10:03:36.326433",
+            "status": "INACTIVE"
+        },
+        "apple.com.inofalrtmailerlckedidc.com": {
+            "included_at_epoch": 1589364216.735451,
+            "included_at_iso": "2020-05-13T10:03:36.735451",
+            "last_retested_at_epoch": 1589364216.735451,
+            "last_retested_at_iso": "2020-05-13T10:03:36.735451",
+            "status": "INACTIVE"
+        },
+        "apple.com.kaumaingilabangkan.com": {
+            "included_at_epoch": 1589364216.979633,
+            "included_at_iso": "2020-05-13T10:03:36.979633",
+            "last_retested_at_epoch": 1589364216.979633,
+            "last_retested_at_iso": "2020-05-13T10:03:36.979633",
+            "status": "INACTIVE"
+        },
+        "apple.com.localizar-dispositivo.eu": {
+            "included_at_epoch": 1589364217.184408,
+            "included_at_iso": "2020-05-13T10:03:37.184408",
+            "last_retested_at_epoch": 1589364217.184408,
+            "last_retested_at_iso": "2020-05-13T10:03:37.184408",
+            "status": "INACTIVE"
+        },
+        "apple.com.login-en.live": {
+            "included_at_epoch": 1589364217.608922,
+            "included_at_iso": "2020-05-13T10:03:37.608922",
+            "last_retested_at_epoch": 1589364217.608922,
+            "last_retested_at_iso": "2020-05-13T10:03:37.608922",
+            "status": "INACTIVE"
+        },
+        "apple.com.login.uutokens.com": {
+            "included_at_epoch": 1589364217.404767,
+            "included_at_iso": "2020-05-13T10:03:37.404767",
+            "last_retested_at_epoch": 1589364217.404767,
+            "last_retested_at_iso": "2020-05-13T10:03:37.404767",
+            "status": "INACTIVE"
+        },
+        "apple.com.mailupdateinfolock.com": {
+            "included_at_epoch": 1589364217.812456,
+            "included_at_iso": "2020-05-13T10:03:37.812456",
+            "last_retested_at_epoch": 1589364217.812456,
+            "last_retested_at_iso": "2020-05-13T10:03:37.812456",
+            "status": "INACTIVE"
+        },
+        "apple.com.ntemu.cn": {
+            "included_at_epoch": 1589364218.015193,
+            "included_at_iso": "2020-05-13T10:03:38.015193",
+            "last_retested_at_epoch": 1589364218.015193,
+            "last_retested_at_iso": "2020-05-13T10:03:38.015193",
+            "status": "INACTIVE"
+        },
+        "apple.com.pay-apps.services": {
+            "included_at_epoch": 1589364218.216852,
+            "included_at_iso": "2020-05-13T10:03:38.216852",
+            "last_retested_at_epoch": 1589364218.216852,
+            "last_retested_at_iso": "2020-05-13T10:03:38.216852",
+            "status": "INACTIVE"
+        },
+        "apple.com.situation-view.com": {
+            "included_at_epoch": 1589364218.460867,
+            "included_at_iso": "2020-05-13T10:03:38.460867",
+            "last_retested_at_epoch": 1589364218.460867,
+            "last_retested_at_iso": "2020-05-13T10:03:38.460867",
+            "status": "INACTIVE"
+        },
+        "apple.com.support-help.live": {
+            "included_at_epoch": 1589364218.789848,
+            "included_at_iso": "2020-05-13T10:03:38.789848",
+            "last_retested_at_epoch": 1589364218.789848,
+            "last_retested_at_iso": "2020-05-13T10:03:38.789848",
+            "status": "INACTIVE"
+        },
+        "apple.com.ysbax.cn": {
+            "included_at_epoch": 1589364218.993831,
+            "included_at_iso": "2020-05-13T10:03:38.993831",
+            "last_retested_at_epoch": 1589364218.993831,
+            "last_retested_at_iso": "2020-05-13T10:03:38.993831",
+            "status": "INACTIVE"
+        },
         "appli.down-up.fr": {
             "included_at_epoch": 1588367224.756496,
             "included_at_iso": "2020-05-01T21:07:04.756496",
