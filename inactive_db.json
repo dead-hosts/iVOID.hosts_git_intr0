@@ -10577,6 +10577,244 @@
             "last_retested_at_iso": "2020-05-01T19:43:02.327643",
             "status": "INACTIVE"
         },
+        "amazon-id-safety-center-signin-openid-pape-max-auth-age-return.tc779.com": {
+            "included_at_epoch": 1589355555.610328,
+            "included_at_iso": "2020-05-13T07:39:15.610328",
+            "last_retested_at_epoch": 1589355555.610328,
+            "last_retested_at_iso": "2020-05-13T07:39:15.610328",
+            "status": "INACTIVE"
+        },
+        "amazon-id-safety-center-signin-openid-pape-max-auth-mpm-return.devicore.com": {
+            "included_at_epoch": 1589355555.814445,
+            "included_at_iso": "2020-05-13T07:39:15.814445",
+            "last_retested_at_epoch": 1589355555.814445,
+            "last_retested_at_iso": "2020-05-13T07:39:15.814445",
+            "status": "INACTIVE"
+        },
+        "amazon-id-safety-center-signin-openid-pape-max-auth-tzt-return.ycptxc.com": {
+            "included_at_epoch": 1589355556.209198,
+            "included_at_iso": "2020-05-13T07:39:16.209198",
+            "last_retested_at_epoch": 1589355556.209198,
+            "last_retested_at_iso": "2020-05-13T07:39:16.209198",
+            "status": "INACTIVE"
+        },
+        "amazon-servcaccount.serveirc.com": {
+            "included_at_epoch": 1589355556.013024,
+            "included_at_iso": "2020-05-13T07:39:16.013024",
+            "last_retested_at_epoch": 1589355556.013024,
+            "last_retested_at_iso": "2020-05-13T07:39:16.013024",
+            "status": "INACTIVE"
+        },
+        "amazon-services-secure2x923jk89sdk2a.epeppudoaao7k7halpu.com": {
+            "included_at_epoch": 1589355556.447996,
+            "included_at_iso": "2020-05-13T07:39:16.447996",
+            "last_retested_at_epoch": 1589355556.447996,
+            "last_retested_at_iso": "2020-05-13T07:39:16.447996",
+            "status": "INACTIVE"
+        },
+        "amazon.account-update.amazon.co.jp.6g0pg7aj6hgm92m51b2vmn7s.com": {
+            "included_at_epoch": 1589355556.6869,
+            "included_at_iso": "2020-05-13T07:39:16.686900",
+            "last_retested_at_epoch": 1589355556.6869,
+            "last_retested_at_iso": "2020-05-13T07:39:16.686900",
+            "status": "INACTIVE"
+        },
+        "amazon.account-update.amazon.co.jp.csd1cs7kf.buzz": {
+            "included_at_epoch": 1589355556.885728,
+            "included_at_iso": "2020-05-13T07:39:16.885728",
+            "last_retested_at_epoch": 1589355556.885728,
+            "last_retested_at_iso": "2020-05-13T07:39:16.885728",
+            "status": "INACTIVE"
+        },
+        "amazon.account-update.amazon.co.jp.detailshopid2632.monster": {
+            "included_at_epoch": 1589355557.135215,
+            "included_at_iso": "2020-05-13T07:39:17.135215",
+            "last_retested_at_epoch": 1589355557.135215,
+            "last_retested_at_iso": "2020-05-13T07:39:17.135215",
+            "status": "INACTIVE"
+        },
+        "amazon.account-update.amazon.co.jp.gfjhj2134g1d4ng2vfd2nghzz2s5bn.monster": {
+            "included_at_epoch": 1589355557.33183,
+            "included_at_iso": "2020-05-13T07:39:17.331830",
+            "last_retested_at_epoch": 1589355557.33183,
+            "last_retested_at_iso": "2020-05-13T07:39:17.331830",
+            "status": "INACTIVE"
+        },
+        "amazon.account-update.amazon.co.jp.nhfb2vsf.monster": {
+            "included_at_epoch": 1589355557.53049,
+            "included_at_iso": "2020-05-13T07:39:17.530490",
+            "last_retested_at_epoch": 1589355557.53049,
+            "last_retested_at_iso": "2020-05-13T07:39:17.530490",
+            "status": "INACTIVE"
+        },
+        "amazon.account.amazon.co.jp.fcfe9341ad6332e10f94e94ca940de6924833.net": {
+            "included_at_epoch": 1589355557.729716,
+            "included_at_iso": "2020-05-13T07:39:17.729716",
+            "last_retested_at_epoch": 1589355557.729716,
+            "last_retested_at_iso": "2020-05-13T07:39:17.729716",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.12312dfn56drher8564hr4wsr1r1herhj563et6j4trjk46jkm4r86556wer4h8.buzz": {
+            "included_at_epoch": 1589355557.927054,
+            "included_at_iso": "2020-05-13T07:39:17.927054",
+            "last_retested_at_epoch": 1589355557.927054,
+            "last_retested_at_iso": "2020-05-13T07:39:17.927054",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.123srf1h35wre4h86e7t4jk1me3d1thaw3etkj41y5r6374klm65r314njt52e3.buzz": {
+            "included_at_epoch": 1589355558.165564,
+            "included_at_iso": "2020-05-13T07:39:18.165564",
+            "last_retested_at_epoch": 1589355558.165564,
+            "last_retested_at_iso": "2020-05-13T07:39:18.165564",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.1qwe978897sbh84e156hj3ert4hj685ert74jt8e967j41snt56er41j685str7.buzz": {
+            "included_at_epoch": 1589355558.364832,
+            "included_at_iso": "2020-05-13T07:39:18.364832",
+            "last_retested_at_epoch": 1589355558.364832,
+            "last_retested_at_iso": "2020-05-13T07:39:18.364832",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.2rg584rehy68e7468e4thj6ea4t7j6874ryki6877r4y86k74s68yk74e789th7.buzz": {
+            "included_at_epoch": 1589355558.605725,
+            "included_at_iso": "2020-05-13T07:39:18.605725",
+            "last_retested_at_epoch": 1589355558.605725,
+            "last_retested_at_iso": "2020-05-13T07:39:18.605725",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.456aod4dasdcp10ad0456a0xa80caua0095.club": {
+            "included_at_epoch": 1589355558.805234,
+            "included_at_iso": "2020-05-13T07:39:18.805234",
+            "last_retested_at_epoch": 1589355558.805234,
+            "last_retested_at_iso": "2020-05-13T07:39:18.805234",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.5g69r4d5j3k4g7k8l95r4h5k6o9t8g4j5lu6eg5e5y5u4i5p6u4t5u6iu5y4.monster": {
+            "included_at_epoch": 1589355559.015777,
+            "included_at_iso": "2020-05-13T07:39:19.015777",
+            "last_retested_at_epoch": 1589355559.015777,
+            "last_retested_at_iso": "2020-05-13T07:39:19.015777",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.85ew7g8weg786we41658g4ew8gew7ge8w7ew87g8ew7gew87gew.monster": {
+            "included_at_epoch": 1589355559.214069,
+            "included_at_iso": "2020-05-13T07:39:19.214069",
+            "last_retested_at_epoch": 1589355559.214069,
+            "last_retested_at_iso": "2020-05-13T07:39:19.214069",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.87ew98hgwrhj1ne3ranj14et5k4r85y66sk7867yrl648tu747p8y7i868we584.buzz": {
+            "included_at_epoch": 1589355559.412477,
+            "included_at_iso": "2020-05-13T07:39:19.412477",
+            "last_retested_at_epoch": 1589355559.412477,
+            "last_retested_at_iso": "2020-05-13T07:39:19.412477",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.8w74r874w8er7w8r7w541s3f231fd3246d54g6dg47865d74g874d.buzz": {
+            "included_at_epoch": 1589355559.611943,
+            "included_at_iso": "2020-05-13T07:39:19.611943",
+            "last_retested_at_epoch": 1589355559.611943,
+            "last_retested_at_iso": "2020-05-13T07:39:19.611943",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.8wr74egh8rwe74h856w4hje68rj74t8er564jmtne65874tkjm86et47jmte8et.monster": {
+            "included_at_epoch": 1589355559.809236,
+            "included_at_iso": "2020-05-13T07:39:19.809236",
+            "last_retested_at_epoch": 1589355559.809236,
+            "last_retested_at_iso": "2020-05-13T07:39:19.809236",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.a8d4b3d45211f96df16a3db4516d3718.buzz": {
+            "included_at_epoch": 1589355560.093191,
+            "included_at_iso": "2020-05-13T07:39:20.093191",
+            "last_retested_at_epoch": 1589355560.093191,
+            "last_retested_at_iso": "2020-05-13T07:39:20.093191",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.a9dsi63xnad456wema54xaoa2.net": {
+            "included_at_epoch": 1589355560.292525,
+            "included_at_iso": "2020-05-13T07:39:20.292525",
+            "last_retested_at_epoch": 1589355560.292525,
+            "last_retested_at_iso": "2020-05-13T07:39:20.292525",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.afge12rew4qf64y1treq.buzz": {
+            "included_at_epoch": 1589355560.494841,
+            "included_at_iso": "2020-05-13T07:39:20.494841",
+            "last_retested_at_epoch": 1589355560.494841,
+            "last_retested_at_iso": "2020-05-13T07:39:20.494841",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.aifen56.com": {
+            "included_at_epoch": 1589355560.946568,
+            "included_at_iso": "2020-05-13T07:39:20.946568",
+            "last_retested_at_epoch": 1589355560.946568,
+            "last_retested_at_iso": "2020-05-13T07:39:20.946568",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.amazon-customerservices.xyz": {
+            "included_at_epoch": 1589355560.734833,
+            "included_at_iso": "2020-05-13T07:39:20.734833",
+            "last_retested_at_epoch": 1589355560.734833,
+            "last_retested_at_iso": "2020-05-13T07:39:20.734833",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.anayoiaudfonbv13fgcvbnnm.monster": {
+            "included_at_epoch": 1589355561.145478,
+            "included_at_iso": "2020-05-13T07:39:21.145478",
+            "last_retested_at_epoch": 1589355561.145478,
+            "last_retested_at_iso": "2020-05-13T07:39:21.145478",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.anbvmtyyioefghj13dhonm.icu": {
+            "included_at_epoch": 1589355561.586521,
+            "included_at_iso": "2020-05-13T07:39:21.586521",
+            "last_retested_at_epoch": 1589355561.586521,
+            "last_retested_at_iso": "2020-05-13T07:39:21.586521",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.annyio13nm.monster": {
+            "included_at_epoch": 1589355561.385735,
+            "included_at_iso": "2020-05-13T07:39:21.385735",
+            "last_retested_at_epoch": 1589355561.385735,
+            "last_retested_at_iso": "2020-05-13T07:39:21.385735",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.asedeg541we564h4wre56jne3r1s4hg5wre1h23er1j5r6ty4k6ry541k456.buzz": {
+            "included_at_epoch": 1589355561.985149,
+            "included_at_iso": "2020-05-13T07:39:21.985149",
+            "last_retested_at_epoch": 1589355561.985149,
+            "last_retested_at_iso": "2020-05-13T07:39:21.985149",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.aserryvcbvgrtytuyt14mnbg.xyz": {
+            "included_at_epoch": 1589355561.785644,
+            "included_at_iso": "2020-05-13T07:39:21.785644",
+            "last_retested_at_epoch": 1589355561.785644,
+            "last_retested_at_iso": "2020-05-13T07:39:21.785644",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.c288505a941e38bea3b56cf799d.net": {
+            "included_at_epoch": 1589355562.267313,
+            "included_at_iso": "2020-05-13T07:39:22.267313",
+            "last_retested_at_epoch": 1589355562.267313,
+            "last_retested_at_iso": "2020-05-13T07:39:22.267313",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.chunshanwh.com": {
+            "included_at_epoch": 1589355562.789194,
+            "included_at_iso": "2020-05-13T07:39:22.789194",
+            "last_retested_at_epoch": 1589355562.789194,
+            "last_retested_at_iso": "2020-05-13T07:39:22.789194",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.csd1cs7kf.buzz": {
+            "included_at_epoch": 1589355562.590271,
+            "included_at_iso": "2020-05-13T07:39:22.590271",
+            "last_retested_at_epoch": 1589355562.590271,
+            "last_retested_at_iso": "2020-05-13T07:39:22.590271",
+            "status": "INACTIVE"
+        },
         "ambesagar.choicegroup.co": {
             "included_at_epoch": 1588362182.45763,
             "included_at_iso": "2020-05-01T19:43:02.457630",
