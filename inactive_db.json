@@ -10339,6 +10339,20 @@
             "last_retested_at_iso": "2020-05-01T19:42:58.453423",
             "status": "INACTIVE"
         },
+        "alert-fb-security-account.nogueiracontabil.com": {
+            "included_at_epoch": 1589353299.898676,
+            "included_at_iso": "2020-05-13T07:01:39.898676",
+            "last_retested_at_epoch": 1589353299.898676,
+            "last_retested_at_iso": "2020-05-13T07:01:39.898676",
+            "status": "INACTIVE"
+        },
+        "alertasyseguridadbancolombiasa.zz.com.ve": {
+            "included_at_epoch": 1589353300.933611,
+            "included_at_iso": "2020-05-13T07:01:40.933611",
+            "last_retested_at_epoch": 1589353300.933611,
+            "last_retested_at_iso": "2020-05-13T07:01:40.933611",
+            "status": "INACTIVE"
+        },
         "aliexpresskupit.ru": {
             "included_at_epoch": 1588362179.195894,
             "included_at_iso": "2020-05-01T19:42:59.195894",
@@ -10374,6 +10388,13 @@
             "last_retested_at_iso": "2020-05-01T19:42:59.367841",
             "status": "INACTIVE"
         },
+        "aljazeera.kz": {
+            "included_at_epoch": 1589353303.429935,
+            "included_at_iso": "2020-05-13T07:01:43.429935",
+            "last_retested_at_epoch": 1589353303.429935,
+            "last_retested_at_iso": "2020-05-13T07:01:43.429935",
+            "status": "INACTIVE"
+        },
         "aljsuubo.com": {
             "included_at_epoch": 1588362179.48841,
             "included_at_iso": "2020-05-01T19:42:59.488410",
@@ -10395,11 +10416,32 @@
             "last_retested_at_iso": "2020-05-01T19:42:59.572948",
             "status": "INACTIVE"
         },
+        "all.ntxot.com": {
+            "included_at_epoch": 1589353303.672961,
+            "included_at_iso": "2020-05-13T07:01:43.672961",
+            "last_retested_at_epoch": 1589353303.672961,
+            "last_retested_at_iso": "2020-05-13T07:01:43.672961",
+            "status": "INACTIVE"
+        },
         "allbestnews.net": {
             "included_at_epoch": 1588362179.814923,
             "included_at_iso": "2020-05-01T19:42:59.814923",
             "last_retested_at_epoch": 1588362179.814923,
             "last_retested_at_iso": "2020-05-01T19:42:59.814923",
+            "status": "INACTIVE"
+        },
+        "allfortune777.biz": {
+            "included_at_epoch": 1589353304.294683,
+            "included_at_iso": "2020-05-13T07:01:44.294683",
+            "last_retested_at_epoch": 1589353304.294683,
+            "last_retested_at_iso": "2020-05-13T07:01:44.294683",
+            "status": "INACTIVE"
+        },
+        "allgrupbokepersscrooot.v-25.com": {
+            "included_at_epoch": 1589353304.494683,
+            "included_at_iso": "2020-05-13T07:01:44.494683",
+            "last_retested_at_epoch": 1589353304.494683,
+            "last_retested_at_iso": "2020-05-13T07:01:44.494683",
             "status": "INACTIVE"
         },
         "allmysource.ru": {
@@ -10421,6 +10463,13 @@
             "included_at_iso": "2020-05-01T19:43:00.333702",
             "last_retested_at_epoch": 1588362180.333702,
             "last_retested_at_iso": "2020-05-01T19:43:00.333702",
+            "status": "INACTIVE"
+        },
+        "allsuppore.me": {
+            "included_at_epoch": 1589353305.87603,
+            "included_at_iso": "2020-05-13T07:01:45.876030",
+            "last_retested_at_epoch": 1589353305.87603,
+            "last_retested_at_iso": "2020-05-13T07:01:45.876030",
             "status": "INACTIVE"
         },
         "allzdorovy.ru": {
