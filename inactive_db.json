@@ -10493,6 +10493,20 @@
             "last_retested_at_iso": "2020-05-01T19:43:01.199258",
             "status": "INACTIVE"
         },
+        "alvandine1.cloudaccess.host": {
+            "included_at_epoch": 1589354830.232463,
+            "included_at_iso": "2020-05-13T07:27:10.232463",
+            "last_retested_at_epoch": 1589354830.232463,
+            "last_retested_at_iso": "2020-05-13T07:27:10.232463",
+            "status": "INACTIVE"
+        },
+        "alwayscheckingme007.z19.web.core.windows.net": {
+            "included_at_epoch": 1589354830.45204,
+            "included_at_iso": "2020-05-13T07:27:10.452040",
+            "last_retested_at_epoch": 1589354830.45204,
+            "last_retested_at_iso": "2020-05-13T07:27:10.452040",
+            "status": "INACTIVE"
+        },
         "am.appserver-ap.com": {
             "included_at_epoch": 1588362181.88016,
             "included_at_iso": "2020-05-01T19:43:01.880160",
@@ -10507,6 +10521,20 @@
             "last_retested_at_iso": "2020-05-01T19:43:01.894063",
             "status": "INACTIVE"
         },
+        "amaaccupdate.co.jp.xcpykyydjl.org.cn": {
+            "included_at_epoch": 1589354831.643135,
+            "included_at_iso": "2020-05-13T07:27:11.643135",
+            "last_retested_at_epoch": 1589354831.643135,
+            "last_retested_at_iso": "2020-05-13T07:27:11.643135",
+            "status": "INACTIVE"
+        },
+        "amaaccupdate.jackatlas.top": {
+            "included_at_epoch": 1589354831.43735,
+            "included_at_iso": "2020-05-13T07:27:11.437350",
+            "last_retested_at_epoch": 1589354831.43735,
+            "last_retested_at_iso": "2020-05-13T07:27:11.437350",
+            "status": "INACTIVE"
+        },
         "amaecylce.com": {
             "included_at_epoch": 1588362182.004286,
             "included_at_iso": "2020-05-01T19:43:02.004286",
@@ -10514,11 +10542,32 @@
             "last_retested_at_iso": "2020-05-01T19:43:02.004286",
             "status": "INACTIVE"
         },
+        "amarzonahktadmindan.jp": {
+            "included_at_epoch": 1589354832.112695,
+            "included_at_iso": "2020-05-13T07:27:12.112695",
+            "last_retested_at_epoch": 1589354832.112695,
+            "last_retested_at_iso": "2020-05-13T07:27:12.112695",
+            "status": "INACTIVE"
+        },
+        "amarzonahktadminday.jp": {
+            "included_at_epoch": 1589354832.332366,
+            "included_at_iso": "2020-05-13T07:27:12.332366",
+            "last_retested_at_epoch": 1589354832.332366,
+            "last_retested_at_iso": "2020-05-13T07:27:12.332366",
+            "status": "INACTIVE"
+        },
         "amauzaqp.com": {
             "included_at_epoch": 1588362182.183592,
             "included_at_iso": "2020-05-01T19:43:02.183592",
             "last_retested_at_epoch": 1588362182.183592,
             "last_retested_at_iso": "2020-05-01T19:43:02.183592",
+            "status": "INACTIVE"
+        },
+        "amaz-on-account-confirmation-login-ca.spartaboss.com": {
+            "included_at_epoch": 1589354833.633754,
+            "included_at_iso": "2020-05-13T07:27:13.633754",
+            "last_retested_at_epoch": 1589354833.633754,
+            "last_retested_at_iso": "2020-05-13T07:27:13.633754",
             "status": "INACTIVE"
         },
         "amazingfunnvideos.com": {
