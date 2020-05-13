@@ -15393,6 +15393,20 @@
             "last_retested_at_iso": "2020-05-01T22:01:22.085492",
             "status": "INACTIVE"
         },
+        "authflow-account-support-case-47862.blogspot.be": {
+            "included_at_epoch": 1589404397.701162,
+            "included_at_iso": "2020-05-13T21:13:17.701162",
+            "last_retested_at_epoch": 1589404397.701162,
+            "last_retested_at_iso": "2020-05-13T21:13:17.701162",
+            "status": "INACTIVE"
+        },
+        "authflow-account-support-case-47862.blogspot.com": {
+            "included_at_epoch": 1589404397.955238,
+            "included_at_iso": "2020-05-13T21:13:17.955238",
+            "last_retested_at_epoch": 1589404397.955238,
+            "last_retested_at_iso": "2020-05-13T21:13:17.955238",
+            "status": "INACTIVE"
+        },
         "authmoumrl.com": {
             "included_at_epoch": 1588370482.202938,
             "included_at_iso": "2020-05-01T22:01:22.202938",
@@ -15412,6 +15426,34 @@
             "included_at_iso": "2020-05-01T22:01:22.237001",
             "last_retested_at_epoch": 1588370482.237001,
             "last_retested_at_iso": "2020-05-01T22:01:22.237001",
+            "status": "INACTIVE"
+        },
+        "auto-fx.fr": {
+            "included_at_epoch": 1589404399.008381,
+            "included_at_iso": "2020-05-13T21:13:19.008381",
+            "last_retested_at_epoch": 1589404399.008381,
+            "last_retested_at_iso": "2020-05-13T21:13:19.008381",
+            "status": "INACTIVE"
+        },
+        "autoback-71.cf": {
+            "included_at_epoch": 1589404400.124124,
+            "included_at_iso": "2020-05-13T21:13:20.124124",
+            "last_retested_at_epoch": 1589404400.124124,
+            "last_retested_at_iso": "2020-05-13T21:13:20.124124",
+            "status": "INACTIVE"
+        },
+        "autoback-71.ga": {
+            "included_at_epoch": 1589404399.918002,
+            "included_at_iso": "2020-05-13T21:13:19.918002",
+            "last_retested_at_epoch": 1589404399.918002,
+            "last_retested_at_iso": "2020-05-13T21:13:19.918002",
+            "status": "INACTIVE"
+        },
+        "autoback-71.tk": {
+            "included_at_epoch": 1589404400.38257,
+            "included_at_iso": "2020-05-13T21:13:20.382570",
+            "last_retested_at_epoch": 1589404400.38257,
+            "last_retested_at_iso": "2020-05-13T21:13:20.382570",
             "status": "INACTIVE"
         },
         "autodiscover.0paypa1.com": {
@@ -15440,6 +15482,13 @@
             "included_at_iso": "2020-05-01T22:01:22.700094",
             "last_retested_at_epoch": 1588370482.700094,
             "last_retested_at_iso": "2020-05-01T22:01:22.700094",
+            "status": "INACTIVE"
+        },
+        "autodiscover.amzn-ref.net": {
+            "included_at_epoch": 1589404400.596043,
+            "included_at_iso": "2020-05-13T21:13:20.596043",
+            "last_retested_at_epoch": 1589404400.596043,
+            "last_retested_at_iso": "2020-05-13T21:13:20.596043",
             "status": "INACTIVE"
         },
         "autodiscover.app1e-actva.ddns.net": {
@@ -15484,6 +15533,13 @@
             "last_retested_at_iso": "2020-05-01T22:01:22.834685",
             "status": "INACTIVE"
         },
+        "autodiscover.ee-activity.co.uk": {
+            "included_at_epoch": 1589404400.893289,
+            "included_at_iso": "2020-05-13T21:13:20.893289",
+            "last_retested_at_epoch": 1589404400.893289,
+            "last_retested_at_iso": "2020-05-13T21:13:20.893289",
+            "status": "INACTIVE"
+        },
         "autodiscover.faceb00ks.ga": {
             "included_at_epoch": 1588370482.86552,
             "included_at_iso": "2020-05-01T22:01:22.865520",
@@ -15517,6 +15573,20 @@
             "included_at_iso": "2020-05-01T22:01:22.936327",
             "last_retested_at_epoch": 1588370482.936327,
             "last_retested_at_iso": "2020-05-01T22:01:22.936327",
+            "status": "INACTIVE"
+        },
+        "autodiscover.fbsc.cards": {
+            "included_at_epoch": 1589404401.320548,
+            "included_at_iso": "2020-05-13T21:13:21.320548",
+            "last_retested_at_epoch": 1589404401.320548,
+            "last_retested_at_iso": "2020-05-13T21:13:21.320548",
+            "status": "INACTIVE"
+        },
+        "autodiscover.gouv-federalsubsidiescovid-19crisis.com": {
+            "included_at_epoch": 1589404401.107179,
+            "included_at_iso": "2020-05-13T21:13:21.107179",
+            "last_retested_at_epoch": 1589404401.107179,
+            "last_retested_at_iso": "2020-05-13T21:13:21.107179",
             "status": "INACTIVE"
         },
         "autodiscover.int-paypa1.info": {
@@ -15596,6 +15666,13 @@
             "last_retested_at_iso": "2020-05-01T22:01:23.181752",
             "status": "INACTIVE"
         },
+        "autodiscover.lnstagramcopyright.info": {
+            "included_at_epoch": 1589404401.589859,
+            "included_at_iso": "2020-05-13T21:13:21.589859",
+            "last_retested_at_epoch": 1589404401.589859,
+            "last_retested_at_iso": "2020-05-13T21:13:21.589859",
+            "status": "INACTIVE"
+        },
         "autodiscover.lnstagramcopyright.me": {
             "included_at_epoch": 1588370483.163644,
             "included_at_iso": "2020-05-01T22:01:23.163644",
@@ -15608,6 +15685,13 @@
             "included_at_iso": "2020-05-01T22:01:23.199557",
             "last_retested_at_epoch": 1588370483.199557,
             "last_retested_at_iso": "2020-05-01T22:01:23.199557",
+            "status": "INACTIVE"
+        },
+        "autodiscover.lnstagramcopyrigt.club": {
+            "included_at_epoch": 1589404401.79573,
+            "included_at_iso": "2020-05-13T21:13:21.795730",
+            "last_retested_at_epoch": 1589404401.79573,
+            "last_retested_at_iso": "2020-05-13T21:13:21.795730",
             "status": "INACTIVE"
         },
         "autodiscover.lnstagramfollowers.win": {
@@ -15664,6 +15748,13 @@
             "included_at_iso": "2020-05-01T22:01:23.376224",
             "last_retested_at_epoch": 1588370483.376224,
             "last_retested_at_iso": "2020-05-01T22:01:23.376224",
+            "status": "INACTIVE"
+        },
+        "autodiscover.logout-faceb00k.ml": {
+            "included_at_epoch": 1589404401.999622,
+            "included_at_iso": "2020-05-13T21:13:21.999622",
+            "last_retested_at_epoch": 1589404401.999622,
+            "last_retested_at_iso": "2020-05-13T21:13:21.999622",
             "status": "INACTIVE"
         },
         "autodiscover.mail-lnstagrams.com": {
