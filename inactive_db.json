@@ -9464,6 +9464,13 @@
             "last_retested_at_iso": "2020-05-01T17:05:33.550508",
             "status": "INACTIVE"
         },
+        "ads-giris.com": {
+            "included_at_epoch": 1589350308.055625,
+            "included_at_iso": "2020-05-13T06:11:48.055625",
+            "last_retested_at_epoch": 1589350308.055625,
+            "last_retested_at_iso": "2020-05-13T06:11:48.055625",
+            "status": "INACTIVE"
+        },
         "ads-wordego.azureedge.net": {
             "included_at_epoch": 1588352734.370367,
             "included_at_iso": "2020-05-01T17:05:34.370367",
@@ -9532,6 +9539,13 @@
             "included_at_iso": "2020-05-01T18:04:22.260237",
             "last_retested_at_epoch": 1588356262.260237,
             "last_retested_at_iso": "2020-05-01T18:04:22.260237",
+            "status": "INACTIVE"
+        },
+        "adscreditcoupons.com": {
+            "included_at_epoch": 1589350308.97233,
+            "included_at_iso": "2020-05-13T06:11:48.972330",
+            "last_retested_at_epoch": 1589350308.97233,
+            "last_retested_at_iso": "2020-05-13T06:11:48.972330",
             "status": "INACTIVE"
         },
         "adserver-prod.gra5phdxha.us-west-2.elasticbeanstalk.com": {
@@ -9618,6 +9632,13 @@
             "last_retested_at_iso": "2020-05-01T18:57:56.976587",
             "status": "INACTIVE"
         },
+        "adwords-login-com-sign-in.ecriptionsat.xyz": {
+            "included_at_epoch": 1589350310.957355,
+            "included_at_iso": "2020-05-13T06:11:50.957355",
+            "last_retested_at_epoch": 1589350310.957355,
+            "last_retested_at_iso": "2020-05-13T06:11:50.957355",
+            "status": "INACTIVE"
+        },
         "adx-api.a.mobimagic.com": {
             "included_at_epoch": 1588359477.303014,
             "included_at_iso": "2020-05-01T18:57:57.303014",
@@ -9665,6 +9686,13 @@
             "included_at_iso": "2020-05-01T18:57:58.761490",
             "last_retested_at_epoch": 1588359478.76149,
             "last_retested_at_iso": "2020-05-01T18:57:58.761490",
+            "status": "INACTIVE"
+        },
+        "aechjic.pw": {
+            "included_at_epoch": 1589350311.498308,
+            "included_at_iso": "2020-05-13T06:11:51.498308",
+            "last_retested_at_epoch": 1589350311.498308,
+            "last_retested_at_iso": "2020-05-13T06:11:51.498308",
             "status": "INACTIVE"
         },
         "aemxvcqi.com": {
