@@ -7399,11 +7399,67 @@
             "last_retested_at_iso": "2020-05-01T14:59:29.380199",
             "status": "INACTIVE"
         },
+        "61.132.107.50": {
+            "included_at_epoch": 1589343875.544272,
+            "included_at_iso": "2020-05-13T04:24:35.544272",
+            "last_retested_at_epoch": 1589343875.544272,
+            "last_retested_at_iso": "2020-05-13T04:24:35.544272",
+            "status": "INACTIVE"
+        },
+        "61.161.143.170": {
+            "included_at_epoch": 1589343875.747078,
+            "included_at_iso": "2020-05-13T04:24:35.747078",
+            "last_retested_at_epoch": 1589343875.747078,
+            "last_retested_at_iso": "2020-05-13T04:24:35.747078",
+            "status": "INACTIVE"
+        },
+        "6193544.servicesbpd.club": {
+            "included_at_epoch": 1589343876.001643,
+            "included_at_iso": "2020-05-13T04:24:36.001643",
+            "last_retested_at_epoch": 1589343876.001643,
+            "last_retested_at_iso": "2020-05-13T04:24:36.001643",
+            "status": "INACTIVE"
+        },
         "630e51faf9a53693.com": {
             "included_at_epoch": 1587929490.521018,
             "included_at_iso": "2020-04-26T19:31:30.521018",
             "last_retested_at_epoch": 1588345169.52988,
             "last_retested_at_iso": "2020-05-01T14:59:29.529880",
+            "status": "INACTIVE"
+        },
+        "6342722.servicesbpd.xyz": {
+            "included_at_epoch": 1589343877.075765,
+            "included_at_iso": "2020-05-13T04:24:37.075765",
+            "last_retested_at_epoch": 1589343877.075765,
+            "last_retested_at_iso": "2020-05-13T04:24:37.075765",
+            "status": "INACTIVE"
+        },
+        "64.225.104.135": {
+            "included_at_epoch": 1589343877.351136,
+            "included_at_iso": "2020-05-13T04:24:37.351136",
+            "last_retested_at_epoch": 1589343877.351136,
+            "last_retested_at_iso": "2020-05-13T04:24:37.351136",
+            "status": "INACTIVE"
+        },
+        "64.225.20.69": {
+            "included_at_epoch": 1589343877.546866,
+            "included_at_iso": "2020-05-13T04:24:37.546866",
+            "last_retested_at_epoch": 1589343877.546866,
+            "last_retested_at_iso": "2020-05-13T04:24:37.546866",
+            "status": "INACTIVE"
+        },
+        "64.225.43.43": {
+            "included_at_epoch": 1589343877.742768,
+            "included_at_iso": "2020-05-13T04:24:37.742768",
+            "last_retested_at_epoch": 1589343877.742768,
+            "last_retested_at_iso": "2020-05-13T04:24:37.742768",
+            "status": "INACTIVE"
+        },
+        "64.227.124.27": {
+            "included_at_epoch": 1589343877.980229,
+            "included_at_iso": "2020-05-13T04:24:37.980229",
+            "last_retested_at_epoch": 1589343877.980229,
+            "last_retested_at_iso": "2020-05-13T04:24:37.980229",
             "status": "INACTIVE"
         },
         "64.227.17.38": {
@@ -7413,6 +7469,27 @@
             "last_retested_at_iso": "2020-05-01T14:59:29.568053",
             "status": "INACTIVE"
         },
+        "6471130.servicesbpd.club": {
+            "included_at_epoch": 1589343878.297286,
+            "included_at_iso": "2020-05-13T04:24:38.297286",
+            "last_retested_at_epoch": 1589343878.297286,
+            "last_retested_at_iso": "2020-05-13T04:24:38.297286",
+            "status": "INACTIVE"
+        },
+        "65.151.37.46": {
+            "included_at_epoch": 1589343878.612619,
+            "included_at_iso": "2020-05-13T04:24:38.612619",
+            "last_retested_at_epoch": 1589343878.612619,
+            "last_retested_at_iso": "2020-05-13T04:24:38.612619",
+            "status": "INACTIVE"
+        },
+        "6575679234834.com": {
+            "included_at_epoch": 1589343878.929212,
+            "included_at_iso": "2020-05-13T04:24:38.929212",
+            "last_retested_at_epoch": 1589343878.929212,
+            "last_retested_at_iso": "2020-05-13T04:24:38.929212",
+            "status": "INACTIVE"
+        },
         "66.206.18.186": {
             "included_at_epoch": 1587935938.030022,
             "included_at_iso": "2020-04-26T21:18:58.030022",
@@ -7420,11 +7497,81 @@
             "last_retested_at_iso": "2020-05-01T14:59:29.701565",
             "status": "INACTIVE"
         },
+        "6629235.servicesbpd.club": {
+            "included_at_epoch": 1589343879.216094,
+            "included_at_iso": "2020-05-13T04:24:39.216094",
+            "last_retested_at_epoch": 1589343879.216094,
+            "last_retested_at_iso": "2020-05-13T04:24:39.216094",
+            "status": "INACTIVE"
+        },
+        "67.199.169.16": {
+            "included_at_epoch": 1589343879.45236,
+            "included_at_iso": "2020-05-13T04:24:39.452360",
+            "last_retested_at_epoch": 1589343879.45236,
+            "last_retested_at_iso": "2020-05-13T04:24:39.452360",
+            "status": "INACTIVE"
+        },
+        "68.183.160.156": {
+            "included_at_epoch": 1589343880.424952,
+            "included_at_iso": "2020-05-13T04:24:40.424952",
+            "last_retested_at_epoch": 1589343880.424952,
+            "last_retested_at_iso": "2020-05-13T04:24:40.424952",
+            "status": "INACTIVE"
+        },
         "68.183.18.169": {
             "included_at_epoch": 1588345169.788294,
             "included_at_iso": "2020-05-01T14:59:29.788294",
             "last_retested_at_epoch": 1588345169.788294,
             "last_retested_at_iso": "2020-05-01T14:59:29.788294",
+            "status": "INACTIVE"
+        },
+        "68.183.180.202": {
+            "included_at_epoch": 1589343880.620792,
+            "included_at_iso": "2020-05-13T04:24:40.620792",
+            "last_retested_at_epoch": 1589343880.620792,
+            "last_retested_at_iso": "2020-05-13T04:24:40.620792",
+            "status": "INACTIVE"
+        },
+        "68.183.193.185": {
+            "included_at_epoch": 1589343880.816004,
+            "included_at_iso": "2020-05-13T04:24:40.816004",
+            "last_retested_at_epoch": 1589343880.816004,
+            "last_retested_at_iso": "2020-05-13T04:24:40.816004",
+            "status": "INACTIVE"
+        },
+        "68.183.196.84": {
+            "included_at_epoch": 1589343881.011261,
+            "included_at_iso": "2020-05-13T04:24:41.011261",
+            "last_retested_at_epoch": 1589343881.011261,
+            "last_retested_at_iso": "2020-05-13T04:24:41.011261",
+            "status": "INACTIVE"
+        },
+        "68.183.23.118": {
+            "included_at_epoch": 1589343881.206533,
+            "included_at_iso": "2020-05-13T04:24:41.206533",
+            "last_retested_at_epoch": 1589343881.206533,
+            "last_retested_at_iso": "2020-05-13T04:24:41.206533",
+            "status": "INACTIVE"
+        },
+        "6847269.servicesbpd.club": {
+            "included_at_epoch": 1589343881.48109,
+            "included_at_iso": "2020-05-13T04:24:41.481090",
+            "last_retested_at_epoch": 1589343881.48109,
+            "last_retested_at_iso": "2020-05-13T04:24:41.481090",
+            "status": "INACTIVE"
+        },
+        "6888979.servicesbpd.club": {
+            "included_at_epoch": 1589343881.718494,
+            "included_at_iso": "2020-05-13T04:24:41.718494",
+            "last_retested_at_epoch": 1589343881.718494,
+            "last_retested_at_iso": "2020-05-13T04:24:41.718494",
+            "status": "INACTIVE"
+        },
+        "69.158.207.141": {
+            "included_at_epoch": 1589343881.9947,
+            "included_at_iso": "2020-05-13T04:24:41.994700",
+            "last_retested_at_epoch": 1589343881.9947,
+            "last_retested_at_iso": "2020-05-13T04:24:41.994700",
             "status": "INACTIVE"
         },
         "69.172.201.153": {
@@ -7439,6 +7586,13 @@
             "included_at_iso": "2020-05-01T14:59:29.831348",
             "last_retested_at_epoch": 1588345169.831348,
             "last_retested_at_iso": "2020-05-01T14:59:29.831348",
+            "status": "INACTIVE"
+        },
+        "6965056.servicesbpd.xyz": {
+            "included_at_epoch": 1589343882.602178,
+            "included_at_iso": "2020-05-13T04:24:42.602178",
+            "last_retested_at_epoch": 1589343882.602178,
+            "last_retested_at_iso": "2020-05-13T04:24:42.602178",
             "status": "INACTIVE"
         },
         "699fy4ne.com": {
