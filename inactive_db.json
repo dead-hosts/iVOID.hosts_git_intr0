@@ -16828,11 +16828,130 @@
             "last_retested_at_iso": "2020-05-01T23:22:53.631027",
             "status": "INACTIVE"
         },
+        "bcards.sucure-uk.ga": {
+            "included_at_epoch": 1589410217.14325,
+            "included_at_iso": "2020-05-13T22:50:17.143250",
+            "last_retested_at_epoch": 1589410217.14325,
+            "last_retested_at_iso": "2020-05-13T22:50:17.143250",
+            "status": "INACTIVE"
+        },
+        "bcgk.shoesmogul.com": {
+            "included_at_epoch": 1589410216.935801,
+            "included_at_iso": "2020-05-13T22:50:16.935801",
+            "last_retested_at_epoch": 1589410216.935801,
+            "last_retested_at_iso": "2020-05-13T22:50:16.935801",
+            "status": "INACTIVE"
+        },
+        "bciuemfaapyf.biz": {
+            "included_at_epoch": 1589410217.346051,
+            "included_at_iso": "2020-05-13T22:50:17.346051",
+            "last_retested_at_epoch": 1589410217.346051,
+            "last_retested_at_iso": "2020-05-13T22:50:17.346051",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegura-viabcp.br-cov.com": {
+            "included_at_epoch": 1589410219.41778,
+            "included_at_iso": "2020-05-13T22:50:19.417780",
+            "last_retested_at_epoch": 1589410219.41778,
+            "last_retested_at_iso": "2020-05-13T22:50:19.417780",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta-viabcp-com.bestoffers.guide": {
+            "included_at_epoch": 1589410219.622204,
+            "included_at_iso": "2020-05-13T22:50:19.622204",
+            "last_retested_at_epoch": 1589410219.622204,
+            "last_retested_at_iso": "2020-05-13T22:50:19.622204",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta-viabcp-com.compasspeergroup.com": {
+            "included_at_epoch": 1589410219.824115,
+            "included_at_iso": "2020-05-13T22:50:19.824115",
+            "last_retested_at_epoch": 1589410219.824115,
+            "last_retested_at_iso": "2020-05-13T22:50:19.824115",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta-viabcp-com.sinaimed.com": {
+            "included_at_epoch": 1589410220.024091,
+            "included_at_iso": "2020-05-13T22:50:20.024091",
+            "last_retested_at_epoch": 1589410220.024091,
+            "last_retested_at_iso": "2020-05-13T22:50:20.024091",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta-viabcp.bc-cov.com": {
+            "included_at_epoch": 1589410220.224173,
+            "included_at_iso": "2020-05-13T22:50:20.224173",
+            "last_retested_at_epoch": 1589410220.224173,
+            "last_retested_at_iso": "2020-05-13T22:50:20.224173",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta-viabcp.bc-fab.com": {
+            "included_at_epoch": 1589410220.425368,
+            "included_at_iso": "2020-05-13T22:50:20.425368",
+            "last_retested_at_epoch": 1589410220.425368,
+            "last_retested_at_iso": "2020-05-13T22:50:20.425368",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.bcpes.com": {
+            "included_at_epoch": 1589410221.022375,
+            "included_at_iso": "2020-05-13T22:50:21.022375",
+            "last_retested_at_epoch": 1589410221.022375,
+            "last_retested_at_iso": "2020-05-13T22:50:21.022375",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.viabcp.com.datvaporizer.info": {
+            "included_at_epoch": 1589410221.22473,
+            "included_at_iso": "2020-05-13T22:50:21.224730",
+            "last_retested_at_epoch": 1589410221.22473,
+            "last_retested_at_iso": "2020-05-13T22:50:21.224730",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.viabcp.com.sheffy.co": {
+            "included_at_epoch": 1589410221.552953,
+            "included_at_iso": "2020-05-13T22:50:21.552953",
+            "last_retested_at_epoch": 1589410221.552953,
+            "last_retested_at_iso": "2020-05-13T22:50:21.552953",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.viabcp.pe.alertas-sms.beatzbakers.net": {
+            "included_at_epoch": 1589410221.796985,
+            "included_at_iso": "2020-05-13T22:50:21.796985",
+            "last_retested_at_epoch": 1589410221.796985,
+            "last_retested_at_iso": "2020-05-13T22:50:21.796985",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.viiabcp.run": {
+            "included_at_epoch": 1589410222.081956,
+            "included_at_iso": "2020-05-13T22:50:22.081956",
+            "last_retested_at_epoch": 1589410222.081956,
+            "last_retested_at_iso": "2020-05-13T22:50:22.081956",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.vipbcp.xyz": {
+            "included_at_epoch": 1589410222.284633,
+            "included_at_iso": "2020-05-13T22:50:22.284633",
+            "last_retested_at_epoch": 1589410222.284633,
+            "last_retested_at_iso": "2020-05-13T22:50:22.284633",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabetas.viabcpe.live": {
+            "included_at_epoch": 1589410222.883192,
+            "included_at_iso": "2020-05-13T22:50:22.883192",
+            "last_retested_at_epoch": 1589410222.883192,
+            "last_retested_at_iso": "2020-05-13T22:50:22.883192",
+            "status": "INACTIVE"
+        },
         "bcxronvqkwe.com": {
             "included_at_epoch": 1588375374.660773,
             "included_at_iso": "2020-05-01T23:22:54.660773",
             "last_retested_at_epoch": 1588375374.660773,
             "last_retested_at_iso": "2020-05-01T23:22:54.660773",
+            "status": "INACTIVE"
+        },
+        "bddadevlpkwrrmud.xyz": {
+            "included_at_epoch": 1589410225.740796,
+            "included_at_iso": "2020-05-13T22:50:25.740796",
+            "last_retested_at_epoch": 1589410225.740796,
+            "last_retested_at_iso": "2020-05-13T22:50:25.740796",
             "status": "INACTIVE"
         },
         "bdhxpxohwssdfd.com": {
@@ -16882,6 +17001,27 @@
             "included_at_iso": "2020-05-01T23:22:56.311854",
             "last_retested_at_epoch": 1588375376.311854,
             "last_retested_at_iso": "2020-05-01T23:22:56.311854",
+            "status": "INACTIVE"
+        },
+        "bearsfring.com": {
+            "included_at_epoch": 1589410227.449473,
+            "included_at_iso": "2020-05-13T22:50:27.449473",
+            "last_retested_at_epoch": 1589410227.449473,
+            "last_retested_at_iso": "2020-05-13T22:50:27.449473",
+            "status": "INACTIVE"
+        },
+        "beatyhousesupporte.su": {
+            "included_at_epoch": 1589410228.431528,
+            "included_at_iso": "2020-05-13T22:50:28.431528",
+            "last_retested_at_epoch": 1589410228.431528,
+            "last_retested_at_iso": "2020-05-13T22:50:28.431528",
+            "status": "INACTIVE"
+        },
+        "beaware.flbanqofme.com": {
+            "included_at_epoch": 1589410229.030864,
+            "included_at_iso": "2020-05-13T22:50:29.030864",
+            "last_retested_at_epoch": 1589410229.030864,
+            "last_retested_at_iso": "2020-05-13T22:50:29.030864",
             "status": "INACTIVE"
         },
         "bedowntoft.com": {
