@@ -10885,6 +10885,41 @@
             "last_retested_at_iso": "2020-05-13T07:51:29.031510",
             "status": "INACTIVE"
         },
+        "amazon.co.jp.xmse8rhnt61jkaqnm2kpw.info": {
+            "included_at_epoch": 1589357026.005068,
+            "included_at_iso": "2020-05-13T08:03:46.005068",
+            "last_retested_at_epoch": 1589357026.005068,
+            "last_retested_at_iso": "2020-05-13T08:03:46.005068",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.0psp.ru": {
+            "included_at_epoch": 1589357026.253241,
+            "included_at_iso": "2020-05-13T08:03:46.253241",
+            "last_retested_at_epoch": 1589357026.253241,
+            "last_retested_at_iso": "2020-05-13T08:03:46.253241",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.2cqd.ru": {
+            "included_at_epoch": 1589357026.472158,
+            "included_at_iso": "2020-05-13T08:03:46.472158",
+            "last_retested_at_epoch": 1589357026.472158,
+            "last_retested_at_iso": "2020-05-13T08:03:46.472158",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.2j0q.ru": {
+            "included_at_epoch": 1589357026.873745,
+            "included_at_iso": "2020-05-13T08:03:46.873745",
+            "last_retested_at_epoch": 1589357026.873745,
+            "last_retested_at_iso": "2020-05-13T08:03:46.873745",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.8mmy.ru": {
+            "included_at_epoch": 1589357026.67338,
+            "included_at_iso": "2020-05-13T08:03:46.673380",
+            "last_retested_at_epoch": 1589357026.67338,
+            "last_retested_at_iso": "2020-05-13T08:03:46.673380",
+            "status": "INACTIVE"
+        },
         "ambesagar.choicegroup.co": {
             "included_at_epoch": 1588362182.45763,
             "included_at_iso": "2020-05-01T19:43:02.457630",
