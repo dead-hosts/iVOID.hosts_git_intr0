@@ -4,12 +4,11 @@
 
 ```
 Title: iVOID.hosts
-iVOID License: CC-BY-NC-SA
+License: CC-BY-NC-SA
 Maintainer: intr0
-Homepage: https://ivoid.intr0.com/
-Mirror: https://iosprivacy.com/ivoid/
+Homepage: https://ivoid.intr0.com
+Mirror: https://iosprivacy.com/ivoid
 Source: https://gitlab.com/iVOID/hosts/raw/master/iVOID.hosts
-
 Description: iVOID.hosts focuses on:
 Phishing hosts licensed to us by Ivan Ristić -
 Founder of Hardenize.
@@ -17,15 +16,12 @@ Previously, founder of SSL Labs and ModSecurity.
 Author of Bulletproof SSL and TLS.
 Regular participant at the security conferences
 Black Hat, RSA, & OWASP AppSec.
-
 In addition to the licensed Phishing hosts,
-iVOID also blocks malware including: Cryptojacking, Tracking,
-Advertising. & Mainstream Social Media.
-Why does iVOID classify Advertising & Mainstream Social Media as Malware?
-Due to the tremendous negative impact to society of each.
-Including: Poor Monetary Hygiene, Election Interference,
-The Loss of Self within sites such as Facebook,
-Data Mining, & the Commodification of Human Beings.
+iVOID also includes:
+Malicious COVID-19 hosts & Botnet IPs.
+Note that iVOID no longer blocks social networking sites.
+This hosts files is strictly for:
+Security against Phishing, Spam, and Malware.
 ```
 
 --------------------------------------------------------------------------------
