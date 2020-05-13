@@ -16597,6 +16597,69 @@
             "last_retested_at_iso": "2020-05-13T22:13:39.121867",
             "status": "INACTIVE"
         },
+        "bankline.itau.work": {
+            "included_at_epoch": 1589408764.599496,
+            "included_at_iso": "2020-05-13T22:26:04.599496",
+            "last_retested_at_epoch": 1589408764.599496,
+            "last_retested_at_iso": "2020-05-13T22:26:04.599496",
+            "status": "INACTIVE"
+        },
+        "bankofamercaonlineas.zz.com.ve": {
+            "included_at_epoch": 1589408764.854017,
+            "included_at_iso": "2020-05-13T22:26:04.854017",
+            "last_retested_at_epoch": 1589408764.854017,
+            "last_retested_at_iso": "2020-05-13T22:26:04.854017",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.bofa-april.xyz": {
+            "included_at_epoch": 1589408765.102787,
+            "included_at_iso": "2020-05-13T22:26:05.102787",
+            "last_retested_at_epoch": 1589408765.102787,
+            "last_retested_at_iso": "2020-05-13T22:26:05.102787",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.com.cliendid493985845.anjoshotel.com": {
+            "included_at_epoch": 1589408765.516292,
+            "included_at_iso": "2020-05-13T22:26:05.516292",
+            "last_retested_at_epoch": 1589408765.516292,
+            "last_retested_at_iso": "2020-05-13T22:26:05.516292",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.com.login.acc.artegestiones.com": {
+            "included_at_epoch": 1589408765.308047,
+            "included_at_iso": "2020-05-13T22:26:05.308047",
+            "last_retested_at_epoch": 1589408765.308047,
+            "last_retested_at_iso": "2020-05-13T22:26:05.308047",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.com.login.update.interiordoctors.com": {
+            "included_at_epoch": 1589408765.929349,
+            "included_at_iso": "2020-05-13T22:26:05.929349",
+            "last_retested_at_epoch": 1589408765.929349,
+            "last_retested_at_iso": "2020-05-13T22:26:05.929349",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.imitationbazarr.com": {
+            "included_at_epoch": 1589408765.721613,
+            "included_at_iso": "2020-05-13T22:26:05.721613",
+            "last_retested_at_epoch": 1589408765.721613,
+            "last_retested_at_iso": "2020-05-13T22:26:05.721613",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.nsecurity.online": {
+            "included_at_epoch": 1589408766.37046,
+            "included_at_iso": "2020-05-13T22:26:06.370460",
+            "last_retested_at_epoch": 1589408766.37046,
+            "last_retested_at_iso": "2020-05-13T22:26:06.370460",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.webredirect.org": {
+            "included_at_epoch": 1589408766.162505,
+            "included_at_iso": "2020-05-13T22:26:06.162505",
+            "last_retested_at_epoch": 1589408766.162505,
+            "last_retested_at_iso": "2020-05-13T22:26:06.162505",
+            "status": "INACTIVE"
+        },
         "banner.gasuki.com": {
             "included_at_epoch": 1588373209.461836,
             "included_at_iso": "2020-05-01T22:46:49.461836",
@@ -16632,6 +16695,27 @@
             "last_retested_at_iso": "2020-05-01T22:46:51.321329",
             "status": "INACTIVE"
         },
+        "banorte.ayudaen-linea24.com": {
+            "included_at_epoch": 1589408766.660516,
+            "included_at_iso": "2020-05-13T22:26:06.660516",
+            "last_retested_at_epoch": 1589408766.660516,
+            "last_retested_at_iso": "2020-05-13T22:26:06.660516",
+            "status": "INACTIVE"
+        },
+        "banorte.com24accesomx.com": {
+            "included_at_epoch": 1589408766.868997,
+            "included_at_iso": "2020-05-13T22:26:06.868997",
+            "last_retested_at_epoch": 1589408766.868997,
+            "last_retested_at_iso": "2020-05-13T22:26:06.868997",
+            "status": "INACTIVE"
+        },
+        "banpara.sollutions-network.com": {
+            "included_at_epoch": 1589408767.074596,
+            "included_at_iso": "2020-05-13T22:26:07.074596",
+            "last_retested_at_epoch": 1589408767.074596,
+            "last_retested_at_iso": "2020-05-13T22:26:07.074596",
+            "status": "INACTIVE"
+        },
         "banreklama.ru": {
             "included_at_epoch": 1588373211.340097,
             "included_at_iso": "2020-05-01T22:46:51.340097",
@@ -16644,6 +16728,13 @@
             "included_at_iso": "2020-05-01T22:46:51.449438",
             "last_retested_at_epoch": 1588373211.449438,
             "last_retested_at_iso": "2020-05-01T22:46:51.449438",
+            "status": "INACTIVE"
+        },
+        "baoshlda.com": {
+            "included_at_epoch": 1589408768.403661,
+            "included_at_iso": "2020-05-13T22:26:08.403661",
+            "last_retested_at_epoch": 1589408768.403661,
+            "last_retested_at_iso": "2020-05-13T22:26:08.403661",
             "status": "INACTIVE"
         },
         "bapalolo.com": {
@@ -16665,6 +16756,13 @@
             "included_at_iso": "2020-05-01T22:46:51.582904",
             "last_retested_at_epoch": 1588373211.582904,
             "last_retested_at_iso": "2020-05-01T22:46:51.582904",
+            "status": "INACTIVE"
+        },
+        "barjhxoye.info": {
+            "included_at_epoch": 1589408769.809209,
+            "included_at_iso": "2020-05-13T22:26:09.809209",
+            "last_retested_at_epoch": 1589408769.809209,
+            "last_retested_at_iso": "2020-05-13T22:26:09.809209",
             "status": "INACTIVE"
         },
         "batilo.de": {
