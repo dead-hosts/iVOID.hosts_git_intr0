@@ -19075,6 +19075,13 @@
             "last_retested_at_iso": "2020-05-14T01:11:08.139576",
             "status": "INACTIVE"
         },
+        "cancelamento.itaucard.webstore-amedigital.com": {
+            "included_at_epoch": 1589419533.527001,
+            "included_at_iso": "2020-05-14T01:25:33.527001",
+            "last_retested_at_epoch": 1589419533.527001,
+            "last_retested_at_iso": "2020-05-14T01:25:33.527001",
+            "status": "INACTIVE"
+        },
         "candy.smv.to": {
             "included_at_epoch": 1588379659.108176,
             "included_at_iso": "2020-05-02T00:34:19.108176",
@@ -19082,11 +19089,53 @@
             "last_retested_at_iso": "2020-05-02T00:34:19.108176",
             "status": "INACTIVE"
         },
+        "capbvs.org": {
+            "included_at_epoch": 1589419534.570958,
+            "included_at_iso": "2020-05-14T01:25:34.570958",
+            "last_retested_at_epoch": 1589419534.570958,
+            "last_retested_at_iso": "2020-05-14T01:25:34.570958",
+            "status": "INACTIVE"
+        },
         "caperning.com": {
             "included_at_epoch": 1588379659.748315,
             "included_at_iso": "2020-05-02T00:34:19.748315",
             "last_retested_at_epoch": 1588379659.748315,
             "last_retested_at_iso": "2020-05-02T00:34:19.748315",
+            "status": "INACTIVE"
+        },
+        "capital1ones.specshomes.buzz": {
+            "included_at_epoch": 1589419535.125789,
+            "included_at_iso": "2020-05-14T01:25:35.125789",
+            "last_retested_at_epoch": 1589419535.125789,
+            "last_retested_at_iso": "2020-05-14T01:25:35.125789",
+            "status": "INACTIVE"
+        },
+        "capitalone-login.website": {
+            "included_at_epoch": 1589419535.538679,
+            "included_at_iso": "2020-05-14T01:25:35.538679",
+            "last_retested_at_epoch": 1589419535.538679,
+            "last_retested_at_iso": "2020-05-14T01:25:35.538679",
+            "status": "INACTIVE"
+        },
+        "capitalone-signin.tk": {
+            "included_at_epoch": 1589419535.331508,
+            "included_at_iso": "2020-05-14T01:25:35.331508",
+            "last_retested_at_epoch": 1589419535.331508,
+            "last_retested_at_iso": "2020-05-14T01:25:35.331508",
+            "status": "INACTIVE"
+        },
+        "capitalone.acct-access.com": {
+            "included_at_epoch": 1589419535.801253,
+            "included_at_iso": "2020-05-14T01:25:35.801253",
+            "last_retested_at_epoch": 1589419535.801253,
+            "last_retested_at_iso": "2020-05-14T01:25:35.801253",
+            "status": "INACTIVE"
+        },
+        "capsdomannual.internationalwirelesscalls.xyz": {
+            "included_at_epoch": 1589419536.3512,
+            "included_at_iso": "2020-05-14T01:25:36.351200",
+            "last_retested_at_epoch": 1589419536.3512,
+            "last_retested_at_iso": "2020-05-14T01:25:36.351200",
             "status": "INACTIVE"
         },
         "capsuledaily.com": {
@@ -19166,11 +19215,25 @@
             "last_retested_at_iso": "2020-05-02T00:58:37.172079",
             "status": "INACTIVE"
         },
+        "caresupportline.net": {
+            "included_at_epoch": 1589419538.048743,
+            "included_at_iso": "2020-05-14T01:25:38.048743",
+            "last_retested_at_epoch": 1589419538.048743,
+            "last_retested_at_iso": "2020-05-14T01:25:38.048743",
+            "status": "INACTIVE"
+        },
         "caretocorona.xyz": {
             "included_at_epoch": 1588381117.297372,
             "included_at_iso": "2020-05-02T00:58:37.297372",
             "last_retested_at_epoch": 1588381117.297372,
             "last_retested_at_iso": "2020-05-02T00:58:37.297372",
+            "status": "INACTIVE"
+        },
+        "carolinebrigs89378profile.online": {
+            "included_at_epoch": 1589419539.131209,
+            "included_at_iso": "2020-05-14T01:25:39.131209",
+            "last_retested_at_epoch": 1589419539.131209,
+            "last_retested_at_iso": "2020-05-14T01:25:39.131209",
             "status": "INACTIVE"
         },
         "carsgetdoc-qa.appl.kp.org": {
@@ -19180,11 +19243,46 @@
             "last_retested_at_iso": "2020-05-02T00:58:37.701949",
             "status": "INACTIVE"
         },
+        "cartopei.com": {
+            "included_at_epoch": 1589419540.733199,
+            "included_at_iso": "2020-05-14T01:25:40.733199",
+            "last_retested_at_epoch": 1589419540.733199,
+            "last_retested_at_iso": "2020-05-14T01:25:40.733199",
+            "status": "INACTIVE"
+        },
         "carutinv.com": {
             "included_at_epoch": 1588381117.962452,
             "included_at_iso": "2020-05-02T00:58:37.962452",
             "last_retested_at_epoch": 1588381117.962452,
             "last_retested_at_iso": "2020-05-02T00:58:37.962452",
+            "status": "INACTIVE"
+        },
+        "carwashbritania.mktmid.com": {
+            "included_at_epoch": 1589419540.953958,
+            "included_at_iso": "2020-05-14T01:25:40.953958",
+            "last_retested_at_epoch": 1589419540.953958,
+            "last_retested_at_iso": "2020-05-14T01:25:40.953958",
+            "status": "INACTIVE"
+        },
+        "casa.apple.com.br.kr-sign.in": {
+            "included_at_epoch": 1589419541.2438,
+            "included_at_iso": "2020-05-14T01:25:41.243800",
+            "last_retested_at_epoch": 1589419541.2438,
+            "last_retested_at_iso": "2020-05-14T01:25:41.243800",
+            "status": "INACTIVE"
+        },
+        "casaroyai.com": {
+            "included_at_epoch": 1589419541.493639,
+            "included_at_iso": "2020-05-14T01:25:41.493639",
+            "last_retested_at_epoch": 1589419541.493639,
+            "last_retested_at_iso": "2020-05-14T01:25:41.493639",
+            "status": "INACTIVE"
+        },
+        "case-navi.online": {
+            "included_at_epoch": 1589419541.744759,
+            "included_at_iso": "2020-05-14T01:25:41.744759",
+            "last_retested_at_epoch": 1589419541.744759,
+            "last_retested_at_iso": "2020-05-14T01:25:41.744759",
             "status": "INACTIVE"
         },
         "caselog-dev.appl.kp.org": {
@@ -19199,6 +19297,13 @@
             "included_at_iso": "2020-05-02T00:58:38.415957",
             "last_retested_at_epoch": 1588381118.415957,
             "last_retested_at_iso": "2020-05-02T00:58:38.415957",
+            "status": "INACTIVE"
+        },
+        "cases-navi.fun": {
+            "included_at_epoch": 1589419541.953921,
+            "included_at_iso": "2020-05-14T01:25:41.953921",
+            "last_retested_at_epoch": 1589419541.953921,
+            "last_retested_at_iso": "2020-05-14T01:25:41.953921",
             "status": "INACTIVE"
         },
         "cash-app.l-lnstagram.ga": {
