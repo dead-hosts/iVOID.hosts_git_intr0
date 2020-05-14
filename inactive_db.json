@@ -18494,6 +18494,13 @@
             "last_retested_at_iso": "2020-05-02T00:34:01.107664",
             "status": "INACTIVE"
         },
+        "btinternetwifi.alshamswalnakhel.com": {
+            "included_at_epoch": 1589416967.777562,
+            "included_at_iso": "2020-05-14T00:42:47.777562",
+            "last_retested_at_epoch": 1589416967.777562,
+            "last_retested_at_iso": "2020-05-14T00:42:47.777562",
+            "status": "INACTIVE"
+        },
         "bturlzbakbcsdd.com": {
             "included_at_epoch": 1588379641.84003,
             "included_at_iso": "2020-05-02T00:34:01.840030",
