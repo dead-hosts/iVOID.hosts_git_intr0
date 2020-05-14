@@ -19600,6 +19600,13 @@
             "last_retested_at_iso": "2020-05-02T00:58:51.027597",
             "status": "INACTIVE"
         },
+        "cef-2020.cloudaccess.host": {
+            "included_at_epoch": 1589421002.422376,
+            "included_at_iso": "2020-05-14T01:50:02.422376",
+            "last_retested_at_epoch": 1589421002.422376,
+            "last_retested_at_iso": "2020-05-14T01:50:02.422376",
+            "status": "INACTIVE"
+        },
         "cegludse.net": {
             "included_at_epoch": 1588381131.255868,
             "included_at_iso": "2020-05-02T00:58:51.255868",
@@ -19654,6 +19661,321 @@
             "included_at_iso": "2020-05-02T00:58:52.744461",
             "last_retested_at_epoch": 1588381132.744461,
             "last_retested_at_iso": "2020-05-02T00:58:52.744461",
+            "status": "INACTIVE"
+        },
+        "ceqclr.com": {
+            "included_at_epoch": 1589421004.685706,
+            "included_at_iso": "2020-05-14T01:50:04.685706",
+            "last_retested_at_epoch": 1589421004.685706,
+            "last_retested_at_iso": "2020-05-14T01:50:04.685706",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.305iot.top": {
+            "included_at_epoch": 1589421005.139188,
+            "included_at_iso": "2020-05-14T01:50:05.139188",
+            "last_retested_at_epoch": 1589421005.139188,
+            "last_retested_at_iso": "2020-05-14T01:50:05.139188",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.305iot.win": {
+            "included_at_epoch": 1589421004.933538,
+            "included_at_iso": "2020-05-14T01:50:04.933538",
+            "last_retested_at_epoch": 1589421004.933538,
+            "last_retested_at_iso": "2020-05-14T01:50:04.933538",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.45gf4t.win": {
+            "included_at_epoch": 1589421005.344584,
+            "included_at_iso": "2020-05-14T01:50:05.344584",
+            "last_retested_at_epoch": 1589421005.344584,
+            "last_retested_at_iso": "2020-05-14T01:50:05.344584",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.45kgok.win": {
+            "included_at_epoch": 1589421005.551732,
+            "included_at_iso": "2020-05-14T01:50:05.551732",
+            "last_retested_at_epoch": 1589421005.551732,
+            "last_retested_at_iso": "2020-05-14T01:50:05.551732",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.5kti58.win": {
+            "included_at_epoch": 1589421005.757959,
+            "included_at_iso": "2020-05-14T01:50:05.757959",
+            "last_retested_at_epoch": 1589421005.757959,
+            "last_retested_at_iso": "2020-05-14T01:50:05.757959",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.ad34ft.win": {
+            "included_at_epoch": 1589421005.962458,
+            "included_at_iso": "2020-05-14T01:50:05.962458",
+            "last_retested_at_epoch": 1589421005.962458,
+            "last_retested_at_iso": "2020-05-14T01:50:05.962458",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.adevf4.win": {
+            "included_at_epoch": 1589421006.389992,
+            "included_at_iso": "2020-05-14T01:50:06.389992",
+            "last_retested_at_epoch": 1589421006.389992,
+            "last_retested_at_iso": "2020-05-14T01:50:06.389992",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.alri58.win": {
+            "included_at_epoch": 1589421006.182624,
+            "included_at_iso": "2020-05-14T01:50:06.182624",
+            "last_retested_at_epoch": 1589421006.182624,
+            "last_retested_at_iso": "2020-05-14T01:50:06.182624",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.as13fd.win": {
+            "included_at_epoch": 1589421006.596626,
+            "included_at_iso": "2020-05-14T01:50:06.596626",
+            "last_retested_at_epoch": 1589421006.596626,
+            "last_retested_at_iso": "2020-05-14T01:50:06.596626",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.asxce4.win": {
+            "included_at_epoch": 1589421006.801382,
+            "included_at_iso": "2020-05-14T01:50:06.801382",
+            "last_retested_at_epoch": 1589421006.801382,
+            "last_retested_at_iso": "2020-05-14T01:50:06.801382",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.azlto5.win": {
+            "included_at_epoch": 1589421007.006767,
+            "included_at_iso": "2020-05-14T01:50:07.006767",
+            "last_retested_at_epoch": 1589421007.006767,
+            "last_retested_at_iso": "2020-05-14T01:50:07.006767",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.cmr95i.top": {
+            "included_at_epoch": 1589421007.212958,
+            "included_at_iso": "2020-05-14T01:50:07.212958",
+            "last_retested_at_epoch": 1589421007.212958,
+            "last_retested_at_iso": "2020-05-14T01:50:07.212958",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.cmr95i.win": {
+            "included_at_epoch": 1589421007.41848,
+            "included_at_iso": "2020-05-14T01:50:07.418480",
+            "last_retested_at_epoch": 1589421007.41848,
+            "last_retested_at_iso": "2020-05-14T01:50:07.418480",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.cmti5o.win": {
+            "included_at_epoch": 1589421007.624401,
+            "included_at_iso": "2020-05-14T01:50:07.624401",
+            "last_retested_at_epoch": 1589421007.624401,
+            "last_retested_at_iso": "2020-05-14T01:50:07.624401",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.cneo59.top": {
+            "included_at_epoch": 1589421008.048087,
+            "included_at_iso": "2020-05-14T01:50:08.048087",
+            "last_retested_at_epoch": 1589421008.048087,
+            "last_retested_at_iso": "2020-05-14T01:50:08.048087",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.cneo59.win": {
+            "included_at_epoch": 1589421007.828827,
+            "included_at_iso": "2020-05-14T01:50:07.828827",
+            "last_retested_at_epoch": 1589421007.828827,
+            "last_retested_at_iso": "2020-05-14T01:50:07.828827",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.dk59jg.win": {
+            "included_at_epoch": 1589421008.255028,
+            "included_at_iso": "2020-05-14T01:50:08.255028",
+            "last_retested_at_epoch": 1589421008.255028,
+            "last_retested_at_iso": "2020-05-14T01:50:08.255028",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.dkrti5.top": {
+            "included_at_epoch": 1589421008.462296,
+            "included_at_iso": "2020-05-14T01:50:08.462296",
+            "last_retested_at_epoch": 1589421008.462296,
+            "last_retested_at_iso": "2020-05-14T01:50:08.462296",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.er48rt.win": {
+            "included_at_epoch": 1589421008.668803,
+            "included_at_iso": "2020-05-14T01:50:08.668803",
+            "last_retested_at_epoch": 1589421008.668803,
+            "last_retested_at_iso": "2020-05-14T01:50:08.668803",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.fgfid6.win": {
+            "included_at_epoch": 1589421008.874322,
+            "included_at_iso": "2020-05-14T01:50:08.874322",
+            "last_retested_at_epoch": 1589421008.874322,
+            "last_retested_at_iso": "2020-05-14T01:50:08.874322",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.fkr84i.win": {
+            "included_at_epoch": 1589421009.079676,
+            "included_at_iso": "2020-05-14T01:50:09.079676",
+            "last_retested_at_epoch": 1589421009.079676,
+            "last_retested_at_iso": "2020-05-14T01:50:09.079676",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.fkri48.win": {
+            "included_at_epoch": 1589421009.285214,
+            "included_at_iso": "2020-05-14T01:50:09.285214",
+            "last_retested_at_epoch": 1589421009.285214,
+            "last_retested_at_iso": "2020-05-14T01:50:09.285214",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.gkfit9.top": {
+            "included_at_epoch": 1589421009.712228,
+            "included_at_iso": "2020-05-14T01:50:09.712228",
+            "last_retested_at_epoch": 1589421009.712228,
+            "last_retested_at_iso": "2020-05-14T01:50:09.712228",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.gkfit9.win": {
+            "included_at_epoch": 1589421009.491236,
+            "included_at_iso": "2020-05-14T01:50:09.491236",
+            "last_retested_at_epoch": 1589421009.491236,
+            "last_retested_at_iso": "2020-05-14T01:50:09.491236",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.kipfgs65s.com": {
+            "included_at_epoch": 1589421009.917959,
+            "included_at_iso": "2020-05-14T01:50:09.917959",
+            "last_retested_at_epoch": 1589421009.917959,
+            "last_retested_at_iso": "2020-05-14T01:50:09.917959",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.lfotp5.top": {
+            "included_at_epoch": 1589421010.123283,
+            "included_at_iso": "2020-05-14T01:50:10.123283",
+            "last_retested_at_epoch": 1589421010.123283,
+            "last_retested_at_iso": "2020-05-14T01:50:10.123283",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.li4loi.win": {
+            "included_at_epoch": 1589421010.329272,
+            "included_at_iso": "2020-05-14T01:50:10.329272",
+            "last_retested_at_epoch": 1589421010.329272,
+            "last_retested_at_iso": "2020-05-14T01:50:10.329272",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.lib2vi.win": {
+            "included_at_epoch": 1589421010.53452,
+            "included_at_iso": "2020-05-14T01:50:10.534520",
+            "last_retested_at_epoch": 1589421010.53452,
+            "last_retested_at_iso": "2020-05-14T01:50:10.534520",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.m5fgoi.win": {
+            "included_at_epoch": 1589421010.740402,
+            "included_at_iso": "2020-05-14T01:50:10.740402",
+            "last_retested_at_epoch": 1589421010.740402,
+            "last_retested_at_iso": "2020-05-14T01:50:10.740402",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.m5gid4.top": {
+            "included_at_epoch": 1589421010.946158,
+            "included_at_iso": "2020-05-14T01:50:10.946158",
+            "last_retested_at_epoch": 1589421010.946158,
+            "last_retested_at_iso": "2020-05-14T01:50:10.946158",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.m5gid4.win": {
+            "included_at_epoch": 1589421011.153847,
+            "included_at_iso": "2020-05-14T01:50:11.153847",
+            "last_retested_at_epoch": 1589421011.153847,
+            "last_retested_at_iso": "2020-05-14T01:50:11.153847",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.m5gips.win": {
+            "included_at_epoch": 1589421011.360826,
+            "included_at_iso": "2020-05-14T01:50:11.360826",
+            "last_retested_at_epoch": 1589421011.360826,
+            "last_retested_at_iso": "2020-05-14T01:50:11.360826",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.mix3hi.win": {
+            "included_at_epoch": 1589421011.583586,
+            "included_at_iso": "2020-05-14T01:50:11.583586",
+            "last_retested_at_epoch": 1589421011.583586,
+            "last_retested_at_iso": "2020-05-14T01:50:11.583586",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.moneu5.win": {
+            "included_at_epoch": 1589421011.790235,
+            "included_at_iso": "2020-05-14T01:50:11.790235",
+            "last_retested_at_epoch": 1589421011.790235,
+            "last_retested_at_iso": "2020-05-14T01:50:11.790235",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.oneswi.win": {
+            "included_at_epoch": 1589421011.996848,
+            "included_at_iso": "2020-05-14T01:50:11.996848",
+            "last_retested_at_epoch": 1589421011.996848,
+            "last_retested_at_iso": "2020-05-14T01:50:11.996848",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.qor499.top": {
+            "included_at_epoch": 1589421012.202906,
+            "included_at_iso": "2020-05-14T01:50:12.202906",
+            "last_retested_at_epoch": 1589421012.202906,
+            "last_retested_at_iso": "2020-05-14T01:50:12.202906",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.raress.win": {
+            "included_at_epoch": 1589421012.410682,
+            "included_at_iso": "2020-05-14T01:50:12.410682",
+            "last_retested_at_epoch": 1589421012.410682,
+            "last_retested_at_iso": "2020-05-14T01:50:12.410682",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.sdfiso.win": {
+            "included_at_epoch": 1589421012.617142,
+            "included_at_iso": "2020-05-14T01:50:12.617142",
+            "last_retested_at_epoch": 1589421012.617142,
+            "last_retested_at_iso": "2020-05-14T01:50:12.617142",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.sims6n.win": {
+            "included_at_epoch": 1589421013.030311,
+            "included_at_iso": "2020-05-14T01:50:13.030311",
+            "last_retested_at_epoch": 1589421013.030311,
+            "last_retested_at_iso": "2020-05-14T01:50:13.030311",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.ti4wic.win": {
+            "included_at_epoch": 1589421012.823919,
+            "included_at_iso": "2020-05-14T01:50:12.823919",
+            "last_retested_at_epoch": 1589421012.823919,
+            "last_retested_at_iso": "2020-05-14T01:50:12.823919",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.to6maq.win": {
+            "included_at_epoch": 1589421013.252036,
+            "included_at_iso": "2020-05-14T01:50:13.252036",
+            "last_retested_at_epoch": 1589421013.252036,
+            "last_retested_at_iso": "2020-05-14T01:50:13.252036",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.vmfu48.win": {
+            "included_at_epoch": 1589421013.459594,
+            "included_at_iso": "2020-05-14T01:50:13.459594",
+            "last_retested_at_epoch": 1589421013.459594,
+            "last_retested_at_iso": "2020-05-14T01:50:13.459594",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.we34re.top": {
+            "included_at_epoch": 1589421013.87366,
+            "included_at_iso": "2020-05-14T01:50:13.873660",
+            "last_retested_at_epoch": 1589421013.87366,
+            "last_retested_at_iso": "2020-05-14T01:50:13.873660",
+            "status": "INACTIVE"
+        },
+        "cerberhhyed5frqa.we34re.win": {
+            "included_at_epoch": 1589421013.667287,
+            "included_at_iso": "2020-05-14T01:50:13.667287",
+            "last_retested_at_epoch": 1589421013.667287,
+            "last_retested_at_iso": "2020-05-14T01:50:13.667287",
             "status": "INACTIVE"
         },
         "ceregete.com": {
