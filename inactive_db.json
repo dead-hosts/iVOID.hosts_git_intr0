@@ -18522,6 +18522,13 @@
             "last_retested_at_iso": "2020-05-02T00:34:02.015663",
             "status": "INACTIVE"
         },
+        "budigam.budi01.me": {
+            "included_at_epoch": 1589417922.57803,
+            "included_at_iso": "2020-05-14T00:58:42.578030",
+            "last_retested_at_epoch": 1589417922.57803,
+            "last_retested_at_iso": "2020-05-14T00:58:42.578030",
+            "status": "INACTIVE"
+        },
         "bufupacamo.com": {
             "included_at_epoch": 1588379642.404547,
             "included_at_iso": "2020-05-02T00:34:02.404547",
@@ -18571,6 +18578,20 @@
             "last_retested_at_iso": "2020-05-02T00:34:03.986263",
             "status": "INACTIVE"
         },
+        "burgerspendingbusiness.kz": {
+            "included_at_epoch": 1589417924.784558,
+            "included_at_iso": "2020-05-14T00:58:44.784558",
+            "last_retested_at_epoch": 1589417924.784558,
+            "last_retested_at_iso": "2020-05-14T00:58:44.784558",
+            "status": "INACTIVE"
+        },
+        "burn.settingsdata.store": {
+            "included_at_epoch": 1589417925.032961,
+            "included_at_iso": "2020-05-14T00:58:45.032961",
+            "last_retested_at_epoch": 1589417925.032961,
+            "last_retested_at_iso": "2020-05-14T00:58:45.032961",
+            "status": "INACTIVE"
+        },
         "burobtnbpgkh.com": {
             "included_at_epoch": 1588379644.201624,
             "included_at_iso": "2020-05-02T00:34:04.201624",
@@ -18585,11 +18606,109 @@
             "last_retested_at_iso": "2020-05-02T00:34:04.713652",
             "status": "INACTIVE"
         },
+        "business-lnstagram.com": {
+            "included_at_epoch": 1589417925.238629,
+            "included_at_iso": "2020-05-14T00:58:45.238629",
+            "last_retested_at_epoch": 1589417925.238629,
+            "last_retested_at_iso": "2020-05-14T00:58:45.238629",
+            "status": "INACTIVE"
+        },
         "business-lnstagram.ml": {
             "included_at_epoch": 1588379644.74302,
             "included_at_iso": "2020-05-02T00:34:04.743020",
             "last_retested_at_epoch": 1588379644.74302,
             "last_retested_at_iso": "2020-05-02T00:34:04.743020",
+            "status": "INACTIVE"
+        },
+        "business-manager-page.fb-ads-photografy382635323.com": {
+            "included_at_epoch": 1589417925.44467,
+            "included_at_iso": "2020-05-14T00:58:45.444670",
+            "last_retested_at_epoch": 1589417925.44467,
+            "last_retested_at_iso": "2020-05-14T00:58:45.444670",
+            "status": "INACTIVE"
+        },
+        "business-manager.page-fb-ads322u37e838u4t99.com": {
+            "included_at_epoch": 1589417925.649848,
+            "included_at_iso": "2020-05-14T00:58:45.649848",
+            "last_retested_at_epoch": 1589417925.649848,
+            "last_retested_at_iso": "2020-05-14T00:58:45.649848",
+            "status": "INACTIVE"
+        },
+        "business-manager.page-fb-ads338u37e232u4t65.com": {
+            "included_at_epoch": 1589417925.855585,
+            "included_at_iso": "2020-05-14T00:58:45.855585",
+            "last_retested_at_epoch": 1589417925.855585,
+            "last_retested_at_iso": "2020-05-14T00:58:45.855585",
+            "status": "INACTIVE"
+        },
+        "business-manager.page-fb-ads34232u37e643u2t21.com": {
+            "included_at_epoch": 1589417926.061461,
+            "included_at_iso": "2020-05-14T00:58:46.061461",
+            "last_retested_at_epoch": 1589417926.061461,
+            "last_retested_at_iso": "2020-05-14T00:58:46.061461",
+            "status": "INACTIVE"
+        },
+        "business-manager.page-fb-ads3456u65e435u4t44.com": {
+            "included_at_epoch": 1589417926.266169,
+            "included_at_iso": "2020-05-14T00:58:46.266169",
+            "last_retested_at_epoch": 1589417926.266169,
+            "last_retested_at_iso": "2020-05-14T00:58:46.266169",
+            "status": "INACTIVE"
+        },
+        "business-manager.page-fb-ads533445u37d632u2t43.com": {
+            "included_at_epoch": 1589417926.68928,
+            "included_at_iso": "2020-05-14T00:58:46.689280",
+            "last_retested_at_epoch": 1589417926.68928,
+            "last_retested_at_iso": "2020-05-14T00:58:46.689280",
+            "status": "INACTIVE"
+        },
+        "business-manager.page-fb-ads6435u65e3545u4t43.com": {
+            "included_at_epoch": 1589417926.483176,
+            "included_at_iso": "2020-05-14T00:58:46.483176",
+            "last_retested_at_epoch": 1589417926.483176,
+            "last_retested_at_iso": "2020-05-14T00:58:46.483176",
+            "status": "INACTIVE"
+        },
+        "business-manager.page-fb-ads828376u37d632u2t29.com": {
+            "included_at_epoch": 1589417926.895256,
+            "included_at_iso": "2020-05-14T00:58:46.895256",
+            "last_retested_at_epoch": 1589417926.895256,
+            "last_retested_at_iso": "2020-05-14T00:58:46.895256",
+            "status": "INACTIVE"
+        },
+        "business-page.facebook.item3892763652325.com": {
+            "included_at_epoch": 1589417927.348222,
+            "included_at_iso": "2020-05-14T00:58:47.348222",
+            "last_retested_at_epoch": 1589417927.348222,
+            "last_retested_at_iso": "2020-05-14T00:58:47.348222",
+            "status": "INACTIVE"
+        },
+        "business-page.facebook.item92937263526.com": {
+            "included_at_epoch": 1589417927.141937,
+            "included_at_iso": "2020-05-14T00:58:47.141937",
+            "last_retested_at_epoch": 1589417927.141937,
+            "last_retested_at_iso": "2020-05-14T00:58:47.141937",
+            "status": "INACTIVE"
+        },
+        "business-page.fb.realtor-item3289837532.com": {
+            "included_at_epoch": 1589417927.761507,
+            "included_at_iso": "2020-05-14T00:58:47.761507",
+            "last_retested_at_epoch": 1589417927.761507,
+            "last_retested_at_iso": "2020-05-14T00:58:47.761507",
+            "status": "INACTIVE"
+        },
+        "business.fb-ads-id-12e923882776d782e262.com": {
+            "included_at_epoch": 1589417927.554082,
+            "included_at_iso": "2020-05-14T00:58:47.554082",
+            "last_retested_at_epoch": 1589417927.554082,
+            "last_retested_at_iso": "2020-05-14T00:58:47.554082",
+            "status": "INACTIVE"
+        },
+        "business.page-fb-item2342-ad4452.com": {
+            "included_at_epoch": 1589417927.966374,
+            "included_at_iso": "2020-05-14T00:58:47.966374",
+            "last_retested_at_epoch": 1589417927.966374,
+            "last_retested_at_iso": "2020-05-14T00:58:47.966374",
             "status": "INACTIVE"
         },
         "businesslnstagram.takipcisistemim.com": {
@@ -18599,11 +18718,25 @@
             "last_retested_at_iso": "2020-05-02T00:34:05.154298",
             "status": "INACTIVE"
         },
+        "buygomsindbfdesign.com": {
+            "included_at_epoch": 1589417929.696685,
+            "included_at_iso": "2020-05-14T00:58:49.696685",
+            "last_retested_at_epoch": 1589417929.696685,
+            "last_retested_at_iso": "2020-05-14T00:58:49.696685",
+            "status": "INACTIVE"
+        },
         "buzzreklam.com": {
             "included_at_epoch": 1588379647.661921,
             "included_at_iso": "2020-05-02T00:34:07.661921",
             "last_retested_at_epoch": 1588379647.661921,
             "last_retested_at_iso": "2020-05-02T00:34:07.661921",
+            "status": "INACTIVE"
+        },
+        "bv.atendimentomobi.online": {
+            "included_at_epoch": 1589417930.302144,
+            "included_at_iso": "2020-05-14T00:58:50.302144",
+            "last_retested_at_epoch": 1589417930.302144,
+            "last_retested_at_iso": "2020-05-14T00:58:50.302144",
             "status": "INACTIVE"
         },
         "bvcddoyb.com": {
@@ -18620,6 +18753,13 @@
             "last_retested_at_iso": "2020-05-02T00:34:07.799293",
             "status": "INACTIVE"
         },
+        "bwcfinnt.work": {
+            "included_at_epoch": 1589417931.251839,
+            "included_at_iso": "2020-05-14T00:58:51.251839",
+            "last_retested_at_epoch": 1589417931.251839,
+            "last_retested_at_iso": "2020-05-14T00:58:51.251839",
+            "status": "INACTIVE"
+        },
         "bwjtldk6flxispz.ru": {
             "included_at_epoch": 1588379648.644163,
             "included_at_iso": "2020-05-02T00:34:08.644163",
@@ -18634,11 +18774,32 @@
             "last_retested_at_iso": "2020-05-02T00:34:08.623283",
             "status": "INACTIVE"
         },
+        "bwpegsfa.info": {
+            "included_at_epoch": 1589417931.457901,
+            "included_at_iso": "2020-05-14T00:58:51.457901",
+            "last_retested_at_epoch": 1589417931.457901,
+            "last_retested_at_iso": "2020-05-14T00:58:51.457901",
+            "status": "INACTIVE"
+        },
         "bwvigmkn.com": {
             "included_at_epoch": 1588379648.770568,
             "included_at_iso": "2020-05-02T00:34:08.770568",
             "last_retested_at_epoch": 1588379648.770568,
             "last_retested_at_iso": "2020-05-02T00:34:08.770568",
+            "status": "INACTIVE"
+        },
+        "bxlmkyjzu.shoesmogul.com": {
+            "included_at_epoch": 1589417931.786871,
+            "included_at_iso": "2020-05-14T00:58:51.786871",
+            "last_retested_at_epoch": 1589417931.786871,
+            "last_retested_at_iso": "2020-05-14T00:58:51.786871",
+            "status": "INACTIVE"
+        },
+        "bxlrywuuobje.pw": {
+            "included_at_epoch": 1589417931.994272,
+            "included_at_iso": "2020-05-14T00:58:51.994272",
+            "last_retested_at_epoch": 1589417931.994272,
+            "last_retested_at_iso": "2020-05-14T00:58:51.994272",
             "status": "INACTIVE"
         },
         "bxvydxjqklq.com": {
@@ -18662,6 +18823,27 @@
             "last_retested_at_iso": "2020-05-02T00:34:09.506030",
             "status": "INACTIVE"
         },
+        "bycasxdzeesxz.com": {
+            "included_at_epoch": 1589417932.288285,
+            "included_at_iso": "2020-05-14T00:58:52.288285",
+            "last_retested_at_epoch": 1589417932.288285,
+            "last_retested_at_iso": "2020-05-14T00:58:52.288285",
+            "status": "INACTIVE"
+        },
+        "bytes.darktech.org": {
+            "included_at_epoch": 1589417932.928156,
+            "included_at_iso": "2020-05-14T00:58:52.928156",
+            "last_retested_at_epoch": 1589417932.928156,
+            "last_retested_at_iso": "2020-05-14T00:58:52.928156",
+            "status": "INACTIVE"
+        },
+        "bzhhc.shoesmogul.com": {
+            "included_at_epoch": 1589417933.149489,
+            "included_at_iso": "2020-05-14T00:58:53.149489",
+            "last_retested_at_epoch": 1589417933.149489,
+            "last_retested_at_iso": "2020-05-14T00:58:53.149489",
+            "status": "INACTIVE"
+        },
         "bznclicks.com": {
             "included_at_epoch": 1588379651.281851,
             "included_at_iso": "2020-05-02T00:34:11.281851",
@@ -18683,11 +18865,39 @@
             "last_retested_at_iso": "2020-05-02T00:34:11.322681",
             "status": "INACTIVE"
         },
+        "bzzsoy.com": {
+            "included_at_epoch": 1589417933.443611,
+            "included_at_iso": "2020-05-14T00:58:53.443611",
+            "last_retested_at_epoch": 1589417933.443611,
+            "last_retested_at_iso": "2020-05-14T00:58:53.443611",
+            "status": "INACTIVE"
+        },
         "c.opinion.com.ua": {
             "included_at_epoch": 1588379652.139141,
             "included_at_iso": "2020-05-02T00:34:12.139141",
             "last_retested_at_epoch": 1588379652.139141,
             "last_retested_at_iso": "2020-05-02T00:34:12.139141",
+            "status": "INACTIVE"
+        },
+        "c.vollar.ga": {
+            "included_at_epoch": 1589417933.651351,
+            "included_at_iso": "2020-05-14T00:58:53.651351",
+            "last_retested_at_epoch": 1589417933.651351,
+            "last_retested_at_iso": "2020-05-14T00:58:53.651351",
+            "status": "INACTIVE"
+        },
+        "c0nfiguertn-sashol.servehalflife.com": {
+            "included_at_epoch": 1589417933.859954,
+            "included_at_iso": "2020-05-14T00:58:53.859954",
+            "last_retested_at_epoch": 1589417933.859954,
+            "last_retested_at_iso": "2020-05-14T00:58:53.859954",
+            "status": "INACTIVE"
+        },
+        "c0vidrbcsoul.com": {
+            "included_at_epoch": 1589417934.455047,
+            "included_at_iso": "2020-05-14T00:58:54.455047",
+            "last_retested_at_epoch": 1589417934.455047,
+            "last_retested_at_iso": "2020-05-14T00:58:54.455047",
             "status": "INACTIVE"
         },
         "c3.myapkcdn.in": {
@@ -18753,11 +18963,67 @@
             "last_retested_at_iso": "2020-05-02T00:34:14.815081",
             "status": "INACTIVE"
         },
+        "caixa-fgts-consulta.com": {
+            "included_at_epoch": 1589417937.101196,
+            "included_at_iso": "2020-05-14T00:58:57.101196",
+            "last_retested_at_epoch": 1589417937.101196,
+            "last_retested_at_iso": "2020-05-14T00:58:57.101196",
+            "status": "INACTIVE"
+        },
+        "caixa-informa.gov-br.life": {
+            "included_at_epoch": 1589417937.309345,
+            "included_at_iso": "2020-05-14T00:58:57.309345",
+            "last_retested_at_epoch": 1589417937.309345,
+            "last_retested_at_iso": "2020-05-14T00:58:57.309345",
+            "status": "INACTIVE"
+        },
+        "caixa.gerenciadorapp.org": {
+            "included_at_epoch": 1589417937.72475,
+            "included_at_iso": "2020-05-14T00:58:57.724750",
+            "last_retested_at_epoch": 1589417937.72475,
+            "last_retested_at_iso": "2020-05-14T00:58:57.724750",
+            "status": "INACTIVE"
+        },
+        "caixa.gov-informativo.email": {
+            "included_at_epoch": 1589417937.517372,
+            "included_at_iso": "2020-05-14T00:58:57.517372",
+            "last_retested_at_epoch": 1589417937.517372,
+            "last_retested_at_iso": "2020-05-14T00:58:57.517372",
+            "status": "INACTIVE"
+        },
+        "caixa.gov.informativo.cx": {
+            "included_at_epoch": 1589417937.933877,
+            "included_at_iso": "2020-05-14T00:58:57.933877",
+            "last_retested_at_epoch": 1589417937.933877,
+            "last_retested_at_iso": "2020-05-14T00:58:57.933877",
+            "status": "INACTIVE"
+        },
+        "caixaaccounta.kehrer-modehaus.de": {
+            "included_at_epoch": 1589417938.152911,
+            "included_at_iso": "2020-05-14T00:58:58.152911",
+            "last_retested_at_epoch": 1589417938.152911,
+            "last_retested_at_iso": "2020-05-14T00:58:58.152911",
+            "status": "INACTIVE"
+        },
+        "cakessolovely.ca": {
+            "included_at_epoch": 1589417938.788487,
+            "included_at_iso": "2020-05-14T00:58:58.788487",
+            "last_retested_at_epoch": 1589417938.788487,
+            "last_retested_at_iso": "2020-05-14T00:58:58.788487",
+            "status": "INACTIVE"
+        },
         "california.doverstreetmarket.paypa1.mataienad32sd.com": {
             "included_at_epoch": 1588379655.38035,
             "included_at_iso": "2020-05-02T00:34:15.380350",
             "last_retested_at_epoch": 1588379655.38035,
             "last_retested_at_iso": "2020-05-02T00:34:15.380350",
+            "status": "INACTIVE"
+        },
+        "californiashowerdoorcorp.com": {
+            "included_at_epoch": 1589417939.694687,
+            "included_at_iso": "2020-05-14T00:58:59.694687",
+            "last_retested_at_epoch": 1589417939.694687,
+            "last_retested_at_iso": "2020-05-14T00:58:59.694687",
             "status": "INACTIVE"
         },
         "campadv.ga": {
