@@ -34265,46 +34265,11 @@
             "last_retested_at_iso": "2020-05-15T16:41:47.047098",
             "status": "INACTIVE"
         },
-        "megafingroup.com": {
-            "included_at_epoch": 1588541468.559675,
-            "included_at_iso": "2020-05-03T21:31:08.559675",
-            "last_retested_at_epoch": 1588541468.559675,
-            "last_retested_at_iso": "2020-05-03T21:31:08.559675",
-            "status": "INACTIVE"
-        },
-        "megahrepsh.com": {
-            "included_at_epoch": 1588541468.67069,
-            "included_at_iso": "2020-05-03T21:31:08.670690",
-            "last_retested_at_epoch": 1588541468.67069,
-            "last_retested_at_iso": "2020-05-03T21:31:08.670690",
-            "status": "INACTIVE"
-        },
         "megastats.top": {
             "included_at_epoch": 1589560907.606639,
             "included_at_iso": "2020-05-15T16:41:47.606639",
             "last_retested_at_epoch": 1589560907.606639,
             "last_retested_at_iso": "2020-05-15T16:41:47.606639",
-            "status": "INACTIVE"
-        },
-        "megausenet.pro": {
-            "included_at_epoch": 1588541470.628096,
-            "included_at_iso": "2020-05-03T21:31:10.628096",
-            "last_retested_at_epoch": 1588541470.628096,
-            "last_retested_at_iso": "2020-05-03T21:31:10.628096",
-            "status": "INACTIVE"
-        },
-        "megausenet.services": {
-            "included_at_epoch": 1588541470.95787,
-            "included_at_iso": "2020-05-03T21:31:10.957870",
-            "last_retested_at_epoch": 1588541470.95787,
-            "last_retested_at_iso": "2020-05-03T21:31:10.957870",
-            "status": "INACTIVE"
-        },
-        "meguanha.com": {
-            "included_at_epoch": 1588541471.602759,
-            "included_at_iso": "2020-05-03T21:31:11.602759",
-            "last_retested_at_epoch": 1588541471.602759,
-            "last_retested_at_iso": "2020-05-03T21:31:11.602759",
             "status": "INACTIVE"
         },
         "mehvah.com": {
@@ -34319,13 +34284,6 @@
             "included_at_iso": "2020-05-15T16:41:47.856839",
             "last_retested_at_epoch": 1589560907.856839,
             "last_retested_at_iso": "2020-05-15T16:41:47.856839",
-            "status": "INACTIVE"
-        },
-        "melahorgani.com": {
-            "included_at_epoch": 1588541472.511096,
-            "included_at_iso": "2020-05-03T21:31:12.511096",
-            "last_retested_at_epoch": 1588541472.511096,
-            "last_retested_at_iso": "2020-05-03T21:31:12.511096",
             "status": "INACTIVE"
         },
         "member-standard-application.support": {
@@ -34349,39 +34307,11 @@
             "last_retested_at_iso": "2020-05-15T16:56:44.816210",
             "status": "INACTIVE"
         },
-        "menemier.info": {
-            "included_at_epoch": 1588541477.27115,
-            "included_at_iso": "2020-05-03T21:31:17.271150",
-            "last_retested_at_epoch": 1588541477.27115,
-            "last_retested_at_iso": "2020-05-03T21:31:17.271150",
-            "status": "INACTIVE"
-        },
-        "mengchengbao.com": {
-            "included_at_epoch": 1588541477.60839,
-            "included_at_iso": "2020-05-03T21:31:17.608390",
-            "last_retested_at_epoch": 1588541477.60839,
-            "last_retested_at_iso": "2020-05-03T21:31:17.608390",
-            "status": "INACTIVE"
-        },
         "mensaje-b-c-p.mensajes-seguros.com": {
             "included_at_epoch": 1589561805.117601,
             "included_at_iso": "2020-05-15T16:56:45.117601",
             "last_retested_at_epoch": 1589561805.117601,
             "last_retested_at_iso": "2020-05-15T16:56:45.117601",
-            "status": "INACTIVE"
-        },
-        "mercado-faceb00k.com": {
-            "included_at_epoch": 1588541479.584598,
-            "included_at_iso": "2020-05-03T21:31:19.584598",
-            "last_retested_at_epoch": 1588541479.584598,
-            "last_retested_at_iso": "2020-05-03T21:31:19.584598",
-            "status": "INACTIVE"
-        },
-        "mercadobitcoinlogin.firewall-gateway.com": {
-            "included_at_epoch": 1588541479.924061,
-            "included_at_iso": "2020-05-03T21:31:19.924061",
-            "last_retested_at_epoch": 1588541479.924061,
-            "last_retested_at_iso": "2020-05-03T21:31:19.924061",
             "status": "INACTIVE"
         },
         "messenger78399profile.online": {
