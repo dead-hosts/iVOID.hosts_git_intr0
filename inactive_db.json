@@ -34335,27 +34335,6 @@
             "last_retested_at_iso": "2020-05-15T16:56:48.572518",
             "status": "INACTIVE"
         },
-        "metertna.ru": {
-            "included_at_epoch": 1588542205.154069,
-            "included_at_iso": "2020-05-03T21:43:25.154069",
-            "last_retested_at_epoch": 1588542205.154069,
-            "last_retested_at_iso": "2020-05-03T21:43:25.154069",
-            "status": "INACTIVE"
-        },
-        "metrics.adflake.com": {
-            "included_at_epoch": 1588542206.240253,
-            "included_at_iso": "2020-05-03T21:43:26.240253",
-            "last_retested_at_epoch": 1588542206.240253,
-            "last_retested_at_iso": "2020-05-03T21:43:26.240253",
-            "status": "INACTIVE"
-        },
-        "metrics.tbliab.net": {
-            "included_at_epoch": 1588542207.613605,
-            "included_at_iso": "2020-05-03T21:43:27.613605",
-            "last_retested_at_epoch": 1588542207.613605,
-            "last_retested_at_iso": "2020-05-03T21:43:27.613605",
-            "status": "INACTIVE"
-        },
         "mety.strametyapi.com": {
             "included_at_epoch": 1589561810.361041,
             "included_at_iso": "2020-05-15T16:56:50.361041",
@@ -34368,34 +34347,6 @@
             "included_at_iso": "2020-05-15T16:56:51.294893",
             "last_retested_at_epoch": 1589561811.294893,
             "last_retested_at_iso": "2020-05-15T16:56:51.294893",
-            "status": "INACTIVE"
-        },
-        "mexicovida.de": {
-            "included_at_epoch": 1588542210.436079,
-            "included_at_iso": "2020-05-03T21:43:30.436079",
-            "last_retested_at_epoch": 1588542210.436079,
-            "last_retested_at_iso": "2020-05-03T21:43:30.436079",
-            "status": "INACTIVE"
-        },
-        "meya41w7.com": {
-            "included_at_epoch": 1588542210.328544,
-            "included_at_iso": "2020-05-03T21:43:30.328544",
-            "last_retested_at_epoch": 1588542210.328544,
-            "last_retested_at_iso": "2020-05-03T21:43:30.328544",
-            "status": "INACTIVE"
-        },
-        "mfaceb00k.bimaaryamedan.com": {
-            "included_at_epoch": 1588542211.686779,
-            "included_at_iso": "2020-05-03T21:43:31.686779",
-            "last_retested_at_epoch": 1588542211.686779,
-            "last_retested_at_iso": "2020-05-03T21:43:31.686779",
-            "status": "INACTIVE"
-        },
-        "mfaceb0ok-com.cf": {
-            "included_at_epoch": 1588542211.795834,
-            "included_at_iso": "2020-05-03T21:43:31.795834",
-            "last_retested_at_epoch": 1588542211.795834,
-            "last_retested_at_iso": "2020-05-03T21:43:31.795834",
             "status": "INACTIVE"
         },
         "mfb-marketplace-95297361.com": {
@@ -34419,20 +34370,6 @@
             "last_retested_at_iso": "2020-05-15T16:56:53.733563",
             "status": "INACTIVE"
         },
-        "mfxjgymma.com": {
-            "included_at_epoch": 1588542938.809217,
-            "included_at_iso": "2020-05-03T21:55:38.809217",
-            "last_retested_at_epoch": 1588542938.809217,
-            "last_retested_at_iso": "2020-05-03T21:55:38.809217",
-            "status": "INACTIVE"
-        },
-        "mfxxpyhzofbsg.com": {
-            "included_at_epoch": 1588542939.156189,
-            "included_at_iso": "2020-05-03T21:55:39.156189",
-            "last_retested_at_epoch": 1588542939.156189,
-            "last_retested_at_iso": "2020-05-03T21:55:39.156189",
-            "status": "INACTIVE"
-        },
         "mglaun.com": {
             "included_at_epoch": 1589561814.08244,
             "included_at_iso": "2020-05-15T16:56:54.082440",
@@ -34440,67 +34377,11 @@
             "last_retested_at_iso": "2020-05-15T16:56:54.082440",
             "status": "INACTIVE"
         },
-        "mgpejafvxxn.com": {
-            "included_at_epoch": 1588542942.393636,
-            "included_at_iso": "2020-05-03T21:55:42.393636",
-            "last_retested_at_epoch": 1588542942.393636,
-            "last_retested_at_iso": "2020-05-03T21:55:42.393636",
-            "status": "INACTIVE"
-        },
-        "mgti1kofb8.com": {
-            "included_at_epoch": 1588542942.731407,
-            "included_at_iso": "2020-05-03T21:55:42.731407",
-            "last_retested_at_epoch": 1588542942.731407,
-            "last_retested_at_iso": "2020-05-03T21:55:42.731407",
-            "status": "INACTIVE"
-        },
-        "mgxjvidt.com": {
-            "included_at_epoch": 1588542943.451398,
-            "included_at_iso": "2020-05-03T21:55:43.451398",
-            "last_retested_at_epoch": 1588542943.451398,
-            "last_retested_at_iso": "2020-05-03T21:55:43.451398",
-            "status": "INACTIVE"
-        },
-        "mgyovgqq.com": {
-            "included_at_epoch": 1588542943.329432,
-            "included_at_iso": "2020-05-03T21:55:43.329432",
-            "last_retested_at_epoch": 1588542943.329432,
-            "last_retested_at_iso": "2020-05-03T21:55:43.329432",
-            "status": "INACTIVE"
-        },
-        "mgziozplbkzv.com": {
-            "included_at_epoch": 1588542943.560902,
-            "included_at_iso": "2020-05-03T21:55:43.560902",
-            "last_retested_at_epoch": 1588542943.560902,
-            "last_retested_at_iso": "2020-05-03T21:55:43.560902",
-            "status": "INACTIVE"
-        },
-        "mhfivsdhbpfgk.com": {
-            "included_at_epoch": 1588542944.355749,
-            "included_at_iso": "2020-05-03T21:55:44.355749",
-            "last_retested_at_epoch": 1588542944.355749,
-            "last_retested_at_iso": "2020-05-03T21:55:44.355749",
-            "status": "INACTIVE"
-        },
-        "mhhjdlsnji.com": {
-            "included_at_epoch": 1588542944.708041,
-            "included_at_iso": "2020-05-03T21:55:44.708041",
-            "last_retested_at_epoch": 1588542944.708041,
-            "last_retested_at_iso": "2020-05-03T21:55:44.708041",
-            "status": "INACTIVE"
-        },
         "mi-bankia.es-accessoclientes.info": {
             "included_at_epoch": 1589561815.202598,
             "included_at_iso": "2020-05-15T16:56:55.202598",
             "last_retested_at_epoch": 1589561815.202598,
             "last_retested_at_iso": "2020-05-15T16:56:55.202598",
-            "status": "INACTIVE"
-        },
-        "miakalyn.pw": {
-            "included_at_epoch": 1588542946.706155,
-            "included_at_iso": "2020-05-03T21:55:46.706155",
-            "last_retested_at_epoch": 1588542946.706155,
-            "last_retested_at_iso": "2020-05-03T21:55:46.706155",
             "status": "INACTIVE"
         },
         "mibcp.ideimovil.com": {
