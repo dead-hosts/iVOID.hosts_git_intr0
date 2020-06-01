@@ -38829,123 +38829,11 @@
             "last_retested_at_iso": "2020-05-15T23:44:02.999126",
             "status": "INACTIVE"
         },
-        "pi.a42.ru": {
-            "included_at_epoch": 1588621406.788993,
-            "included_at_iso": "2020-05-04T19:43:26.788993",
-            "last_retested_at_epoch": 1588621406.788993,
-            "last_retested_at_iso": "2020-05-04T19:43:26.788993",
-            "status": "INACTIVE"
-        },
-        "piano-media.com": {
-            "included_at_epoch": 1588621407.752791,
-            "included_at_iso": "2020-05-04T19:43:27.752791",
-            "last_retested_at_epoch": 1588621407.752791,
-            "last_retested_at_iso": "2020-05-04T19:43:27.752791",
-            "status": "INACTIVE"
-        },
         "pianomusics.ga": {
             "included_at_epoch": 1589586244.758684,
             "included_at_iso": "2020-05-15T23:44:04.758684",
             "last_retested_at_epoch": 1589586244.758684,
             "last_retested_at_iso": "2020-05-15T23:44:04.758684",
-            "status": "INACTIVE"
-        },
-        "pibizrfgsrkji.bid": {
-            "included_at_epoch": 1588621407.8749,
-            "included_at_iso": "2020-05-04T19:43:27.874900",
-            "last_retested_at_epoch": 1588621407.8749,
-            "last_retested_at_iso": "2020-05-04T19:43:27.874900",
-            "status": "INACTIVE"
-        },
-        "pic--twltter.com": {
-            "included_at_epoch": 1588621408.256125,
-            "included_at_iso": "2020-05-04T19:43:28.256125",
-            "last_retested_at_epoch": 1588621408.256125,
-            "last_retested_at_iso": "2020-05-04T19:43:28.256125",
-            "status": "INACTIVE"
-        },
-        "pic-twltter0.com": {
-            "included_at_epoch": 1588621408.379689,
-            "included_at_iso": "2020-05-04T19:43:28.379689",
-            "last_retested_at_epoch": 1588621408.379689,
-            "last_retested_at_iso": "2020-05-04T19:43:28.379689",
-            "status": "INACTIVE"
-        },
-        "picc-twltterr.com": {
-            "included_at_epoch": 1588621408.775265,
-            "included_at_iso": "2020-05-04T19:43:28.775265",
-            "last_retested_at_epoch": 1588621408.775265,
-            "last_retested_at_iso": "2020-05-04T19:43:28.775265",
-            "status": "INACTIVE"
-        },
-        "picstwltter.com": {
-            "included_at_epoch": 1588621409.483349,
-            "included_at_iso": "2020-05-04T19:43:29.483349",
-            "last_retested_at_epoch": 1588621409.483349,
-            "last_retested_at_iso": "2020-05-04T19:43:29.483349",
-            "status": "INACTIVE"
-        },
-        "picstwltterr.com": {
-            "included_at_epoch": 1588621409.605839,
-            "included_at_iso": "2020-05-04T19:43:29.605839",
-            "last_retested_at_epoch": 1588621409.605839,
-            "last_retested_at_iso": "2020-05-04T19:43:29.605839",
-            "status": "INACTIVE"
-        },
-        "pict-twltter.com": {
-            "included_at_epoch": 1588621410.00307,
-            "included_at_iso": "2020-05-04T19:43:30.003070",
-            "last_retested_at_epoch": 1588621410.00307,
-            "last_retested_at_iso": "2020-05-04T19:43:30.003070",
-            "status": "INACTIVE"
-        },
-        "picture.connect.login.faceb00k.alonsocondominios.com.br": {
-            "included_at_epoch": 1588621410.249084,
-            "included_at_iso": "2020-05-04T19:43:30.249084",
-            "last_retested_at_epoch": 1588621410.249084,
-            "last_retested_at_iso": "2020-05-04T19:43:30.249084",
-            "status": "INACTIVE"
-        },
-        "pictures.zooplus.com": {
-            "included_at_epoch": 1588621410.125806,
-            "included_at_iso": "2020-05-04T19:43:30.125806",
-            "last_retested_at_epoch": 1588621410.125806,
-            "last_retested_at_iso": "2020-05-04T19:43:30.125806",
-            "status": "INACTIVE"
-        },
-        "pictwltter.biz": {
-            "included_at_epoch": 1588621410.372376,
-            "included_at_iso": "2020-05-04T19:43:30.372376",
-            "last_retested_at_epoch": 1588621410.372376,
-            "last_retested_at_iso": "2020-05-04T19:43:30.372376",
-            "status": "INACTIVE"
-        },
-        "pictwltter.info": {
-            "included_at_epoch": 1588621410.751073,
-            "included_at_iso": "2020-05-04T19:43:30.751073",
-            "last_retested_at_epoch": 1588621410.751073,
-            "last_retested_at_iso": "2020-05-04T19:43:30.751073",
-            "status": "INACTIVE"
-        },
-        "pictwltter.mobi": {
-            "included_at_epoch": 1588621411.270814,
-            "included_at_iso": "2020-05-04T19:43:31.270814",
-            "last_retested_at_epoch": 1588621411.270814,
-            "last_retested_at_iso": "2020-05-04T19:43:31.270814",
-            "status": "INACTIVE"
-        },
-        "pictwltterr.com": {
-            "included_at_epoch": 1588621411.147748,
-            "included_at_iso": "2020-05-04T19:43:31.147748",
-            "last_retested_at_epoch": 1588621411.147748,
-            "last_retested_at_iso": "2020-05-04T19:43:31.147748",
-            "status": "INACTIVE"
-        },
-        "pictwltterr.net": {
-            "included_at_epoch": 1588621411.394732,
-            "included_at_iso": "2020-05-04T19:43:31.394732",
-            "last_retested_at_epoch": 1588621411.394732,
-            "last_retested_at_iso": "2020-05-04T19:43:31.394732",
             "status": "INACTIVE"
         },
         "picz1.info": {
@@ -38955,32 +38843,11 @@
             "last_retested_at_iso": "2020-05-15T23:44:05.156768",
             "status": "INACTIVE"
         },
-        "pidbbdxixp.com": {
-            "included_at_epoch": 1588621411.780055,
-            "included_at_iso": "2020-05-04T19:43:31.780055",
-            "last_retested_at_epoch": 1588621411.780055,
-            "last_retested_at_iso": "2020-05-04T19:43:31.780055",
-            "status": "INACTIVE"
-        },
-        "pifaojvaiofw.com": {
-            "included_at_epoch": 1588621412.946604,
-            "included_at_iso": "2020-05-04T19:43:32.946604",
-            "last_retested_at_epoch": 1588621412.946604,
-            "last_retested_at_iso": "2020-05-04T19:43:32.946604",
-            "status": "INACTIVE"
-        },
         "pifo.shoesmogul.com": {
             "included_at_epoch": 1589586245.463318,
             "included_at_iso": "2020-05-15T23:44:05.463318",
             "last_retested_at_epoch": 1589586245.463318,
             "last_retested_at_iso": "2020-05-15T23:44:05.463318",
-            "status": "INACTIVE"
-        },
-        "pifsistcwycouc.com": {
-            "included_at_epoch": 1588621413.344243,
-            "included_at_iso": "2020-05-04T19:43:33.344243",
-            "last_retested_at_epoch": 1588621413.344243,
-            "last_retested_at_iso": "2020-05-04T19:43:33.344243",
             "status": "INACTIVE"
         },
         "piljbvnykkt.bid": {
