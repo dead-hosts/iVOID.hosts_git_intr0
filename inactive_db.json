@@ -37625,27 +37625,6 @@
             "last_retested_at_iso": "2020-05-15T22:37:23.520148",
             "status": "INACTIVE"
         },
-        "parhadat.com": {
-            "included_at_epoch": 1588606817.744709,
-            "included_at_iso": "2020-05-04T15:40:17.744709",
-            "last_retested_at_epoch": 1588606817.744709,
-            "last_retested_at_iso": "2020-05-04T15:40:17.744709",
-            "status": "INACTIVE"
-        },
-        "paripartners.online": {
-            "included_at_epoch": 1588606817.892565,
-            "included_at_iso": "2020-05-04T15:40:17.892565",
-            "last_retested_at_epoch": 1588606817.892565,
-            "last_retested_at_iso": "2020-05-04T15:40:17.892565",
-            "status": "INACTIVE"
-        },
-        "parthetwo.ru": {
-            "included_at_epoch": 1588606821.8265,
-            "included_at_iso": "2020-05-04T15:40:21.826500",
-            "last_retested_at_epoch": 1588606821.8265,
-            "last_retested_at_iso": "2020-05-04T15:40:21.826500",
-            "status": "INACTIVE"
-        },
         "particulares.santander.pt-totta.org": {
             "included_at_epoch": 1589582245.095305,
             "included_at_iso": "2020-05-15T22:37:25.095305",
@@ -37672,83 +37651,6 @@
             "included_at_iso": "2020-05-15T22:37:26.265682",
             "last_retested_at_epoch": 1589582246.265682,
             "last_retested_at_iso": "2020-05-15T22:37:26.265682",
-            "status": "INACTIVE"
-        },
-        "partner-lnstagram.cf": {
-            "included_at_epoch": 1588606822.706354,
-            "included_at_iso": "2020-05-04T15:40:22.706354",
-            "last_retested_at_epoch": 1588606822.706354,
-            "last_retested_at_iso": "2020-05-04T15:40:22.706354",
-            "status": "INACTIVE"
-        },
-        "partner-lnstagram.com": {
-            "included_at_epoch": 1588606822.824161,
-            "included_at_iso": "2020-05-04T15:40:22.824161",
-            "last_retested_at_epoch": 1588606822.824161,
-            "last_retested_at_iso": "2020-05-04T15:40:22.824161",
-            "status": "INACTIVE"
-        },
-        "partner-lnstagram.company": {
-            "included_at_epoch": 1588606822.941614,
-            "included_at_iso": "2020-05-04T15:40:22.941614",
-            "last_retested_at_epoch": 1588606822.941614,
-            "last_retested_at_iso": "2020-05-04T15:40:22.941614",
-            "status": "INACTIVE"
-        },
-        "partner-lnstagram.sbbsshgroup.online": {
-            "included_at_epoch": 1588606823.059389,
-            "included_at_iso": "2020-05-04T15:40:23.059389",
-            "last_retested_at_epoch": 1588606823.059389,
-            "last_retested_at_iso": "2020-05-04T15:40:23.059389",
-            "status": "INACTIVE"
-        },
-        "partnercenter-lnstagram.sbbsshgroup.online": {
-            "included_at_epoch": 1588606824.306728,
-            "included_at_iso": "2020-05-04T15:40:24.306728",
-            "last_retested_at_epoch": 1588606824.306728,
-            "last_retested_at_iso": "2020-05-04T15:40:24.306728",
-            "status": "INACTIVE"
-        },
-        "partnerlnstagramz.gq": {
-            "included_at_epoch": 1588606825.243053,
-            "included_at_iso": "2020-05-04T15:40:25.243053",
-            "last_retested_at_epoch": 1588606825.243053,
-            "last_retested_at_iso": "2020-05-04T15:40:25.243053",
-            "status": "INACTIVE"
-        },
-        "partypills.org": {
-            "included_at_epoch": 1588606826.724379,
-            "included_at_iso": "2020-05-04T15:40:26.724379",
-            "last_retested_at_epoch": 1588606826.724379,
-            "last_retested_at_iso": "2020-05-04T15:40:26.724379",
-            "status": "INACTIVE"
-        },
-        "paruvaubxwwz.bid": {
-            "included_at_epoch": 1588606827.602878,
-            "included_at_iso": "2020-05-04T15:40:27.602878",
-            "last_retested_at_epoch": 1588606827.602878,
-            "last_retested_at_iso": "2020-05-04T15:40:27.602878",
-            "status": "INACTIVE"
-        },
-        "pasaword-reset-lnstagram.ml": {
-            "included_at_epoch": 1588606828.753483,
-            "included_at_iso": "2020-05-04T15:40:28.753483",
-            "last_retested_at_epoch": 1588606828.753483,
-            "last_retested_at_iso": "2020-05-04T15:40:28.753483",
-            "status": "INACTIVE"
-        },
-        "passport.pfn.bz": {
-            "included_at_epoch": 1588606830.938354,
-            "included_at_iso": "2020-05-04T15:40:30.938354",
-            "last_retested_at_epoch": 1588606830.938354,
-            "last_retested_at_iso": "2020-05-04T15:40:30.938354",
-            "status": "INACTIVE"
-        },
-        "password.lnstagramteamverify.com": {
-            "included_at_epoch": 1588606831.056476,
-            "included_at_iso": "2020-05-04T15:40:31.056476",
-            "last_retested_at_epoch": 1588606831.056476,
-            "last_retested_at_iso": "2020-05-04T15:40:31.056476",
             "status": "INACTIVE"
         },
         "pasword.lnstagramteamverify.com": {
