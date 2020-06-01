@@ -34552,13 +34552,6 @@
             "last_retested_at_iso": "2020-05-15T17:21:30.128207",
             "status": "INACTIVE"
         },
-        "mobile.xn--secure-facebk-0rja.ml": {
-            "included_at_epoch": 1588553076.458511,
-            "included_at_iso": "2020-05-04T00:44:36.458511",
-            "last_retested_at_epoch": 1588553076.458511,
-            "last_retested_at_iso": "2020-05-04T00:44:36.458511",
-            "status": "INACTIVE"
-        },
         "mobilecarriertelus.com": {
             "included_at_epoch": 1589563290.870747,
             "included_at_iso": "2020-05-15T17:21:30.870747",
@@ -34571,13 +34564,6 @@
             "included_at_iso": "2020-05-15T17:21:31.490700",
             "last_retested_at_epoch": 1589563291.4907,
             "last_retested_at_iso": "2020-05-15T17:21:31.490700",
-            "status": "INACTIVE"
-        },
-        "mobiletracker-env.us-east-1.elasticbeanstalk.com": {
-            "included_at_epoch": 1588553082.619263,
-            "included_at_iso": "2020-05-04T00:44:42.619263",
-            "last_retested_at_epoch": 1588553082.619263,
-            "last_retested_at_iso": "2020-05-04T00:44:42.619263",
             "status": "INACTIVE"
         },
         "mobilewireless.info": {
@@ -34599,20 +34585,6 @@
             "included_at_iso": "2020-05-15T17:21:34.180407",
             "last_retested_at_epoch": 1589563294.180407,
             "last_retested_at_iso": "2020-05-15T17:21:34.180407",
-            "status": "INACTIVE"
-        },
-        "mobred.net": {
-            "included_at_epoch": 1588553088.704173,
-            "included_at_iso": "2020-05-04T00:44:48.704173",
-            "last_retested_at_epoch": 1588553088.704173,
-            "last_retested_at_iso": "2020-05-04T00:44:48.704173",
-            "status": "INACTIVE"
-        },
-        "mobsrv.in": {
-            "included_at_epoch": 1588553089.277238,
-            "included_at_iso": "2020-05-04T00:44:49.277238",
-            "last_retested_at_epoch": 1588553089.277238,
-            "last_retested_at_iso": "2020-05-04T00:44:49.277238",
             "status": "INACTIVE"
         },
         "moginhstnxswt.com": {
