@@ -34510,39 +34510,11 @@
             "last_retested_at_iso": "2020-05-15T17:21:26.370888",
             "status": "INACTIVE"
         },
-        "mntrlfjs.info": {
-            "included_at_epoch": 1588550787.748733,
-            "included_at_iso": "2020-05-04T00:06:27.748733",
-            "last_retested_at_epoch": 1588550787.748733,
-            "last_retested_at_iso": "2020-05-04T00:06:27.748733",
-            "status": "INACTIVE"
-        },
-        "mo8mwxi1.com": {
-            "included_at_epoch": 1588550788.840032,
-            "included_at_iso": "2020-05-04T00:06:28.840032",
-            "last_retested_at_epoch": 1588550788.840032,
-            "last_retested_at_iso": "2020-05-04T00:06:28.840032",
-            "status": "INACTIVE"
-        },
         "mob.smssapp.com": {
             "included_at_epoch": 1589563288.342788,
             "included_at_iso": "2020-05-15T17:21:28.342788",
             "last_retested_at_epoch": 1589563288.342788,
             "last_retested_at_iso": "2020-05-15T17:21:28.342788",
-            "status": "INACTIVE"
-        },
-        "mobdisc.net": {
-            "included_at_epoch": 1588550792.834406,
-            "included_at_iso": "2020-05-04T00:06:32.834406",
-            "last_retested_at_epoch": 1588550792.834406,
-            "last_retested_at_iso": "2020-05-04T00:06:32.834406",
-            "status": "INACTIVE"
-        },
-        "mobdisc.org": {
-            "included_at_epoch": 1588550792.942196,
-            "included_at_iso": "2020-05-04T00:06:32.942196",
-            "last_retested_at_epoch": 1588550792.942196,
-            "last_retested_at_iso": "2020-05-04T00:06:32.942196",
             "status": "INACTIVE"
         },
         "mobile-1-cib-c.com": {
@@ -34552,32 +34524,11 @@
             "last_retested_at_iso": "2020-05-15T17:21:28.073223",
             "status": "INACTIVE"
         },
-        "mobile-faceb0ok.com": {
-            "included_at_epoch": 1588550797.139766,
-            "included_at_iso": "2020-05-04T00:06:37.139766",
-            "last_retested_at_epoch": 1588550797.139766,
-            "last_retested_at_iso": "2020-05-04T00:06:37.139766",
-            "status": "INACTIVE"
-        },
-        "mobile-facebo0k.com": {
-            "included_at_epoch": 1588550797.247815,
-            "included_at_iso": "2020-05-04T00:06:37.247815",
-            "last_retested_at_epoch": 1588550797.247815,
-            "last_retested_at_iso": "2020-05-04T00:06:37.247815",
-            "status": "INACTIVE"
-        },
         "mobile-kleinanzeigen.de.m-elnioggen.de": {
             "included_at_epoch": 1589563288.597106,
             "included_at_iso": "2020-05-15T17:21:28.597106",
             "last_retested_at_epoch": 1589563288.597106,
             "last_retested_at_iso": "2020-05-15T17:21:28.597106",
-            "status": "INACTIVE"
-        },
-        "mobile-lnstagram.com": {
-            "included_at_epoch": 1588550797.407537,
-            "included_at_iso": "2020-05-04T00:06:37.407537",
-            "last_retested_at_epoch": 1588550797.407537,
-            "last_retested_at_iso": "2020-05-04T00:06:37.407537",
             "status": "INACTIVE"
         },
         "mobile.acces-fb.fbhtp.com": {
