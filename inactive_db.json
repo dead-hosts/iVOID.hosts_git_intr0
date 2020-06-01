@@ -35490,20 +35490,6 @@
             "last_retested_at_iso": "2020-05-15T20:52:14.838863",
             "status": "INACTIVE"
         },
-        "niklesrov.com": {
-            "included_at_epoch": 1588573991.04905,
-            "included_at_iso": "2020-05-04T06:33:11.049050",
-            "last_retested_at_epoch": 1588573991.04905,
-            "last_retested_at_iso": "2020-05-04T06:33:11.049050",
-            "status": "INACTIVE"
-        },
-        "nikxhdrys.com": {
-            "included_at_epoch": 1588573991.406497,
-            "included_at_iso": "2020-05-04T06:33:11.406497",
-            "last_retested_at_epoch": 1588573991.406497,
-            "last_retested_at_iso": "2020-05-04T06:33:11.406497",
-            "status": "INACTIVE"
-        },
         "nimiqchain.info": {
             "included_at_epoch": 1588574712.629835,
             "included_at_iso": "2020-05-04T06:45:12.629835",
