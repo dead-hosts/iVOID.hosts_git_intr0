@@ -34713,20 +34713,6 @@
             "last_retested_at_iso": "2020-05-15T17:33:56.838129",
             "status": "INACTIVE"
         },
-        "mozefakt.com": {
-            "included_at_epoch": 1588558651.870162,
-            "included_at_iso": "2020-05-04T02:17:31.870162",
-            "last_retested_at_epoch": 1588558651.870162,
-            "last_retested_at_iso": "2020-05-04T02:17:31.870162",
-            "status": "INACTIVE"
-        },
-        "mp3ger.com": {
-            "included_at_epoch": 1588558652.84066,
-            "included_at_iso": "2020-05-04T02:17:32.840660",
-            "last_retested_at_epoch": 1588558652.84066,
-            "last_retested_at_iso": "2020-05-04T02:17:32.840660",
-            "status": "INACTIVE"
-        },
         "mpays.pw": {
             "included_at_epoch": 1588560419.278443,
             "included_at_iso": "2020-05-04T02:46:59.278443",
