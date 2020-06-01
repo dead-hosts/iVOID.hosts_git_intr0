@@ -36050,20 +36050,6 @@
             "last_retested_at_iso": "2020-05-15T22:12:01.970364",
             "status": "INACTIVE"
         },
-        "onatozo.info": {
-            "included_at_epoch": 1588587193.381077,
-            "included_at_iso": "2020-05-04T10:13:13.381077",
-            "last_retested_at_epoch": 1588587193.381077,
-            "last_retested_at_iso": "2020-05-04T10:13:13.381077",
-            "status": "INACTIVE"
-        },
-        "one-klick.ru": {
-            "included_at_epoch": 1588587197.864228,
-            "included_at_iso": "2020-05-04T10:13:17.864228",
-            "last_retested_at_epoch": 1588587197.864228,
-            "last_retested_at_iso": "2020-05-04T10:13:17.864228",
-            "status": "INACTIVE"
-        },
         "onedrive-live-com-about-en-us-signin.log1n-user.xyz": {
             "included_at_epoch": 1589580723.454754,
             "included_at_iso": "2020-05-15T22:12:03.454754",
