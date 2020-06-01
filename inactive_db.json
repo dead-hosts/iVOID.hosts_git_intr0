@@ -37464,20 +37464,6 @@
             "last_retested_at_iso": "2020-05-15T22:37:12.716300",
             "status": "INACTIVE"
         },
-        "pacificovideos.top": {
-            "included_at_epoch": 1588594315.083456,
-            "included_at_iso": "2020-05-04T12:11:55.083456",
-            "last_retested_at_epoch": 1588594315.083456,
-            "last_retested_at_iso": "2020-05-04T12:11:55.083456",
-            "status": "INACTIVE"
-        },
-        "pacode.org": {
-            "included_at_epoch": 1588594316.526682,
-            "included_at_iso": "2020-05-04T12:11:56.526682",
-            "last_retested_at_epoch": 1588594316.526682,
-            "last_retested_at_iso": "2020-05-04T12:11:56.526682",
-            "status": "INACTIVE"
-        },
         "paddsup.com": {
             "included_at_epoch": 1588595045.300973,
             "included_at_iso": "2020-05-04T12:24:05.300973",
