@@ -37611,27 +37611,6 @@
             "last_retested_at_iso": "2020-05-15T22:37:20.409769",
             "status": "INACTIVE"
         },
-        "pajmxvlsuxyks.bid": {
-            "included_at_epoch": 1588595779.325901,
-            "included_at_iso": "2020-05-04T12:36:19.325901",
-            "last_retested_at_epoch": 1588595779.325901,
-            "last_retested_at_iso": "2020-05-04T12:36:19.325901",
-            "status": "INACTIVE"
-        },
-        "palzblimzpdk.com": {
-            "included_at_epoch": 1588595780.762665,
-            "included_at_iso": "2020-05-04T12:36:20.762665",
-            "last_retested_at_epoch": 1588595780.762665,
-            "last_retested_at_iso": "2020-05-04T12:36:20.762665",
-            "status": "INACTIVE"
-        },
-        "pan.dogster.com": {
-            "included_at_epoch": 1588595781.412116,
-            "included_at_iso": "2020-05-04T12:36:21.412116",
-            "last_retested_at_epoch": 1588595781.412116,
-            "last_retested_at_iso": "2020-05-04T12:36:21.412116",
-            "status": "INACTIVE"
-        },
         "pandemidestek-gov.com": {
             "included_at_epoch": 1589582243.210021,
             "included_at_iso": "2020-05-15T22:37:23.210021",
