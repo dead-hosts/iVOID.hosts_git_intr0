@@ -35518,20 +35518,6 @@
             "last_retested_at_iso": "2020-05-15T21:16:59.017999",
             "status": "INACTIVE"
         },
-        "nofhtrsaz.com": {
-            "included_at_epoch": 1588576184.426577,
-            "included_at_iso": "2020-05-04T07:09:44.426577",
-            "last_retested_at_epoch": 1588576184.426577,
-            "last_retested_at_iso": "2020-05-04T07:09:44.426577",
-            "status": "INACTIVE"
-        },
-        "noiaifyednjt.com": {
-            "included_at_epoch": 1588576185.287667,
-            "included_at_iso": "2020-05-04T07:09:45.287667",
-            "last_retested_at_epoch": 1588576185.287667,
-            "last_retested_at_iso": "2020-05-04T07:09:45.287667",
-            "status": "INACTIVE"
-        },
         "nomeerf-71.gq": {
             "included_at_epoch": 1589577419.410913,
             "included_at_iso": "2020-05-15T21:16:59.410913",
