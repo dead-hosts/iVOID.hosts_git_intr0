@@ -34664,32 +34664,11 @@
             "last_retested_at_iso": "2020-05-15T17:33:54.574004",
             "status": "INACTIVE"
         },
-        "morydark.pw": {
-            "included_at_epoch": 1588557295.806495,
-            "included_at_iso": "2020-05-04T01:54:55.806495",
-            "last_retested_at_epoch": 1588557295.806495,
-            "last_retested_at_iso": "2020-05-04T01:54:55.806495",
-            "status": "INACTIVE"
-        },
-        "motivation.neighboring.site": {
-            "included_at_epoch": 1588557297.64402,
-            "included_at_iso": "2020-05-04T01:54:57.644020",
-            "last_retested_at_epoch": 1588557297.64402,
-            "last_retested_at_iso": "2020-05-04T01:54:57.644020",
-            "status": "INACTIVE"
-        },
         "motors.ebay.uk-online.info": {
             "included_at_epoch": 1589564035.619839,
             "included_at_iso": "2020-05-15T17:33:55.619839",
             "last_retested_at_epoch": 1589564035.619839,
             "last_retested_at_iso": "2020-05-15T17:33:55.619839",
-            "status": "INACTIVE"
-        },
-        "movdec.com": {
-            "included_at_epoch": 1588557301.680072,
-            "included_at_iso": "2020-05-04T01:55:01.680072",
-            "last_retested_at_epoch": 1588557301.680072,
-            "last_retested_at_iso": "2020-05-04T01:55:01.680072",
             "status": "INACTIVE"
         },
         "movieofgoodies.kz": {
