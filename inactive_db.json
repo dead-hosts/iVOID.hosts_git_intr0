@@ -38556,20 +38556,6 @@
             "last_retested_at_iso": "2020-05-15T23:31:44.772856",
             "status": "INACTIVE"
         },
-        "pdxvgkivkc.bid": {
-            "included_at_epoch": 1588612345.524364,
-            "included_at_iso": "2020-05-04T17:12:25.524364",
-            "last_retested_at_epoch": 1588612345.524364,
-            "last_retested_at_iso": "2020-05-04T17:12:25.524364",
-            "status": "INACTIVE"
-        },
-        "pdypjcgng.bid": {
-            "included_at_epoch": 1588612345.398704,
-            "included_at_iso": "2020-05-04T17:12:25.398704",
-            "last_retested_at_epoch": 1588612345.398704,
-            "last_retested_at_iso": "2020-05-04T17:12:25.398704",
-            "status": "INACTIVE"
-        },
         "pe2cku7pebkpgeko.13inb1.top": {
             "included_at_epoch": 1589585505.449994,
             "included_at_iso": "2020-05-15T23:31:45.449994",
@@ -38757,34 +38743,6 @@
             "included_at_iso": "2020-05-15T23:31:52.433426",
             "last_retested_at_epoch": 1589585512.433426,
             "last_retested_at_iso": "2020-05-15T23:31:52.433426",
-            "status": "INACTIVE"
-        },
-        "pe2k2dty.com": {
-            "included_at_epoch": 1588612346.024099,
-            "included_at_iso": "2020-05-04T17:12:26.024099",
-            "last_retested_at_epoch": 1588612346.024099,
-            "last_retested_at_iso": "2020-05-04T17:12:26.024099",
-            "status": "INACTIVE"
-        },
-        "pectit.info": {
-            "included_at_epoch": 1588612347.820876,
-            "included_at_iso": "2020-05-04T17:12:27.820876",
-            "last_retested_at_epoch": 1588612347.820876,
-            "last_retested_at_iso": "2020-05-04T17:12:27.820876",
-            "status": "INACTIVE"
-        },
-        "pectors.info": {
-            "included_at_epoch": 1588612348.068412,
-            "included_at_iso": "2020-05-04T17:12:28.068412",
-            "last_retested_at_epoch": 1588612348.068412,
-            "last_retested_at_iso": "2020-05-04T17:12:28.068412",
-            "status": "INACTIVE"
-        },
-        "pedbkepupj.bid": {
-            "included_at_epoch": 1588612347.943851,
-            "included_at_iso": "2020-05-04T17:12:27.943851",
-            "last_retested_at_epoch": 1588612347.943851,
-            "last_retested_at_iso": "2020-05-04T17:12:27.943851",
             "status": "INACTIVE"
         },
         "pedropedreiromoxik.su": {
