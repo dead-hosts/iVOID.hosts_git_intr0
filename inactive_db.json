@@ -35112,20 +35112,6 @@
             "last_retested_at_iso": "2020-05-15T18:11:04.371400",
             "status": "INACTIVE"
         },
-        "naughtyplayful.com": {
-            "included_at_epoch": 1588571471.007933,
-            "included_at_iso": "2020-05-04T05:51:11.007933",
-            "last_retested_at_epoch": 1588571471.007933,
-            "last_retested_at_iso": "2020-05-04T05:51:11.007933",
-            "status": "INACTIVE"
-        },
-        "naughtyxparty.com": {
-            "included_at_epoch": 1588571471.350932,
-            "included_at_iso": "2020-05-04T05:51:11.350932",
-            "last_retested_at_epoch": 1588571471.350932,
-            "last_retested_at_iso": "2020-05-04T05:51:11.350932",
-            "status": "INACTIVE"
-        },
         "naver.kr-tld-blogs.top": {
             "included_at_epoch": 1589567373.723633,
             "included_at_iso": "2020-05-15T18:29:33.723633",
@@ -35147,13 +35133,6 @@
             "last_retested_at_iso": "2020-05-15T18:29:36.146197",
             "status": "INACTIVE"
         },
-        "nb42mac.com": {
-            "included_at_epoch": 1588571474.813488,
-            "included_at_iso": "2020-05-04T05:51:14.813488",
-            "last_retested_at_epoch": 1588571474.813488,
-            "last_retested_at_iso": "2020-05-04T05:51:14.813488",
-            "status": "INACTIVE"
-        },
         "nbgrw.xyz": {
             "included_at_epoch": 1589567377.622248,
             "included_at_iso": "2020-05-15T18:29:37.622248",
@@ -35168,46 +35147,11 @@
             "last_retested_at_iso": "2020-05-15T18:29:37.874886",
             "status": "INACTIVE"
         },
-        "nbvbblmksiahf.com": {
-            "included_at_epoch": 1588571478.586596,
-            "included_at_iso": "2020-05-04T05:51:18.586596",
-            "last_retested_at_epoch": 1588571478.586596,
-            "last_retested_at_iso": "2020-05-04T05:51:18.586596",
-            "status": "INACTIVE"
-        },
-        "nbxfvfeanq.com": {
-            "included_at_epoch": 1588571479.410681,
-            "included_at_iso": "2020-05-04T05:51:19.410681",
-            "last_retested_at_epoch": 1588571479.410681,
-            "last_retested_at_iso": "2020-05-04T05:51:19.410681",
-            "status": "INACTIVE"
-        },
-        "ncbqi.com": {
-            "included_at_epoch": 1588571480.950744,
-            "included_at_iso": "2020-05-04T05:51:20.950744",
-            "last_retested_at_epoch": 1588571480.950744,
-            "last_retested_at_iso": "2020-05-04T05:51:20.950744",
-            "status": "INACTIVE"
-        },
         "ncj.shoesmogul.com": {
             "included_at_epoch": 1589567378.492218,
             "included_at_iso": "2020-05-15T18:29:38.492218",
             "last_retested_at_epoch": 1589567378.492218,
             "last_retested_at_iso": "2020-05-15T18:29:38.492218",
-            "status": "INACTIVE"
-        },
-        "ncs.eadaily.com": {
-            "included_at_epoch": 1588571484.974695,
-            "included_at_iso": "2020-05-04T05:51:24.974695",
-            "last_retested_at_epoch": 1588571484.974695,
-            "last_retested_at_iso": "2020-05-04T05:51:24.974695",
-            "status": "INACTIVE"
-        },
-        "ncsyyeabk.com": {
-            "included_at_epoch": 1588571484.865925,
-            "included_at_iso": "2020-05-04T05:51:24.865925",
-            "last_retested_at_epoch": 1588571484.865925,
-            "last_retested_at_iso": "2020-05-04T05:51:24.865925",
             "status": "INACTIVE"
         },
         "ncxdr.xyz": {
