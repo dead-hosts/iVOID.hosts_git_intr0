@@ -40789,20 +40789,6 @@
             "last_retested_at_iso": "2020-05-16T01:14:48.963823",
             "status": "INACTIVE"
         },
-        "rekl2.ru": {
-            "included_at_epoch": 1588684498.346917,
-            "included_at_iso": "2020-05-05T13:14:58.346917",
-            "last_retested_at_epoch": 1588684498.346917,
-            "last_retested_at_iso": "2020-05-05T13:14:58.346917",
-            "status": "INACTIVE"
-        },
-        "reklamper.com": {
-            "included_at_epoch": 1588684500.87709,
-            "included_at_iso": "2020-05-05T13:15:00.877090",
-            "last_retested_at_epoch": 1588684500.87709,
-            "last_retested_at_iso": "2020-05-05T13:15:00.877090",
-            "status": "INACTIVE"
-        },
         "relatable.inquisitr.com": {
             "included_at_epoch": 1588685229.784614,
             "included_at_iso": "2020-05-05T13:27:09.784614",
