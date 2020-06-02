@@ -40376,39 +40376,11 @@
             "last_retested_at_iso": "2020-05-16T00:49:53.236642",
             "status": "INACTIVE"
         },
-        "racerchairs.xyz": {
-            "included_at_epoch": 1588674450.875694,
-            "included_at_iso": "2020-05-05T10:27:30.875694",
-            "last_retested_at_epoch": 1588674450.875694,
-            "last_retested_at_iso": "2020-05-05T10:27:30.875694",
-            "status": "INACTIVE"
-        },
-        "radiusnetworks.com.herokudns.com": {
-            "included_at_epoch": 1588674454.060549,
-            "included_at_iso": "2020-05-05T10:27:34.060549",
-            "last_retested_at_epoch": 1588674454.060549,
-            "last_retested_at_iso": "2020-05-05T10:27:34.060549",
-            "status": "INACTIVE"
-        },
         "radtaxe.com": {
             "included_at_epoch": 1589590194.193119,
             "included_at_iso": "2020-05-16T00:49:54.193119",
             "last_retested_at_epoch": 1589590194.193119,
             "last_retested_at_iso": "2020-05-16T00:49:54.193119",
-            "status": "INACTIVE"
-        },
-        "ragitupime.com": {
-            "included_at_epoch": 1588674455.309603,
-            "included_at_iso": "2020-05-05T10:27:35.309603",
-            "last_retested_at_epoch": 1588674455.309603,
-            "last_retested_at_iso": "2020-05-05T10:27:35.309603",
-            "status": "INACTIVE"
-        },
-        "rahvoujjgmtvft.com": {
-            "included_at_epoch": 1588674455.439409,
-            "included_at_iso": "2020-05-05T10:27:35.439409",
-            "last_retested_at_epoch": 1588674455.439409,
-            "last_retested_at_iso": "2020-05-05T10:27:35.439409",
             "status": "INACTIVE"
         },
         "rakuten.account-update.rakuten.co.jp.y8bg2s90d8s30ke8s7r8t9m34g1.com": {
@@ -40591,13 +40563,6 @@
             "included_at_iso": "2020-05-16T00:50:04.812652",
             "last_retested_at_epoch": 1589590204.812652,
             "last_retested_at_iso": "2020-05-16T00:50:04.812652",
-            "status": "INACTIVE"
-        },
-        "ranking-it.de": {
-            "included_at_epoch": 1588674461.461226,
-            "included_at_iso": "2020-05-05T10:27:41.461226",
-            "last_retested_at_epoch": 1588674461.461226,
-            "last_retested_at_iso": "2020-05-05T10:27:41.461226",
             "status": "INACTIVE"
         },
         "rapistory.info": {
