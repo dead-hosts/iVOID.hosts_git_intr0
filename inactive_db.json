@@ -40341,13 +40341,6 @@
             "last_retested_at_iso": "2020-05-16T00:49:50.081538",
             "status": "INACTIVE"
         },
-        "r.qip.ru": {
-            "included_at_epoch": 1588673721.934351,
-            "included_at_iso": "2020-05-05T10:15:21.934351",
-            "last_retested_at_epoch": 1588673721.934351,
-            "last_retested_at_iso": "2020-05-05T10:15:21.934351",
-            "status": "INACTIVE"
-        },
         "r371gcneei1.disghneied.xyz": {
             "included_at_epoch": 1589590190.689693,
             "included_at_iso": "2020-05-16T00:49:50.689693",
