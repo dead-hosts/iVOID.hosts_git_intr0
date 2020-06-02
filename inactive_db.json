@@ -41195,46 +41195,11 @@
             "last_retested_at_iso": "2020-05-16T01:39:37.942333",
             "status": "INACTIVE"
         },
-        "rtbweb.com": {
-            "included_at_epoch": 1588697365.902645,
-            "included_at_iso": "2020-05-05T16:49:25.902645",
-            "last_retested_at_epoch": 1588697365.902645,
-            "last_retested_at_iso": "2020-05-05T16:49:25.902645",
-            "status": "INACTIVE"
-        },
-        "rtdogcdkovndho.com": {
-            "included_at_epoch": 1588697366.100121,
-            "included_at_iso": "2020-05-05T16:49:26.100121",
-            "last_retested_at_epoch": 1588697366.100121,
-            "last_retested_at_iso": "2020-05-05T16:49:26.100121",
-            "status": "INACTIVE"
-        },
-        "rtfn.net": {
-            "included_at_epoch": 1588697366.235948,
-            "included_at_iso": "2020-05-05T16:49:26.235948",
-            "last_retested_at_epoch": 1588697366.235948,
-            "last_retested_at_iso": "2020-05-05T16:49:26.235948",
-            "status": "INACTIVE"
-        },
         "rtknyife.fun": {
             "included_at_epoch": 1589593178.625052,
             "included_at_iso": "2020-05-16T01:39:38.625052",
             "last_retested_at_epoch": 1589593178.625052,
             "last_retested_at_iso": "2020-05-16T01:39:38.625052",
-            "status": "INACTIVE"
-        },
-        "rtl1.biz": {
-            "included_at_epoch": 1588697366.709656,
-            "included_at_iso": "2020-05-05T16:49:26.709656",
-            "last_retested_at_epoch": 1588697366.709656,
-            "last_retested_at_iso": "2020-05-05T16:49:26.709656",
-            "status": "INACTIVE"
-        },
-        "rtl1.net": {
-            "included_at_epoch": 1588697366.876234,
-            "included_at_iso": "2020-05-05T16:49:26.876234",
-            "last_retested_at_epoch": 1588697366.876234,
-            "last_retested_at_iso": "2020-05-05T16:49:26.876234",
             "status": "INACTIVE"
         },
         "rtrtrtr.com": {
@@ -41258,67 +41223,11 @@
             "last_retested_at_iso": "2020-05-16T01:39:39.157232",
             "status": "INACTIVE"
         },
-        "ru-novocti.com": {
-            "included_at_epoch": 1588697369.486358,
-            "included_at_iso": "2020-05-05T16:49:29.486358",
-            "last_retested_at_epoch": 1588697369.486358,
-            "last_retested_at_iso": "2020-05-05T16:49:29.486358",
-            "status": "INACTIVE"
-        },
-        "ru-traffic.com": {
-            "included_at_epoch": 1588697369.798445,
-            "included_at_iso": "2020-05-05T16:49:29.798445",
-            "last_retested_at_epoch": 1588697369.798445,
-            "last_retested_at_iso": "2020-05-05T16:49:29.798445",
-            "status": "INACTIVE"
-        },
-        "ru.cdn5.onthe.io": {
-            "included_at_epoch": 1588697369.653912,
-            "included_at_iso": "2020-05-05T16:49:29.653912",
-            "last_retested_at_epoch": 1588697369.653912,
-            "last_retested_at_iso": "2020-05-05T16:49:29.653912",
-            "status": "INACTIVE"
-        },
-        "rubick.gameanalytics.com": {
-            "included_at_epoch": 1588697371.495883,
-            "included_at_iso": "2020-05-05T16:49:31.495883",
-            "last_retested_at_epoch": 1588697371.495883,
-            "last_retested_at_iso": "2020-05-05T16:49:31.495883",
-            "status": "INACTIVE"
-        },
-        "rubicon-tagan.adlightning.com": {
-            "included_at_epoch": 1588697371.69263,
-            "included_at_iso": "2020-05-05T16:49:31.692630",
-            "last_retested_at_epoch": 1588697371.69263,
-            "last_retested_at_iso": "2020-05-05T16:49:31.692630",
-            "status": "INACTIVE"
-        },
-        "rubxajsomnicfy.com": {
-            "included_at_epoch": 1588697372.417981,
-            "included_at_iso": "2020-05-05T16:49:32.417981",
-            "last_retested_at_epoch": 1588697372.417981,
-            "last_retested_at_iso": "2020-05-05T16:49:32.417981",
-            "status": "INACTIVE"
-        },
-        "rudy.adsnative.com": {
-            "included_at_epoch": 1588697372.847103,
-            "included_at_iso": "2020-05-05T16:49:32.847103",
-            "last_retested_at_epoch": 1588697372.847103,
-            "last_retested_at_iso": "2020-05-05T16:49:32.847103",
-            "status": "INACTIVE"
-        },
         "ruh.shoesmogul.com": {
             "included_at_epoch": 1589593179.423556,
             "included_at_iso": "2020-05-16T01:39:39.423556",
             "last_retested_at_epoch": 1589593179.423556,
             "last_retested_at_iso": "2020-05-16T01:39:39.423556",
-            "status": "INACTIVE"
-        },
-        "rulirieter.com": {
-            "included_at_epoch": 1588697375.747688,
-            "included_at_iso": "2020-05-05T16:49:35.747688",
-            "last_retested_at_epoch": 1588697375.747688,
-            "last_retested_at_iso": "2020-05-05T16:49:35.747688",
             "status": "INACTIVE"
         },
         "runescape.com-ars.xyz": {
