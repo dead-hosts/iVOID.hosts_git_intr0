@@ -43302,20 +43302,6 @@
             "last_retested_at_iso": "2020-05-16T04:04:58.831239",
             "status": "INACTIVE"
         },
-        "sp.centralfloridafuture.com": {
-            "included_at_epoch": 1588772249.130594,
-            "included_at_iso": "2020-05-06T13:37:29.130594",
-            "last_retested_at_epoch": 1588772249.130594,
-            "last_retested_at_iso": "2020-05-06T13:37:29.130594",
-            "status": "INACTIVE"
-        },
-        "sparebnk1-innloging-pamobile.com": {
-            "included_at_epoch": 1588772256.468361,
-            "included_at_iso": "2020-05-06T13:37:36.468361",
-            "last_retested_at_epoch": 1588772256.468361,
-            "last_retested_at_iso": "2020-05-06T13:37:36.468361",
-            "status": "INACTIVE"
-        },
         "spartanr.5gbfree.com": {
             "included_at_epoch": 1589601901.94646,
             "included_at_iso": "2020-05-16T04:05:01.946460",
