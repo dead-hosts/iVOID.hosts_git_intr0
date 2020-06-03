@@ -41671,46 +41671,11 @@
             "last_retested_at_iso": "2020-05-16T02:04:29.818864",
             "status": "INACTIVE"
         },
-        "sdziy.us": {
-            "included_at_epoch": 1588733823.862063,
-            "included_at_iso": "2020-05-06T02:57:03.862063",
-            "last_retested_at_epoch": 1588733823.862063,
-            "last_retested_at_iso": "2020-05-06T02:57:03.862063",
-            "status": "INACTIVE"
-        },
         "se.navlundeposu.com": {
             "included_at_epoch": 1589594670.085991,
             "included_at_iso": "2020-05-16T02:04:30.085991",
             "last_retested_at_epoch": 1589594670.085991,
             "last_retested_at_iso": "2020-05-16T02:04:30.085991",
-            "status": "INACTIVE"
-        },
-        "se2qwz60l2oxznm.xyz": {
-            "included_at_epoch": 1588733825.01099,
-            "included_at_iso": "2020-05-06T02:57:05.010990",
-            "last_retested_at_epoch": 1588733825.01099,
-            "last_retested_at_iso": "2020-05-06T02:57:05.010990",
-            "status": "INACTIVE"
-        },
-        "seafox26.com": {
-            "included_at_epoch": 1588733825.574414,
-            "included_at_iso": "2020-05-06T02:57:05.574414",
-            "last_retested_at_epoch": 1588733825.574414,
-            "last_retested_at_iso": "2020-05-06T02:57:05.574414",
-            "status": "INACTIVE"
-        },
-        "sealine-pfuoxcbgd.netdna-ssl.com": {
-            "included_at_epoch": 1588733826.015055,
-            "included_at_iso": "2020-05-06T02:57:06.015055",
-            "last_retested_at_epoch": 1588733826.015055,
-            "last_retested_at_iso": "2020-05-06T02:57:06.015055",
-            "status": "INACTIVE"
-        },
-        "search.batmobi.net": {
-            "included_at_epoch": 1588733826.823911,
-            "included_at_iso": "2020-05-06T02:57:06.823911",
-            "last_retested_at_epoch": 1588733826.823911,
-            "last_retested_at_iso": "2020-05-06T02:57:06.823911",
             "status": "INACTIVE"
         },
         "searchssee.tech": {
