@@ -43687,20 +43687,6 @@
             "last_retested_at_iso": "2020-05-16T04:05:29.435032",
             "status": "INACTIVE"
         },
-        "ssp.adxpremium.com": {
-            "included_at_epoch": 1588785227.811369,
-            "included_at_iso": "2020-05-06T17:13:47.811369",
-            "last_retested_at_epoch": 1588785227.811369,
-            "last_retested_at_iso": "2020-05-06T17:13:47.811369",
-            "status": "INACTIVE"
-        },
-        "ssraju3n.com": {
-            "included_at_epoch": 1588785230.126692,
-            "included_at_iso": "2020-05-06T17:13:50.126692",
-            "last_retested_at_epoch": 1588785230.126692,
-            "last_retested_at_iso": "2020-05-06T17:13:50.126692",
-            "status": "INACTIVE"
-        },
         "stablemoney.ru": {
             "included_at_epoch": 1588785959.72865,
             "included_at_iso": "2020-05-06T17:25:59.728650",
