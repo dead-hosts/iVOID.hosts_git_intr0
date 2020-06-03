@@ -41398,34 +41398,6 @@
             "last_retested_at_iso": "2020-05-16T01:39:51.281622",
             "status": "INACTIVE"
         },
-        "s-lnstagram.com": {
-            "included_at_epoch": 1588724748.440535,
-            "included_at_iso": "2020-05-06T00:25:48.440535",
-            "last_retested_at_epoch": 1588724748.440535,
-            "last_retested_at_iso": "2020-05-06T00:25:48.440535",
-            "status": "INACTIVE"
-        },
-        "s.avforums.ru": {
-            "included_at_epoch": 1588724749.701461,
-            "included_at_iso": "2020-05-06T00:25:49.701461",
-            "last_retested_at_epoch": 1588724749.701461,
-            "last_retested_at_iso": "2020-05-06T00:25:49.701461",
-            "status": "INACTIVE"
-        },
-        "s.edeka.de": {
-            "included_at_epoch": 1588724750.108082,
-            "included_at_iso": "2020-05-06T00:25:50.108082",
-            "last_retested_at_epoch": 1588724750.108082,
-            "last_retested_at_iso": "2020-05-06T00:25:50.108082",
-            "status": "INACTIVE"
-        },
-        "s.shbywsd.cn": {
-            "included_at_epoch": 1588724751.107279,
-            "included_at_iso": "2020-05-06T00:25:51.107279",
-            "last_retested_at_epoch": 1588724751.107279,
-            "last_retested_at_iso": "2020-05-06T00:25:51.107279",
-            "status": "INACTIVE"
-        },
         "s.vollar.ga": {
             "included_at_epoch": 1589593191.747759,
             "included_at_iso": "2020-05-16T01:39:51.747759",
