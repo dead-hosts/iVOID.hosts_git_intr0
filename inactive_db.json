@@ -43687,20 +43687,6 @@
             "last_retested_at_iso": "2020-05-16T04:05:29.435032",
             "status": "INACTIVE"
         },
-        "stablemoney.ru": {
-            "included_at_epoch": 1588785959.72865,
-            "included_at_iso": "2020-05-06T17:25:59.728650",
-            "last_retested_at_epoch": 1588785959.72865,
-            "last_retested_at_iso": "2020-05-06T17:25:59.728650",
-            "status": "INACTIVE"
-        },
-        "stagens.com": {
-            "included_at_epoch": 1588785961.433482,
-            "included_at_iso": "2020-05-06T17:26:01.433482",
-            "last_retested_at_epoch": 1588785961.433482,
-            "last_retested_at_iso": "2020-05-06T17:26:01.433482",
-            "status": "INACTIVE"
-        },
         "staging.app1ec2.stewing.xyz": {
             "included_at_epoch": 1588786680.672263,
             "included_at_iso": "2020-05-06T17:38:00.672263",
