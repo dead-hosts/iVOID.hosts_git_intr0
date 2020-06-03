@@ -42434,27 +42434,6 @@
             "last_retested_at_iso": "2020-05-16T03:06:18.054960",
             "status": "INACTIVE"
         },
-        "securitycovid19.online": {
-            "included_at_epoch": 1588736760.363523,
-            "included_at_iso": "2020-05-06T03:46:00.363523",
-            "last_retested_at_epoch": 1588736760.363523,
-            "last_retested_at_iso": "2020-05-06T03:46:00.363523",
-            "status": "INACTIVE"
-        },
-        "securityhelp-lnstagram.tk": {
-            "included_at_epoch": 1588736760.966045,
-            "included_at_iso": "2020-05-06T03:46:00.966045",
-            "last_retested_at_epoch": 1588736760.966045,
-            "last_retested_at_iso": "2020-05-06T03:46:00.966045",
-            "status": "INACTIVE"
-        },
-        "securitylnstagram.ahmet-214.tk": {
-            "included_at_epoch": 1588736760.827241,
-            "included_at_iso": "2020-05-06T03:46:00.827241",
-            "last_retested_at_epoch": 1588736760.827241,
-            "last_retested_at_iso": "2020-05-06T03:46:00.827241",
-            "status": "INACTIVE"
-        },
         "securitylnstagram.org": {
             "included_at_epoch": 1589598378.41911,
             "included_at_iso": "2020-05-16T03:06:18.419110",
@@ -42476,46 +42455,11 @@
             "last_retested_at_iso": "2020-05-16T03:06:19.023649",
             "status": "INACTIVE"
         },
-        "securityupdate-support-app1e-1d.com": {
-            "included_at_epoch": 1588736761.678149,
-            "included_at_iso": "2020-05-06T03:46:01.678149",
-            "last_retested_at_epoch": 1588736761.678149,
-            "last_retested_at_iso": "2020-05-06T03:46:01.678149",
-            "status": "INACTIVE"
-        },
         "securmydata-paypal.myvnc.com": {
             "included_at_epoch": 1589598379.29193,
             "included_at_iso": "2020-05-16T03:06:19.291930",
             "last_retested_at_epoch": 1589598379.29193,
             "last_retested_at_iso": "2020-05-16T03:06:19.291930",
-            "status": "INACTIVE"
-        },
-        "securrity-faceb00k-m.com": {
-            "included_at_epoch": 1588736761.989142,
-            "included_at_iso": "2020-05-06T03:46:01.989142",
-            "last_retested_at_epoch": 1588736761.989142,
-            "last_retested_at_iso": "2020-05-06T03:46:01.989142",
-            "status": "INACTIVE"
-        },
-        "securrity-faceb0ok-inc.com": {
-            "included_at_epoch": 1588736761.850612,
-            "included_at_iso": "2020-05-06T03:46:01.850612",
-            "last_retested_at_epoch": 1588736761.850612,
-            "last_retested_at_iso": "2020-05-06T03:46:01.850612",
-            "status": "INACTIVE"
-        },
-        "securrity-faceb0ok.com": {
-            "included_at_epoch": 1588736762.283331,
-            "included_at_iso": "2020-05-06T03:46:02.283331",
-            "last_retested_at_epoch": 1588736762.283331,
-            "last_retested_at_iso": "2020-05-06T03:46:02.283331",
-            "status": "INACTIVE"
-        },
-        "securrity-facebo0k-inc.com": {
-            "included_at_epoch": 1588736762.131874,
-            "included_at_iso": "2020-05-06T03:46:02.131874",
-            "last_retested_at_epoch": 1588736762.131874,
-            "last_retested_at_iso": "2020-05-06T03:46:02.131874",
             "status": "INACTIVE"
         },
         "securrity-m-faceb00k.com": {
