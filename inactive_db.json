@@ -43253,60 +43253,11 @@
             "last_retested_at_iso": "2020-05-16T03:52:46.178145",
             "status": "INACTIVE"
         },
-        "snowplowcollector-env-3.us-east-1.elasticbeanstalk.com": {
-            "included_at_epoch": 1588770524.467293,
-            "included_at_iso": "2020-05-06T13:08:44.467293",
-            "last_retested_at_epoch": 1588770524.467293,
-            "last_retested_at_iso": "2020-05-06T13:08:44.467293",
-            "status": "INACTIVE"
-        },
-        "snsoft.host-ed.me": {
-            "included_at_epoch": 1588770526.823941,
-            "included_at_iso": "2020-05-06T13:08:46.823941",
-            "last_retested_at_epoch": 1588770526.823941,
-            "last_retested_at_iso": "2020-05-06T13:08:46.823941",
-            "status": "INACTIVE"
-        },
-        "snxvrnhe.com": {
-            "included_at_epoch": 1588770527.840648,
-            "included_at_iso": "2020-05-06T13:08:47.840648",
-            "last_retested_at_epoch": 1588770527.840648,
-            "last_retested_at_iso": "2020-05-06T13:08:47.840648",
-            "status": "INACTIVE"
-        },
         "society-depart-recovery-update.info": {
             "included_at_epoch": 1589601894.287608,
             "included_at_iso": "2020-05-16T04:04:54.287608",
             "last_retested_at_epoch": 1589601894.287608,
             "last_retested_at_iso": "2020-05-16T04:04:54.287608",
-            "status": "INACTIVE"
-        },
-        "soehcsryxyd.com": {
-            "included_at_epoch": 1588770540.437421,
-            "included_at_iso": "2020-05-06T13:09:00.437421",
-            "last_retested_at_epoch": 1588770540.437421,
-            "last_retested_at_iso": "2020-05-06T13:09:00.437421",
-            "status": "INACTIVE"
-        },
-        "soibuuqqhuyo.com": {
-            "included_at_epoch": 1588770545.235811,
-            "included_at_iso": "2020-05-06T13:09:05.235811",
-            "last_retested_at_epoch": 1588770545.235811,
-            "last_retested_at_iso": "2020-05-06T13:09:05.235811",
-            "status": "INACTIVE"
-        },
-        "solarpond.xyz": {
-            "included_at_epoch": 1588770548.068069,
-            "included_at_iso": "2020-05-06T13:09:08.068069",
-            "last_retested_at_epoch": 1588770548.068069,
-            "last_retested_at_iso": "2020-05-06T13:09:08.068069",
-            "status": "INACTIVE"
-        },
-        "solipen.pw": {
-            "included_at_epoch": 1588770548.817002,
-            "included_at_iso": "2020-05-06T13:09:08.817002",
-            "last_retested_at_epoch": 1588770548.817002,
-            "last_retested_at_iso": "2020-05-06T13:09:08.817002",
             "status": "INACTIVE"
         },
         "solubaba.tk": {
@@ -43321,13 +43272,6 @@
             "included_at_iso": "2020-05-16T04:04:56.295564",
             "last_retested_at_epoch": 1589601896.295564,
             "last_retested_at_iso": "2020-05-16T04:04:56.295564",
-            "status": "INACTIVE"
-        },
-        "sonat.space": {
-            "included_at_epoch": 1588770555.484618,
-            "included_at_iso": "2020-05-06T13:09:15.484618",
-            "last_retested_at_epoch": 1588770555.484618,
-            "last_retested_at_iso": "2020-05-06T13:09:15.484618",
             "status": "INACTIVE"
         },
         "sondr5344ygfweyjbfkw4fhsefv.heliofetch.at": {
