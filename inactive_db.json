@@ -44394,13 +44394,6 @@
             "last_retested_at_iso": "2020-05-16T04:45:13.670068",
             "status": "INACTIVE"
         },
-        "support.lnstagram-copyrightscenter.cf": {
-            "included_at_epoch": 1588806183.46765,
-            "included_at_iso": "2020-05-06T23:03:03.467650",
-            "last_retested_at_epoch": 1588806183.46765,
-            "last_retested_at_iso": "2020-05-06T23:03:03.467650",
-            "status": "INACTIVE"
-        },
         "support.lnstagram-copyrightsupport.cf": {
             "included_at_epoch": 1588807555.440598,
             "included_at_iso": "2020-05-06T23:25:55.440598",
