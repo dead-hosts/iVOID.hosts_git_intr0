@@ -42987,13 +42987,6 @@
             "last_retested_at_iso": "2020-05-16T03:27:34.950795",
             "status": "INACTIVE"
         },
-        "sisrgcvomn.com": {
-            "included_at_epoch": 1588767571.059865,
-            "included_at_iso": "2020-05-06T12:19:31.059865",
-            "last_retested_at_epoch": 1588767571.059865,
-            "last_retested_at_iso": "2020-05-06T12:19:31.059865",
-            "status": "INACTIVE"
-        },
         "site.recoverypage-help.my.id": {
             "included_at_epoch": 1589599660.651201,
             "included_at_iso": "2020-05-16T03:27:40.651201",
@@ -43015,20 +43008,6 @@
             "last_retested_at_iso": "2020-05-16T03:27:40.976319",
             "status": "INACTIVE"
         },
-        "siteanalytics.jp": {
-            "included_at_epoch": 1588767573.951931,
-            "included_at_iso": "2020-05-06T12:19:33.951931",
-            "last_retested_at_epoch": 1588767573.951931,
-            "last_retested_at_iso": "2020-05-06T12:19:33.951931",
-            "status": "INACTIVE"
-        },
-        "sitestatlog.net": {
-            "included_at_epoch": 1588767580.966638,
-            "included_at_iso": "2020-05-06T12:19:40.966638",
-            "last_retested_at_epoch": 1588767580.966638,
-            "last_retested_at_iso": "2020-05-06T12:19:40.966638",
-            "status": "INACTIVE"
-        },
         "sj9hsg.lidelend.com": {
             "included_at_epoch": 1589599662.172513,
             "included_at_iso": "2020-05-16T03:27:42.172513",
@@ -43036,39 +43015,11 @@
             "last_retested_at_iso": "2020-05-16T03:27:42.172513",
             "status": "INACTIVE"
         },
-        "sjqpctsz.com": {
-            "included_at_epoch": 1588767589.334288,
-            "included_at_iso": "2020-05-06T12:19:49.334288",
-            "last_retested_at_epoch": 1588767589.334288,
-            "last_retested_at_iso": "2020-05-06T12:19:49.334288",
-            "status": "INACTIVE"
-        },
         "sjqzye.com": {
             "included_at_epoch": 1589599662.901859,
             "included_at_iso": "2020-05-16T03:27:42.901859",
             "last_retested_at_epoch": 1589599662.901859,
             "last_retested_at_iso": "2020-05-16T03:27:42.901859",
-            "status": "INACTIVE"
-        },
-        "skcyigichh.com": {
-            "included_at_epoch": 1588767591.694982,
-            "included_at_iso": "2020-05-06T12:19:51.694982",
-            "last_retested_at_epoch": 1588767591.694982,
-            "last_retested_at_iso": "2020-05-06T12:19:51.694982",
-            "status": "INACTIVE"
-        },
-        "skedzynet.ddns.net": {
-            "included_at_epoch": 1588767592.119742,
-            "included_at_iso": "2020-05-06T12:19:52.119742",
-            "last_retested_at_epoch": 1588767592.119742,
-            "last_retested_at_iso": "2020-05-06T12:19:52.119742",
-            "status": "INACTIVE"
-        },
-        "skgnompyiusim.com": {
-            "included_at_epoch": 1588767592.832502,
-            "included_at_iso": "2020-05-06T12:19:52.832502",
-            "last_retested_at_epoch": 1588767592.832502,
-            "last_retested_at_iso": "2020-05-06T12:19:52.832502",
             "status": "INACTIVE"
         },
         "skinezy.fun": {
@@ -43111,20 +43062,6 @@
             "included_at_iso": "2020-05-16T03:40:05.956411",
             "last_retested_at_epoch": 1589600405.956411,
             "last_retested_at_iso": "2020-05-16T03:40:05.956411",
-            "status": "INACTIVE"
-        },
-        "sksalqvpoc.com": {
-            "included_at_epoch": 1588767595.166685,
-            "included_at_iso": "2020-05-06T12:19:55.166685",
-            "last_retested_at_epoch": 1588767595.166685,
-            "last_retested_at_iso": "2020-05-06T12:19:55.166685",
-            "status": "INACTIVE"
-        },
-        "skspurybnv.com": {
-            "included_at_epoch": 1588767595.025889,
-            "included_at_iso": "2020-05-06T12:19:55.025889",
-            "last_retested_at_epoch": 1588767595.025889,
-            "last_retested_at_iso": "2020-05-06T12:19:55.025889",
             "status": "INACTIVE"
         },
         "skyad1.ru": {
