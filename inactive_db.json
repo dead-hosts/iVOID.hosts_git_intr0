@@ -41426,13 +41426,6 @@
             "last_retested_at_iso": "2020-05-16T01:51:59.177698",
             "status": "INACTIVE"
         },
-        "saboopiz.net": {
-            "included_at_epoch": 1588727110.840276,
-            "included_at_iso": "2020-05-06T01:05:10.840276",
-            "last_retested_at_epoch": 1588727110.840276,
-            "last_retested_at_iso": "2020-05-06T01:05:10.840276",
-            "status": "INACTIVE"
-        },
         "sachinkigand.bounceme.net": {
             "included_at_epoch": 1589593920.041707,
             "included_at_iso": "2020-05-16T01:52:00.041707",
@@ -41452,20 +41445,6 @@
             "included_at_iso": "2020-05-16T01:52:01.514622",
             "last_retested_at_epoch": 1589593921.514622,
             "last_retested_at_iso": "2020-05-16T01:52:01.514622",
-            "status": "INACTIVE"
-        },
-        "safe.lnstagramservicessupport.ml": {
-            "included_at_epoch": 1588727117.297374,
-            "included_at_iso": "2020-05-06T01:05:17.297374",
-            "last_retested_at_epoch": 1588727117.297374,
-            "last_retested_at_iso": "2020-05-06T01:05:17.297374",
-            "status": "INACTIVE"
-        },
-        "safeonlinesites.com": {
-            "included_at_epoch": 1588727121.071336,
-            "included_at_iso": "2020-05-06T01:05:21.071336",
-            "last_retested_at_epoch": 1588727121.071336,
-            "last_retested_at_iso": "2020-05-06T01:05:21.071336",
             "status": "INACTIVE"
         },
         "safestsolutions.amazinghour.com": {
