@@ -41496,13 +41496,6 @@
             "last_retested_at_iso": "2020-05-16T01:52:08.125250",
             "status": "INACTIVE"
         },
-        "sam.setimedia.com": {
-            "included_at_epoch": 1588728422.601579,
-            "included_at_iso": "2020-05-06T01:27:02.601579",
-            "last_retested_at_epoch": 1588728422.601579,
-            "last_retested_at_iso": "2020-05-06T01:27:02.601579",
-            "status": "INACTIVE"
-        },
         "sameetc.tk": {
             "included_at_epoch": 1589593928.445741,
             "included_at_iso": "2020-05-16T01:52:08.445741",
@@ -41510,25 +41503,11 @@
             "last_retested_at_iso": "2020-05-16T01:52:08.445741",
             "status": "INACTIVE"
         },
-        "samjohnson.l-lnstagram.ga": {
-            "included_at_epoch": 1588728424.696194,
-            "included_at_iso": "2020-05-06T01:27:04.696194",
-            "last_retested_at_epoch": 1588728424.696194,
-            "last_retested_at_iso": "2020-05-06T01:27:04.696194",
-            "status": "INACTIVE"
-        },
         "samoniklo.pw": {
             "included_at_epoch": 1589593928.802174,
             "included_at_iso": "2020-05-16T01:52:08.802174",
             "last_retested_at_epoch": 1589593928.802174,
             "last_retested_at_iso": "2020-05-16T01:52:08.802174",
-            "status": "INACTIVE"
-        },
-        "sandensi.ru": {
-            "included_at_epoch": 1588728427.438051,
-            "included_at_iso": "2020-05-06T01:27:07.438051",
-            "last_retested_at_epoch": 1588728427.438051,
-            "last_retested_at_iso": "2020-05-06T01:27:07.438051",
             "status": "INACTIVE"
         },
         "sange-bokepers2020.hol1.shop": {
@@ -41550,20 +41529,6 @@
             "included_at_iso": "2020-05-16T01:52:10.585889",
             "last_retested_at_epoch": 1589593930.585889,
             "last_retested_at_iso": "2020-05-16T01:52:10.585889",
-            "status": "INACTIVE"
-        },
-        "sapere.seed4.me": {
-            "included_at_epoch": 1588728432.381592,
-            "included_at_iso": "2020-05-06T01:27:12.381592",
-            "last_retested_at_epoch": 1588728432.381592,
-            "last_retested_at_iso": "2020-05-06T01:27:12.381592",
-            "status": "INACTIVE"
-        },
-        "sapmedia.ru": {
-            "included_at_epoch": 1588728433.063662,
-            "included_at_iso": "2020-05-06T01:27:13.063662",
-            "last_retested_at_epoch": 1588728433.063662,
-            "last_retested_at_iso": "2020-05-06T01:27:13.063662",
             "status": "INACTIVE"
         },
         "sapp-italliness.myftp.biz": {
