@@ -43645,27 +43645,6 @@
             "last_retested_at_iso": "2020-05-16T04:05:23.995446",
             "status": "INACTIVE"
         },
-        "ssc.appl.kp.org": {
-            "included_at_epoch": 1588776411.385199,
-            "included_at_iso": "2020-05-06T14:46:51.385199",
-            "last_retested_at_epoch": 1588776411.385199,
-            "last_retested_at_iso": "2020-05-06T14:46:51.385199",
-            "status": "INACTIVE"
-        },
-        "ssdsylfzav.com": {
-            "included_at_epoch": 1588776412.765501,
-            "included_at_iso": "2020-05-06T14:46:52.765501",
-            "last_retested_at_epoch": 1588776412.765501,
-            "last_retested_at_iso": "2020-05-06T14:46:52.765501",
-            "status": "INACTIVE"
-        },
-        "sseccurity-faceb0ok.com": {
-            "included_at_epoch": 1588776412.908581,
-            "included_at_iso": "2020-05-06T14:46:52.908581",
-            "last_retested_at_epoch": 1588776412.908581,
-            "last_retested_at_iso": "2020-05-06T14:46:52.908581",
-            "status": "INACTIVE"
-        },
         "ssegs.xyz": {
             "included_at_epoch": 1589601925.497337,
             "included_at_iso": "2020-05-16T04:05:25.497337",
@@ -43685,27 +43664,6 @@
             "included_at_iso": "2020-05-16T04:05:27.281189",
             "last_retested_at_epoch": 1589601927.281189,
             "last_retested_at_iso": "2020-05-16T04:05:27.281189",
-            "status": "INACTIVE"
-        },
-        "ssl4go.ga": {
-            "included_at_epoch": 1588776416.459213,
-            "included_at_iso": "2020-05-06T14:46:56.459213",
-            "last_retested_at_epoch": 1588776416.459213,
-            "last_retested_at_iso": "2020-05-06T14:46:56.459213",
-            "status": "INACTIVE"
-        },
-        "ssl4us.gq": {
-            "included_at_epoch": 1588776416.316414,
-            "included_at_iso": "2020-05-06T14:46:56.316414",
-            "last_retested_at_epoch": 1588776416.316414,
-            "last_retested_at_iso": "2020-05-06T14:46:56.316414",
-            "status": "INACTIVE"
-        },
-        "sslboost.com": {
-            "included_at_epoch": 1588776416.601742,
-            "included_at_iso": "2020-05-06T14:46:56.601742",
-            "last_retested_at_epoch": 1588776416.601742,
-            "last_retested_at_iso": "2020-05-06T14:46:56.601742",
             "status": "INACTIVE"
         },
         "ssm-whatsap.new9.my.id": {
