@@ -43694,13 +43694,6 @@
             "last_retested_at_iso": "2020-05-16T04:19:54.303239",
             "status": "INACTIVE"
         },
-        "stat.novostimira.com": {
-            "included_at_epoch": 1588787409.817229,
-            "included_at_iso": "2020-05-06T17:50:09.817229",
-            "last_retested_at_epoch": 1588787409.817229,
-            "last_retested_at_iso": "2020-05-06T17:50:09.817229",
-            "status": "INACTIVE"
-        },
         "statement-update.privacylocked.jandamudapujaan.com": {
             "included_at_epoch": 1589602795.094384,
             "included_at_iso": "2020-05-16T04:19:55.094384",
