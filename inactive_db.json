@@ -44779,20 +44779,6 @@
             "last_retested_at_iso": "2020-05-16T04:58:21.274839",
             "status": "INACTIVE"
         },
-        "thbuhcnpt.com": {
-            "included_at_epoch": 1588815691.640178,
-            "included_at_iso": "2020-05-07T01:41:31.640178",
-            "last_retested_at_epoch": 1588815691.640178,
-            "last_retested_at_iso": "2020-05-07T01:41:31.640178",
-            "status": "INACTIVE"
-        },
-        "thdragate.info": {
-            "included_at_epoch": 1588815692.403961,
-            "included_at_iso": "2020-05-07T01:41:32.403961",
-            "last_retested_at_epoch": 1588815692.403961,
-            "last_retested_at_iso": "2020-05-07T01:41:32.403961",
-            "status": "INACTIVE"
-        },
         "thefaren.pw": {
             "included_at_epoch": 1588817601.956319,
             "included_at_iso": "2020-05-07T02:13:21.956319",
