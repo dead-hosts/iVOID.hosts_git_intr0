@@ -45269,25 +45269,11 @@
             "last_retested_at_iso": "2020-05-16T05:39:32.768462",
             "status": "INACTIVE"
         },
-        "uclylhzwg.com": {
-            "included_at_epoch": 1588841615.601199,
-            "included_at_iso": "2020-05-07T08:53:35.601199",
-            "last_retested_at_epoch": 1588841615.601199,
-            "last_retested_at_iso": "2020-05-07T08:53:35.601199",
-            "status": "INACTIVE"
-        },
         "ucqpha.com": {
             "included_at_epoch": 1589607573.617281,
             "included_at_iso": "2020-05-16T05:39:33.617281",
             "last_retested_at_epoch": 1589607573.617281,
             "last_retested_at_iso": "2020-05-16T05:39:33.617281",
-            "status": "INACTIVE"
-        },
-        "ucretius-ada.com": {
-            "included_at_epoch": 1588841616.456423,
-            "included_at_iso": "2020-05-07T08:53:36.456423",
-            "last_retested_at_epoch": 1588841616.456423,
-            "last_retested_at_iso": "2020-05-07T08:53:36.456423",
             "status": "INACTIVE"
         },
         "udedomelikegauo.ml": {
@@ -45302,20 +45288,6 @@
             "included_at_iso": "2020-05-16T05:39:34.657972",
             "last_retested_at_epoch": 1589607574.657972,
             "last_retested_at_iso": "2020-05-16T05:39:34.657972",
-            "status": "INACTIVE"
-        },
-        "udmlkmzjkob.co": {
-            "included_at_epoch": 1588841619.644894,
-            "included_at_iso": "2020-05-07T08:53:39.644894",
-            "last_retested_at_epoch": 1588841619.644894,
-            "last_retested_at_iso": "2020-05-07T08:53:39.644894",
-            "status": "INACTIVE"
-        },
-        "udorik.com": {
-            "included_at_epoch": 1588841621.087291,
-            "included_at_iso": "2020-05-07T08:53:41.087291",
-            "last_retested_at_epoch": 1588841621.087291,
-            "last_retested_at_iso": "2020-05-07T08:53:41.087291",
             "status": "INACTIVE"
         },
         "uehmxj.com": {
