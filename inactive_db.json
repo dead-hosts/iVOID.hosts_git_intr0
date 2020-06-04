@@ -49028,20 +49028,6 @@
             "last_retested_at_iso": "2020-05-16T07:13:44.729883",
             "status": "INACTIVE"
         },
-        "webdisk.lnstagram-copyrights.info": {
-            "included_at_epoch": 1588872840.835249,
-            "included_at_iso": "2020-05-07T17:34:00.835249",
-            "last_retested_at_epoch": 1588872840.835249,
-            "last_retested_at_iso": "2020-05-07T17:34:00.835249",
-            "status": "INACTIVE"
-        },
-        "webdisk.lnstagram-copyrights.ml": {
-            "included_at_epoch": 1588872841.007407,
-            "included_at_iso": "2020-05-07T17:34:01.007407",
-            "last_retested_at_epoch": 1588872841.007407,
-            "last_retested_at_iso": "2020-05-07T17:34:01.007407",
-            "status": "INACTIVE"
-        },
         "webdisk.lnstagram-copyrights.tk": {
             "included_at_epoch": 1588878110.312469,
             "included_at_iso": "2020-05-07T19:01:50.312469",
