@@ -44849,27 +44849,6 @@
             "last_retested_at_iso": "2020-05-16T05:10:48.323108",
             "status": "INACTIVE"
         },
-        "titranco.info": {
-            "included_at_epoch": 1588825485.970147,
-            "included_at_iso": "2020-05-07T04:24:45.970147",
-            "last_retested_at_epoch": 1588825485.970147,
-            "last_retested_at_iso": "2020-05-07T04:24:45.970147",
-            "status": "INACTIVE"
-        },
-        "tiz-et.ru": {
-            "included_at_epoch": 1588825487.137269,
-            "included_at_iso": "2020-05-07T04:24:47.137269",
-            "last_retested_at_epoch": 1588825487.137269,
-            "last_retested_at_iso": "2020-05-07T04:24:47.137269",
-            "status": "INACTIVE"
-        },
-        "tizer.rupornophoto.com": {
-            "included_at_epoch": 1588825487.356449,
-            "included_at_iso": "2020-05-07T04:24:47.356449",
-            "last_retested_at_epoch": 1588825487.356449,
-            "last_retested_at_iso": "2020-05-07T04:24:47.356449",
-            "status": "INACTIVE"
-        },
         "tizer.ssl-services.com": {
             "included_at_epoch": 1588826208.875874,
             "included_at_iso": "2020-05-07T04:36:48.875874",
