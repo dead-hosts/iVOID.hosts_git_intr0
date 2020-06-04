@@ -47040,39 +47040,11 @@
             "last_retested_at_iso": "2020-05-16T06:05:26.022370",
             "status": "INACTIVE"
         },
-        "userdata-maxis.krxd.net": {
-            "included_at_epoch": 1588846633.174618,
-            "included_at_iso": "2020-05-07T10:17:13.174618",
-            "last_retested_at_epoch": 1588846633.174618,
-            "last_retested_at_iso": "2020-05-07T10:17:13.174618",
-            "status": "INACTIVE"
-        },
-        "usr.trava.io": {
-            "included_at_epoch": 1588846638.475041,
-            "included_at_iso": "2020-05-07T10:17:18.475041",
-            "last_retested_at_epoch": 1588846638.475041,
-            "last_retested_at_iso": "2020-05-07T10:17:18.475041",
-            "status": "INACTIVE"
-        },
-        "ustat.batmobi.net": {
-            "included_at_epoch": 1588846640.271481,
-            "included_at_iso": "2020-05-07T10:17:20.271481",
-            "last_retested_at_epoch": 1588846640.271481,
-            "last_retested_at_iso": "2020-05-07T10:17:20.271481",
-            "status": "INACTIVE"
-        },
         "usup.strametyapi.com": {
             "included_at_epoch": 1589609130.42673,
             "included_at_iso": "2020-05-16T06:05:30.426730",
             "last_retested_at_epoch": 1589609130.42673,
             "last_retested_at_iso": "2020-05-16T06:05:30.426730",
-            "status": "INACTIVE"
-        },
-        "usvgzajftrzkr.com": {
-            "included_at_epoch": 1588846641.424228,
-            "included_at_iso": "2020-05-07T10:17:21.424228",
-            "last_retested_at_epoch": 1588846641.424228,
-            "last_retested_at_iso": "2020-05-07T10:17:21.424228",
             "status": "INACTIVE"
         },
         "utazwa.com": {
