@@ -4814,7 +4814,6 @@
         "or.mu"
     ],
     "museum": [
-        "usgarden.museum",
         "academy.museum",
         "agriculture.museum",
         "air.museum",
@@ -5324,6 +5323,7 @@
         "uscountryestate.museum",
         "usculture.museum",
         "usdecorativearts.museum",
+        "usgarden.museum",
         "ushistory.museum",
         "ushuaia.museum",
         "uslivinghistory.museum",
@@ -5471,7 +5471,6 @@
         "knx-server.net",
         "static-access.net",
         "cryptonomic.net",
-        "is-a-geek.net",
         "dattolocal.net",
         "mydatto.net",
         "debian.net",
@@ -5499,6 +5498,7 @@
         "homeunix.net",
         "in-the-band.net",
         "is-a-chef.net",
+        "is-a-geek.net",
         "isa-geek.net",
         "kicks-ass.net",
         "office-on-the.net",
@@ -8151,6 +8151,7 @@
         "xn--12cfi8ixb8l.xn--o3cw4h"
     ],
     "xn--p1acf": [
+        "xn--41a.xn--p1acf",
         "xn--90amc.xn--p1acf",
         "xn--j1aef.xn--p1acf",
         "xn--j1ael8b.xn--p1acf",
@@ -8159,8 +8160,7 @@
         "xn--c1avg.xn--p1acf",
         "xn--80aaa0cvac.xn--p1acf",
         "xn--h1aliz.xn--p1acf",
-        "xn--90a1af.xn--p1acf",
-        "xn--41a.xn--p1acf"
+        "xn--90a1af.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
