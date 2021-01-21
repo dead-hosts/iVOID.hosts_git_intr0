@@ -1356,6 +1356,7 @@
         "bounty-full.com",
         "alpha.bounty-full.com",
         "beta.bounty-full.com",
+        "try-snowplow.com",
         "stackhero-network.com",
         "playstation-cloud.com",
         "api.stdlib.com",
@@ -2930,7 +2931,7 @@
         "kasuga.fukuoka.jp",
         "kasuya.fukuoka.jp",
         "kawara.fukuoka.jp",
-        "sakahogi.gifu.jp",
+        "keisen.fukuoka.jp",
         "koga.fukuoka.jp",
         "kurate.fukuoka.jp",
         "kurogi.fukuoka.jp",
@@ -3049,6 +3050,7 @@
         "motosu.gifu.jp",
         "nakatsugawa.gifu.jp",
         "ogaki.gifu.jp",
+        "sakahogi.gifu.jp",
         "seki.gifu.jp",
         "sekigahara.gifu.jp",
         "shirakawa.gifu.jp",
@@ -6495,6 +6497,7 @@
     ],
     "org": [
         "altervista.org",
+        "au.eu.org",
         "tele.amune.org",
         "pimienta.org",
         "poivron.org",
@@ -6571,7 +6574,6 @@
         "al.eu.org",
         "asso.eu.org",
         "at.eu.org",
-        "au.eu.org",
         "be.eu.org",
         "bg.eu.org",
         "ca.eu.org",
@@ -8168,7 +8170,12 @@
         "telebit.xyz"
     ],
     "ye": [
-        "ye"
+        "com.ye",
+        "edu.ye",
+        "gov.ye",
+        "net.ye",
+        "mil.ye",
+        "org.ye"
     ],
     "yt": [
         "org.yt"
