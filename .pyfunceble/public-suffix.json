@@ -186,6 +186,9 @@
         "com.ar",
         "gob.ar",
         "gov.ar",
+        "blogspot.com.ar",
+        "gob.ar",
+        "edu.ar",
         "int.ar",
         "net.ar",
         "musica.ar",
@@ -223,6 +226,9 @@
         "info.at",
         "blogspot.co.at",
         "priv.at",
+        "lima-city.at",
+        "or.at",
+        "ac.at",
         "12hp.at",
         "biz.at",
         "futurecms.at",
@@ -302,8 +308,8 @@
         "blogspot.ba"
     ],
     "basketball": [
-        "aus.basketball",
-        "nz.basketball"
+        "nz.basketball",
+        "aus.basketball"
     ],
     "bb": [
         "org.bb",
@@ -1537,8 +1543,8 @@
         "stg.dev"
     ],
     "digital": [
-        "cloudapps.digital",
-        "london.cloudapps.digital"
+        "london.cloudapps.digital",
+        "cloudapps.digital"
     ],
     "dk": [
         "firm.dk",
@@ -1658,6 +1664,7 @@
         "mycd.eu",
         "barsy.eu",
         "wellbeingzone.eu",
+        "barsy.eu",
         "spdns.eu",
         "transurl.eu",
         "cloudns.eu",
@@ -1754,7 +1761,6 @@
         "cnpy.gdn"
     ],
     "ge": [
-        "com.ge",
         "edu.ge",
         "net.ge",
         "pvt.ge",
@@ -1773,7 +1779,8 @@
         "cya.gg"
     ],
     "gh": [
-        "com.gh",
+        "mil.gh",
+        "org.gh",
         "edu.gh",
         "mil.gh",
         "gov.gh",
@@ -1781,6 +1788,8 @@
     ],
     "gi": [
         "mod.gi",
+        "ltd.gi",
+        "org.gi",
         "edu.gi",
         "ltd.gi",
         "gov.gi",
@@ -1811,6 +1820,7 @@
     ],
     "gp": [
         "edu.gp",
+        "mobi.gp",
         "org.gp",
         "app.gp",
         "net.gp",
@@ -1846,6 +1856,7 @@
     "gu": [
         "guam.gu",
         "info.gu",
+        "gov.gu",
         "net.gu",
         "gov.gu",
         "edu.gu",
@@ -2157,7 +2168,11 @@
         "sch.ir",
         "net.ir",
         "xn--mgba3a4f16a.ir",
-        "xn--mgba3a4fra.ir"
+        "ac.ir",
+        "org.ir",
+        "xn--mgba3a4fra.ir",
+        "id.ir",
+        "gov.ir"
     ],
     "is": [
         "cupcake.is",
@@ -4558,6 +4573,8 @@
         "net.lc",
         "com.lc",
         "gov.lc",
+        "com.lc",
+        "net.lc",
         "nym.lc",
         "co.lc",
         "org.lc"
@@ -4594,8 +4611,8 @@
         "omg.lol"
     ],
     "london": [
-        "in.london",
-        "of.london"
+        "of.london",
+        "in.london"
     ],
     "lr": [
         "net.lr",
@@ -5391,6 +5408,7 @@
         "biz.mw"
     ],
     "mx": [
+        "nym.mx",
         "com.mx",
         "jl.serv.net.mx",
         "net.mx",
@@ -5457,6 +5475,14 @@
         "mysecuritycamera.net",
         "uk.net",
         "static-access.net",
+        "user.srcf.net",
+        "adobeaemcloud.net",
+        "office-on-the.net",
+        "njs.jelastic.vps-host.net",
+        "familyds.net",
+        "mymediapc.net",
+        "rackmaze.net",
+        "cloudfront.net",
         "cryptonomic.net",
         "global.ssl.fastly.net",
         "jls-sto1.elastx.net",
@@ -5630,6 +5656,7 @@
         "arts.nf",
         "com.nf",
         "firm.nf",
+        "com.nf",
         "info.nf",
         "rec.nf",
         "net.nf"
@@ -5675,6 +5702,8 @@
         "co.nl",
         "cistron.nl",
         "khplay.nl",
+        "blogspot.nl",
+        "hosting-cluster.nl",
         "transurl.nl",
         "virtueeldomein.nl",
         "blogspot.nl"
@@ -7359,6 +7388,8 @@
     "ss": [
         "org.ss",
         "gov.ss",
+        "org.ss",
+        "edu.ss",
         "net.ss",
         "edu.ss",
         "biz.ss",
@@ -7581,6 +7612,7 @@
         "tsk.tr",
         "org.tr",
         "bel.tr",
+        "gov.nc.tr",
         "biz.tr",
         "gen.tr",
         "gov.tr",
@@ -8132,6 +8164,7 @@
     "xn--90a3ac": [
         "xn--o1ac.xn--90a3ac",
         "xn--d1at.xn--90a3ac",
+        "xn--c1avg.xn--90a3ac",
         "xn--o1ach.xn--90a3ac",
         "xn--90azh.xn--90a3ac",
         "xn--c1avg.xn--90a3ac",
