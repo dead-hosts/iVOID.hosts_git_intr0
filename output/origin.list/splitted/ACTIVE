@@ -702,3 +702,17 @@ cpanel.lnstagramsupportrules.ml                                                 
 cpanel.lnstagramverified-badge.cf                                                                    ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 cpanel.lnstagramverifiedprofile.ml                                                                   ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 cpanel.lnstagramverifybadgeapply.cf                                                                  ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+cpanel.lnstagramverifybadgeidentify.cf                                                               ACTIVE      DNSLOOKUP  Unknown           203        AVAILABILITY 
+cpanel.lnstagramverifybadgepage.cf                                                                   ACTIVE      DNSLOOKUP  Unknown           203        AVAILABILITY 
+cpanel.lnstagramverifybadgesupport.ga                                                                ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
+cpanel.lnstagramverifyicon.ga                                                                        ACTIVE      DNSLOOKUP  Unknown           203        AVAILABILITY 
+cpanel.lnstagramviolationform.com                                                                    ACTIVE      DNSLOOKUP  Unknown           302        AVAILABILITY 
+cpanel.lnstagramwhatsappcopyright.cf                                                                 ACTIVE      DNSLOOKUP  Unknown           203        AVAILABILITY 
+cpanel.login-my-appss-app1e-com.flu.cc                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+cpanel.logout-faceb00k.ml                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+cpanel.mail-lnstagrams.cf                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+cpanel.mobilelnstagram.ml                                                                            ACTIVE      DNSLOOKUP  Unknown           203        AVAILABILITY 
+cpanel.securityy-lnstagram.ml                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+cpanel.securty-lnstagram.ml                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+cpanel.soloapp1e.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
+cpanel.thelnstagram.com                                                                              ACTIVE      DNSLOOKUP  Unknown           403        AVAILABILITY 
