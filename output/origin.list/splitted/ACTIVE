@@ -7455,3 +7455,8 @@ webmail.lnstagramsupportcenter.tk                                               
 webmail.lnstagramsupportrules.ml                                                                     ACTIVE      DNSLOOKUP  Unknown           203        AVAILABILITY 
 webmail.lnstagramverified-badge.cf                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 webmail.lnstagramverifiedprofile.ml                                                                  ACTIVE      DNSLOOKUP  Unknown           203        AVAILABILITY 
+webmail.lnstagramverifybadgeapply.cf                                                                 ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+webmail.lnstagramverifybadgeidentify.cf                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+webmail.lnstagramverifybadgepage.cf                                                                  ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+webmail.lnstagramverifybadgesupport.ga                                                               ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
+webmail.lnstagramverifyicon.ga                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
