@@ -1583,8 +1583,7 @@
         "stg.dev",
         "stgstage.dev",
         "vercel.dev",
-        "webhare.dev",
-        "workers.dev"
+        "webhare.dev"
     ],
     "digital": [
         "cloudapps.digital",
@@ -7005,6 +7004,7 @@
         "webredirect.org",
         "wmcloud.org",
         "wmflabs.org",
+        "workers.dev",
         "za.org",
         "zapto.org"
     ],
