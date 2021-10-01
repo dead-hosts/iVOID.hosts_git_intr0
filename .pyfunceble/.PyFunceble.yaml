@@ -16,7 +16,7 @@ cli_testing:
         max_exec_minutes: 15
     cidr_expand: false
     complements: false
-    cooldown_time: 0.0
+    cooldown_time: 0.2
     days_between:
         db_clean: 28
         db_retest: 1
